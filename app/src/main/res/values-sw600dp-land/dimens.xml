@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="input_view_height_percentage_min">40%p</fraction>
+    <fraction name="input_view_height_percentage_max">46%p</fraction>
+</resources>

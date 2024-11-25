@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">ကီးဘုတ် အက်ပ်၏ ကိုယ်ရေးကိုယ်တာမူဝါဒသည် ကျွန်ုပ်တို့၏ထုတ်ကုန်နှင့် ဝန်ဆောင်မှုတစ်ခုခုကို သင်သွားရောက်ကြည့်ရှုသည့်အခါ သို့မဟုတ် အသုံးပြုသည့်အခါ ဖြစ်နိုင်သည့် အချက်အလက်များကို စုဆောင်းအသုံးပြုရန် ရှင်းပြရန် တစ်ခုတည်းသောရည်ရွယ်ချက်အတွက် အမှန်တကယ်ရေးသားထားခြင်းဖြစ်ပါသည်။ ပုဂ္ဂိုလ်ရေးသီးသန့်ပြုလုပ်ထားသော ကြော်ငြာနှင့် ဝန်ဆောင်မှုများ ဖွံ့ဖြိုးတိုးတက်မှုအတွက် ၎င်းကို ဝင်ရောက်အသုံးပြုခြင်းနှင့်/သို့မဟုတ် အသုံးပြုခြင်းဖြင့်၊ သင်သည် ဤကိုယ်ရေးကိုယ်တာမူဝါဒတွင် ဖော်ပြထားသော မူဝါဒများနှင့် ကျင့်ထုံးများကို သဘောတူပါသည်။</string>
+
+
+    <string name="system_default">စနစ် ပုံသေ</string>
+    <string name="settings_theme_background_active">အသက်ဝင်သောအခါ နောက်ခံအရောင်</string>
+    <string name="settings_theme_background_pressed">နှိပ်လိုက်သောအခါ နောက်ခံအရောင်</string>
+    <string name="settings_theme_foreground">ရှေ့မျက်နှာစာအရောင်</string>
+    <string name="settings_theme_foreground_alt">ရှေ့ဘက်အရောင် (အခြားရွေးချယ်စရာ)</string>
+
+    <string name="saving_group_keys_label">သော့များ</string>
+    <string name="saving_number_row_label">နံပါတ် အတန်း</string>
+    <string name="settings_theme_undefined">သတ်မှတ်မထားသော</string>
+    <string name="settings_theme_preset_summary">စိတ်ကြိုက် (%s ကိုအခြေခံ၍)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">ရွေးချယ်ထားသော အပြင်အဆင်-</string>
+    <string name="settings_theme_preset_dialog_available_themes">ရနိုင်သော အပြင်အဆင်များ</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">မြှားမှန်</string>
+    <string name="settings_theme_background">နောက်ခံအရောင်</string>
+    <string name="saving_number_row_summary">စာလုံးပုံစံ၏ထိပ်တွင် နံပါတ်အတန်းကို ပြပါ။</string>
+    <string name="saving_hinted_number_row_label">နံပါတ် အတန်း</string>
+    <string name="saving_hinted_number_row_summary">စာလုံးပုံစံ၏ပထမအတန်းသည် နံပါတ်အတန်းကို အရိပ်အမြွက်ပြသည်။</string>
+
+    <string name="saving_group_layout_label">အပြင်အဆင်</string>
+    <string name="saving_one_handed_mode_label">လက်တစ်ဖက်မုဒ်</string>
+    <string name="saving_one_handed_mode_off">ပိတ်သည်။</string>
+    <string name="saving_one_handed_mode_right">ညာသန်မုဒ်</string>
+    <string name="saving_hinted_symbols_label">အရိပ်အမြွက်သင်္ကေတများ</string>
+    <string name="saving_hinted_symbols_summary">ဒုတိယနှင့် တတိယအတန်းတွင် ဇာတ်ကောင်အပြင်အဆင် အရိပ်အမြွက်သင်္ကေတများ</string>
+    <string name="saving_font_size_multiplier_portrait_label">ဖောင့်အရွယ်အစား မြှောက်ခြင်း (ပုံတူ)</string>
+    <string name="saving_font_size_multiplier_landscape_label">ဖောင့်အရွယ်အစား မြှောက်ကိန်း (အခင်းအကျင်း)</string>
+    <string name="saving_one_handed_mode_left">ဘယ်သန်မုဒ်</string>
+    <string name="saving_height_factor_label">ကီးဘုတ်အမြင့်</string>
+    <string name="saving_height_factor_extra_short">အပိုတို</string>
+    <string name="saving_height_factor_short">အတို-အမြင့်</string>
+    <string name="saving_height_factor_tall">အရပ်မြင့်တယ်။</string>
+    <string name="saving_height_factor_extra_tall">အရပ်ရှည်သည်။</string>
+    <string name="saving_height_factor_custom">စိတ်ကြိုက်</string>
+    <string name="saving_height_factor_custom_label">စိတ်ကြိုက်ကီးဘုတ်အမြင့်တန်ဖိုး</string>
+    <string name="saving_bottom_offset_label">အောက်ခြေ offset (အကွေးမျက်နှာပြင်များအတွက်)</string>
+    <string name="saving_group_keypress_label">သော့နှိပ်ပါ။</string>
+
+
+    <string name="saving_vibration_strength_label">ခလုတ်နှိပ်ခြင်းတွင် တုန်ခါမှုအားကောင်းခြင်း။</string>
+    <string name="saving_popup_visible_label">ပေါ်လာသည် မြင်နိုင်မှု</string>
+    <string name="saving_popup_visible_summary">ကီးတစ်ခုနှိပ်သောအခါ ပေါ့ပ်အပ်ကိုပြပါ။</string>
+    <string name="saving_long_press_delay_label">ခလုတ်ကို အကြာကြီး ဖိနှောင့်နှေးခြင်း။</string>
+    <string name="saving_smartbar_enabled_label">အကြံပြုချက်ဘားကိုဖွင့်ပါ။</string>
+    <string name="saving_smartbar_enabled_summary">ကီးဘုတ်၏ထိပ်တွင်ပြလိမ့်မည်။</string>
+    <string name="saving_sound_enabled_label">ခလုတ်နှိပ်၍ အသံ</string>
+    <string name="saving_sound_volume_label">ခလုတ်နှိပ်၍ အသံအတိုးအကျယ်</string>
+    <string name="saving_height_factor_mid_short">အလယ်အလတ် အမြင့်</string>
+    <string name="saving_height_factor_normal">ပုံမှန်-အမြင့်</string>
+    <string name="saving_correction_auto_capitalization_label">အလိုအလျောက် စာလုံးကြီး</string>
+    <string name="saving_correction_auto_capitalization_summary">လက်ရှိထည့်သွင်းသည့်အကြောင်းအရာအပေါ် အခြေခံ၍ စကားလုံးများကို စာလုံးကြီးလုပ်ပါ။</string>
+    <string name="saving_correction_remember_caps_lock_state_label">caps lock state ကိုသတိရပါ။</string>
+    <string name="saving_height_factor_mid_tall">အရပ်ရှည်သည်။</string>
+    <string name="saving_vibration_enabled_label">ခလုတ်နှိပ်၍ တုန်ခါပါ။</string>
+    <string name="saving_suggestion_title">အကြံပြုချက်များ</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">အခြားစာသားအကွက်သို့ ရွှေ့သည့်အခါ စာလုံးကြီးသော့ခတ်နေပါမည်။</string>
+    <string name="saving_correction_double_space_period_label">နေရာလွတ် နှစ်ချက်</string>
+    <string name="saving_correction_double_space_period_summary">အာကာသဘား တွင် နှစ်ကြိမ် နှိပ်ခြင်းဖြင့် အချိန်အပိုင်းအခြားတစ်ခုကို space ဖြင့် ထည့်သွင်းမည်ဖြစ်သည်။</string>
+
+    <string name="saving_correction_title">အမှားပြင်ဆင်မှုများ</string>
+    <string name="saving_glide_title">စာရိုက်ခြင်းကို ပွတ်ဆွဲပါ။</string>
+    <string name="saving_glide_enabled_label">ပွတ်ဆွဲရိုက်ခြင်းကို ဖွင့်ပါ။</string>
+    <string name="saving_suggestion_enabled_label">အသုံးပြုသူအမျိုးအစားတွင် အကြံပြုချက်များကို ပြသပါ။</string>
+    <string name="saving_suggestion_enabled_summary">အကြံပြုချက်ဘားတွင် ပြပါမည်။</string>
+    <string name="saving_glide_show_trail_summary">စကားလုံးတိုင်းပြီးရင် ပျောက်သွားလိမ့်မယ်။</string>
+    <string name="saving_gestures_title">ကြီးတယ်။</string>
+    <string name="saving_gestures_swipe_action_no_action">ဘာမှမလုပ်နဲ့</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">ကလစ်ဘုတ် အကြောင်းအရာ အကြံပြုချက်များ</string>
+    <string name="saving_suggestion_use_pref_words_summary">အကြံပြုချက်များကို ဖန်တီးရန်အတွက် ယခင်စကားလုံးများကို အသုံးပြုပါ။</string>
+    <string name="saving_glide_enabled_summary">သင့်လက်ချောင်းများကို ၎င်း၏စာလုံးများမှတစ်ဆင့် ပွတ်ဆွဲခြင်းဖြင့် စကားလုံးတစ်လုံးကို ရိုက်ထည့်ပါ။</string>
+    <string name="saving_glide_show_trail_label">ဝဲပျံလမ်းကို ပြပါ။</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">ညွှန်ပြသည်။</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">ညွှန်ပြ ဘယ်ဘက်</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">ညွှန်ပြ မှန်တယ်။</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">စာလုံးအားလုံးကို ဖယ်ရှားပါ။</string>
+    <string name="saving_gestures_swipe_action_delete_word">လက်ရှိစကားလုံးကို ဖယ်ရှားပါ။</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">စကားလုံးအားလုံးကို ဖယ်ရှားပါ။</string>
+    <string name="saving_gestures_swipe_up_label">လက်ဟန်ခြေဟန်ဖြင့် ချီသည်။</string>
+    <string name="saving_gestures_swipe_down_label">လက်ဟန်ခြေဟန်ဖြင့် ဆင်းသည်။</string>
+    <string name="saving_gestures_swipe_left_label">လက်ဟန်ခြေဟန်ဖြင့် ကျန်ခဲ့သည်။</string>
+    <string name="saving_gestures_swipe_right_label">ကိုယ်ဟန်အမူအရာ မှန်တယ်။</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">ကီးဘုတ်ကို လျှော့ပါ။</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">ညွှန်ပြသည်။</string>
+    <string name="saving_gestures_swipe_action_shift">လုပ်ဆောင်ချက်ပြောင်းပါ။</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">ယခင်ဘာသာစကားသို့ ရွှေ့ပါ။</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">နောက်ဘာသာစကားသို့ ရွှေ့ပါ။</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">အာကာသဘား လက်ဟန် ဘယ်ဘက်</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">အာကာသဘား လက်ဟန်ခြေဟန် ညာဘက်</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">အရမ်းနှေးတယ်။</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">နှေးတယ်။</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">ပုံမှန်</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">မြန်တယ်။</string>
+
+    <string name="saving_advanced_settings_theme_light">အလင်း</string>
+    <string name="saving_advanced_settings_theme_dark">အမှောင်</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">ဘယ်ဘက် ခလုတ်ကို ဖျက်ပါ။</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">အလျင်အဆင့်ကို ပွတ်ဆွဲပါ။</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">အလျင်အဆင့်ကို ပွတ်ဆွဲပါ။</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">ရှည်သည်။</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">အရမ်းရှည်တယ်။</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">အကွာအဝေးကို ပွတ်ဆွဲပါ။</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">အရမ်းတိုတယ်။</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">တိုတို</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">ပုံမှန်</string>
+
+
+    <string name="txt_lang_frag">ရွေးချယ်ထားသောဘာသာစကားအားလုံးကို Keyboard တွင်မြင်ရပါမည်။</string>
+    <string name="search_language_hint">ဘာသာစကားကို ဒီမှာ ရှာပါ..</string>
+    <string name="switch_to_keyboard_des">ဘာသာစကားမျိုးစုံ 100+ အပြင်အဆင်များ လှုပ်ရှားနေသော GIFs ကာတွန်းစတစ်ကာများ၊ အီမိုဂျီများ အသံစာရိုက်ခြင်း။</string>
+    <string name="welcome_to">မှကြိုဆိုပါတယ်။</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">ကီးဘုတ် ကိုဖွင့်ပါ။</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">ကီးဘုတ် ကို ရွေးပါ။</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">စနစ်ထည့်သွင်းခြင်းကို အပြီးသတ်ပါ။</string>
+
+    <string name="enable_des">သင်၏ထည့်သွင်းနည်းလမ်းဆက်တင်များစာရင်းတွင် ကီးဘုတ်ကိုဖွင့်ရန် ဤနေရာကိုနှိပ်ပါ။ ၎င်းသည် သင့်စက်ပေါ်တွင် အလုပ်လုပ်ရန် ခွင့်ပြုပေးမည်ဖြစ်သည်။</string>
+    <string name="select_des">သင်၏ထည့်သွင်းနည်းလမ်းဆက်တင်များစာရင်းရှိ သင့်ကီးဘုတ်ကိုရွေးချယ်ရန် ဤနေရာကိုနှိပ်ပါ။ ၎င်းသည် သင့်စက်ပေါ်တွင် အလုပ်လုပ်ရန် ခွင့်ပြုပေးမည်ဖြစ်သည်။</string>
+    <string name="finish_des">အားလုံးပြီးပြီ။ သင့်ကီးဘုတ်ကို စနစ်ထည့်သွင်းပြီး အသုံးပြုရန် အသင့်ဖြစ်နေပါပြီ။</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">ဖောင့်အမည်</string>
+    <string name="set_brightness">တောက်ပမှု သတ်မှတ်ပါ။</string>
+    <string name="default_themes">မူရင်း အပြင်အဆင်များ</string>
+    <string name="colors_themes">အရောင်များ အပြင်အဆင်များ</string>
+    <string name="light_gradients_themes">Light Gradients အပြင်အဆင်များ</string>
+    <string name="dark_gradients_themes">Dark Gradients အပြင်အဆင်များ</string>
+    <string name="landscapes_themes">ရှုခင်းများ အပြင်အဆင်များ</string>
+    <string name="gallery_themes">ပြခန်း အပြင်အဆင်များ</string>
+    <string name="crop_image">ပုံဖြတ်ယူပါ။</string>
+    <string name="next">နောက်တစ်ခု</string>
+    <string name="mobile_consent_form">GDPR သဘောတူညီချက်ဖောင်</string>
+    <string name="privacy_policy_title">ကိုယ်ရေးအချက်အလက်မူဝါဒ</string>
+    <string name="disclaimer">ရှင်းလင်းချက်</string>
+    <string name="have_accept">ဖတ်ပြီး လက်ခံပါတယ်။</string>
+    <string name="theme_updated_successfully">အပြင်အဆင်ကို အောင်မြင်စွာ မွမ်းမံပြီးပါပြီ။</string>
+    <string name="apply_theme">အပြင်အဆင်ကို အသုံးပြုပါ။</string>
+    <string name="suggestions_database">အကြံပြုချက်များ ဒေတာဘေ့စ်</string>
+    <string name="suggestions_dailog">ကီးဘုတ်တွင် အကြံပြုချက်များ လုပ်ဆောင်ချက်ကို ဖွင့်ရန် ကျွန်ုပ်တို့၏ ဆာဗာမှ ဒေတာဘေ့စ်ဖိုင်ကို ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ စက္ကန့်အနည်းငယ်ကြာပါမည်။ ယခု သို့မဟုတ် နောက်ပိုင်းတွင် ဒေါင်းလုဒ်လုပ်လိုပါသလား။</string>
+    <string name="download">ဒေါင်းလုဒ်လုပ်ပါ။</string>
+    <string name="later">နောက်တော့</string>
+    <string name="txt_nav_home">အိမ်</string>
+    <string name="txt_nav_rate_app">အဆင့်သတ်မှတ် &amp; သုံးသပ်ချက် (ကြော်ငြာ)</string>
+    <string name="txt_nav_share_app">အက်ပ် (ကြော်ငြာ) မျှဝေရန်</string>
+    <string name="txt_nav_more_apps">ကျွန်ုပ်တို့၏ အက်ပ်များ (ကြော်ငြာ)</string>
+    <string name="txt_nav_family_apps">ကျွန်ုပ်တို့၏ မိသားစုအက်ပ်များ (ကြော်ငြာ)</string>
+    <string name="txt_nav_feedback">တုံ့ပြန်ချက်</string>
+    <string name="txt_nav_update">ယခု အပ်ဒိတ်လုပ်ပါ။</string>
+    <string name="txt_nav_ads_remove">ကြော်ငြာများကို ဖယ်ရှားပါ။</string>
+    <string name="txt_feedback">မင်းရဲ့ ကီးဘုတ် အက်ပ်အတွက် တုံ့ပြန်ချက် ရှိတယ်။</string>
+
+
+    <string name="finish">ပြီးအောင်</string>
+    <string name="space_for_advertisement">ကြော်ငြာအတွက် နေရာ</string>
+    <string name="other">တခြား</string>
+
+
+    <string name="txt_nav_premium_version">ပရီမီယံဗားရှင်း</string>
+    <string name="support_the_development">ဖွံ့ဖြိုးတိုးတက်ရေးကို ပံ့ပိုးပါ။</string>
+    <string name="unlimited_customization">အကန့်အသတ်မရှိ စိတ်ကြိုက်ပြုလုပ်ခြင်း။</string>
+    <string name="complete_ad_free_version">ကြော်ငြာအခမဲ့ဗားရှင်းကို အပြီးသတ်ပါ။</string>
+    <string name="unlimited_themes">ပရီမီယံ အပြင်အဆင်များနှင့် ဖောင့်ပုံစံများ</string>
+    <string name="terms_of_services">စည်းမျဥ်းများ &amp; အခြေအနေများ</string>
+    <string name="this_subscriptions_renews_automatically">"လစဉ်စာရင်းသွင်းခြင်း" သည် သင့်အား ကျွန်ုပ်တို့၏လျှောက်လွှာကို တစ်လ အကန့်အသတ်မရှိဝင်ရောက်ခွင့်ပေးပြီး လစဉ်သက်တမ်းတိုးမည်ဖြစ်သည်။ မပယ်ဖျက်ပါက၊\n တစ်သက်တာ အချိန်ဝယ်ယူမှုသည် တစ်ကြိမ်သာ ဝယ်ယူမှုဖြစ်သည်။ ပိုမိုသိရှိလိုပါက စည်းကမ်းချက်များ &amp; ဝန်ဆောင်မှုအခြေအနေများ။</string>
+
+
+    <string name="monthly_subscription">လစဉ်စာရင်းသွင်းခြင်း။</string>
+    <string name="life_time_purchase">တစ်သက်တာ ဝယ်ယူခြင်း။</string>
+    <string name="life_time_price">ဘဝအချိန်စျေးနှုန်း</string>
+    <string name="monthly_price">လစဉ်စျေးနှုန်း</string>
+    <string name="purchase_now">ယခုဝယ်ယူပါ။</string>
+    <string name="subscribe_now">ယခု စာရင်းသွင်းပါ။</string>
+
+
+    <string name="enable_disable_number_row">နံပါတ်အတန်းကို ဖွင့်/ပိတ်ပါ။</string>
+    <string name="visible_number_row">Keyboard ၏ထိပ်တွင်မြင်နိုင်သောနံပါတ်အတန်း</string>
+    <string name="show_numeric_hints">ကိန်းဂဏာန်းအရိပ်အမြွက်ပြပါ။</string>
+    <string name="show_numeric_hint_on_first_row">စာလုံးများ၏ ပထမတန်းတွင် နံပါတ်များကို အရိပ်အမြွက်ပြပါ။</string>
+    <string name="show_symbol_hints">သင်္ကေတ အရိပ်အမြွက်ပြပါ။</string>
+    <string name="show_symbol_hints_on_rows">စာလုံးများ၏ ဒုတိယနှင့် တတိယအတန်းတွင် သင်္ကေတများ အရိပ်အမြွက်ပြပါ။</string>
+    <string name="adjust_keyboard_font_size_portrait">ပုံတူမြင်ကွင်းအတွက် ကီးဘုတ်ဖောင့်အရွယ်အစားကို ချိန်ညှိပါ။</string>
+    <string name="adjust_keyboard_font_size_landscape">အခင်းအကျင်းမြင်ကွင်းအတွက် ကီးဘုတ်ဖောင့်အရွယ်အစားကို ချိန်ညှိပါ။</string>
+    <string name="keyboard_layout_settings">ကီးဘုတ် အပြင်အဆင် ဆက်တင်များ</string>
+    <string name="keyboard_height">ကီးဘုတ် အမြင့်</string>
+    <string name="keyboard_key_click_settings">ကီးဘုတ်ကီး ဆက်တင်များ ကိုနှိပ်ပါ။</string>
+    <string name="play_sound_on_key_click">ကီးကလစ်ဖြင့် အသံဖွင့်ပါ။</string>
+    <string name="key_click_sound_volume">သော့ နှိပ်ပြီး အသံအတိုးအကျယ်ကို ချိန်ညှိပါ။</string>
+    <string name="vibrate_on_key_click">သော့ကိုနှိပ်ပါ။ ပေါ်တွင် တုန်ခါပါ။</string>
+    <string name="key_vibration_strength">သော့တုန်ခါမှုခွန်အား ကို ချိန်ညှိပါ။</string>
+    <string name="enable_popup_alphabets">သော့တစ်ခုကို သုံးစွဲသူက နှိပ်သောအခါတွင် Pop-Up အက္ခရာများကို ပြပါ။</string>
+    <string name="popup_feature">ပေါ်လာသည် အင်္ဂါရပ်</string>
+    <string name="correction_settings">အမှားပြင်ဆင်ခြင်း ဆက်တင်များ</string>
+    <string name="auto_capitalize">အလိုအလျောက် စာလုံးကြီးပါ။</string>
+    <string name="save_caps_lock_state">Caps Lock အခြေအနေကို သိမ်းဆည်းပါ။</string>
+    <string name="show_editing_panel">တည်းဖြတ်ခြင်းအကန့်ကို ပြပါ။</string>
+    <string name="enable_disable_editing_panel">တည်းဖြတ်ခြင်းအကန့်ကို ဖွင့်/ပိတ်ပါ။</string>
+    <string name="available_gestures">ရနိုင်သော လက်ဟန်များ</string>
+    <string name="enable_disable_keyboard_one_handed_mode">One Handed မုဒ်ကို ဖွင့်/ပိတ်ပါ။</string>
+    <string name="keyboard_keys_settings">ကီးဘုတ်ခလုတ်များ ဆက်တင်များ</string>
+    <string name="enable_disable_suggestions_bar">ဤအရာကို Keyboard View ၏ထိပ်တွင်မြင်ရပါမည်။</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">အကြံပြုချက်အားလုံးကို အကြံပြုချက်ဘားတွင် ပြသပါမည်။</string>
+    <string name="show_suggestions">အသုံးပြုသူအမျိုးအစားတွင် အကြံပြုချက်များကို ပြပါ။</string>
+    <string name="customize_suggestion_bar">အကြံပြုချက်ဘားကို စိတ်ကြိုက်ပြင်ဆင်ပါ။</string>
+    <string name="customize_suggestion_button">အကြံပြုချက်ခလုတ်ကို စိတ်ကြိုက်ပြင်ဆင်ပါ။</string>
+    <string name="enable_disable_voice_typing">အသံဖြင့် စာရိုက်ခြင်းကို ဖွင့်/ပိတ်ပါ။</string>
+    <string name="use_voice_typing">အသံဖြင့် စာရိုက်ခြင်း။ ကိုသုံးပါ။</string>
+
+    <string name="settings">ဆက်တင်များ</string>
+    <string name="languages">ဘာသာစကားများ</string>
+    <string name="themes">အပြင်အဆင်</string>
+    <string name="preferences">နှစ်သက်ရာ</string>
+    <string name="fonts">ဖောင့်များ</string>
+    <string name="text_correction">စာသားပြင်ဆင်ခြင်း။</string>
+    <string name="gestures">ကြီးတယ်။</string>
+    <string name="suggestions">အကြံပြုချက်များ</string>
+    <string name="one_hand_typing">လက်တစ်ဖက်တည်း စာရိုက်ခြင်း။</string>
+    <string name="editing_panel">တည်းဖြတ်ခြင်း အကန့်</string>
+    <string name="voice_typing">အသံဖြင့် စာရိုက်ခြင်း။</string>
+
+    <string name="languages_localization">ဘာသာစကားများ &amp; ဒေသများ</string>
+    <string name="customize_themes">အပြင်အဆင်များကို စိတ်ကြိုက်ပြင်ဆင်ပါ။</string>
+    <string name="keyboard_preferences">ကီးဘုတ် ဦးစားပေးများ</string>
+    <string name="fonts_styles">ဖောင့်ပုံစံများ</string>
+    <string name="text_correction_list">စာသားပြင်ဆင်ခြင်း။</string>
+    <string name="enable_gesture_typing">လက်ဟန်ခြေဟန်ဖြင့် စာရိုက်ခြင်းကို ဖွင့်ပါ။</string>
+    <string name="enable_auto_suggestions">အော်တိုအကြံပြုချက်များကို ဖွင့်ပါ။</string>
+    <string name="one_hand_typing_mode">လက်တစ်ဖက်တည်း စာရိုက်မုဒ်</string>
+    <string name="customize_editing_panel">တည်းဖြတ်ခြင်းအကန့်ကို စိတ်ကြိုက်ပြင်ဆင်ပါ။</string>
+    <string name="voice_recognition_typing">အသံအသိအမှတ်ပြုမှု &amp; စာရိုက်သည်။</string>
+
+    <string name="title_activity_language_picker">LanguagePicker လုပ်ဆောင်ချက်</string>
+    <string name="cencel_sub">စာရင်းသွင်းမှုကို ပယ်ဖျက်ပါ။</string>
+    <string name="yearly_subscription">နှစ်အလိုက် စာရင်းသွင်းခြင်း။</string>
+    <string name="app_languages">အက်ပ်ဘာသာစကားကို ရွေးပါ။</string>
+    <string name="change_app_theme">အက်ပ်အပြင်အဆင် ကို ရွေးပါ။</string>
+    <string name="default_theme">ပုံသေ</string>
+    <string name="dark_theme">အမှောင်</string>
+    <string name="light_theme">အလင်း</string>
+
+    <string name="app_theme_apply">လျှောက်ထားပါ။</string>
+    <string name="app_theme_cancel">လုပ်တော့</string>
+    <string name="test_keyboard_here">ဤနေရာတွင် ကီးဘုတ်စမ်းသပ်ပါ။</string>
+    <string name="cancel">လုပ်တော့</string>
+
+
+    <string name="premium_keyboard_title">ကီးဘုတ် အပေါင်း</string>
+    <string name="premium_des_title">ဝန်ဆောင်မှုအားလုံးကို ပရီမီယံဖြင့် သုံးပါ။</string>
+
+    <string name="customization_title">စိတ်ကြိုက်လုပ်ပါ။</string>
+    <string name="themes_fonts_title">အပြင်အဆင်များနှင့် ဖောင့်များ</string>
+    <string name="no_ads_title">ကြော်ငြာမရှိပါ။</string>
+    <string name="vip_support_title">VIP ပံ့ပိုးမှု</string>
+
+
+    <string name="reward_ad_show_title">ဆုရယူပါ။</string>
+    <string name="fonts_reward_dailog_des">ဤဖောင့်ကို အသုံးပြုပါက ဆုချီးမြှင့်သော ကြော်ငြာကို ကြည့်ရှုရန် လိုအပ်သည်။ AD ဆုလာဘ်ကို ပြသလိုပါသလား။</string>
+    <string name="themes_reward_dailog_des">"ဤအခင်းအကျင်းကို အသုံးပြုပါက၊ သင်သည် ဆုပေးထားသော ကြော်ငြာကို ကြည့်ရှုရန် လိုအပ်ပါသည်။ လက်ဆောင် AD ကို ပြသလိုပါသလား။</string>
+    <string name="reward_dailog_show_ad_btn">ကြော်ငြာပြပါ။</string>
+    <string name="reward_dailog_cancel_btn">မလုပ်တော့</string>
+    <string name="reward_dailog_get_premium_btn">ပရီမီယံကို ရယူပါ။</string>
+    <string name="loading_ads">ကြော်ငြာများကို ဖွင့်နေသည်…</string>
+    <string name="please_wait">ကျေးဇူးပြုပြီးခဏစောင့်ပါ…</string>
+
+
+    <string name="exit_dailog_title">အက်ပ်မှ ထွက်မလား။</string>
+    <string name="exit_dailog_des">အက်ပ်မှ ထွက်ရန် သေချာပါသလား။</string>
+    <string name="exit_dailog_cancel_btn">မလုပ်တော့</string>
+    <string name="exit_dailog_exit_btn">ထွက်ပေါက်</string>
+
+
+
+
+</resources>
+
+

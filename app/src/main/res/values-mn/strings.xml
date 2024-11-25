@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">Гар програмын нууцлалын бодлого нь таныг манай бүтээгдэхүүн, үйлчилгээнд зочлох эсвэл ашиглах үед гарч болзошгүй мэдээллийг цуглуулах, ашиглахыг тайлбарлах цорын ганц зорилгоор бичигдсэн болно. Хувийн зар сурталчилгаа, үйлчилгээг хөгжүүлэхэд хандах ба/эсвэл үүнийг ашигласнаар та энэхүү Нууцлалын бодлогод тодорхойлсон бодлого, практикийг зөвшөөрч байна.</string>
+
+
+    <string name="system_default">Системийн өгөгдмөл</string>
+    <string name="settings_theme_background_active">Идэвхтэй үед дэвсгэр өнгө</string>
+    <string name="settings_theme_background_pressed">Дарахад дэвсгэр өнгө</string>
+    <string name="settings_theme_foreground">Урд талын өнгө</string>
+    <string name="settings_theme_foreground_alt">Урд талын өнгө (өөр хувилбар)</string>
+
+    <string name="saving_group_keys_label">Түлхүүрүүд</string>
+    <string name="saving_number_row_label">Тооны эгнээ</string>
+    <string name="settings_theme_undefined">Тодорхойгүй</string>
+    <string name="settings_theme_preset_summary">Захиалгат (%s дээр суурилсан)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Сонгосон сэдэв:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Боломжтой сэдэв:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Баруун сум</string>
+    <string name="settings_theme_background">Арын дэвсгэр өнгө</string>
+    <string name="saving_number_row_summary">Тэмдэгтийн зохион байгуулалтын дээд талд дугаарын мөрийг харуул</string>
+    <string name="saving_hinted_number_row_label">Сануулсан тооны эгнээ</string>
+    <string name="saving_hinted_number_row_summary">Тэмдэгтийн байршлын эхний эгнээ нь тооны мөрийг заадаг</string>
+
+    <string name="saving_group_layout_label">Зохион байгуулалт</string>
+    <string name="saving_one_handed_mode_label">Нэг гартай горим</string>
+    <string name="saving_one_handed_mode_off">Унтраах</string>
+    <string name="saving_one_handed_mode_right">Баруун гартай горим</string>
+    <string name="saving_hinted_symbols_label">Сануулсан тэмдэг</string>
+    <string name="saving_hinted_symbols_summary">Хоёр ба гурав дахь эгнээний тэмдэгтийн тэмдэглэгээ</string>
+    <string name="saving_font_size_multiplier_portrait_label">Фонтын хэмжээ үржүүлэгч (хөрөг)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Фонтын хэмжээ үржүүлэгч (ландшафт)</string>
+    <string name="saving_one_handed_mode_left">Зүүн гартай горим</string>
+    <string name="saving_height_factor_label">Гарны өндөр</string>
+    <string name="saving_height_factor_extra_short">Хэт богино</string>
+    <string name="saving_height_factor_short">Богино өндөр</string>
+    <string name="saving_height_factor_tall">Өндөр-Өндөр</string>
+    <string name="saving_height_factor_extra_tall">Хэт өндөр</string>
+    <string name="saving_height_factor_custom">Захиалгат</string>
+    <string name="saving_height_factor_custom_label">Тусгай гарын өндөр утга</string>
+    <string name="saving_bottom_offset_label">Доод талын офсет (муруй дэлгэцийн хувьд)</string>
+    <string name="saving_group_keypress_label">Товч дарах</string>
+
+
+    <string name="saving_vibration_strength_label">Товчлуур дарахад чичиргээний хүч</string>
+    <string name="saving_popup_visible_label">PopUp харагдах байдал</string>
+    <string name="saving_popup_visible_summary">Та товчлуурыг дарах үед гарч ирэх цонхыг харуулна</string>
+    <string name="saving_long_press_delay_label">Товчлуур удаан дарах саатал</string>
+    <string name="saving_smartbar_enabled_label">Санал болгох талбарыг идэвхжүүл</string>
+    <string name="saving_smartbar_enabled_summary">Гарны дээд талд харагдах болно</string>
+    <string name="saving_sound_enabled_label">Товчлуур дээр дарахад дуу гарна</string>
+    <string name="saving_sound_volume_label">Товч дарахад дууны хэмжээ</string>
+    <string name="saving_height_factor_mid_short">Дунд зэргийн өндөр</string>
+    <string name="saving_height_factor_normal">Хэвийн - өндөр</string>
+    <string name="saving_correction_auto_capitalization_label">Автоматаар том үсгээр бичих</string>
+    <string name="saving_correction_auto_capitalization_summary">Одоогийн оролтын контекст дээр үндэслэн үгсийг томоор бичнэ үү</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Caps lock төлөвийг санаарай</string>
+    <string name="saving_height_factor_mid_tall">Дунд зэргийн өндөр</string>
+    <string name="saving_vibration_enabled_label">Товч дарахад чичирнэ үү</string>
+    <string name="saving_suggestion_title">Саналууд</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Өөр текст талбар руу шилжих үед том үсгийн түгжээ асаалттай байх болно</string>
+    <string name="saving_correction_double_space_period_label">Давхар орон зайн үе</string>
+    <string name="saving_correction_double_space_period_summary">Space талбар дээр хоёр удаа дарснаар зайтай цэг оруулах болно</string>
+
+    <string name="saving_correction_title">Залруулга</string>
+    <string name="saving_glide_title">Гулсуулж бичих</string>
+    <string name="saving_glide_enabled_label">Гулсуураар бичихийг идэвхжүүлнэ үү</string>
+    <string name="saving_suggestion_enabled_label">Хэрэглэгч бичих үед зөвлөмжийг харуулах</string>
+    <string name="saving_suggestion_enabled_summary">Санал болгох талбарт харуулах болно</string>
+    <string name="saving_glide_show_trail_summary">Үг бүрийн дараа алга болно</string>
+    <string name="saving_gestures_title">Дохио зангаа</string>
+    <string name="saving_gestures_swipe_action_no_action">Юу ч хийхгүй</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Түр санах ойн агуулгын зөвлөмжүүд</string>
+    <string name="saving_suggestion_use_pref_words_summary">Санал болгохын тулд өмнөх үгсийг ашиглана уу</string>
+    <string name="saving_glide_enabled_summary">Үгийг үсгээр нь хуруугаараа гүйлгэж бичнэ үү</string>
+    <string name="saving_glide_show_trail_label">Гулсах замыг харуулах</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Курсор доош</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Курсор зүүн</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Курсор баруун</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Бүх тэмдэгтүүдийг устгана уу</string>
+    <string name="saving_gestures_swipe_action_delete_word">Одоогийн үгийг устгана уу</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Бүх үгийг устгана уу</string>
+    <string name="saving_gestures_swipe_up_label">Дээш дохио зангаа</string>
+    <string name="saving_gestures_swipe_down_label">Доош дохио зангаа</string>
+    <string name="saving_gestures_swipe_left_label">Зүүн дохио</string>
+    <string name="saving_gestures_swipe_right_label">Зөв дохио зангаа</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Гарыг багасгах</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Курсор дээш</string>
+    <string name="saving_gestures_swipe_action_shift">Шилжүүлэх үйлдэл</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Өмнөх хэл рүү шилжих</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Дараагийн хэл рүү шилжих</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Зайны тэмдэг зүүн</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Space Bar дохио зангаа баруун</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Маш удаан</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Удаан</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Ердийн</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Хурдан</string>
+
+    <string name="saving_advanced_settings_theme_light">Гэрэл</string>
+    <string name="saving_advanced_settings_theme_dark">Харанхуй</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Устгах товчлуурын зангаа зүүн</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Шуралтын хурдны босго</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Шуралтын хурдны босго</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Урт</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Маш удаан</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Зайны босгыг шудрана уу</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Маш богино</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Богино</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Ердийн</string>
+
+
+    <string name="txt_lang_frag">Сонгосон бүх хэлүүд гар дээр харагдах болно.</string>
+    <string name="search_language_hint">Хэлийг эндээс хай..</string>
+    <string name="switch_to_keyboard_des">Олон хэлтэй, 100 гаруй загвартай, хөдөлгөөнт GIF, хөдөлгөөнт наалт, эможи дуугаар бичих.</string>
+    <string name="welcome_to">тавтай морил</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Гарыг сонгоно уу</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Тохиргоог дуусгана уу</string>
+
+    <string name="enable_des">Оролтын аргын тохиргооны жагсаалтаас Гарыг идэвхжүүлэхийн тулд энд дарна уу. Энэ нь таны төхөөрөмж дээр ажиллахыг зөвшөөрнө.</string>
+    <string name="select_des">Оролтын аргын тохиргооны жагсаалтаас гараа сонгохын тулд энд дарна уу. Энэ нь таны төхөөрөмж дээр ажиллахыг зөвшөөрнө.</string>
+    <string name="finish_des">Бүгд дууссан! Таны гар тохируулагдсан бөгөөд ашиглахад бэлэн байна</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Фонтын нэр</string>
+    <string name="set_brightness">Гэрэлт байдлыг тохируулах</string>
+    <string name="default_themes">Өгөгдмөл загварууд</string>
+    <string name="colors_themes">Өнгөний сэдэв</string>
+    <string name="light_gradients_themes">Хөнгөн градиент сэдэв</string>
+    <string name="dark_gradients_themes">Харанхуй градиент сэдэв</string>
+    <string name="landscapes_themes">Ландшафтын сэдэв</string>
+    <string name="gallery_themes">Галерейн сэдэв</string>
+    <string name="crop_image">Зургийг тайрах</string>
+    <string name="next">Дараа нь</string>
+    <string name="mobile_consent_form">GDPR-ийн зөвшөөрлийн маягт</string>
+    <string name="privacy_policy_title">Нууцлалын бодлого</string>
+    <string name="disclaimer">Хариуцлага</string>
+    <string name="have_accept">Би уншиж, хүлээн зөвшөөрсөн</string>
+    <string name="theme_updated_successfully">Загвар амжилттай шинэчлэгдсэн</string>
+    <string name="apply_theme">Загвар хэрэглэх</string>
+    <string name="suggestions_database">Зөвлөмжийн мэдээллийн сан</string>
+    <string name="suggestions_dailog">Гар дээр санал болгох функцийг идэвхжүүлэхийн тулд та манай серверээс өгөгдлийн сангийн файлыг татаж авах хэрэгтэй. Энэ нь хэдэн секунд болно. Та одоо эсвэл дараа нь татаж авахыг хүсч байна уу?</string>
+    <string name="download">Татаж авах</string>
+    <string name="later">Дараа нь</string>
+    <string name="txt_nav_home">Гэр</string>
+    <string name="txt_nav_rate_app">Үнэлгээ &amp; AMP; Шүүмж (Зар)</string>
+    <string name="txt_nav_share_app">Аппликейшн хуваалцах (Зар)</string>
+    <string name="txt_nav_more_apps">Манай програмууд (зар)</string>
+    <string name="txt_nav_family_apps">Манай гэр бүлийн програмууд (зар)</string>
+    <string name="txt_nav_feedback">Санал хүсэлт</string>
+    <string name="txt_nav_update">Одоо шинэчил</string>
+    <string name="txt_nav_ads_remove">Зарыг устгах</string>
+    <string name="txt_feedback">Би таны гарын програмын талаар санал хүсэлттэй байна</string>
+
+
+    <string name="finish">Дуусга</string>
+    <string name="space_for_advertisement">Зар сурталчилгааны орон зай</string>
+    <string name="other">Бусад</string>
+
+
+    <string name="txt_nav_premium_version">Дээд зэрэглэлийн хувилбар</string>
+    <string name="support_the_development">Хөгжлийг дэмжинэ</string>
+    <string name="unlimited_customization">Хязгааргүй тохируулга</string>
+    <string name="complete_ad_free_version">Зар сурталчилгаагүй бүрэн хувилбар</string>
+    <string name="unlimited_themes">Дээд зэрэглэлийн загвар ба фонтын загвар</string>
+    <string name="terms_of_services">Нөхцөл &amp; AMP; Нөхцөл байдал</string>
+    <string name="this_subscriptions_renews_automatically">"Сар бүрийн захиалга" нь манай аппликешныг нэг сарын турш хязгааргүй ашиглах боломжийг олгодог бөгөөд сар бүр шинэчлэгдэх болно. Хэрэв та үүнийг цуцлахгүй бол.\n насан туршийн худалдан авалт нь зөвхөн нэг удаагийн худалдан авалт юм. Дэлгэрэнгүй мэдээлэл авах бол нөхцөлийг шалгана уу &amp; AMP; Үйлчилгээний нөхцөл.</string>
+
+
+    <string name="monthly_subscription">Сарын захиалга</string>
+    <string name="life_time_purchase">Насан туршийн худалдан авалт</string>
+    <string name="life_time_price">Насан туршийн үнэ</string>
+    <string name="monthly_price">Сарын үнэ</string>
+    <string name="purchase_now">Одоо худалдаж аваарай</string>
+    <string name="subscribe_now">Одоо бүртгүүлээрэй</string>
+
+
+    <string name="enable_disable_number_row">Тооны мөрийг идэвхжүүлэх/идэвхгүй болгох</string>
+    <string name="visible_number_row">Гарны дээд талд харагдах тооны мөр</string>
+    <string name="show_numeric_hints">Тоон зөвлөмжийг харуулах</string>
+    <string name="show_numeric_hint_on_first_row">Тэмдэгтүүдийн эхний эгнээнд тоонуудыг харуул</string>
+    <string name="show_symbol_hints">Тэмдгийн зөвлөмжийг харуулах</string>
+    <string name="show_symbol_hints_on_rows">Хоёр болон гурав дахь эгнээний тэмдэгтүүд дээрх тэмдгүүдийг харуулах</string>
+    <string name="adjust_keyboard_font_size_portrait">Хөрөг харахын тулд гарын үсгийн хэмжээг тохируулна уу</string>
+    <string name="adjust_keyboard_font_size_landscape">Ландшафт харахын тулд гарын үсгийн хэмжээг тохируулна уу</string>
+    <string name="keyboard_layout_settings">Гарын байршлын тохиргоо</string>
+    <string name="keyboard_height">Гарны өндөр</string>
+    <string name="keyboard_key_click_settings">Гарны товчлуурыг дарж Тохиргоо</string>
+    <string name="play_sound_on_key_click">Товчлуур дээр дарж дуу тоглуулаарай</string>
+    <string name="key_click_sound_volume">Товч товших дууны хэмжээг тохируулна уу</string>
+    <string name="vibrate_on_key_click">Түлхүүр товшилтоор чичирнэ үү</string>
+    <string name="key_vibration_strength">Гол чичиргээний хүчийг тохируулна уу</string>
+    <string name="enable_popup_alphabets">Хэрэглэгч товчлуур дээр дарах үед гарч ирэх цагаан толгойг харуулах</string>
+    <string name="popup_feature">Поп-ап функц</string>
+    <string name="correction_settings">Залруулгын тохиргоо</string>
+    <string name="auto_capitalize">Автоматаар том болгох</string>
+    <string name="save_caps_lock_state">Caps Lock төлөвийг хадгалах</string>
+    <string name="show_editing_panel">Засварлах самбарыг харуулах</string>
+    <string name="enable_disable_editing_panel">Засварлах самбарыг идэвхжүүлэх/идэвхгүй болгох</string>
+    <string name="available_gestures">Боломжтой дохио зангаа</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Нэг гартай горимыг идэвхжүүлэх/идэвхгүй болгох</string>
+    <string name="keyboard_keys_settings">Гарны товчлуурын тохиргоо</string>
+    <string name="enable_disable_suggestions_bar">Энэ нь Гар харахын дээд хэсэгт харагдах болно</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Бүх зөвлөмжийг Санал болгох талбарт харуулах болно</string>
+    <string name="show_suggestions">Хэрэглэгч бичих үед зөвлөмжийг харуулах</string>
+    <string name="customize_suggestion_bar">Санал болгох талбарыг тохируулах</string>
+    <string name="customize_suggestion_button">Санал болгох товчлуурыг тохируулах</string>
+    <string name="enable_disable_voice_typing">Дуугаар бичихийг идэвхжүүлэх/идэвхгүй болгох</string>
+    <string name="use_voice_typing">Дуугаар бичих аргыг ашиглана уу</string>
+
+    <string name="settings">Тохиргоо</string>
+    <string name="languages">Хэлнүүд</string>
+    <string name="themes">Сэдвүүд</string>
+    <string name="preferences">Сонголтууд</string>
+    <string name="fonts">Фонтууд</string>
+    <string name="text_correction">Текст засвар</string>
+    <string name="gestures">Дохио зангаа</string>
+    <string name="suggestions">Саналууд</string>
+    <string name="one_hand_typing">Нэг гараараа бичих</string>
+    <string name="editing_panel">Засварлах самбар</string>
+    <string name="voice_typing">Дуугаар бичих</string>
+
+    <string name="languages_localization">Хэл &amp; Локалчлал</string>
+    <string name="customize_themes">Загваруудыг өөрчлөх</string>
+    <string name="keyboard_preferences">Гарын тохиргоо</string>
+    <string name="fonts_styles">Фонтын хэв маяг</string>
+    <string name="text_correction_list">Текст засвар</string>
+    <string name="enable_gesture_typing">Зангаагаар бичихийг идэвхжүүлнэ үү</string>
+    <string name="enable_auto_suggestions">Автомат зөвлөмжийг идэвхжүүлнэ үү</string>
+    <string name="one_hand_typing_mode">Нэг гараараа бичих горим</string>
+    <string name="customize_editing_panel">Засварлах самбарыг тохируулах</string>
+    <string name="voice_recognition_typing">Дуу таних &amp; AMP; Бичих</string>
+
+    <string name="title_activity_language_picker">LanguagePickerActivity</string>
+    <string name="cencel_sub">Захиалга цуцлах</string>
+    <string name="yearly_subscription">Жилийн захиалга</string>
+    <string name="app_languages">Програмын хэлийг сонгоно уу</string>
+    <string name="change_app_theme">Програмын сэдвийг сонгоно уу</string>
+    <string name="default_theme">Өгөгдмөл</string>
+    <string name="dark_theme">Харанхуй</string>
+    <string name="light_theme">Гэрэл</string>
+
+    <string name="app_theme_apply">Өргөдөл гаргах</string>
+    <string name="app_theme_cancel">Цуцлах</string>
+    <string name="test_keyboard_here">Гарыг эндээс шалгана уу</string>
+    <string name="choose_keyboard">Гарыг сонгоно уу</string>
+    <string name="cancel">Цуцлах</string>
+
+
+    <string name="premium_keyboard_title">Keyboard Plus</string>
+    <string name="premium_des_title">Дээд зэрэглэлийн бүх онцлогт хандах</string>
+
+    <string name="customization_title">Тохируулга</string>
+    <string name="themes_fonts_title">Сэдэв ба фонтууд</string>
+    <string name="no_ads_title">Зар байхгүй</string>
+    <string name="vip_support_title">VIP дэмжлэг</string>
+
+
+
+    <string name="reward_ad_show_title">Шагнал авах</string>
+    <string name="fonts_reward_dailog_des">Энэ фонтыг ашигласан тохиолдолд шагналын сурталчилгаа үзэх шаардлагатай. Та шагналын AD харуулахыг хүсч байна уу?</string>
+    <string name="themes_reward_dailog_des">"Энэ сэдвийг ашигласан тохиолдолд та урамшууллын сурталчилгаа үзэх хэрэгтэй. Та шагналын сурталчилгааг харуулахыг хүсч байна уу?</string>
+    <string name="reward_dailog_show_ad_btn">Зар харуулах</string>
+    <string name="reward_dailog_cancel_btn">Цуцлах</string>
+    <string name="reward_dailog_get_premium_btn">Premium авах</string>
+    <string name="loading_ads">Зар ачаалж байна...</string>
+    <string name="please_wait">Хүлээгээрэй…</string>
+
+
+    <string name="exit_dailog_title">Апп-аас гарах уу?</string>
+    <string name="exit_dailog_des">Та апп-аас гарахдаа итгэлтэй байна уу?</string>
+    <string name="exit_dailog_cancel_btn">Цуцлах</string>
+    <string name="exit_dailog_exit_btn">Гарах</string>
+
+
+
+</resources>
+
+

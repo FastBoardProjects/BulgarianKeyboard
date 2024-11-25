@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">キーボード アプリのプライバシー ポリシーは、実際には、当社の製品やサービスにアクセスまたは使用する際に収集される可能性のある情報の収集と使用方法を説明することのみを目的として作成されています。パーソナライズされた広告やサービスの開発のためにこれにアクセスしたり使用したりすることにより、このプライバシー ポリシーに記載されているポリシーと慣行に同意したことになります。</string>
+
+
+    <string name="system_default">システムのデフォルト</string>
+    <string name="settings_theme_background_active">アクティブ時の背景色</string>
+    <string name="settings_theme_background_pressed">押されたときの背景色</string>
+    <string name="settings_theme_foreground">前景色</string>
+    <string name="settings_theme_foreground_alt">前景色（代替）</string>
+
+    <string name="saving_group_keys_label">キー</string>
+    <string name="saving_number_row_label">番号行</string>
+    <string name="settings_theme_undefined">未定義</string>
+    <string name="settings_theme_preset_summary">カスタム (%s に基づく)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">選択したテーマ:</string>
+    <string name="settings_theme_preset_dialog_available_themes">利用可能なテーマ:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">右矢印</string>
+    <string name="settings_theme_background">背景色</string>
+    <string name="saving_number_row_summary">文字レイアウトの上に数字の行を表示する</string>
+    <string name="saving_hinted_number_row_label">ヒント付き数字行</string>
+    <string name="saving_hinted_number_row_summary">文字レイアウトのヒントの最初の行の数字の行</string>
+
+    <string name="saving_group_layout_label">レイアウト</string>
+    <string name="saving_one_handed_mode_label">片手モード</string>
+    <string name="saving_one_handed_mode_off">オフ</string>
+    <string name="saving_one_handed_mode_right">右利きモード</string>
+    <string name="saving_hinted_symbols_label">ヒント記号</string>
+    <string name="saving_hinted_symbols_summary">文字レイアウトのヒント記号の2行目と3行目</string>
+    <string name="saving_font_size_multiplier_portrait_label">フォントサイズ乗数（縦）</string>
+    <string name="saving_font_size_multiplier_landscape_label">フォントサイズ乗数（横向き）</string>
+    <string name="saving_one_handed_mode_left">左利きモード</string>
+    <string name="saving_height_factor_label">キーボードの高さ</string>
+    <string name="saving_height_factor_extra_short">超短い</string>
+    <string name="saving_height_factor_short">低身長</string>
+    <string name="saving_height_factor_tall">背の高い</string>
+    <string name="saving_height_factor_extra_tall">超高層</string>
+    <string name="saving_height_factor_custom">カスタム</string>
+    <string name="saving_height_factor_custom_label">カスタムキーボードの高さの値</string>
+    <string name="saving_bottom_offset_label">下部オフセット（曲面スクリーン用）</string>
+    <string name="saving_group_keypress_label">キーを押す</string>
+
+
+    <string name="saving_vibration_strength_label">キーを押したときの振動の強さ</string>
+    <string name="saving_popup_visible_label">ポップアップの可視性</string>
+    <string name="saving_popup_visible_summary">キーを押すとポップアップを表示する</string>
+    <string name="saving_long_press_delay_label">長押し遅延</string>
+    <string name="saving_smartbar_enabled_label">提案バーを有効にする</string>
+    <string name="saving_smartbar_enabled_summary">キーボードの上部に表示されます</string>
+    <string name="saving_sound_enabled_label">キーを押すと音が鳴る</string>
+    <string name="saving_sound_volume_label">キーを押すと音量が上がる</string>
+    <string name="saving_height_factor_mid_short">中高</string>
+    <string name="saving_height_factor_normal">通常の高さ</string>
+    <string name="saving_correction_auto_capitalization_label">自動大文字化</string>
+    <string name="saving_correction_auto_capitalization_summary">現在の入力コンテキストに基づいて単語を大文字にする</string>
+    <string name="saving_correction_remember_caps_lock_state_label">CapsLockの状態を記憶する</string>
+    <string name="saving_height_factor_mid_tall">中背</string>
+    <string name="saving_vibration_enabled_label">キーを押すと振動する</string>
+    <string name="saving_suggestion_title">提案</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">別のテキストフィールドに移動しても Caps Lock はオンのままになります</string>
+    <string name="saving_correction_double_space_period_label">ダブルスペースピリオド</string>
+    <string name="saving_correction_double_space_period_summary">スペースバーを2回クリックすると、スペースとともにピリオドが挿入されます。</string>
+
+    <string name="saving_correction_title">訂正</string>
+    <string name="saving_glide_title">グライドタイピング</string>
+    <string name="saving_glide_enabled_label">グライド入力を有効にする</string>
+    <string name="saving_suggestion_enabled_label">ユーザーが入力したときに候補を表示する</string>
+    <string name="saving_suggestion_enabled_summary">提案バーに表示されます</string>
+    <string name="saving_glide_show_trail_summary">単語ごとに消えます</string>
+    <string name="saving_gestures_title">ジェスチャー</string>
+    <string name="saving_gestures_swipe_action_no_action">何もしない</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">クリップボードのコンテンツの提案</string>
+    <string name="saving_suggestion_use_pref_words_summary">提案を生成するために以前の単語を使用する</string>
+    <string name="saving_glide_enabled_summary">文字を指でスライドさせて単語を入力します</string>
+    <string name="saving_glide_show_trail_label">滑空軌跡を表示</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">カーソルダウン</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">カーソルを左へ</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">カーソルを右へ</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">すべての文字を削除</string>
+    <string name="saving_gestures_swipe_action_delete_word">現在の単語を削除</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">すべての単語を削除</string>
+    <string name="saving_gestures_swipe_up_label">ジェスチャーアップ</string>
+    <string name="saving_gestures_swipe_down_label">ジェスチャーダウン</string>
+    <string name="saving_gestures_swipe_left_label">左のジェスチャー</string>
+    <string name="saving_gestures_swipe_right_label">右のジェスチャー</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">キーボードを最小化</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">カーソルアップ</string>
+    <string name="saving_gestures_swipe_action_shift">シフトアクション</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">前の言語へ移動</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">次の言語へ移動</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">スペースバージェスチャー左</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">スペースバージェスチャー右</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">とても遅い</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">遅い</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">普通</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">速い</string>
+
+    <string name="saving_advanced_settings_theme_light">ライト</string>
+    <string name="saving_advanced_settings_theme_dark">暗い</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">削除ボタンジェスチャー左</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">スワイプ速度しきい値</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">スワイプ速度しきい値</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">長さ</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">とても長い</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">スワイプ距離のしきい値</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">とても短い</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">短い</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">普通</string>
+
+
+    <string name="txt_lang_frag">選択したすべての言語がキーボードに表示されます。</string>
+    <string name="search_language_hint">ここで言語を検索してください。</string>
+    <string name="switch_to_keyboard_des">複数の言語、100 以上のテーマ、アニメーション GIF、アニメーション ステッカー、絵文字、音声入力。</string>
+    <string name="welcome_to">ようこそ</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">キーボードを有効にする</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">キーボードを選択</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">セットアップを完了する</string>
+
+    <string name="enable_des">入力方法設定リストでキーボードを有効にするには、ここをクリックしてください。これにより、デバイスでの実行が許可されます。</string>
+    <string name="select_des">入力方法設定リストでキーボードを選択するには、ここをクリックしてください。これにより、デバイスでの実行が許可されます。</string>
+    <string name="finish_des">完了です。キーボードが設定され、使用できるようになりました。</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">フォント名</string>
+    <string name="set_brightness">明るさを設定する</string>
+    <string name="default_themes">デフォルトのテーマ</string>
+    <string name="colors_themes">色 テーマ</string>
+    <string name="light_gradients_themes">ライトグラデーションテーマ</string>
+    <string name="dark_gradients_themes">ダークグラデーションテーマ</string>
+    <string name="landscapes_themes">風景テーマ</string>
+    <string name="gallery_themes">ギャラリーテーマ</string>
+    <string name="crop_image">画像をトリミング</string>
+    <string name="next">次</string>
+    <string name="mobile_consent_form">GDPR 同意フォーム</string>
+    <string name="privacy_policy_title">プライバシーポリシー</string>
+    <string name="disclaimer">免責事項</string>
+    <string name="have_accept">読んで同意します</string>
+    <string name="theme_updated_successfully">テーマは正常に更新されました</string>
+    <string name="apply_theme">テーマを適用</string>
+    <string name="suggestions_database">提案データベース</string>
+    <string name="suggestions_dailog">キーボードの候補機能を有効にするには、サーバーからデータベース ファイルをダウンロードする必要があります。数秒かかります。今すぐダウンロードしますか、それとも後でダウンロードしますか?</string>
+    <string name="download">ダウンロード</string>
+    <string name="later">後で</string>
+    <string name="txt_nav_home">家</string>
+    <string name="txt_nav_rate_app">評価とレビュー（広告）</string>
+    <string name="txt_nav_share_app">アプリを共有（広告）</string>
+    <string name="txt_nav_more_apps">当社のアプリ（広告）</string>
+    <string name="txt_nav_family_apps">家族向けアプリ（広告）</string>
+    <string name="txt_nav_feedback">フィードバック</string>
+    <string name="txt_nav_update">今すぐ更新</string>
+    <string name="txt_nav_ads_remove">広告を削除する</string>
+    <string name="txt_feedback">キーボードアプリに関するフィードバックがあります</string>
+
+
+    <string name="finish">仕上げる</string>
+    <string name="space_for_advertisement">広告スペース</string>
+    <string name="other">他の</string>
+
+
+    <string name="txt_nav_premium_version">プレミアムバージョン</string>
+    <string name="support_the_development">開発を支援する</string>
+    <string name="unlimited_customization">無制限のカスタマイズ</string>
+    <string name="complete_ad_free_version">完全広告なしバージョン</string>
+    <string name="unlimited_themes">プレミアムテーマとフォントスタイル</string>
+    <string name="terms_of_services">利用規約</string>
+    <string name="this_subscriptions_renews_automatically">「月間サブスクリプション」では、1 か月間アプリケーションに無制限にアクセスでき、毎月更新されます。キャンセルしない場合は、生涯購入は 1 回限りの購入です。詳細については、サービスの利用規約をご覧ください。</string>
+
+
+    <string name="monthly_subscription">月額サブスクリプション</string>
+    <string name="life_time_purchase">生涯購入</string>
+    <string name="life_time_price">生涯価格</string>
+    <string name="monthly_price">月額料金</string>
+    <string name="purchase_now">今すぐ購入</string>
+    <string name="subscribe_now">今すぐ購読する</string>
+
+
+    <string name="enable_disable_number_row">数字行を有効/無効にする</string>
+    <string name="visible_number_row">キーボード上部の数字列を表示</string>
+    <string name="show_numeric_hints">数値ヒントを表示</string>
+    <string name="show_numeric_hint_on_first_row">最初の行の文字に数字のヒントを表示する</string>
+    <string name="show_symbol_hints">シンボルヒントを表示</string>
+    <string name="show_symbol_hints_on_rows">2行目と3行目の文字に記号のヒントを表示する</string>
+    <string name="adjust_keyboard_font_size_portrait">縦向き表示のキーボードフォントサイズを調整する</string>
+    <string name="adjust_keyboard_font_size_landscape">横向き表示のキーボードフォントサイズを調整する</string>
+    <string name="keyboard_layout_settings">キーボードレイアウト設定</string>
+    <string name="keyboard_height">キーボードの高さ</string>
+    <string name="keyboard_key_click_settings">キーボードのキークリック設定</string>
+    <string name="play_sound_on_key_click">キークリック時にサウンドを再生する</string>
+    <string name="key_click_sound_volume">キークリック音の音量を調整する</string>
+    <string name="vibrate_on_key_click">キークリック時に振動する</string>
+    <string name="key_vibration_strength">キーの振動の強さを調整する</string>
+    <string name="enable_popup_alphabets">ユーザーがキーをクリックしたときにポップアップアルファベットを表示する</string>
+    <string name="popup_feature">ポップアップ機能</string>
+    <string name="correction_settings">修正設定</string>
+    <string name="auto_capitalize">自動大文字化</string>
+    <string name="save_caps_lock_state">Caps Lock状態を保存</string>
+    <string name="show_editing_panel">編集パネルを表示</string>
+    <string name="enable_disable_editing_panel">編集パネルの有効化/無効化</string>
+    <string name="available_gestures">利用可能なジェスチャー</string>
+    <string name="enable_disable_keyboard_one_handed_mode">片手モードを有効/無効にする</string>
+    <string name="keyboard_keys_settings">キーボードキー設定</string>
+    <string name="enable_disable_suggestions_bar">これはキーボードビューの上部に表示されます</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">すべての提案は提案バーに表示されます</string>
+    <string name="show_suggestions">ユーザーが入力したときに候補を表示する</string>
+    <string name="customize_suggestion_bar">提案バーをカスタマイズする</string>
+    <string name="customize_suggestion_button">提案ボタンをカスタマイズする</string>
+    <string name="enable_disable_voice_typing">音声入力を有効/無効にする</string>
+    <string name="use_voice_typing">音声入力を使用する</string>
+
+    <string name="settings">設定</string>
+    <string name="languages">言語</string>
+    <string name="themes">テーマ</string>
+    <string name="preferences">設定</string>
+    <string name="fonts">フォント</string>
+    <string name="text_correction">テキスト修正</string>
+    <string name="gestures">ジェスチャー</string>
+    <string name="suggestions">提案</string>
+    <string name="one_hand_typing">片手で入力</string>
+    <string name="editing_panel">編集パネル</string>
+    <string name="voice_typing">音声入力</string>
+
+    <string name="languages_localization">言語とローカリゼーション</string>
+    <string name="customize_themes">テーマをカスタマイズする</string>
+    <string name="keyboard_preferences">キーボードの設定</string>
+    <string name="fonts_styles">フォントスタイル</string>
+    <string name="text_correction_list">テキスト修正</string>
+    <string name="enable_gesture_typing">ジェスチャー入力を有効にする</string>
+    <string name="enable_auto_suggestions">自動提案を有効にする</string>
+    <string name="one_hand_typing_mode">片手入力モード</string>
+    <string name="customize_editing_panel">編集パネルをカスタマイズする</string>
+    <string name="voice_recognition_typing">音声認識と入力</string>
+
+    <string name="title_activity_language_picker">言語ピッカーアクティビティ</string>
+    <string name="cencel_sub">サブスクリプションをキャンセル</string>
+    <string name="yearly_subscription">年間サブスクリプション</string>
+    <string name="app_languages">アプリの言語を選択</string>
+    <string name="change_app_theme">アプリのテーマを選択</string>
+    <string name="default_theme">デフォルト</string>
+    <string name="dark_theme">暗い</string>
+    <string name="light_theme">ライト</string>
+
+    <string name="app_theme_apply">適用する</string>
+    <string name="app_theme_cancel">キャンセル</string>
+    <string name="test_keyboard_here">ここでキーボードをテストする</string>
+    <string name="cancel">キャンセル</string>
+
+
+    <string name="premium_keyboard_title">キーボードプラス</string>
+    <string name="premium_des_title">プレミアムですべての機能にアクセス</string>
+
+    <string name="customization_title">カスタマイズ</string>
+    <string name="themes_fonts_title">テーマとフォント</string>
+    <string name="no_ads_title">広告なし</string>
+    <string name="vip_support_title">VIPサポート</string>
+
+
+    <string name="reward_ad_show_title">報酬を獲得</string>
+    <string name="fonts_reward_dailog_des">このフォントを適用する場合、リワード広告を視聴する必要があります。リワード広告を表示しますか?</string>
+    <string name="themes_reward_dailog_des">「このテーマを適用する場合、リワード広告を視聴する必要があります。リワード広告を表示しますか？」</string>
+    <string name="reward_dailog_show_ad_btn">広告を表示</string>
+    <string name="reward_dailog_cancel_btn">キャンセル</string>
+    <string name="reward_dailog_get_premium_btn">プレミアムをゲット</string>
+    <string name="loading_ads">広告を読み込んでいます…</string>
+    <string name="please_wait">お待ちください…</string>
+
+
+    <string name="exit_dailog_title">アプリを終了しますか?</string>
+    <string name="exit_dailog_des">アプリを終了してもよろしいですか?</string>
+    <string name="exit_dailog_cancel_btn">キャンセル</string>
+    <string name="exit_dailog_exit_btn">出口</string>
+
+
+
+
+</resources>
+
+

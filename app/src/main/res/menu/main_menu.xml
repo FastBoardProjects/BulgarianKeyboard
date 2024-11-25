@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/homeItem"
+            android:icon="@drawable/ic_home"
+            android:title="@string/txt_nav_home"
+            />
+
+        <item
+            android:id="@+id/languageItem"
+            android:icon="@drawable/ic_lang_toggle"
+            android:title="@string/app_languages"
+            />
+
+        <item
+            android:id="@+id/changeTheme"
+            android:icon="@drawable/ic_theme_icon"
+            android:title="@string/change_app_theme"
+            />
+        <item
+            android:id="@+id/premiumItem"
+            android:icon="@drawable/ic_premium_icon"
+            android:title="@string/txt_nav_ads_remove" />
+        <item
+            android:id="@+id/feedbackItem"
+            android:icon="@drawable/ic_feedback_icon"
+            android:title="@string/txt_nav_feedback" />
+        <item
+            android:id="@+id/privacyItem"
+            android:icon="@drawable/ic_privacy_icon"
+            android:title="@string/privacy_policy_title" />
+        <item
+            android:id="@+id/mobileAdsConsentItem"
+            android:icon="@drawable/concent_form_icon"
+            android:title="@string/mobile_consent_form" />
+    </group>
+
+    <item android:title="@string/other">
+        <menu>
+
+            <item
+                android:id="@+id/updateItem"
+                android:icon="@drawable/ic_update_icon"
+                android:title="@string/txt_nav_update" />
+
+            <item
+                android:id="@+id/shareItem"
+                android:icon="@drawable/ic_share_icon"
+                android:title="@string/txt_nav_share_app" />
+            <item
+                android:id="@+id/rateItem"
+                android:icon="@drawable/ic_rate_icon"
+                android:title="@string/txt_nav_rate_app" />
+            <item
+                android:id="@+id/moreItem"
+                android:icon="@drawable/ic_more_apps"
+                android:title="@string/txt_nav_more_apps" />
+            <item
+                android:id="@+id/familyAppsItem"
+                android:icon="@drawable/ic_family_apps"
+                android:title="@string/txt_nav_family_apps" />
+
+        </menu>
+    </item>
+
+</menu>

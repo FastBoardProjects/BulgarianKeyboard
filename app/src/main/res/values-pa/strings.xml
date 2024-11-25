@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">ਕੀਬੋਰਡ ਐਪ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਅਸਲ ਵਿੱਚ ਉਸ ਜਾਣਕਾਰੀ ਨੂੰ ਇਕੱਠਾ ਕਰਨ ਅਤੇ ਵਰਤਣ ਲਈ ਸਮਝਾਉਣ ਦੇ ਇੱਕੋ ਇੱਕ ਉਦੇਸ਼ ਲਈ ਲਿਖੀ ਗਈ ਹੈ ਜੋ ਹੋ ਸਕਦੀ ਹੈ ਜਦੋਂ ਤੁਸੀਂ ਸਾਡੇ ਕਿਸੇ ਵੀ ਉਤਪਾਦ ਅਤੇ ਸੇਵਾਵਾਂ "ਤੇ ਜਾਂਦੇ ਹੋ ਜਾਂ ਵਰਤਦੇ ਹੋ। ਵਿਅਕਤੀਗਤ ਵਿਗਿਆਪਨ ਅਤੇ ਸੇਵਾਵਾਂ ਦੇ ਵਿਕਾਸ ਲਈ ਇਸ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਅਤੇ/ਜਾਂ ਇਸਦੀ ਵਰਤੋਂ ਕਰਕੇ, ਤੁਸੀਂ ਇਸ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਵਿੱਚ ਵਰਣਨ ਕੀਤੀਆਂ ਨੀਤੀਆਂ ਅਤੇ ਅਭਿਆਸਾਂ ਨਾਲ ਸਹਿਮਤ ਹੋ ਰਹੇ ਹੋ।</string>
+
+
+    <string name="system_default">ਸਿਸਟਮ ਪੂਰਵ-ਨਿਰਧਾਰਤ</string>
+    <string name="settings_theme_background_active">ਸਰਗਰਮ ਹੋਣ "ਤੇ ਬੈਕਗ੍ਰਾਊਂਡ ਦਾ ਰੰਗ</string>
+    <string name="settings_theme_background_pressed">ਦਬਾਉਣ "ਤੇ ਬੈਕਗ੍ਰਾਊਂਡ ਦਾ ਰੰਗ</string>
+    <string name="settings_theme_foreground">ਫੋਰਗਰਾਉਂਡ ਰੰਗ</string>
+    <string name="settings_theme_foreground_alt">ਫੋਰਗਰਾਉਂਡ ਰੰਗ (ਵਿਕਲਪਕ)</string>
+
+    <string name="saving_group_keys_label">ਕੁੰਜੀਆਂ</string>
+    <string name="saving_number_row_label">ਨੰਬਰ ਕਤਾਰ</string>
+    <string name="settings_theme_undefined">ਪਰਿਭਾਸ਼ਿਤ</string>
+    <string name="settings_theme_preset_summary">ਕਸਟਮ (%s "ਤੇ ਆਧਾਰਿਤ)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">ਚੁਣਿਆ ਥੀਮ:</string>
+    <string name="settings_theme_preset_dialog_available_themes">ਉਪਲਬਧ ਥੀਮ:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">ਸੱਜੇ ਤੀਰ</string>
+    <string name="settings_theme_background">ਬੈਕਗ੍ਰਾਊਂਡ ਦਾ ਰੰਗ</string>
+    <string name="saving_number_row_summary">ਅੱਖਰ ਖਾਕੇ ਦੇ ਸਿਖਰ "ਤੇ ਨੰਬਰ ਕਤਾਰ ਦਿਖਾਓ</string>
+    <string name="saving_hinted_number_row_label">ਇਸ਼ਾਰਾ ਕੀਤੀ ਨੰਬਰ ਕਤਾਰ</string>
+    <string name="saving_hinted_number_row_summary">ਅੱਖਰ ਲੇਆਉਟ ਦੀ ਪਹਿਲੀ ਕਤਾਰ ਸੰਖਿਆ ਦੀ ਕਤਾਰ ਨੂੰ ਸੰਕੇਤ ਕਰਦੀ ਹੈ</string>
+
+    <string name="saving_group_layout_label">ਖਾਕਾ</string>
+    <string name="saving_one_handed_mode_label">ਇੱਕ ਹੱਥ ਵਾਲਾ ਮੋਡ</string>
+    <string name="saving_one_handed_mode_off">ਬੰਦ</string>
+    <string name="saving_one_handed_mode_right">ਸੱਜੇ-ਹੱਥ ਮੋਡ</string>
+    <string name="saving_hinted_symbols_label">ਸੰਕੇਤਕ ਚਿੰਨ੍ਹ</string>
+    <string name="saving_hinted_symbols_summary">ਅੱਖਰ ਲੇਆਉਟ ਸੰਕੇਤ ਚਿੰਨ੍ਹਾਂ ਦੀ ਦੂਜੀ ਅਤੇ ਤੀਜੀ ਕਤਾਰ</string>
+    <string name="saving_font_size_multiplier_portrait_label">ਫੌਂਟ ਆਕਾਰ ਗੁਣਕ (ਪੋਰਟਰੇਟ)</string>
+    <string name="saving_font_size_multiplier_landscape_label">ਫੌਂਟ ਆਕਾਰ ਗੁਣਕ (ਲੈਂਡਸਕੇਪ)</string>
+    <string name="saving_one_handed_mode_left">ਖੱਬੇ ਹੱਥ ਵਾਲਾ ਮੋਡ</string>
+    <string name="saving_height_factor_label">ਕੀਬੋਰਡ ਦੀ ਉਚਾਈ</string>
+    <string name="saving_height_factor_extra_short">ਵਾਧੂ-ਛੋਟਾ</string>
+    <string name="saving_height_factor_short">ਛੋਟਾ-ਉਚਾਈ</string>
+    <string name="saving_height_factor_tall">ਉੱਚਾ-ਉੱਚਾ</string>
+    <string name="saving_height_factor_extra_tall">ਵਾਧੂ-ਲੰਬਾ</string>
+    <string name="saving_height_factor_custom">ਕਸਟਮ</string>
+    <string name="saving_height_factor_custom_label">ਕਸਟਮ ਕੀਬੋਰਡ ਉਚਾਈ ਮੁੱਲ</string>
+    <string name="saving_bottom_offset_label">ਹੇਠਲਾ ਆਫਸੈੱਟ (ਕਰਵਡ ਸਕ੍ਰੀਨਾਂ ਲਈ)</string>
+    <string name="saving_group_keypress_label">ਕੁੰਜੀ ਦਬਾਓ</string>
+
+
+    <string name="saving_vibration_strength_label">ਕੁੰਜੀ ਦਬਾਉਣ "ਤੇ ਵਾਈਬ੍ਰੇਸ਼ਨ ਤਾਕਤ</string>
+    <string name="saving_popup_visible_label">ਪੌਪਅੱਪ ਦਿੱਖ</string>
+    <string name="saving_popup_visible_summary">ਜਦੋਂ ਤੁਸੀਂ ਕੋਈ ਕੁੰਜੀ ਦਬਾਉਂਦੇ ਹੋ ਤਾਂ ਪੌਪਅੱਪ ਦਿਖਾਓ</string>
+    <string name="saving_long_press_delay_label">ਲੰਬੀ ਕੁੰਜੀ ਦਬਾਉਣ ਵਿੱਚ ਦੇਰੀ</string>
+    <string name="saving_smartbar_enabled_label">ਸੁਝਾਅ ਪੱਟੀ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
+    <string name="saving_smartbar_enabled_summary">ਕੀਬੋਰਡ ਦੇ ਸਿਖਰ "ਤੇ ਦਿਖਾਈ ਦੇਵੇਗਾ</string>
+    <string name="saving_sound_enabled_label">ਕੁੰਜੀ ਦਬਾਉਣ "ਤੇ ਆਵਾਜ਼</string>
+    <string name="saving_sound_volume_label">ਕੁੰਜੀ ਦਬਾਉਣ "ਤੇ ਆਵਾਜ਼ ਦੀ ਮਾਤਰਾ</string>
+    <string name="saving_height_factor_mid_short">ਮੱਧਮ-ਉਚਾਈ</string>
+    <string name="saving_height_factor_normal">ਸਾਧਾਰਨ-ਉਚਾਈ</string>
+    <string name="saving_correction_auto_capitalization_label">ਸਵੈ-ਪੂੰਜੀਕਰਨ</string>
+    <string name="saving_correction_auto_capitalization_summary">ਮੌਜੂਦਾ ਇਨਪੁਟ ਸੰਦਰਭ ਦੇ ਆਧਾਰ "ਤੇ ਸ਼ਬਦਾਂ ਨੂੰ ਕੈਪੀਟਲ ਕਰੋ</string>
+    <string name="saving_correction_remember_caps_lock_state_label">ਕੈਪਸ ਲੌਕ ਸਥਿਤੀ ਨੂੰ ਯਾਦ ਰੱਖੋ</string>
+    <string name="saving_height_factor_mid_tall">ਅੱਧ-ਲੰਬਾ</string>
+    <string name="saving_vibration_enabled_label">ਕੁੰਜੀ ਦਬਾਉਣ "ਤੇ ਵਾਈਬ੍ਰੇਟ ਕਰੋ</string>
+    <string name="saving_suggestion_title">ਸੁਝਾਅ</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">ਕਿਸੇ ਹੋਰ ਟੈਕਸਟ ਖੇਤਰ ਵਿੱਚ ਜਾਣ "ਤੇ ਕੈਪਸ ਲੌਕ ਚਾਲੂ ਰਹੇਗਾ</string>
+    <string name="saving_correction_double_space_period_label">ਡਬਲ-ਸਪੇਸ ਪੀਰੀਅਡ</string>
+    <string name="saving_correction_double_space_period_summary">ਸਪੇਸ ਬਾਰ "ਤੇ ਦੋ ਵਾਰ ਕਲਿੱਕ ਕਰਨ ਨਾਲ ਸਪੇਸ ਦੇ ਨਾਲ ਇੱਕ ਪੀਰੀਅਡ ਪਾ ਦਿੱਤਾ ਜਾਵੇਗਾ</string>
+
+    <string name="saving_correction_title">ਸੁਧਾਰ</string>
+    <string name="saving_glide_title">ਗਲਾਈਡ ਟਾਈਪਿੰਗ</string>
+    <string name="saving_glide_enabled_label">ਗਲਾਈਡ ਟਾਈਪਿੰਗ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
+    <string name="saving_suggestion_enabled_label">ਉਪਭੋਗਤਾ ਟਾਈਪ ਕਰਨ "ਤੇ ਸੁਝਾਅ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੋ</string>
+    <string name="saving_suggestion_enabled_summary">ਸੁਝਾਅ ਪੱਟੀ ਵਿੱਚ ਦਿਖਾਇਆ ਜਾਵੇਗਾ</string>
+    <string name="saving_glide_show_trail_summary">ਹਰ ਇੱਕ ਸ਼ਬਦ ਦੇ ਬਾਅਦ ਅਲੋਪ ਹੋ ਜਾਵੇਗਾ</string>
+    <string name="saving_gestures_title">ਇਸ਼ਾਰੇ</string>
+    <string name="saving_gestures_swipe_action_no_action">ਕੁਝ ਨਾ ਕਰੋ</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">ਕਲਿੱਪਬੋਰਡ ਸਮੱਗਰੀ ਸੁਝਾਅ</string>
+    <string name="saving_suggestion_use_pref_words_summary">ਸੁਝਾਅ ਤਿਆਰ ਕਰਨ ਲਈ ਪਿਛਲੇ ਸ਼ਬਦਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+    <string name="saving_glide_enabled_summary">ਆਪਣੀ ਉਂਗਲੀ ਨੂੰ ਇਸਦੇ ਅੱਖਰਾਂ ਰਾਹੀਂ ਸਲਾਈਡ ਕਰਕੇ ਇੱਕ ਸ਼ਬਦ ਟਾਈਪ ਕਰੋ</string>
+    <string name="saving_glide_show_trail_label">ਗਲਾਈਡ ਟ੍ਰੇਲ ਦਿਖਾਓ</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">ਕਰਸਰ ਡਾਊਨ</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">ਕਰਸਰ ਖੱਬੇ</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">ਕਰਸਰ ਸੱਜੇ</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">ਸਾਰੇ ਅੱਖਰ ਹਟਾਓ</string>
+    <string name="saving_gestures_swipe_action_delete_word">ਮੌਜੂਦਾ ਸ਼ਬਦ ਹਟਾਓ</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">ਸਾਰੇ ਸ਼ਬਦ ਹਟਾਓ</string>
+    <string name="saving_gestures_swipe_up_label">ਇਸ਼ਾਰਾ ਕਰੋ</string>
+    <string name="saving_gestures_swipe_down_label">ਹੇਠਾਂ ਵੱਲ ਇਸ਼ਾਰਾ ਕਰੋ</string>
+    <string name="saving_gestures_swipe_left_label">ਇਸ਼ਾਰਾ ਛੱਡ ਦਿੱਤਾ</string>
+    <string name="saving_gestures_swipe_right_label">ਇਸ਼ਾਰਾ ਸਹੀ</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">ਕੀਬੋਰਡ ਨੂੰ ਛੋਟਾ ਕਰੋ</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">ਕਰਸਰ ਉੱਪਰ</string>
+    <string name="saving_gestures_swipe_action_shift">ਸ਼ਿਫਟ ਐਕਸ਼ਨ</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">ਪਿਛਲੀ ਭਾਸ਼ਾ "ਤੇ ਜਾਓ</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">ਅਗਲੀ ਭਾਸ਼ਾ "ਤੇ ਜਾਓ</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">ਸਪੇਸ ਬਾਰ ਇਸ਼ਾਰਾ ਖੱਬੇ</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">ਸਪੇਸ ਬਾਰ ਇਸ਼ਾਰਾ ਸੱਜਾ</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">ਬਹੁਤ ਹੌਲੀ</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">ਹੌਲੀ</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">ਸਧਾਰਣ</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">ਤੇਜ਼</string>
+
+    <string name="saving_advanced_settings_theme_light">ਚਾਨਣ</string>
+    <string name="saving_advanced_settings_theme_dark">ਹਨੇਰਾ</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">ਖੱਬੇ ਪਾਸੇ ਮਿਟਾਓ ਬਟਨ ਸੰਕੇਤ</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">ਸਵਾਈਪ ਵੇਗ ਥ੍ਰੈਸ਼ਹੋਲਡ</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">ਸਵਾਈਪ ਵੇਗ ਥ੍ਰੈਸ਼ਹੋਲਡ</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">ਲੰਬੀ</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">ਬਹੁਤ ਲੰਮਾ</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">ਸਵਾਈਪ ਦੂਰੀ ਥ੍ਰੈਸ਼ਹੋਲਡ</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">ਬਹੁਤ ਛੋਟਾ</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">ਛੋਟਾ</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">ਸਧਾਰਣ</string>
+
+
+    <string name="txt_lang_frag">ਸਾਰੀਆਂ ਚੁਣੀਆਂ ਗਈਆਂ ਭਾਸ਼ਾਵਾਂ ਕੀ-ਬੋਰਡ ਵਿੱਚ ਦਿਖਾਈ ਦੇਣਗੀਆਂ।</string>
+    <string name="search_language_hint">ਇੱਥੇ ਭਾਸ਼ਾ ਖੋਜੋ..</string>
+    <string name="switch_to_keyboard_des">ਕਈ ਭਾਸ਼ਾਵਾਂ 100+ ਥੀਮ ਐਨੀਮੇਟਡ GIF ਐਨੀਮੇਟਡ ਸਟਿੱਕਰ, ਇਮੋਜੀ ਵੌਇਸ ਟਾਈਪਿੰਗ।</string>
+    <string name="welcome_to">ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">ਕੀਬੋਰਡ ਚਾਲੂ ਕਰੋ</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">ਕੀਬੋਰਡ ਚੁਣੋ</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">ਸੈੱਟਅੱਪ ਨੂੰ ਪੂਰਾ ਕਰੋ</string>
+
+    <string name="enable_des">ਆਪਣੀ ਇਨਪੁਟ ਵਿਧੀ ਸੈਟਿੰਗਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਕੀਬੋਰਡ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ। ਇਹ ਇਸਨੂੰ ਤੁਹਾਡੀ ਡਿਵਾਈਸ "ਤੇ ਚਲਾਉਣ ਲਈ ਅਧਿਕਾਰਤ ਕਰੇਗਾ।</string>
+    <string name="select_des">ਆਪਣੀ ਇਨਪੁਟ ਵਿਧੀ ਸੈਟਿੰਗਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਆਪਣਾ ਕੀਬੋਰਡ ਚੁਣਨ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ। ਇਹ ਇਸਨੂੰ ਤੁਹਾਡੀ ਡਿਵਾਈਸ "ਤੇ ਚਲਾਉਣ ਲਈ ਅਧਿਕਾਰਤ ਕਰੇਗਾ।</string>
+    <string name="finish_des">ਸਭ ਹੋ ਗਿਆ! ਤੁਹਾਡਾ ਕੀਬੋਰਡ ਸੈਟ ਅਪ ਹੈ ਅਤੇ ਵਰਤਣ ਲਈ ਤਿਆਰ ਹੈ</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">ਫੌਂਟ ਦਾ ਨਾਮ</string>
+    <string name="set_brightness">ਚਮਕ ਸੈੱਟ ਕਰੋ</string>
+    <string name="default_themes">ਪੂਰਵ-ਨਿਰਧਾਰਤ ਥੀਮ</string>
+    <string name="colors_themes">ਰੰਗ ਥੀਮ</string>
+    <string name="light_gradients_themes">ਹਲਕੇ ਗਰੇਡੀਐਂਟ ਥੀਮ</string>
+    <string name="dark_gradients_themes">ਗੂੜ੍ਹੇ ਗਰੇਡੀਐਂਟ ਥੀਮ</string>
+    <string name="landscapes_themes">ਲੈਂਡਸਕੇਪ ਥੀਮ</string>
+    <string name="gallery_themes">ਗੈਲਰੀ ਥੀਮ</string>
+    <string name="crop_image">ਚਿੱਤਰ ਕੱਟੋ</string>
+    <string name="next">ਅਗਲਾ</string>
+    <string name="mobile_consent_form">GDPR ਸਹਿਮਤੀ ਫਾਰਮ</string>
+    <string name="privacy_policy_title">ਪਰਾਈਵੇਟ ਨੀਤੀ</string>
+    <string name="disclaimer">ਬੇਦਾਅਵਾ</string>
+    <string name="have_accept">ਮੈਂ ਪੜ੍ਹ ਲਿਆ ਹੈ ਅਤੇ ਸਵੀਕਾਰ ਕਰ ਲਿਆ ਹੈ</string>
+    <string name="theme_updated_successfully">ਥੀਮ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ</string>
+    <string name="apply_theme">ਥੀਮ ਲਾਗੂ ਕਰੋ</string>
+    <string name="suggestions_database">ਸੁਝਾਅ ਡੇਟਾਬੇਸ</string>
+    <string name="suggestions_dailog">ਕੀਬੋਰਡ ਵਿੱਚ ਸੁਝਾਅ ਵਿਸ਼ੇਸ਼ਤਾ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਸਾਡੇ ਸਰਵਰ ਤੋਂ ਡੇਟਾਬੇਸ ਫਾਈਲ ਡਾਊਨਲੋਡ ਕਰਨੀ ਪਵੇਗੀ। ਇਸ ਵਿੱਚ ਕੁਝ ਸਕਿੰਟ ਲੱਗਣਗੇ। ਕੀ ਤੁਸੀਂ ਹੁਣੇ ਜਾਂ ਬਾਅਦ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="download">ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="later">ਬਾਅਦ ਵਿੱਚ</string>
+    <string name="txt_nav_home">ਘਰ</string>
+    <string name="txt_nav_rate_app">ਰੇਟ &amp; ਸਮੀਖਿਆ (ਵਿਗਿਆਪਨ)</string>
+    <string name="txt_nav_share_app">ਸ਼ੇਅਰ ਐਪ (ਵਿਗਿਆਪਨ)</string>
+    <string name="txt_nav_more_apps">ਸਾਡੀਆਂ ਐਪਾਂ (ਵਿਗਿਆਪਨ)</string>
+    <string name="txt_nav_family_apps">ਸਾਡੀਆਂ ਪਰਿਵਾਰਕ ਐਪਾਂ (ਵਿਗਿਆਪਨ)</string>
+    <string name="txt_nav_feedback">ਫੀਡਬੈਕ</string>
+    <string name="txt_nav_update">ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ</string>
+    <string name="txt_nav_ads_remove">ਵਿਗਿਆਪਨ ਹਟਾਓ</string>
+    <string name="txt_feedback">ਤੁਹਾਡੇ ਕੀਬੋਰਡ ਐਪ ਲਈ ਮੇਰੇ ਕੋਲ ਫੀਡਬੈਕ ਹੈ</string>
+
+
+    <string name="finish">ਸਮਾਪਤ</string>
+    <string name="space_for_advertisement">ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ ਲਈ ਥਾਂ</string>
+    <string name="other">ਹੋਰ</string>
+
+
+    <string name="txt_nav_premium_version">ਪ੍ਰੀਮੀਅਮ ਸੰਸਕਰਣ</string>
+    <string name="support_the_development">ਵਿਕਾਸ ਦਾ ਸਮਰਥਨ ਕਰੋ</string>
+    <string name="unlimited_customization">ਅਸੀਮਤ ਅਨੁਕੂਲਤਾ</string>
+    <string name="complete_ad_free_version">ਸੰਪੂਰਨ ਵਿਗਿਆਪਨ ਮੁਕਤ ਸੰਸਕਰਣ</string>
+    <string name="unlimited_themes">ਪ੍ਰੀਮੀਅਮ ਥੀਮ ਅਤੇ ਫੌਂਟ ਸਟਾਈਲ</string>
+    <string name="terms_of_services">ਸ਼ਰਤਾਂ &amp; ਹਾਲਾਤ</string>
+    <string name="this_subscriptions_renews_automatically">"ਮਾਸਿਕ ਸਬਸਕ੍ਰਿਪਸ਼ਨ" ਤੁਹਾਨੂੰ ਇੱਕ ਮਹੀਨੇ ਲਈ ਸਾਡੀ ਅਰਜ਼ੀ ਤੱਕ ਅਸੀਮਿਤ ਪਹੁੰਚ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ ਅਤੇ ਮਹੀਨਾਵਾਰ ਰੀਨਿਊ ਕੀਤਾ ਜਾਵੇਗਾ। ਜੇਕਰ ਤੁਸੀਂ ਇਸਨੂੰ ਰੱਦ ਨਹੀਂ ਕਰਦੇ।\n ਜੀਵਨ ਸਮੇਂ ਦੀ ਖਰੀਦ ਸਿਰਫ ਇੱਕ ਵਾਰ ਦੀ ਖਰੀਦ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਸ਼ਰਤਾਂ ਦੀ ਜਾਂਚ ਕਰੋ &amp; ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ।</string>
+
+
+    <string name="monthly_subscription">ਮਹੀਨਾਵਾਰ ਗਾਹਕੀ</string>
+    <string name="life_time_purchase">ਲਾਈਫ ਟਾਈਮ ਖਰੀਦਦਾਰੀ</string>
+    <string name="life_time_price">ਜੀਵਨ-ਕਾਲ ਦੀ ਕੀਮਤ</string>
+    <string name="monthly_price">ਮਹੀਨਾਵਾਰ ਕੀਮਤ</string>
+    <string name="purchase_now">ਹੁਣੇ ਖਰੀਦੋ</string>
+    <string name="subscribe_now">ਹੁਣੇ ਸਬਸਕ੍ਰਾਈਬ ਕਰੋ</string>
+
+
+    <string name="enable_disable_number_row">ਨੰਬਰ ਕਤਾਰ ਨੂੰ ਸਮਰੱਥ/ਅਯੋਗ ਕਰੋ</string>
+    <string name="visible_number_row">ਕੀ-ਬੋਰਡ ਦੇ ਸਿਖਰ "ਤੇ ਦਿਖਣਯੋਗ ਨੰਬਰ ਕਤਾਰ</string>
+    <string name="show_numeric_hints">ਸੰਖਿਆਤਮਕ ਸੰਕੇਤ ਦਿਖਾਓ</string>
+    <string name="show_numeric_hint_on_first_row">ਅੱਖਰਾਂ ਦੀ ਪਹਿਲੀ ਕਤਾਰ "ਤੇ ਨੰਬਰ ਸੰਕੇਤ ਦਿਖਾਓ</string>
+    <string name="show_symbol_hints">ਪ੍ਰਤੀਕ ਸੰਕੇਤ ਦਿਖਾਓ</string>
+    <string name="show_symbol_hints_on_rows">ਅੱਖਰਾਂ ਦੀ ਦੂਜੀ ਅਤੇ ਤੀਜੀ ਕਤਾਰ "ਤੇ ਚਿੰਨ੍ਹ ਸੰਕੇਤ ਦਿਖਾਓ</string>
+    <string name="adjust_keyboard_font_size_portrait">ਪੋਰਟਰੇਟ ਦ੍ਰਿਸ਼ ਲਈ ਕੀਬੋਰਡ ਫੌਂਟ ਦਾ ਆਕਾਰ ਵਿਵਸਥਿਤ ਕਰੋ</string>
+    <string name="adjust_keyboard_font_size_landscape">ਲੈਂਡਸਕੇਪ ਦ੍ਰਿਸ਼ ਲਈ ਕੀਬੋਰਡ ਫੌਂਟ ਦਾ ਆਕਾਰ ਵਿਵਸਥਿਤ ਕਰੋ</string>
+    <string name="keyboard_layout_settings">ਕੀਬੋਰਡ ਲੇਆਉਟ ਸੈਟਿੰਗਾਂ</string>
+    <string name="keyboard_height">ਕੀਬੋਰਡ ਦੀ ਉਚਾਈ</string>
+    <string name="keyboard_key_click_settings">ਕੀਬੋਰਡ ਕੁੰਜੀ ਕਲਿੱਕ ਸੈਟਿੰਗਜ਼</string>
+    <string name="play_sound_on_key_click">ਕੁੰਜੀ ਕਲਿੱਕ "ਤੇ ਆਵਾਜ਼ ਚਲਾਓ</string>
+    <string name="key_click_sound_volume">ਕੁੰਜੀ ਕਲਿੱਕ ਧੁਨੀ ਵਾਲੀਅਮ ਵਿਵਸਥਿਤ ਕਰੋ</string>
+    <string name="vibrate_on_key_click">ਕੁੰਜੀ ਕਲਿੱਕ "ਤੇ ਵਾਈਬ੍ਰੇਟ ਕਰੋ</string>
+    <string name="key_vibration_strength">ਕੁੰਜੀ ਵਾਈਬ੍ਰੇਸ਼ਨ ਤਾਕਤ ਨੂੰ ਵਿਵਸਥਿਤ ਕਰੋ</string>
+    <string name="enable_popup_alphabets">ਜਦੋਂ ਉਪਭੋਗਤਾ ਇੱਕ ਕੁੰਜੀ ਨੂੰ ਕਲਿਕ ਕਰਦਾ ਹੈ ਤਾਂ ਪੌਪ-ਅਪ ਅੱਖਰ ਦਿਖਾਓ</string>
+    <string name="popup_feature">ਪੌਪ-ਅੱਪ ਫੀਚਰ</string>
+    <string name="correction_settings">ਸੁਧਾਰ ਸੈਟਿੰਗਾਂ</string>
+    <string name="auto_capitalize">ਆਟੋ ਕੈਪੀਟਲਾਈਜ਼</string>
+    <string name="save_caps_lock_state">Caps Lock ਸਥਿਤੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+    <string name="show_editing_panel">ਸੰਪਾਦਨ ਪੈਨਲ ਦਿਖਾਓ</string>
+    <string name="enable_disable_editing_panel">ਸੰਪਾਦਨ ਪੈਨਲ ਨੂੰ ਸਮਰੱਥ/ਅਯੋਗ ਕਰੋ</string>
+    <string name="available_gestures">ਉਪਲਬਧ ਸੰਕੇਤ</string>
+    <string name="enable_disable_keyboard_one_handed_mode">ਇੱਕ ਹੱਥ ਵਾਲਾ ਮੋਡ ਨੂੰ ਸਮਰੱਥ/ਅਯੋਗ ਕਰੋ</string>
+    <string name="keyboard_keys_settings">ਕੀਬੋਰਡ ਕੁੰਜੀਆਂ ਸੈਟਿੰਗਾਂ</string>
+    <string name="enable_disable_suggestions_bar">ਇਹ ਕੀਬੋਰਡ ਵਿਊ ਦੇ ਸਿਖਰ "ਤੇ ਦਿਖਾਈ ਦੇਵੇਗਾ</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">ਸਾਰੇ ਸੁਝਾਅ ਸੁਝਾਅ ਪੱਟੀ "ਤੇ ਦਿਖਾਏ ਜਾਣਗੇ</string>
+    <string name="show_suggestions">ਉਪਭੋਗਤਾ ਟਾਈਪ ਕਰਨ "ਤੇ ਸੁਝਾਅ ਦਿਖਾਓ</string>
+    <string name="customize_suggestion_bar">ਸੁਝਾਅ ਪੱਟੀ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰੋ</string>
+    <string name="customize_suggestion_button">ਸੁਝਾਅ ਬਟਨ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰੋ</string>
+    <string name="enable_disable_voice_typing">ਵੌਇਸ ਟਾਈਪਿੰਗ ਨੂੰ ਸਮਰੱਥ/ਅਯੋਗ ਕਰੋ</string>
+    <string name="use_voice_typing">ਵੌਇਸ ਟਾਈਪਿੰਗ ਦੀ ਵਰਤੋਂ ਕਰੋ</string>
+
+    <string name="settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="languages">ਭਾਸ਼ਾਵਾਂ</string>
+    <string name="themes">ਥੀਮ</string>
+    <string name="preferences">ਤਰਜੀਹਾਂ</string>
+    <string name="fonts">ਫੌਂਟ</string>
+    <string name="text_correction">ਟੈਕਸਟ ਸੁਧਾਰ</string>
+    <string name="gestures">ਇਸ਼ਾਰੇ</string>
+    <string name="suggestions">ਸੁਝਾਅ</string>
+    <string name="one_hand_typing">ਇੱਕ ਹੱਥ ਟਾਈਪਿੰਗ</string>
+    <string name="editing_panel">ਸੰਪਾਦਨ ਪੈਨਲ</string>
+    <string name="voice_typing">ਵੌਇਸ ਟਾਈਪਿੰਗ</string>
+
+    <string name="languages_localization">ਭਾਸ਼ਾਵਾਂ &amp; ਸਥਾਨੀਕਰਨ</string>
+    <string name="customize_themes">ਥੀਮਾਂ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰੋ</string>
+    <string name="keyboard_preferences">ਕੀਬੋਰਡ ਤਰਜੀਹਾਂ</string>
+    <string name="fonts_styles">ਫੌਂਟ ਸਟਾਈਲ</string>
+    <string name="text_correction_list">ਟੈਕਸਟ ਸੁਧਾਰ</string>
+    <string name="enable_gesture_typing">ਸੰਕੇਤ ਟਾਈਪਿੰਗ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
+    <string name="enable_auto_suggestions">ਆਟੋ ਸੁਝਾਵਾਂ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
+    <string name="one_hand_typing_mode">ਇੱਕ ਹੱਥ ਟਾਈਪਿੰਗ ਮੋਡ</string>
+    <string name="customize_editing_panel">ਸੰਪਾਦਨ ਪੈਨਲ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰੋ</string>
+    <string name="voice_recognition_typing">ਅਵਾਜ਼ ਪਛਾਣ &amp; ਟਾਈਪਿੰਗ</string>
+
+    <string name="title_activity_language_picker">ਭਾਸ਼ਾ ਚੁਣਨ ਵਾਲੀ ਗਤੀਵਿਧੀ</string>
+    <string name="cencel_sub">ਗਾਹਕੀ ਰੱਦ ਕਰੋ</string>
+    <string name="yearly_subscription">ਸਾਲਾਨਾ ਗਾਹਕੀ</string>
+    <string name="app_languages">ਐਪ ਭਾਸ਼ਾ ਚੁਣੋ</string>
+    <string name="change_app_theme">ਐਪ ਥੀਮ ਚੁਣੋ</string>
+    <string name="default_theme">ਡਿਫਾਲਟ</string>
+    <string name="dark_theme">ਹਨੇਰਾ</string>
+    <string name="light_theme">ਚਾਨਣ</string>
+
+    <string name="app_theme_apply">ਲਾਗੂ ਕਰੋ</string>
+    <string name="app_theme_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="test_keyboard_here">ਇੱਥੇ ਕੀਬੋਰਡ ਦੀ ਜਾਂਚ ਕਰੋ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+
+
+    <string name="premium_keyboard_title">ਕੀਬੋਰਡ ਪਲੱਸ</string>
+    <string name="premium_des_title">ਪ੍ਰੀਮੀਅਮ ਨਾਲ ਸਾਰੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਤੱਕ ਪਹੁੰਚ ਕਰੋ</string>
+
+    <string name="customization_title">ਕਸਟਮਾਈਜ਼ੇਸ਼ਨ</string>
+    <string name="themes_fonts_title">ਥੀਮ ਅਤੇ ਫੌਂਟ</string>
+    <string name="no_ads_title">ਕੋਈ ਵਿਗਿਆਪਨ ਨਹੀਂ</string>
+    <string name="vip_support_title">ਵੀਆਈਪੀ ਸਹਾਇਤਾ</string>
+
+
+
+    <string name="reward_ad_show_title">ਇਨਾਮ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="fonts_reward_dailog_des">ਇਸ ਫੌਂਟ ਨੂੰ ਲਾਗੂ ਕਰਨ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਤੁਹਾਨੂੰ ਇਨਾਮੀ ਵਿਗਿਆਪਨ ਦੇਖਣ ਦੀ ਲੋੜ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਨਾਮ AD ਦਿਖਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="themes_reward_dailog_des">"ਇਸ ਥੀਮ ਨੂੰ ਲਾਗੂ ਕਰਨ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਤੁਹਾਨੂੰ ਇਨਾਮੀ ਵਿਗਿਆਪਨ ਦੇਖਣ ਦੀ ਲੋੜ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਨਾਮ AD ਦਿਖਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="reward_dailog_show_ad_btn">ਵਿਗਿਆਪਨ ਦਿਖਾਓ</string>
+    <string name="reward_dailog_cancel_btn">ਰੱਦ ਕਰੋ</string>
+    <string name="reward_dailog_get_premium_btn">ਪ੍ਰੀਮੀਅਮ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="loading_ads">ਇਸ਼ਤਿਹਾਰ ਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ…</string>
+    <string name="please_wait">ਕ੍ਰਿਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ…</string>
+
+
+    <string name="exit_dailog_title">ਕੀ ਐਪ ਤੋਂ ਬਾਹਰ ਜਾਣਾ ਹੈ?</string>
+    <string name="exit_dailog_des">ਕੀ ਤੁਸੀਂ ਐਪ ਤੋਂ ਬਾਹਰ ਜਾਣਾ ਯਕੀਨੀ ਹੈ?</string>
+    <string name="exit_dailog_cancel_btn">ਰੱਦ ਕਰੋ</string>
+    <string name="exit_dailog_exit_btn">ਨਿਕਾਸ</string>
+
+
+
+</resources>
+
+

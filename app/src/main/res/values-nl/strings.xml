@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">Het privacybeleid van de Keyboard-app is eigenlijk alleen geschreven om uit te leggen hoe u de informatie verzamelt en gebruikt die u kunt verzamelen wanneer u een van onze producten en services bezoekt of gebruikt. Door dit te openen en/of te gebruiken voor gepersonaliseerde advertenties en serviceontwikkeling, gaat u akkoord met het beleid en de praktijken die in dit privacybeleid worden beschreven.</string>
+
+
+    <string name="system_default">Systeemstandaard</string>
+    <string name="settings_theme_background_active">Achtergrondkleur wanneer actief</string>
+    <string name="settings_theme_background_pressed">Achtergrondkleur bij indrukken</string>
+    <string name="settings_theme_foreground">Voorgrondkleur</string>
+    <string name="settings_theme_foreground_alt">Voorgrondkleur (alternatief)</string>
+
+    <string name="saving_group_keys_label">Sleutels</string>
+    <string name="saving_number_row_label">Nummerrij</string>
+    <string name="settings_theme_undefined">Ongedefinieerd</string>
+    <string name="settings_theme_preset_summary">Aangepast (gebaseerd op %s)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Geselecteerd thema:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Beschikbare thema"s:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Pijl naar rechts</string>
+    <string name="settings_theme_background">Achtergrondkleur</string>
+    <string name="saving_number_row_summary">Nummerrij bovenaan de tekenindeling weergeven</string>
+    <string name="saving_hinted_number_row_label">Gehint nummerrij</string>
+    <string name="saving_hinted_number_row_summary">Eerste rij met hints voor karakterindeling, nummerrij</string>
+
+    <string name="saving_group_layout_label">Indeling</string>
+    <string name="saving_one_handed_mode_label">Eénhandige modus</string>
+    <string name="saving_one_handed_mode_off">Uit</string>
+    <string name="saving_one_handed_mode_right">Rechtshandige modus</string>
+    <string name="saving_hinted_symbols_label">Gehint symbolen</string>
+    <string name="saving_hinted_symbols_summary">Tweede en derde rij met symbolen voor de karakterindeling</string>
+    <string name="saving_font_size_multiplier_portrait_label">Vermenigvuldiger van lettergrootte (staand)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Vermenigvuldiger van lettergrootte (liggend)</string>
+    <string name="saving_one_handed_mode_left">Linkshandige modus</string>
+    <string name="saving_height_factor_label">Hoogte van het toetsenbord</string>
+    <string name="saving_height_factor_extra_short">Extra kort</string>
+    <string name="saving_height_factor_short">Korte hoogte</string>
+    <string name="saving_height_factor_tall">Hoog-Hoog</string>
+    <string name="saving_height_factor_extra_tall">Extra hoog</string>
+    <string name="saving_height_factor_custom">Aangepast</string>
+    <string name="saving_height_factor_custom_label">Aangepaste toetsenbordhoogtewaarde</string>
+    <string name="saving_bottom_offset_label">Onderste offset (voor gebogen schermen)</string>
+    <string name="saving_group_keypress_label">Toetsen indrukken</string>
+
+
+    <string name="saving_vibration_strength_label">Trillingssterkte bij het indrukken van een toets</string>
+    <string name="saving_popup_visible_label">PopUp-zichtbaarheid</string>
+    <string name="saving_popup_visible_summary">Pop-up weergeven wanneer u op een toets drukt</string>
+    <string name="saving_long_press_delay_label">Lange toetsaanslagvertraging</string>
+    <string name="saving_smartbar_enabled_label">Suggestiebalk inschakelen</string>
+    <string name="saving_smartbar_enabled_summary">Wordt bovenaan het toetsenbord weergegeven</string>
+    <string name="saving_sound_enabled_label">Geluid bij het indrukken van een toets</string>
+    <string name="saving_sound_volume_label">Geluidsvolume bij het indrukken van een toets</string>
+    <string name="saving_height_factor_mid_short">Middelhoge hoogte</string>
+    <string name="saving_height_factor_normal">Normale hoogte</string>
+    <string name="saving_correction_auto_capitalization_label">Automatische kapitalisatie</string>
+    <string name="saving_correction_auto_capitalization_summary">Hoofdletters gebruiken voor woorden op basis van de huidige invoercontext</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Onthoud de capslock-status</string>
+    <string name="saving_height_factor_mid_tall">Middelhoog</string>
+    <string name="saving_vibration_enabled_label">Trillen bij het indrukken van een toets</string>
+    <string name="saving_suggestion_title">Suggesties</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Caps lock blijft aan wanneer u naar een ander tekstveld gaat</string>
+    <string name="saving_correction_double_space_period_label">Dubbele spatie periode</string>
+    <string name="saving_correction_double_space_period_summary">Door twee keer op de spatiebalk te klikken wordt een punt met spatie ingevoegd</string>
+
+    <string name="saving_correction_title">Correcties</string>
+    <string name="saving_glide_title">Glijdend typen</string>
+    <string name="saving_glide_enabled_label">Glijdend typen inschakelen</string>
+    <string name="saving_suggestion_enabled_label">Suggesties weergeven wanneer de gebruiker typt</string>
+    <string name="saving_suggestion_enabled_summary">Wordt weergegeven in de suggestiebalk</string>
+    <string name="saving_glide_show_trail_summary">Zal na elk woord verdwijnen</string>
+    <string name="saving_gestures_title">Gebaren</string>
+    <string name="saving_gestures_swipe_action_no_action">Niets doen</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Suggesties voor klembordinhoud</string>
+    <string name="saving_suggestion_use_pref_words_summary">Gebruik voorgaande woorden om suggesties te genereren</string>
+    <string name="saving_glide_enabled_summary">Typ een woord door met uw vinger door de letters te schuiven</string>
+    <string name="saving_glide_show_trail_label">Glijbaan weergeven</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Cursor omlaag</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Cursor naar links</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Cursor rechts</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Verwijder alle tekens</string>
+    <string name="saving_gestures_swipe_action_delete_word">Huidig ​​woord verwijderen</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Verwijder alle woorden</string>
+    <string name="saving_gestures_swipe_up_label">Gebaar omhoog</string>
+    <string name="saving_gestures_swipe_down_label">Gebaar naar beneden</string>
+    <string name="saving_gestures_swipe_left_label">Gebaar naar links</string>
+    <string name="saving_gestures_swipe_right_label">Gebaar rechts</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Minimaliseer toetsenbord</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Cursor omhoog</string>
+    <string name="saving_gestures_swipe_action_shift">Verschuivingsactie</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Ga naar vorige taal</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Ga naar de volgende taal</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Spatiebalkgebaar naar links</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Spatiebalkgebaar rechts</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Zeer langzaam</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Langzaam</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Normaal</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Snel</string>
+
+    <string name="saving_advanced_settings_theme_light">Licht</string>
+    <string name="saving_advanced_settings_theme_dark">Donker</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Verwijderknopgebaar links</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Drempelwaarde voor veegsnelheid</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Drempelwaarde voor veegsnelheid</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Lang</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Heel lang</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Drempelwaarde voor swipe-afstand</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Zeer kort</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Kort</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Normaal</string>
+
+
+    <string name="txt_lang_frag">Alle geselecteerde talen zijn zichtbaar in het toetsenbord.</string>
+    <string name="search_language_hint">Zoek hier naar taal.</string>
+    <string name="switch_to_keyboard_des">Meerdere talen, 100+ thema"s, Geanimeerde GIF"s, Geanimeerde stickers, Emoji"s, Spraakgestuurd typen.</string>
+    <string name="welcome_to">Welkom bij</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Toetsenbord inschakelen</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Selecteer toetsenbord</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Voltooi de installatie</string>
+
+    <string name="enable_des">Klik hier om Toetsenbord in te schakelen in uw invoermethode-instellingenlijst. Dit zal het autoriseren om op uw apparaat te draaien.</string>
+    <string name="select_des">Klik hier om uw toetsenbord te selecteren in uw invoermethode-instellingenlijst. Dit zal het autoriseren om op uw apparaat te draaien.</string>
+    <string name="finish_des">Alles is klaar! Uw toetsenbord is ingesteld en klaar voor gebruik</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Lettertype Naam</string>
+    <string name="set_brightness">Helderheid instellen</string>
+    <string name="default_themes">Standaardthema"s</string>
+    <string name="colors_themes">Kleuren Thema"s</string>
+    <string name="light_gradients_themes">Lichte gradiënten thema"s</string>
+    <string name="dark_gradients_themes">Donkere gradiënten thema"s</string>
+    <string name="landscapes_themes">Landschappen Thema"s</string>
+    <string name="gallery_themes">Galerij Thema"s</string>
+    <string name="crop_image">Afbeelding bijsnijden</string>
+    <string name="next">Volgende</string>
+    <string name="mobile_consent_form">AVG-toestemmingsformulier</string>
+    <string name="privacy_policy_title">Privacybeleid</string>
+    <string name="disclaimer">Vrijwaring</string>
+    <string name="have_accept">Ik heb gelezen en ga akkoord</string>
+    <string name="theme_updated_successfully">Thema is succesvol bijgewerkt</string>
+    <string name="apply_theme">Thema toepassen</string>
+    <string name="suggestions_database">Suggesties Database</string>
+    <string name="suggestions_dailog">Om de Suggesties-functie in het toetsenbord te activeren, moet u het Database-bestand van onze server downloaden. Het duurt enkele seconden. Wilt u nu of later downloaden?</string>
+    <string name="download">Download</string>
+    <string name="later">Later</string>
+    <string name="txt_nav_home">Thuis</string>
+    <string name="txt_nav_rate_app">Beoordeel &amp; Review (Advertentie)</string>
+    <string name="txt_nav_share_app">App delen (advertentie)</string>
+    <string name="txt_nav_more_apps">Onze apps (advertentie)</string>
+    <string name="txt_nav_family_apps">Onze familie-apps (advertentie)</string>
+    <string name="txt_nav_feedback">Feedback</string>
+    <string name="txt_nav_update">Nu bijwerken</string>
+    <string name="txt_nav_ads_remove">Advertenties verwijderen</string>
+    <string name="txt_feedback">Ik heb feedback voor je toetsenbord-app</string>
+
+
+    <string name="finish">Finish</string>
+    <string name="space_for_advertisement">Ruimte voor reclame</string>
+    <string name="other">Ander</string>
+
+
+    <string name="txt_nav_premium_version">Premium-versie</string>
+    <string name="support_the_development">Ondersteun de ontwikkeling</string>
+    <string name="unlimited_customization">Onbeperkte aanpassing</string>
+    <string name="complete_ad_free_version">Volledige advertentievrije versie</string>
+    <string name="unlimited_themes">Premium thema"s en lettertypestijlen</string>
+    <string name="terms_of_services">Algemene voorwaarden</string>
+    <string name="this_subscriptions_renews_automatically">"Maandelijks abonnement" geeft u onbeperkte toegang tot onze applicatie voor een maand en wordt maandelijks verlengd. Als u het niet annuleert.\n Life Time Purchase is de enige eenmalige aankoop. Voor meer informatie, bekijk de Algemene voorwaarden van de service.</string>
+
+
+    <string name="monthly_subscription">Maandelijks abonnement</string>
+    <string name="life_time_purchase">Levenslange aankoop</string>
+    <string name="life_time_price">Levenslange prijs</string>
+    <string name="monthly_price">Maandelijkse prijs</string>
+    <string name="purchase_now">Nu kopen</string>
+    <string name="subscribe_now">Abonneer je nu</string>
+
+
+    <string name="enable_disable_number_row">Nummerrij in-/uitschakelen</string>
+    <string name="visible_number_row">Zichtbare nummerrij bovenaan het toetsenbord</string>
+    <string name="show_numeric_hints">Numerieke hints weergeven</string>
+    <string name="show_numeric_hint_on_first_row">Geef een hint met getallen op de eerste rij tekens</string>
+    <string name="show_symbol_hints">Toon symboolhints</string>
+    <string name="show_symbol_hints_on_rows">Symbolen weergeven geeft een hint op de tweede en derde rij tekens</string>
+    <string name="adjust_keyboard_font_size_portrait">Pas de lettergrootte van het toetsenbord aan voor de staande weergave</string>
+    <string name="adjust_keyboard_font_size_landscape">Pas de lettergrootte van het toetsenbord aan voor de liggende weergave</string>
+    <string name="keyboard_layout_settings">Toetsenbordindelingsinstellingen</string>
+    <string name="keyboard_height">Hoogte toetsenbord</string>
+    <string name="keyboard_key_click_settings">Toetsenbord toetsklik instellingen</string>
+    <string name="play_sound_on_key_click">Geluid afspelen bij toetsklik</string>
+    <string name="key_click_sound_volume">Pas het volume van het toetsklikgeluid aan</string>
+    <string name="vibrate_on_key_click">Trillen bij toetsklik</string>
+    <string name="key_vibration_strength">Pas de trillingssterkte van de toets aan</string>
+    <string name="enable_popup_alphabets">Pop-upalfabetten weergeven wanneer de gebruiker op een toets klikt</string>
+    <string name="popup_feature">Pop-upfunctie</string>
+    <string name="correction_settings">Correctie-instellingen</string>
+    <string name="auto_capitalize">Automatisch kapitaliseren</string>
+    <string name="save_caps_lock_state">Caps Lock-status opslaan</string>
+    <string name="show_editing_panel">Bewerkingspaneel weergeven</string>
+    <string name="enable_disable_editing_panel">Bewerkingspaneel in-/uitschakelen</string>
+    <string name="available_gestures">Beschikbare gebaren</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Eénhandige modus in-/uitschakelen</string>
+    <string name="keyboard_keys_settings">Instellingen voor toetsenbordtoetsen</string>
+    <string name="enable_disable_suggestions_bar">Dit zal zichtbaar zijn bovenaan de toetsenbordweergave</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Alle suggesties worden weergegeven op de suggestiebalk</string>
+    <string name="show_suggestions">Suggesties weergeven wanneer de gebruiker typt</string>
+    <string name="customize_suggestion_bar">Suggestiebalk aanpassen</string>
+    <string name="customize_suggestion_button">Suggestieknop aanpassen</string>
+    <string name="enable_disable_voice_typing">Spraakgestuurd typen in-/uitschakelen</string>
+    <string name="use_voice_typing">Gebruik spraakgestuurd typen</string>
+
+    <string name="settings">Instellingen</string>
+    <string name="languages">Talen</string>
+    <string name="themes">Thema"s</string>
+    <string name="preferences">Voorkeuren</string>
+    <string name="fonts">Lettertypen</string>
+    <string name="text_correction">Tekstcorrectie</string>
+    <string name="gestures">Gebaren</string>
+    <string name="suggestions">Suggesties</string>
+    <string name="one_hand_typing">Typen met één hand</string>
+    <string name="editing_panel">Bewerkingspaneel</string>
+    <string name="voice_typing">Spraakgestuurd typen</string>
+
+    <string name="languages_localization">Talen en lokalisatie</string>
+    <string name="customize_themes">Thema"s aanpassen</string>
+    <string name="keyboard_preferences">Toetsenbordvoorkeuren</string>
+    <string name="fonts_styles">Lettertypen Stijlen</string>
+    <string name="text_correction_list">Tekstcorrectie</string>
+    <string name="enable_gesture_typing">Gebaartypen inschakelen</string>
+    <string name="enable_auto_suggestions">Automatische suggesties inschakelen</string>
+    <string name="one_hand_typing_mode">Typen met één hand</string>
+    <string name="customize_editing_panel">Pas het bewerkingspaneel aan</string>
+    <string name="voice_recognition_typing">Spraakherkenning en typen</string>
+
+    <string name="title_activity_language_picker">TaalkiezerActiviteit</string>
+    <string name="cencel_sub">Abonnement opzeggen</string>
+    <string name="yearly_subscription">Jaarlijks abonnement</string>
+    <string name="app_languages">Kies app-taal</string>
+    <string name="change_app_theme">Kies App-thema</string>
+    <string name="default_theme">Standaard</string>
+    <string name="dark_theme">Donker</string>
+    <string name="light_theme">Licht</string>
+
+    <string name="app_theme_apply">Toepassen</string>
+    <string name="app_theme_cancel">Annuleren</string>
+    <string name="test_keyboard_here">Test toetsenbord hier</string>
+    <string name="cancel">Annuleren</string>
+
+
+    <string name="premium_keyboard_title">Toetsenbord Plus</string>
+    <string name="premium_des_title">Krijg toegang tot alle functies met premium</string>
+
+    <string name="customization_title">Aanpassing</string>
+    <string name="themes_fonts_title">Thema"s en lettertypen</string>
+    <string name="no_ads_title">Geen advertenties</string>
+    <string name="vip_support_title">VIP-ondersteuning</string>
+
+
+
+    <string name="reward_ad_show_title">Beloning ontvangen</string>
+    <string name="fonts_reward_dailog_des">In het geval van het toepassen van dit lettertype moet u de beloonde advertentie bekijken. Wilt u de beloningsadvertentie weergeven?</string>
+    <string name="themes_reward_dailog_des">"In het geval dat u dit thema toepast, moet u de advertentie met beloning bekijken. Wilt u de advertentie met beloning weergeven?</string>
+    <string name="reward_dailog_show_ad_btn">Advertentie weergeven</string>
+    <string name="reward_dailog_cancel_btn">Annuleren</string>
+    <string name="reward_dailog_get_premium_btn">Krijg Premium</string>
+    <string name="loading_ads">Advertenties laden…</string>
+    <string name="please_wait">Even geduld aub…</string>
+
+
+    <string name="exit_dailog_title">App afsluiten?</string>
+    <string name="exit_dailog_des">Weet u zeker dat u de app wilt afsluiten?</string>
+    <string name="exit_dailog_cancel_btn">Annuleren</string>
+    <string name="exit_dailog_exit_btn">Uitgang</string>
+
+
+
+</resources>
+
+

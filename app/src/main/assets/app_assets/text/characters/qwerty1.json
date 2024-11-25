@@ -1,0 +1,39 @@
+{
+  "type": "characters",
+  "name": "qwerty",
+  "direction": "ltr",
+  "arrangement": [
+    [
+      { "code":  9440, "label": "🅀" },
+      { "code":  9446, "label": "🅆" },
+      { "code":  9428, "label": "🄴" },
+      { "code":  9441, "label": "🅁" },
+      { "code":  9443, "label": "🅃" },
+      { "code":  9448, "label": "🅈" },
+      { "code":  9444, "label": "🅄" },
+      { "code":  9432, "label": "🄸" },
+      { "code":  9438, "label": "🄾" },
+      { "code":  9439, "label": "🄿" }
+    ],
+    [
+      { "code":  9424, "label": "🄰" },
+      { "code":  9442, "label": "🅂" },
+      { "code":  9427, "label": "🄳" },
+      { "code":  9429, "label": "🄵" },
+      { "code":  9430, "label": "🄶" },
+      { "code":  9431, "label": "🄷" },
+      { "code":  9433, "label": "🄹" },
+      { "code":  9434, "label": "🄺" },
+      { "code":  9435, "label": "🄻" }
+    ],
+    [
+      { "code":  9449, "label": "🅉" },
+      { "code":  9447, "label": "🅇" },
+      { "code":  9426, "label": "🄲" },
+      { "code":  9445, "label": "🅅" },
+      { "code":  9425, "label": "🄱" },
+      { "code":  9437, "label": "🄽" },
+      { "code":  9436, "label": "🄼" }
+    ]
+  ]
+}

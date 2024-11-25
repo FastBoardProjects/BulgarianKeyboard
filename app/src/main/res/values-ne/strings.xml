@@ -1,0 +1,287 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">किबोर्ड एप गोपनीयता नीति वास्तवमा तपाईले हाम्रो कुनै पनि उत्पादन र सेवाहरू भ्रमण गर्दा वा प्रयोग गर्दा हुन सक्ने जानकारी सङ्कलन र प्रयोग गर्न व्याख्या गर्ने मात्र उद्देश्यका लागि लेखिएको हो। पहुँच र/वा यसलाई व्यक्तिगत विज्ञापन र सेवाहरूको विकासको लागि प्रयोग गरेर, तपाईं यस गोपनीयता नीतिमा वर्णन गरिएका नीतिहरू र अभ्यासहरूमा सहमत हुनुहुन्छ।</string>
+
+
+    <string name="system_default">प्रणाली पूर्वनिर्धारित</string>
+    <string name="settings_theme_background_active">सक्रिय हुँदा पृष्ठभूमि रङ</string>
+    <string name="settings_theme_background_pressed">थिच्दा पृष्ठभूमि रंग</string>
+    <string name="settings_theme_foreground">अग्रभूमि रंग</string>
+    <string name="settings_theme_foreground_alt">अग्रभूमि रंग (वैकल्पिक)</string>
+
+    <string name="saving_group_keys_label">कुञ्जीहरू</string>
+    <string name="saving_number_row_label">नम्बर पङ्क्ति</string>
+    <string name="settings_theme_undefined">अपरिभाषित</string>
+    <string name="settings_theme_preset_summary">अनुकूलन (%s मा आधारित)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">चयन गरिएको विषयवस्तु:</string>
+    <string name="settings_theme_preset_dialog_available_themes">उपलब्ध विषयवस्तुहरू:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">दायाँ तीर</string>
+    <string name="settings_theme_background">पृष्ठभूमि रंग</string>
+    <string name="saving_number_row_summary">क्यारेक्टर लेआउटको शीर्षमा नम्बर पङ्क्ति देखाउनुहोस्</string>
+    <string name="saving_hinted_number_row_label">सङ्केत गरिएको संख्या पङ्क्ति</string>
+    <string name="saving_hinted_number_row_summary">क्यारेक्टर लेआउटको पहिलो पङ्क्तिले सङ्ख्या पङ्क्ति सङ्केत गर्छ</string>
+
+    <string name="saving_group_layout_label">लेआउट</string>
+    <string name="saving_one_handed_mode_label">एक हात मोड</string>
+    <string name="saving_one_handed_mode_off">बन्द</string>
+    <string name="saving_one_handed_mode_right">दाहिने हात मोड</string>
+    <string name="saving_hinted_symbols_label">संकेतित प्रतीकहरू</string>
+    <string name="saving_hinted_symbols_summary">क्यारेक्टर लेआउट संकेत प्रतीकहरूको दोस्रो र तेस्रो पङ्क्ति</string>
+    <string name="saving_font_size_multiplier_portrait_label">फन्ट साइज गुणक (पोर्ट्रेट)</string>
+    <string name="saving_font_size_multiplier_landscape_label">फन्ट साइज गुणक (ल्याण्डस्केप)</string>
+    <string name="saving_one_handed_mode_left">बायाँ हात मोड</string>
+    <string name="saving_height_factor_label">किबोर्ड उचाइ</string>
+    <string name="saving_height_factor_extra_short">अतिरिक्त-छोटो</string>
+    <string name="saving_height_factor_short">छोटो उचाइ</string>
+    <string name="saving_height_factor_tall">अग्लो-उचाइ</string>
+    <string name="saving_height_factor_extra_tall">अतिरिक्त अग्लो</string>
+    <string name="saving_height_factor_custom">अनुकूलन</string>
+    <string name="saving_height_factor_custom_label">अनुकूलन किबोर्ड उचाइ मान</string>
+    <string name="saving_bottom_offset_label">तल्लो अफसेट (बक्र स्क्रिनहरूको लागि)</string>
+    <string name="saving_group_keypress_label">कुञ्जी थिच्नुहोस्</string>
+
+
+    <string name="saving_vibration_strength_label">कुञ्जी प्रेसमा कम्पन बल</string>
+    <string name="saving_popup_visible_label">पपअप दृश्यता</string>
+    <string name="saving_popup_visible_summary">जब तपाइँ कुञ्जी थिच्नुहुन्छ पपअप देखाउनुहोस्</string>
+    <string name="saving_long_press_delay_label">लामो कुञ्जी प्रेस ढिलाइ</string>
+    <string name="saving_smartbar_enabled_label">सुझाव पट्टी सक्षम गर्नुहोस्</string>
+    <string name="saving_smartbar_enabled_summary">किबोर्डको शीर्षमा देखाइनेछ</string>
+    <string name="saving_sound_enabled_label">कुञ्जी थिच्दा आवाज</string>
+    <string name="saving_sound_volume_label">कुञ्जी थिच्दा ध्वनि भोल्युम</string>
+    <string name="saving_height_factor_mid_short">मध्यम उचाइ</string>
+    <string name="saving_height_factor_normal">सामान्य उचाइ</string>
+    <string name="saving_correction_auto_capitalization_label">स्वत: पूंजीकरण</string>
+    <string name="saving_correction_auto_capitalization_summary">हालको इनपुट सन्दर्भमा आधारित शब्दहरू क्यापिटल गर्नुहोस्</string>
+    <string name="saving_correction_remember_caps_lock_state_label">क्याप्स लक स्थिति सम्झनुहोस्</string>
+    <string name="saving_height_factor_mid_tall">मध्य-अग्लो</string>
+    <string name="saving_vibration_enabled_label">कुञ्जी थिच्दा भाइब्रेट गर्नुहोस्</string>
+    <string name="saving_suggestion_title">सुझावहरू</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">अर्को पाठ क्षेत्रमा सर्दा क्याप्स लक सक्रिय रहनेछ</string>
+    <string name="saving_correction_double_space_period_label">डबल-स्पेस अवधि</string>
+    <string name="saving_correction_double_space_period_summary">स्पेस बारमा दुई पटक क्लिक गर्दा स्पेस सहित अवधि सम्मिलित हुनेछ</string>
+
+    <string name="saving_correction_title">सुधारहरू</string>
+    <string name="saving_glide_title">ग्लाइड टाइपिङ</string>
+    <string name="saving_glide_enabled_label">ग्लाइड टाइपिङ सक्षम गर्नुहोस्</string>
+    <string name="saving_suggestion_enabled_label">प्रयोगकर्ता टाइप गर्दा सुझावहरू प्रदर्शन गर्नुहोस्</string>
+    <string name="saving_suggestion_enabled_summary">सुझाव पट्टीमा देखाइनेछ</string>
+    <string name="saving_glide_show_trail_summary">प्रत्येक शब्द पछि गायब हुनेछ</string>
+    <string name="saving_gestures_title">इशाराहरू</string>
+    <string name="saving_gestures_swipe_action_no_action">केहि नगर्नुहोस्</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">क्लिपबोर्ड सामग्री सुझावहरू</string>
+    <string name="saving_suggestion_use_pref_words_summary">सुझावहरू सिर्जना गर्न अघिल्लो शब्दहरू प्रयोग गर्नुहोस्</string>
+    <string name="saving_glide_enabled_summary">आफ्नो औंलालाई यसको अक्षरहरू मार्फत स्लाइड गरेर एक शब्द टाइप गर्नुहोस्</string>
+    <string name="saving_glide_show_trail_label">ग्लाइड ट्रेल देखाउनुहोस्</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">कर्सर तल</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">कर्सर बायाँ</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">कर्सर दायाँ</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">सबै क्यारेक्टरहरू हटाउनुहोस्</string>
+    <string name="saving_gestures_swipe_action_delete_word">हालको शब्द हटाउनुहोस्</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">सबै शब्दहरू हटाउनुहोस्</string>
+    <string name="saving_gestures_swipe_up_label">इशारा माथि</string>
+    <string name="saving_gestures_swipe_down_label">इशारा तल</string>
+    <string name="saving_gestures_swipe_left_label">इशारा बायाँ</string>
+    <string name="saving_gestures_swipe_right_label">दायाँ इशारा गर्नुहोस्</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">किबोर्ड न्यूनतम गर्नुहोस्</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">कर्सर माथि</string>
+    <string name="saving_gestures_swipe_action_shift">शिफ्ट कार्य</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">अघिल्लो भाषामा जानुहोस्</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">अर्को भाषामा जानुहोस्</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">स्पेस बार इशारा बायाँ</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">स्पेस बार इशारा दायाँ</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">धेरै ढिलो</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">ढिलो</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">सामान्य</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">छिटो</string>
+
+    <string name="saving_advanced_settings_theme_light">उज्यालो</string>
+    <string name="saving_advanced_settings_theme_dark">अँध्यारो</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">मेट्नुहोस् बटन इशारा बायाँ</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">स्वाइप वेग थ्रेसहोल्ड</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">स्वाइप वेग थ्रेसहोल्ड</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">लामो</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">धेरै लामो</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">स्वाइप दूरी थ्रेसहोल्ड</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">धेरै छोटो</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">छोटो</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">सामान्य</string>
+
+
+    <string name="txt_lang_frag">सबै चयन गरिएका भाषाहरू किबोर्डमा देखिने छन्।</string>
+    <string name="search_language_hint">यहाँ भाषा खोज्नुहोस्..</string>
+    <string name="switch_to_keyboard_des">बहु भाषाहरू 100+ थिमहरू एनिमेटेड GIFs एनिमेटेड स्टिकरहरू, इमोजिस भ्वाइस टाइपिङ।</string>
+    <string name="welcome_to">मा स्वागत छ</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">किबोर्ड सक्षम गर्नुहोस्</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">किबोर्ड चयन गर्नुहोस्</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">सेटअप समाप्त गर्नुहोस्</string>
+
+    <string name="enable_des">तपाईंको इनपुट विधि सेटिङ सूचीमा किबोर्ड सक्षम गर्न यहाँ क्लिक गर्नुहोस्। यसले यसलाई तपाइँको यन्त्रमा चलाउन अनुमति दिनेछ।</string>
+    <string name="select_des">तपाईंको इनपुट विधि सेटिङहरू सूचीमा तपाईंको किबोर्ड चयन गर्न यहाँ क्लिक गर्नुहोस्। यसले यसलाई तपाइँको यन्त्रमा चलाउन अनुमति दिनेछ।</string>
+    <string name="finish_des">सबै सकियो! तपाईँको किबोर्ड सेट अप र प्रयोग गर्न तयार छ</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">फन्ट नाम</string>
+    <string name="set_brightness">चमक सेट गर्नुहोस्</string>
+    <string name="default_themes">पूर्वनिर्धारित विषयवस्तुहरू</string>
+    <string name="colors_themes">रंग विषयवस्तुहरू</string>
+    <string name="light_gradients_themes">हल्का ग्रेडियन्ट विषयवस्तुहरू</string>
+    <string name="dark_gradients_themes">गाढा ग्रेडियन्ट विषयवस्तुहरू</string>
+    <string name="landscapes_themes">परिदृश्य विषयवस्तुहरू</string>
+    <string name="gallery_themes">ग्यालरी विषयवस्तुहरू</string>
+    <string name="crop_image">छवि क्रप गर्नुहोस्</string>
+    <string name="next">अर्को</string>
+    <string name="mobile_consent_form">GDPR सहमति फारम</string>
+    <string name="privacy_policy_title">गोपनीयता नीति</string>
+    <string name="disclaimer">अस्वीकरण</string>
+    <string name="have_accept">पढेको छु र स्वीकार गरेको छु</string>
+    <string name="theme_updated_successfully">विषयवस्तु सफलतापूर्वक अद्यावधिक गरिएको छ</string>
+    <string name="apply_theme">विषयवस्तु लागू गर्नुहोस्</string>
+    <string name="suggestions_database">सुझाव डाटाबेस</string>
+    <string name="suggestions_dailog">किबोर्डमा सुझाव सुविधा सक्षम गर्न तपाईंले हाम्रो सर्भरबाट डाटाबेस फाइल डाउनलोड गर्नुपर्छ। यसले केही सेकेन्ड लिनेछ। तपाईं अहिले वा पछि डाउनलोड गर्न चाहनुहुन्छ?</string>
+    <string name="download">डाउनलोड गर्नुहोस्</string>
+    <string name="later">पछि</string>
+    <string name="txt_nav_home">घर</string>
+    <string name="txt_nav_rate_app">दर र समीक्षा (विज्ञापन)</string>
+    <string name="txt_nav_share_app">सेयर एप (विज्ञापन)</string>
+    <string name="txt_nav_more_apps">हाम्रा एप्स (विज्ञापन)</string>
+    <string name="txt_nav_family_apps">हाम्रो पारिवारिक एप्स (विज्ञापन)</string>
+    <string name="txt_nav_feedback">प्रतिक्रिया</string>
+    <string name="txt_nav_update">अहिले अपडेट गर्नुहोस्</string>
+    <string name="txt_nav_ads_remove">विज्ञापनहरू हटाउनुहोस्</string>
+    <string name="txt_feedback">मसँग तपाईंको किबोर्ड एपको लागि प्रतिक्रिया छ</string>
+
+
+    <string name="finish">समाप्त गर्नुहोस्</string>
+    <string name="space_for_advertisement">विज्ञापनको लागि ठाउँ</string>
+    <string name="other">अन्य</string>
+
+
+    <string name="txt_nav_premium_version">प्रिमियम संस्करण</string>
+    <string name="support_the_development">बिकास को समर्थन गरौ</string>
+    <string name="unlimited_customization">असीमित अनुकूलन</string>
+    <string name="complete_ad_free_version">पूरा विज्ञापन नि: शुल्क संस्करण</string>
+    <string name="unlimited_themes">प्रिमियम विषयवस्तु र फन्ट शैलीहरू</string>
+    <string name="terms_of_services">सर्तहरू &amp; सर्तहरू</string>
+    <string name="this_subscriptions_renews_automatically">"मासिक सदस्यता" ले तपाइँलाई एक महिनाको लागि हाम्रो आवेदनमा असीमित पहुँच दिन्छ र मासिक नवीकरण हुनेछ। यदि तपाईंले यसलाई रद्द गर्नुभएन भने।\n लाइफ टाइम खरिद एक पटकको खरिद मात्र हो। थप जानकारीको लागि कृपया सर्तहरू र amp; सेवाका सर्तहरू।</string>
+
+
+    <string name="monthly_subscription">मासिक सदस्यता</string>
+    <string name="life_time_purchase">लाइफ टाइम खरीद</string>
+    <string name="life_time_price">जीवन-समय मूल्य</string>
+    <string name="monthly_price">मासिक मूल्य</string>
+    <string name="purchase_now">अहिले खरिद गर्नुहोस्</string>
+    <string name="subscribe_now">अब सदस्यता लिनुहोस्</string>
+
+
+    <string name="enable_disable_number_row">नम्बर पङ्क्ति सक्षम/असक्षम गर्नुहोस्</string>
+    <string name="visible_number_row">किबोर्डको शीर्षमा दृश्य संख्या पङ्क्ति</string>
+    <string name="show_numeric_hints">संख्यात्मक संकेतहरू देखाउनुहोस्</string>
+    <string name="show_numeric_hint_on_first_row">वर्णहरूको पहिलो पङ्क्तिमा सङ्केत सङ्केत देखाउनुहोस्</string>
+    <string name="show_symbol_hints">प्रतीक संकेतहरू देखाउनुहोस्</string>
+    <string name="show_symbol_hints_on_rows">वर्णहरूको दोस्रो र तेस्रो पङ्क्तिमा प्रतीक सङ्केत देखाउनुहोस्</string>
+    <string name="adjust_keyboard_font_size_portrait">पोर्ट्रेट दृश्यको लागि किबोर्ड फन्ट साइज समायोजन गर्नुहोस्</string>
+    <string name="adjust_keyboard_font_size_landscape">ल्यान्डस्केप दृश्यको लागि किबोर्ड फन्ट साइज समायोजन गर्नुहोस्</string>
+    <string name="keyboard_layout_settings">किबोर्ड लेआउट सेटिङहरू</string>
+    <string name="keyboard_height">किबोर्ड उचाइ</string>
+    <string name="keyboard_key_click_settings">किबोर्ड कुञ्जी सेटिङहरूमा क्लिक गर्नुहोस्</string>
+    <string name="play_sound_on_key_click">कुञ्जी क्लिकमा ध्वनि प्ले गर्नुहोस्</string>
+    <string name="key_click_sound_volume">कुञ्जी क्लिक ध्वनि भोल्युम समायोजन गर्नुहोस्</string>
+    <string name="vibrate_on_key_click">कुञ्जी क्लिकमा भाइब्रेट गर्नुहोस्</string>
+    <string name="key_vibration_strength">कुञ्जी कम्पन शक्ति समायोजन गर्नुहोस्</string>
+    <string name="enable_popup_alphabets">प्रयोगकर्ताले कुञ्जी क्लिक गर्दा पप-अप अक्षरहरू देखाउनुहोस्</string>
+    <string name="popup_feature">पप-अप सुविधा</string>
+    <string name="correction_settings">सुधार सेटिङहरू</string>
+    <string name="auto_capitalize">स्वत: पूंजीकरण</string>
+    <string name="save_caps_lock_state">क्याप्स लक स्थिति बचत गर्नुहोस्</string>
+    <string name="show_editing_panel">सम्पादन प्यानल देखाउनुहोस्</string>
+    <string name="enable_disable_editing_panel">सम्पादन प्यानल सक्षम/असक्षम गर्नुहोस्</string>
+    <string name="available_gestures">उपलब्ध इशाराहरू</string>
+    <string name="enable_disable_keyboard_one_handed_mode">एक हात मोड सक्षम/असक्षम गर्नुहोस्</string>
+    <string name="keyboard_keys_settings">किबोर्ड कुञ्जी सेटिङहरू</string>
+    <string name="enable_disable_suggestions_bar">यो किबोर्ड दृश्यको शीर्षमा देखिने छ</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">सबै सुझावहरू सुझाव पट्टीमा देखाइनेछ</string>
+    <string name="show_suggestions">प्रयोगकर्ता टाइप गर्दा सुझावहरू देखाउनुहोस्</string>
+    <string name="customize_suggestion_bar">सुझाव पट्टी अनुकूलित गर्नुहोस्</string>
+    <string name="customize_suggestion_button">सुझाव बटन अनुकूलन गर्नुहोस्</string>
+    <string name="enable_disable_voice_typing">भ्वाइस टाइपिङ सक्षम/असक्षम गर्नुहोस्</string>
+    <string name="use_voice_typing">भ्वाइस टाइपिङ प्रयोग गर्नुहोस्</string>
+
+    <string name="settings">सेटिङहरू</string>
+    <string name="languages">भाषाहरू</string>
+    <string name="themes">विषयवस्तुहरू</string>
+    <string name="preferences">प्राथमिकताहरू</string>
+    <string name="fonts">फन्टहरू</string>
+    <string name="text_correction">पाठ सुधार</string>
+    <string name="gestures">इशाराहरू</string>
+    <string name="suggestions">सुझावहरू</string>
+    <string name="one_hand_typing">एक हात टाइपिङ</string>
+    <string name="editing_panel">सम्पादन प्यानल</string>
+    <string name="voice_typing">आवाज टाइपिङ</string>
+
+    <string name="languages_localization">भाषाहरू &amp; स्थानीयकरण</string>
+    <string name="customize_themes">विषयवस्तुहरू अनुकूलित गर्नुहोस्</string>
+    <string name="keyboard_preferences">किबोर्ड प्राथमिकताहरू</string>
+    <string name="fonts_styles">फन्ट शैलीहरू</string>
+    <string name="text_correction_list">पाठ सुधार</string>
+    <string name="enable_gesture_typing">इशारा टाइपिङ सक्षम गर्नुहोस्</string>
+    <string name="enable_auto_suggestions">स्वत: सुझावहरू सक्षम गर्नुहोस्</string>
+    <string name="one_hand_typing_mode">एक हात टाइपिङ मोड</string>
+    <string name="customize_editing_panel">सम्पादन प्यानल अनुकूलित गर्नुहोस्</string>
+    <string name="voice_recognition_typing">आवाज पहिचान र टाइप गर्दै</string>
+
+    <string name="title_activity_language_picker">LanguagePickerActivity</string>
+    <string name="cencel_sub">सदस्यता रद्द गर्नुहोस्</string>
+    <string name="yearly_subscription">वार्षिक सदस्यता</string>
+    <string name="app_languages">एप भाषा छान्नुहोस्</string>
+    <string name="change_app_theme">एप थिम छान्नुहोस्</string>
+    <string name="default_theme">पूर्वनिर्धारित</string>
+    <string name="dark_theme">अँध्यारो</string>
+    <string name="light_theme">उज्यालो</string>
+
+    <string name="app_theme_apply">आवेदन दिनुहोस्</string>
+    <string name="app_theme_cancel">रद्द गर्नुहोस्</string>
+    <string name="test_keyboard_here">यहाँ किबोर्ड परीक्षण गर्नुहोस्</string>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+
+
+    <string name="premium_keyboard_title">किबोर्ड प्लस</string>
+    <string name="premium_des_title">प्रिमियम संग सबै सुविधाहरू पहुँच गर्नुहोस्</string>
+
+    <string name="customization_title">अनुकूलन</string>
+    <string name="themes_fonts_title">विषयवस्तु र फन्टहरू</string>
+    <string name="no_ads_title">कुनै विज्ञापन छैन</string>
+    <string name="vip_support_title">VIP समर्थन</string>
+
+
+
+    <string name="reward_ad_show_title">इनाम पाउनुहोस्</string>
+    <string name="fonts_reward_dailog_des">यो फन्ट लागू गर्दा तपाईंले पुरस्कृत विज्ञापन हेर्न आवश्यक छ। तपाईं पुरस्कार AD देखाउन चाहनुहुन्छ?</string>
+    <string name="themes_reward_dailog_des">"यो विषयवस्तु लागू गर्ने अवस्थामा तपाईंले पुरस्कृत विज्ञापन हेर्नु पर्छ। के तपाईं पुरस्कार AD देखाउन चाहनुहुन्छ?</string>
+    <string name="reward_dailog_show_ad_btn">विज्ञापन देखाउनुहोस्</string>
+    <string name="reward_dailog_cancel_btn">रद्द गर्नुहोस्</string>
+    <string name="reward_dailog_get_premium_btn">प्रिमियम प्राप्त गर्नुहोस्</string>
+    <string name="loading_ads">विज्ञापनहरू लोड गर्दै…</string>
+    <string name="please_wait">कृपया प्रतीक्षा गर्नुहोस्…</string>
+
+
+    <string name="exit_dailog_title">एपबाट बाहिरिने हो?</string>
+    <string name="exit_dailog_des">के तपाइँ एपबाट बाहिर निस्कन निश्चित हुनुहुन्छ?</string>
+    <string name="exit_dailog_cancel_btn">रद्द गर्नुहोस्</string>
+    <string name="exit_dailog_exit_btn">बाहिर निस्कनुहोस्</string>
+
+
+
+
+</resources>
+
+

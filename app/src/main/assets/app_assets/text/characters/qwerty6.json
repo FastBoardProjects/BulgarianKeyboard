@@ -1,0 +1,117 @@
+{
+  "type": "characters",
+  "name": "qwerty",
+  "direction": "ltr",
+  "arrangement": [
+    [
+      {
+        "code": 5227,
+        "label": "\u146b"
+      },
+      {
+        "code": 5615,
+        "label": "\u15ef"
+      },
+      {
+        "code": 69,
+        "label": "E"
+      },
+      {
+        "code": 5511,
+        "label": "\u1587"
+      },
+      {
+        "code": 84,
+        "label": "T"
+      },
+      {
+        "code": 89,
+        "label": "Y"
+      },
+      {
+        "code": 5196,
+        "label": "\u144c"
+      },
+      {
+        "code": 73,
+        "label": "I"
+      },
+      {
+        "code": 79,
+        "label": "O"
+      },
+      {
+        "code": 5229,
+        "label": "\u146d"
+      }
+    ],
+    [
+      {
+        "code": 5609,
+        "label": "\u15e9"
+      },
+      {
+        "code": 5397,
+        "label": "\u1515"
+      },
+      {
+        "code": 5610,
+        "label": "\u15ea"
+      },
+      {
+        "code": 5556,
+        "label": "\u15b4"
+      },
+      {
+        "code": 71,
+        "label": "G"
+      },
+      {
+        "code": 5500,
+        "label": "\u157c"
+      },
+      {
+        "code": 5261,
+        "label": "\u148d"
+      },
+      {
+        "code": 75,
+        "label": "K"
+      },
+      {
+        "code": 5290,
+        "label": "\u14aa"
+      }
+    ],
+    [
+      {
+        "code": 5652,
+        "label": "\u1614"
+      },
+      {
+        "code": 5741,
+        "label": "\u166d"
+      },
+      {
+        "code": 5205,
+        "label": "\u1455"
+      },
+      {
+        "code": 5167,
+        "label": "\u142f"
+      },
+      {
+        "code": 5623,
+        "label": "\u15f7"
+      },
+      {
+        "code": 5198,
+        "label": "\u144e"
+      },
+      {
+        "code": 5616,
+        "label": "\u15f0"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat
+        app:iconSpaceReserved="false"
+        app:key="voice"
+        app:title="@string/enable_disable_voice_typing">
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+            android:defaultValue="true"
+            app:iconSpaceReserved="false"
+            app:key="voice_feature_enable"
+            app:title="@string/use_voice_typing"
+            app:useSimpleSummaryProvider="true" />
+    </com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat>
+</PreferenceScreen>

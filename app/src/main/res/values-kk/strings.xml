@@ -1,0 +1,285 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">Пернетақта қолданбасының құпиялылық саясаты шын мәнінде сіз кез келген өнімдер мен қызметтерімізге кірген немесе пайдаланған кезде болуы мүмкін ақпаратты жинау және пайдалануды түсіндіру үшін ғана жазылған. Жекелендірілген жарнама мен қызметтерді әзірлеу үшін кіру және/немесе пайдалану арқылы сіз осы Құпиялық саясатында сипатталған саясаттар мен тәжірибелермен келісесіз.</string>
+
+
+    <string name="system_default">Жүйе әдепкі</string>
+    <string name="settings_theme_background_active">Белсенді кезде фон түсі</string>
+    <string name="settings_theme_background_pressed">Басқан кезде фон түсі</string>
+    <string name="settings_theme_foreground">Алдыңғы фон түсі</string>
+    <string name="settings_theme_foreground_alt">Алдыңғы фон түсі (балама)</string>
+
+    <string name="saving_group_keys_label">Кілттер</string>
+    <string name="saving_number_row_label">Сандар қатары</string>
+    <string name="settings_theme_undefined">Анықталмаған</string>
+    <string name="settings_theme_preset_summary">Арнаулы (%s негізінде)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Таңдалған тақырып:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Қолжетімді тақырыптар:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Оң жақ көрсеткі</string>
+    <string name="settings_theme_background">Фон түсі</string>
+    <string name="saving_number_row_summary">Таңбалар орналасуының жоғарғы жағындағы сандар жолын көрсету</string>
+    <string name="saving_hinted_number_row_label">Көрсетілген сан қатары</string>
+    <string name="saving_hinted_number_row_summary">Таңба орналасуының бірінші қатары сан жолына нұсқайды</string>
+
+    <string name="saving_group_layout_label">Орналасу</string>
+    <string name="saving_one_handed_mode_label">Бір қолмен жұмыс режимі</string>
+    <string name="saving_one_handed_mode_off">Өшірулі</string>
+    <string name="saving_one_handed_mode_right">Оң қол режимі</string>
+    <string name="saving_hinted_symbols_label">Белгіленген белгілер</string>
+    <string name="saving_hinted_symbols_summary">Таңба орналасуының анықтамалық белгілерінің екінші және үшінші қатары</string>
+    <string name="saving_font_size_multiplier_portrait_label">Қаріп өлшемі көбейткіші (портрет)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Қаріп өлшемі мультипликаторы (ландшафт)</string>
+    <string name="saving_one_handed_mode_left">Сол қолмен жұмыс режимі</string>
+    <string name="saving_height_factor_label">Пернетақта биіктігі</string>
+    <string name="saving_height_factor_extra_short">Өте қысқа</string>
+    <string name="saving_height_factor_short">Қысқа биіктік</string>
+    <string name="saving_height_factor_tall">Биіктігі</string>
+    <string name="saving_height_factor_extra_tall">Өте биік</string>
+    <string name="saving_height_factor_custom">Арнаулы</string>
+    <string name="saving_height_factor_custom_label">Жеке пернетақта биіктігінің мәні</string>
+    <string name="saving_bottom_offset_label">Төменгі ығысу (қисық экрандар үшін)</string>
+    <string name="saving_group_keypress_label">Пернені басу</string>
+
+
+    <string name="saving_vibration_strength_label">Пернені басқан кезде діріл күші</string>
+    <string name="saving_popup_visible_label">Қалқымалы терезенің көрінуі</string>
+    <string name="saving_popup_visible_summary">Пернені басқан кезде қалқымалы терезені көрсетіңіз</string>
+    <string name="saving_long_press_delay_label">Пернені ұзақ басу кідірісі</string>
+    <string name="saving_smartbar_enabled_label">Ұсыныс жолағын қосыңыз</string>
+    <string name="saving_smartbar_enabled_summary">Пернетақтаның жоғарғы жағында көрсетіледі</string>
+    <string name="saving_sound_enabled_label">Пернені басқанда дыбыс шығады</string>
+    <string name="saving_sound_volume_label">Пернені басқанда дыбыс деңгейі</string>
+    <string name="saving_height_factor_mid_short">Орташа биіктік</string>
+    <string name="saving_height_factor_normal">Қалыпты - Биіктігі</string>
+    <string name="saving_correction_auto_capitalization_label">Автоматты бас әріппен жазу</string>
+    <string name="saving_correction_auto_capitalization_summary">Ағымдағы кіріс контекстіне негізделген сөздерді бас әріппен жазыңыз</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Caps lock күйін есте сақтаңыз</string>
+    <string name="saving_height_factor_mid_tall">Орташа бой</string>
+    <string name="saving_vibration_enabled_label">Пернені басқанда діріл</string>
+    <string name="saving_suggestion_title">Ұсыныстар</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Басқа мәтін өрісіне өткенде Caps lock қосулы болады</string>
+    <string name="saving_correction_double_space_period_label">Қос кеңістік кезеңі</string>
+    <string name="saving_correction_double_space_period_summary">Бос орын жолағын екі рет басу арқылы нүкте бос орынмен енгізіледі</string>
+
+    <string name="saving_correction_title">Түзетулер</string>
+    <string name="saving_glide_title">Сырғытып теру</string>
+    <string name="saving_glide_enabled_label">Сырғытып теруді қосыңыз</string>
+    <string name="saving_suggestion_enabled_label">Пайдаланушы терген кезде ұсыныстарды көрсету</string>
+    <string name="saving_suggestion_enabled_summary">Ұсыныстар жолағында көрсетіледі</string>
+    <string name="saving_glide_show_trail_summary">Әрбір сөзден кейін жоғалады</string>
+    <string name="saving_gestures_title">Қимылдар</string>
+    <string name="saving_gestures_swipe_action_no_action">Ештеңе жасама</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Алмасу буферінің мазмұны бойынша ұсыныстар</string>
+    <string name="saving_suggestion_use_pref_words_summary">Ұсыныстар жасау үшін алдыңғы сөздерді пайдаланыңыз</string>
+    <string name="saving_glide_enabled_summary">Саусағыңызды әріптері арқылы сырғыту арқылы сөзді теріңіз</string>
+    <string name="saving_glide_show_trail_label">Сырғанау ізін көрсету</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Курсор төмен</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Курсор солға</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Курсор оңға</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Барлық таңбаларды жою</string>
+    <string name="saving_gestures_swipe_action_delete_word">Ағымдағы сөзді жою</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Барлық сөздерді алып тастаңыз</string>
+    <string name="saving_gestures_swipe_up_label">Жоғары ымдау</string>
+    <string name="saving_gestures_swipe_down_label">Төмен қимыл</string>
+    <string name="saving_gestures_swipe_left_label">Сол жақ қимыл</string>
+    <string name="saving_gestures_swipe_right_label">Дұрыс қимыл</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Пернетақтаны кішірейту</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Курсор жоғары</string>
+    <string name="saving_gestures_swipe_action_shift">Ауыстыру әрекеті</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Алдыңғы тілге көшу</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Келесі тілге өту</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Бос орын қимылы солға</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Бос орын қимылы оңға</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Өте баяу</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Баяу</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Қалыпты</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Жылдам</string>
+
+    <string name="saving_advanced_settings_theme_light">Жарық</string>
+    <string name="saving_advanced_settings_theme_dark">Қараңғы</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Жою түймешігі сол жақ қимылы</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Сырғыту жылдамдығының шегі</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Сырғыту жылдамдығының шегі</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Ұзақ</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Өте ұзақ</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Қашықтық шегін сырғытыңыз</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Өте қысқа</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Қысқа</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Қалыпты</string>
+
+
+    <string name="txt_lang_frag">Барлық таңдалған тілдер пернетақтада көрінеді.</string>
+    <string name="search_language_hint">Тілді осы жерден іздеңіз..</string>
+    <string name="switch_to_keyboard_des">Бірнеше тіл 100+ тақырып Анимациялық GIF анимациялық стикерлер, эмодзилер дауыспен теру.</string>
+    <string name="welcome_to">қош келдіңіз</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Пернетақтаны қосыңыз</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Пернетақтаны таңдаңыз</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Орнатуды аяқтаңыз</string>
+
+    <string name="enable_des">Енгізу әдісі параметрлері тізімінде Пернетақтаны қосу үшін осы жерді басыңыз. Бұл оның құрылғыңызда жұмыс істеуіне рұқсат береді.</string>
+    <string name="select_des">Енгізу әдісі параметрлері тізімінде пернетақтаны таңдау үшін осы жерді басыңыз. Бұл оның құрылғыңызда жұмыс істеуіне рұқсат береді.</string>
+    <string name="finish_des">Барлығы орындалды! пернетақта орнатылған және пайдалануға дайын</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Қаріп атауы</string>
+    <string name="set_brightness">Жарықтықты орнатыңыз</string>
+    <string name="default_themes">Әдепкі тақырыптар</string>
+    <string name="colors_themes">Түстер тақырыптары</string>
+    <string name="light_gradients_themes">Жарық градиенттер тақырыптары</string>
+    <string name="dark_gradients_themes">Қараңғы градиенттер тақырыптары</string>
+    <string name="landscapes_themes">Пейзаж тақырыптары</string>
+    <string name="gallery_themes">Галерея тақырыптары</string>
+    <string name="crop_image">Кескінді қию</string>
+    <string name="next">Келесі</string>
+    <string name="mobile_consent_form">GDPR келісім формасы</string>
+    <string name="privacy_policy_title">Құпиялылық саясаты</string>
+    <string name="disclaimer">Жауапкершіліктен бас тарту</string>
+    <string name="have_accept">Мен оқыдым және қабылдадым</string>
+    <string name="theme_updated_successfully">Тақырып сәтті жаңартылды</string>
+    <string name="apply_theme">Тақырыпты қолдану</string>
+    <string name="suggestions_database">Ұсыныстар базасы</string>
+    <string name="suggestions_dailog">Пернетақтадағы «Ұсыныстар» мүмкіндігін қосу үшін серверден дерекқор файлын жүктеп алу керек. Бірнеше секунд қажет болады. Қазір немесе кейінірек жүктеп алғыңыз келе ме?</string>
+    <string name="download">Жүктеп алу</string>
+    <string name="later">Кейінірек</string>
+    <string name="txt_nav_home">Үй</string>
+    <string name="txt_nav_rate_app">Бағалау &amp; Пікір (жарнама)</string>
+    <string name="txt_nav_share_app">Қолданбаны бөлісу (жарнама)</string>
+    <string name="txt_nav_more_apps">Біздің қолданбалар (жарнама)</string>
+    <string name="txt_nav_family_apps">Отбасылық қолданбаларымыз (жарнама)</string>
+    <string name="txt_nav_feedback">Кері байланыс</string>
+    <string name="txt_nav_update">Қазір жаңарту</string>
+    <string name="txt_nav_ads_remove">Жарнамаларды жою</string>
+    <string name="txt_feedback">Пернетақта қолданбасы туралы пікірім бар</string>
+
+
+    <string name="finish">Аяқтау</string>
+    <string name="space_for_advertisement">Жарнамаға арналған кеңістік</string>
+    <string name="other">Басқа</string>
+
+
+    <string name="txt_nav_premium_version">Премиум нұсқасы</string>
+    <string name="support_the_development">Дамуды қолдау</string>
+    <string name="unlimited_customization">Шексіз теңшеу</string>
+    <string name="complete_ad_free_version">Жарнамаларсыз толық нұсқасы</string>
+    <string name="unlimited_themes">Премиум тақырыптар мен қаріп мәнерлері</string>
+    <string name="terms_of_services">Шарттар &amp; Шарттар</string>
+    <string name="this_subscriptions_renews_automatically">«Ай сайынғы жазылым» сізге бір айға біздің қосымшамызға шексіз қол жеткізуге мүмкіндік береді және ай сайын жаңартылып отырады. Егер сіз одан бас тартпасаңыз.\n Өмірлік уақытты сатып алу - бұл бір реттік сатып алу. Қосымша ақпарат алу үшін Шарттарды қараңыз &amp; Қызмет көрсету шарттары.</string>
+
+
+    <string name="monthly_subscription">Ай сайынғы жазылым</string>
+    <string name="life_time_purchase">Өмір бойы сатып алу</string>
+    <string name="life_time_price">Өмірлік баға</string>
+    <string name="monthly_price">Айлық баға</string>
+    <string name="purchase_now">Қазір сатып алу</string>
+    <string name="subscribe_now">Қазір жазылыңыз</string>
+
+
+    <string name="enable_disable_number_row">Сан жолын қосу/өшіру</string>
+    <string name="visible_number_row">Пернетақтаның жоғарғы жағындағы көрінетін сан жолы</string>
+    <string name="show_numeric_hints">Сандық кеңестерді көрсету</string>
+    <string name="show_numeric_hint_on_first_row">Таңбалардың бірінші жолында сандарды көрсетіңіз</string>
+    <string name="show_symbol_hints">Символдық кеңестерді көрсету</string>
+    <string name="show_symbol_hints_on_rows">Таңбалардың екінші және үшінші қатарындағы белгілерді көрсету</string>
+    <string name="adjust_keyboard_font_size_portrait">Портрет көрінісі үшін пернетақта қаріп өлшемін реттеңіз</string>
+    <string name="adjust_keyboard_font_size_landscape">Пейзаждық көрініс үшін пернетақта қаріп өлшемін реттеңіз</string>
+    <string name="keyboard_layout_settings">Пернетақта орналасуының параметрлері</string>
+    <string name="keyboard_height">Пернетақта биіктігі</string>
+    <string name="keyboard_key_click_settings">Пернетақта пернесі Параметрлерді басыңыз</string>
+    <string name="play_sound_on_key_click">Пернені басу арқылы дыбысты ойнату</string>
+    <string name="key_click_sound_volume">Пернені басу дыбысының деңгейін реттеңіз</string>
+    <string name="vibrate_on_key_click">Пернені басқанда дірілдеу</string>
+    <string name="key_vibration_strength">Негізгі діріл күшін реттеңіз</string>
+    <string name="enable_popup_alphabets">Пайдаланушы пернені басқанда қалқымалы алфавиттерді көрсету</string>
+    <string name="popup_feature">Қалқымалы терезе мүмкіндігі</string>
+    <string name="correction_settings">Түзету параметрлері</string>
+    <string name="auto_capitalize">Автоматты бас әріппен жазу</string>
+    <string name="save_caps_lock_state">Caps Lock күйін сақтаңыз</string>
+    <string name="show_editing_panel">Өңдеу тақтасын көрсету</string>
+    <string name="enable_disable_editing_panel">Өңдеу тақтасын қосу/өшіру</string>
+    <string name="available_gestures">Қолжетімді қимылдар</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Бір қолмен жұмыс режимін қосу/өшіру</string>
+    <string name="keyboard_keys_settings">Пернетақта пернелерінің параметрлері</string>
+    <string name="enable_disable_suggestions_bar">Бұл пернетақта көрінісі жоғарғы жағында көрінеді</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Барлық ұсыныстар ұсыныстар жолағында көрсетіледі</string>
+    <string name="show_suggestions">Пайдаланушы терген кезде ұсыныстарды көрсету</string>
+    <string name="customize_suggestion_bar">Ұсыныс жолағын теңшеу</string>
+    <string name="customize_suggestion_button">Ұсынысты теңшеу түймесі</string>
+    <string name="enable_disable_voice_typing">Дауыспен теруді қосу/өшіру</string>
+    <string name="use_voice_typing">Дауыспен теруді пайдаланыңыз</string>
+
+    <string name="settings">Параметрлер</string>
+    <string name="languages">Тілдер</string>
+    <string name="themes">Тақырыптар</string>
+    <string name="preferences">Параметрлер</string>
+    <string name="fonts">Қаріптер</string>
+    <string name="text_correction">Мәтінді түзету</string>
+    <string name="gestures">Қимылдар</string>
+    <string name="suggestions">Ұсыныстар</string>
+    <string name="one_hand_typing">Бір қолмен теру</string>
+    <string name="editing_panel">Өңдеу тақтасы</string>
+    <string name="voice_typing">Дауыспен теру</string>
+
+    <string name="languages_localization">Тілдер &amp; Локализация</string>
+    <string name="customize_themes">Тақырыптарды теңшеу</string>
+    <string name="keyboard_preferences">Пернетақта теңшелімдері</string>
+    <string name="fonts_styles">Қаріп стильдері</string>
+    <string name="text_correction_list">Мәтінді түзету</string>
+    <string name="enable_gesture_typing">Қимылмен теруді қосыңыз</string>
+    <string name="enable_auto_suggestions">Автоматты ұсыныстарды қосыңыз</string>
+    <string name="one_hand_typing_mode">Бір қолмен теру режимі</string>
+    <string name="customize_editing_panel">Өңдеу тақтасын теңшеу</string>
+    <string name="voice_recognition_typing">Дауысты тану &amp; Теру</string>
+
+    <string name="title_activity_language_picker">LanguagePickerActivity</string>
+    <string name="cencel_sub">Жазылымнан бас тарту</string>
+    <string name="yearly_subscription">Жылдық жазылым</string>
+    <string name="app_languages">Қолданба тілін таңдаңыз</string>
+    <string name="change_app_theme">Қолданба тақырыбын таңдаңыз</string>
+    <string name="default_theme">Әдепкі</string>
+    <string name="dark_theme">Қараңғы</string>
+    <string name="light_theme">Жарық</string>
+
+    <string name="app_theme_apply">Қолдану</string>
+    <string name="app_theme_cancel">Болдырмау</string>
+    <string name="test_keyboard_here">Пернетақтаны осы жерден сынап көріңіз</string>
+    <string name="cancel">Болдырмау</string>
+
+
+    <string name="premium_keyboard_title">Пернетақта Plus</string>
+    <string name="premium_des_title">Барлық мүмкіндіктерге премиуммен қол жеткізіңіз</string>
+
+    <string name="customization_title">Баптау</string>
+    <string name="themes_fonts_title">Тақырыптар мен қаріптер</string>
+    <string name="no_ads_title">Жарнамалар жоқ</string>
+    <string name="vip_support_title">VIP қолдау</string>
+
+
+    <string name="reward_ad_show_title">Сыйлық алыңыз</string>
+    <string name="fonts_reward_dailog_des">Бұл қаріпті қолданған жағдайда марапатталған жарнаманы көру керек. AD сыйлығын көрсеткіңіз келе ме?</string>
+    <string name="themes_reward_dailog_des">"Бұл тақырыпты қолданған жағдайда сізге марапатталған жарнаманы көру керек. Сыйақы AD көрсеткіңіз келе ме?</string>
+    <string name="reward_dailog_show_ad_btn">Жарнаманы көрсету</string>
+    <string name="reward_dailog_cancel_btn">Болдырмау</string>
+    <string name="reward_dailog_get_premium_btn">Premium алыңыз</string>
+    <string name="loading_ads">Жарнамалар жүктелуде…</string>
+    <string name="please_wait">Күте тұрыңыз…</string>
+
+
+    <string name="exit_dailog_title">Қолданбадан шығу керек пе?</string>
+    <string name="exit_dailog_des">Қолданбадан шығуға сенімдісіз бе?</string>
+    <string name="exit_dailog_cancel_btn">Болдырмау</string>
+    <string name="exit_dailog_exit_btn">Шығу</string>
+
+
+
+</resources>
+
+

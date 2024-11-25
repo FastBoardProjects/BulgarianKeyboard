@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.tabs.TabLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/media_input_gifs_tabs"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:tabIconTint="?android:textColor"
+    android:background="@android:color/transparent"
+    android:layout_gravity="center_horizontal"
+    android:overScrollMode="never"
+    android:scrollbarSize="1dp"
+    app:tabIndicator="@drawable/media_tab_indicator"
+    app:tabIndicatorColor="?colorAccent"
+    app:tabIndicatorFullWidth="false"
+    app:tabIndicatorHeight="@dimen/media_tab_indicator_height"
+    app:tabMode="scrollable"
+    app:tabPaddingEnd="@dimen/media_tab_paddingH"
+    app:tabPaddingStart="@dimen/media_tab_paddingH"
+    app:tabRippleColor="?semiTransparentColor">
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Recent"
+        android:foregroundTint="#000000"
+        android:textAlignment="center"
+        android:icon="@drawable/history_new" />
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Trending"
+        android:foregroundTint="#000000"
+        android:icon="@drawable/ic_trending_new"
+        android:textAlignment="center" />
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Happy"
+        android:foregroundTint="#000000"
+        android:icon="@drawable/ic_happy_icon"
+        android:textAlignment="center" />
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Sad"
+        android:foregroundTint="#000000"
+        android:icon="@drawable/ic_sad_icon"
+        android:textAlignment="center" />
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Food"
+        android:foregroundTint="#000000"
+        android:icon="@drawable/ic_food_icon"
+        android:textAlignment="center" />
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Action"
+        android:foregroundTint="#000000"
+        android:icon="@drawable/ic_action_icon"
+        android:textAlignment="center" />
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Animal"
+        android:foregroundTint="#000000"
+        android:icon="@drawable/ic_animal_icon"
+        android:textAlignment="center" />
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Cartoon"
+        android:foregroundTint="#000000"
+        android:icon="@drawable/ic_cartoon_icon"
+        android:textAlignment="center" />
+
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Emoticon"
+        android:foregroundTint="#000000"
+        android:icon="@drawable/ic_emoticon_icon"
+        android:textAlignment="center" />
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Nature"
+        android:foregroundTint="#000000"
+        android:icon="@drawable/ic_nature_icon"
+        android:textAlignment="center" />
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Nature"
+        android:foregroundTint="#000000"
+        android:icon="@drawable/ic_music_icon"
+        android:textAlignment="center" />
+</com.google.android.material.tabs.TabLayout>

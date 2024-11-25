@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.tabs.TabLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/media_input_emoji_tabs"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:overScrollMode="never"
+    android:scrollbarSize="1dp"
+    android:background="@android:color/transparent"
+    app:tabIndicator="@drawable/media_tab_indicator"
+    app:tabIndicatorColor="?colorAccent"
+    app:tabIndicatorFullWidth="false"
+    app:tabIndicatorHeight="@dimen/media_tab_indicator_height"
+    app:tabMode="scrollable"
+    app:tabPaddingEnd="@dimen/media_tab_paddingH"
+    app:tabPaddingStart="@dimen/media_tab_paddingH"
+    app:tabRippleColor="?semiTransparentColor"
+    app:tabIconTint="?android:textColor">
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Recent"
+        android:foregroundTint="#000000"
+        android:textAlignment="center"
+        android:icon="@drawable/ic_recent_icon" />
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_emoji_emotions"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_emoji_people"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_emoji_nature"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_emoji_food_beverage"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_emoji_transportation"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_emoji_events"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_emoji_objects"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_emoji_symbols"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_emoji_flags"
+        android:textAlignment="center"/>
+
+</com.google.android.material.tabs.TabLayout>

@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">Политика приватности апликације за тастатуру је заправо написана са једином сврхом да објасни прикупљање и коришћење информација које могу бити када посетите или користите било који од наших производа и услуга. Приступањем и/или коришћењем овога за персонализовано оглашавање и развој услуга, сагласни сте са политикама и праксама описаним у овој Политици приватности.</string>
+
+
+    <string name="system_default">Систем подразумевано</string>
+    <string name="settings_theme_background_active">Боја позадине када је активна</string>
+    <string name="settings_theme_background_pressed">Боја позадине када се притисне</string>
+    <string name="settings_theme_foreground">Боја предњег плана</string>
+    <string name="settings_theme_foreground_alt">Боја предњег плана (алтернативна)</string>
+
+    <string name="saving_group_keys_label">Кључеви</string>
+    <string name="saving_number_row_label">Бројни ред</string>
+    <string name="settings_theme_undefined">Недефинисано</string>
+    <string name="settings_theme_preset_summary">Прилагођено (на основу %с)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Изабрана тема:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Доступне теме:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Стрелица десно</string>
+    <string name="settings_theme_background">Боја позадине</string>
+    <string name="saving_number_row_summary">Прикажи ред бројева на врху распореда знакова</string>
+    <string name="saving_hinted_number_row_label">Наговештени ред бројева</string>
+    <string name="saving_hinted_number_row_summary">Први ред распореда знакова указује на ред бројева</string>
+
+    <string name="saving_group_layout_label">Лаиоут</string>
+    <string name="saving_one_handed_mode_label">Једноручни режим</string>
+    <string name="saving_one_handed_mode_off">Офф</string>
+    <string name="saving_one_handed_mode_right">Режим за десну руку</string>
+    <string name="saving_hinted_symbols_label">Наговештени симболи</string>
+    <string name="saving_hinted_symbols_summary">Други и трећи ред симбола наговештаја распореда знакова</string>
+    <string name="saving_font_size_multiplier_portrait_label">Множилац величине фонта (портрет)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Множилац величине фонта (пејзаж)</string>
+    <string name="saving_one_handed_mode_left">Режим за леворуке</string>
+    <string name="saving_height_factor_label">Висина тастатуре</string>
+    <string name="saving_height_factor_extra_short">Екстра-кратак</string>
+    <string name="saving_height_factor_short">Схорт-Хеигхт</string>
+    <string name="saving_height_factor_tall">Висока висина</string>
+    <string name="saving_height_factor_extra_tall">Екстра висок</string>
+    <string name="saving_height_factor_custom">Цустом</string>
+    <string name="saving_height_factor_custom_label">Прилагођена вредност висине тастатуре</string>
+    <string name="saving_bottom_offset_label">Доњи помак (за закривљене екране)</string>
+    <string name="saving_group_keypress_label">Притисните тастер</string>
+
+
+    <string name="saving_vibration_strength_label">Јачина вибрације при притиску на тастер</string>
+    <string name="saving_popup_visible_label">ПопУп Висибилити</string>
+    <string name="saving_popup_visible_summary">Прикажи искачући прозор када притиснете тастер</string>
+    <string name="saving_long_press_delay_label">Дуго одлагање притиска на тастер</string>
+    <string name="saving_smartbar_enabled_label">Омогући траку са сугестијама</string>
+    <string name="saving_smartbar_enabled_summary">Приказаће се на врху тастатуре</string>
+    <string name="saving_sound_enabled_label">Звук при притиску на тастер</string>
+    <string name="saving_sound_volume_label">Јачина звука при притиску на тастер</string>
+    <string name="saving_height_factor_mid_short">Средње висине</string>
+    <string name="saving_height_factor_normal">Нормална висина</string>
+    <string name="saving_correction_auto_capitalization_label">Аутоматско писање великих слова</string>
+    <string name="saving_correction_auto_capitalization_summary">Пиши велике речи на основу тренутног контекста уноса</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Запамтите стање великих слова</string>
+    <string name="saving_height_factor_mid_tall">Средње висок</string>
+    <string name="saving_vibration_enabled_label">Вибрација при притиску на тастер</string>
+    <string name="saving_suggestion_title">Предлози</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Цапс лоцк ће остати укључен када пређете на друго текстуално поље</string>
+    <string name="saving_correction_double_space_period_label">Период двоструког размака</string>
+    <string name="saving_correction_double_space_period_summary">Ако кликнете два пута на размакницу, тачка ће бити уметнута са размаком</string>
+
+    <string name="saving_correction_title">Исправке</string>
+    <string name="saving_glide_title">Клизањем куцања</string>
+    <string name="saving_glide_enabled_label">Омогући куцање клизањем</string>
+    <string name="saving_suggestion_enabled_label">Прикажите предлоге када корисник куца</string>
+    <string name="saving_suggestion_enabled_summary">Приказаће се на траци са сугестијама</string>
+    <string name="saving_glide_show_trail_summary">Нестаће после сваке речи</string>
+    <string name="saving_gestures_title">Гестови</string>
+    <string name="saving_gestures_swipe_action_no_action">Не ради ништа</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Предлози садржаја међумеморије</string>
+    <string name="saving_suggestion_use_pref_words_summary">Користите претходне речи за генерисање предлога</string>
+    <string name="saving_glide_enabled_summary">Унесите реч тако што ћете прстом превући њена слова</string>
+    <string name="saving_glide_show_trail_label">Прикажи клизну стазу</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Курсор надоле</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Курсор лево</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Курсор десно</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Уклони све знакове</string>
+    <string name="saving_gestures_swipe_action_delete_word">Уклони тренутну реч</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Уклони све речи</string>
+    <string name="saving_gestures_swipe_up_label">Покрет горе</string>
+    <string name="saving_gestures_swipe_down_label">Гест доле</string>
+    <string name="saving_gestures_swipe_left_label">Гест лево</string>
+    <string name="saving_gestures_swipe_right_label">Покрет десно</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Минимизирајте тастатуру</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Курсор горе</string>
+    <string name="saving_gestures_swipe_action_shift">Схифт Ацтион</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Пређите на претходни језик</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Пређите на следећи језик</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Размакница Покрет лево</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Размакница Покрет десно</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Врло споро</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Споро</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Нормално</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Фаст</string>
+
+    <string name="saving_advanced_settings_theme_light">Светлост</string>
+    <string name="saving_advanced_settings_theme_dark">Дарк</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Покрет дугмета за брисање лево</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Превуците праг брзине</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Превуците праг брзине</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Дуго</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Веома дуго</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Праг удаљености превлачења</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Врло кратко</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Кратко</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Нормално</string>
+
+
+    <string name="txt_lang_frag">Сви изабрани језици ће бити видљиви на тастатури.</string>
+    <string name="search_language_hint">Претражи језик овде..</string>
+    <string name="switch_to_keyboard_des">Више језика Више од 100 тема Анимирани ГИФ-ови Анимиране налепнице, Емојис куцање гласом.</string>
+    <string name="welcome_to">Добродошли у</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Омогући тастатуру</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Изаберите Тастатура</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Завршите подешавање</string>
+
+    <string name="enable_des">Кликните овде да бисте омогућили тастатуру на листи подешавања метода уноса. Ово ће га овластити да ради на вашем уређају.</string>
+    <string name="select_des">Кликните овде да бисте изабрали своју тастатуру на листи подешавања метода уноса. Ово ће га овластити да ради на вашем уређају.</string>
+    <string name="finish_des">Све урађено! ваша тастатура је подешена и спремна за употребу</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Назив фонта</string>
+    <string name="set_brightness">Подесите осветљеност</string>
+    <string name="default_themes">Подразумеване теме</string>
+    <string name="colors_themes">Боје Теме</string>
+    <string name="light_gradients_themes">Теме светлих градијената</string>
+    <string name="dark_gradients_themes">Теме тамних градијената</string>
+    <string name="landscapes_themes">Ландсцапес Тхемес</string>
+    <string name="gallery_themes">Теме галерије</string>
+    <string name="crop_image">Изрежите слику</string>
+    <string name="next">Следеће</string>
+    <string name="mobile_consent_form">Образац сагласности за ГДПР</string>
+    <string name="privacy_policy_title">Политика приватности</string>
+    <string name="disclaimer">Одрицање од одговорности</string>
+    <string name="have_accept">Прочитао сам и прихватам</string>
+    <string name="theme_updated_successfully">Тема је успешно ажурирана</string>
+    <string name="apply_theme">Примени тему</string>
+    <string name="suggestions_database">Суггестионс Датабасе</string>
+    <string name="suggestions_dailog">Да бисте омогућили функцију Предлози на тастатури, морате да преузмете датотеку базе података са нашег сервера. Требаће неколико секунди. Да ли желите да преузмете сада или касније?</string>
+    <string name="download">Преузми</string>
+    <string name="later">касније</string>
+    <string name="txt_nav_home">Хоме</string>
+    <string name="txt_nav_rate_app">Рате &amp; Преглед (оглас)</string>
+    <string name="txt_nav_share_app">Дели апликацију (оглас)</string>
+    <string name="txt_nav_more_apps">Наше апликације (оглас)</string>
+    <string name="txt_nav_family_apps">Наше породичне апликације (оглас)</string>
+    <string name="txt_nav_feedback">Повратне информације</string>
+    <string name="txt_nav_update">Ажурирајте одмах</string>
+    <string name="txt_nav_ads_remove">Уклони огласе</string>
+    <string name="txt_feedback">Имам повратне информације о вашој апликацији за тастатуру</string>
+
+
+    <string name="finish">Заврши</string>
+    <string name="space_for_advertisement">Простор за рекламе</string>
+    <string name="other">Остало</string>
+
+
+    <string name="txt_nav_premium_version">Премиум верзија</string>
+    <string name="support_the_development">Подржите развој</string>
+    <string name="unlimited_customization">Неограничено прилагођавање</string>
+    <string name="complete_ad_free_version">Комплетна бесплатна верзија огласа</string>
+    <string name="unlimited_themes">Премиум теме и стилови фонтова</string>
+    <string name="terms_of_services">Услови &amp; Услови</string>
+    <string name="this_subscriptions_renews_automatically">„Месечна претплата“ вам даје неограничен приступ нашој апликацији током једног месеца и обнављаће се сваког месеца. Ако га не откажете.\н доживотна куповина је једина куповина за једнократну употребу. За више информација погледајте Услове &amp; Услови услуге.</string>
+
+
+    <string name="monthly_subscription">Месечна претплата</string>
+    <string name="life_time_purchase">Доживотна куповина</string>
+    <string name="life_time_price">Доживотна цена</string>
+    <string name="monthly_price">Месечна цена</string>
+    <string name="purchase_now">Купите одмах</string>
+    <string name="subscribe_now">Претплатите се одмах</string>
+
+
+    <string name="enable_disable_number_row">Омогући/онемогући ред бројева</string>
+    <string name="visible_number_row">Видљиви ред бројева на врху тастатуре</string>
+    <string name="show_numeric_hints">Прикажи нумеричке савете</string>
+    <string name="show_numeric_hint_on_first_row">Прикажи наговештај бројева у првом реду знакова</string>
+    <string name="show_symbol_hints">Прикажи савете за симболе</string>
+    <string name="show_symbol_hints_on_rows">Прикажи наговештај симбола у другом и трећем реду знакова</string>
+    <string name="adjust_keyboard_font_size_portrait">Подесите величину фонта тастатуре за портретни приказ</string>
+    <string name="adjust_keyboard_font_size_landscape">Подесите величину фонта тастатуре за пејзажни приказ</string>
+    <string name="keyboard_layout_settings">Подешавања распореда тастатуре</string>
+    <string name="keyboard_height">Висина тастатуре</string>
+    <string name="keyboard_key_click_settings">Тастер на тастатури Кликните на Подешавања</string>
+    <string name="play_sound_on_key_click">Пусти звук при клику на тастер</string>
+    <string name="key_click_sound_volume">Подесите јачину звука при клику на тастер</string>
+    <string name="vibrate_on_key_click">Вибрација при клику на тастер</string>
+    <string name="key_vibration_strength">Подесите јачину вибрације тастера</string>
+    <string name="enable_popup_alphabets">Прикажи искачуће абецеде када корисник кликне на тастер</string>
+    <string name="popup_feature">Искачућа функција</string>
+    <string name="correction_settings">Подешавања корекције</string>
+    <string name="auto_capitalize">Ауто Цапитализе</string>
+    <string name="save_caps_lock_state">Сачувајте стање Цапс Лоцк-а</string>
+    <string name="show_editing_panel">Прикажи таблу за уређивање</string>
+    <string name="enable_disable_editing_panel">Омогући/онемогући таблу за уређивање</string>
+    <string name="available_gestures">Доступни покрети</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Омогућите/онемогућите режим једном руком</string>
+    <string name="keyboard_keys_settings">Подешавања тастера тастатуре</string>
+    <string name="enable_disable_suggestions_bar">Ово ће бити видљиво на врху приказа тастатуре</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Сви предлози ће бити приказани на траци са сугестијама</string>
+    <string name="show_suggestions">Прикажи предлоге када корисник куца</string>
+    <string name="customize_suggestion_bar">Прилагодите траку са сугестијама</string>
+    <string name="customize_suggestion_button">Дугме за прилагођавање предлога</string>
+    <string name="enable_disable_voice_typing">Омогући/онемогући куцање гласом</string>
+    <string name="use_voice_typing">Користите куцање гласом</string>
+
+    <string name="settings">Подешавања</string>
+    <string name="languages">Језици</string>
+    <string name="themes">Теме</string>
+    <string name="preferences">Преференцес</string>
+    <string name="fonts">Фонтови</string>
+    <string name="text_correction">Исправка текста</string>
+    <string name="gestures">Гестови</string>
+    <string name="suggestions">Предлози</string>
+    <string name="one_hand_typing">Куцање једном руком</string>
+    <string name="editing_panel">Панел за уређивање</string>
+    <string name="voice_typing">Воице Типинг</string>
+
+    <string name="languages_localization">Језици &amp; Локализација</string>
+    <string name="customize_themes">Прилагодите теме</string>
+    <string name="keyboard_preferences">Подешавања тастатуре</string>
+    <string name="fonts_styles">Стилови фонтова</string>
+    <string name="text_correction_list">Исправка текста</string>
+    <string name="enable_gesture_typing">Омогући куцање покретима</string>
+    <string name="enable_auto_suggestions">Омогућите аутоматске предлоге</string>
+    <string name="one_hand_typing_mode">Режим куцања једном руком</string>
+    <string name="customize_editing_panel">Прилагодите таблу за уређивање</string>
+    <string name="voice_recognition_typing">Препознавање гласа &amp; куцање</string>
+
+    <string name="title_activity_language_picker">ЛангуагеПицкерАцтивити</string>
+    <string name="cencel_sub">Откажите претплату</string>
+    <string name="yearly_subscription">Годишња претплата</string>
+    <string name="app_languages">Изаберите Језик апликације</string>
+    <string name="change_app_theme">Изаберите тему апликације</string>
+    <string name="default_theme">Подразумевано</string>
+    <string name="dark_theme">Дарк</string>
+    <string name="light_theme">Светлост</string>
+
+    <string name="app_theme_apply">Пријавите се</string>
+    <string name="app_theme_cancel">Откажи</string>
+    <string name="test_keyboard_here">Тестирајте тастатуру овде</string>
+    <string name="cancel">Откажи</string>
+
+
+    <string name="premium_keyboard_title">Кеибоард Плус</string>
+    <string name="premium_des_title">Приступите свим функцијама уз премиум</string>
+
+    <string name="customization_title">Прилагођавање</string>
+    <string name="themes_fonts_title">Теме и фонтови</string>
+    <string name="no_ads_title">Нема огласа</string>
+    <string name="vip_support_title">ВИП подршка</string>
+
+
+    <string name="reward_ad_show_title">Добијте награду</string>
+    <string name="fonts_reward_dailog_des">У случају да примените овај фонт потребно је да погледате награђени оглас. Да ли желите да прикажете наградни оглас?</string>
+    <string name="themes_reward_dailog_des">„У случају да примените ову тему, морате да погледате награђени оглас. Да ли желите да прикажете наградни оглас?</string>
+    <string name="reward_dailog_show_ad_btn">Прикажи оглас</string>
+    <string name="reward_dailog_cancel_btn">Откажи</string>
+    <string name="reward_dailog_get_premium_btn">Набавите Премиум</string>
+    <string name="loading_ads">Учитавање огласа…</string>
+    <string name="please_wait">Молимо сачекајте…</string>
+
+
+    <string name="exit_dailog_title">Изаћи из апликације?</string>
+    <string name="exit_dailog_des">Да ли сте сигурни да изађете из апликације?</string>
+    <string name="exit_dailog_cancel_btn">Откажи</string>
+    <string name="exit_dailog_exit_btn">Изађи</string>
+
+
+
+
+</resources>
+
+

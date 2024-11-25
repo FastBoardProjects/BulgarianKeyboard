@@ -1,0 +1,117 @@
+{
+  "type": "characters",
+  "name": "qwerty",
+  "direction": "ltr",
+  "arrangement": [
+    [
+      {
+        "code": 6593,
+        "label": "\u19c1"
+      },
+      {
+        "code": 7001,
+        "label": "\u1b59"
+      },
+      {
+        "code": 43712,
+        "label": "\uaac0"
+      },
+      {
+        "code": 43705,
+        "label": "\uaab9"
+      },
+      {
+        "code": 6262,
+        "label": "\u1876"
+      },
+      {
+        "code": 43671,
+        "label": "\uaa97"
+      },
+      {
+        "code": 43658,
+        "label": "\uaa8a"
+      },
+      {
+        "code": 7881,
+        "label": "\u1ec9"
+      },
+      {
+        "code": 43694,
+        "label": "\uaaae"
+      },
+      {
+        "code": 6735,
+        "label": "\u1a4f"
+      }
+    ],
+    [
+      {
+        "code": 43670,
+        "label": "\uaa96"
+      },
+      {
+        "code": 3093,
+        "label": "\u0c15"
+      },
+      {
+        "code": 6548,
+        "label": "\u1994"
+      },
+      {
+        "code": 6203,
+        "label": "\u183b"
+      },
+      {
+        "code": 6539,
+        "label": "\u198b"
+      },
+      {
+        "code": 43741,
+        "label": "\uaadd"
+      },
+      {
+        "code": 6610,
+        "label": "\u19d2"
+      },
+      {
+        "code": 409,
+        "label": "\u0199"
+      },
+      {
+        "code": 43702,
+        "label": "\uaab6"
+      }
+    ],
+    [
+      {
+        "code": 576,
+        "label": "\u0240"
+      },
+      {
+        "code": 6474,
+        "label": "\u194a"
+      },
+      {
+        "code": 6710,
+        "label": "\u1a36"
+      },
+      {
+        "code": 43676,
+        "label": "\uaa9c"
+      },
+      {
+        "code": 43657,
+        "label": "\uaa89"
+      },
+      {
+        "code": 7010,
+        "label": "\u1b62"
+      },
+      {
+        "code": 43665,
+        "label": "\uaa91"
+      }
+    ]
+  ]
+}

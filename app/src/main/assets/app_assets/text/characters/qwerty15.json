@@ -1,0 +1,117 @@
+{
+  "type": "characters",
+  "name": "qwerty",
+  "direction": "ltr",
+  "arrangement": [
+    [
+      {
+        "code": 113,
+        "label": "q"
+      },
+      {
+        "code": 969,
+        "label": "\u03c9"
+      },
+      {
+        "code": 1108,
+        "label": "\u0454"
+      },
+      {
+        "code": 1103,
+        "label": "\u044f"
+      },
+      {
+        "code": 1090,
+        "label": "\u0442"
+      },
+      {
+        "code": 1091,
+        "label": "\u0443"
+      },
+      {
+        "code": 965,
+        "label": "\u03c5"
+      },
+      {
+        "code": 953,
+        "label": "\u03b9"
+      },
+      {
+        "code": 963,
+        "label": "\u03c3"
+      },
+      {
+        "code": 961,
+        "label": "\u03c1"
+      }
+    ],
+    [
+      {
+        "code": 945,
+        "label": "\u03b1"
+      },
+      {
+        "code": 1109,
+        "label": "\u0455"
+      },
+      {
+        "code": 8706,
+        "label": "\u2202"
+      },
+      {
+        "code": 102,
+        "label": "f"
+      },
+      {
+        "code": 103,
+        "label": "g"
+      },
+      {
+        "code": 1085,
+        "label": "\u043d"
+      },
+      {
+        "code": 7434,
+        "label": "\u1d0a"
+      },
+      {
+        "code": 1082,
+        "label": "\u043a"
+      },
+      {
+        "code": 8467,
+        "label": "\u2113"
+      }
+    ],
+    [
+      {
+        "code": 122,
+        "label": "z"
+      },
+      {
+        "code": 967,
+        "label": "\u03c7"
+      },
+      {
+        "code": 162,
+        "label": "\u00a2"
+      },
+      {
+        "code": 957,
+        "label": "\u03bd"
+      },
+      {
+        "code": 1074,
+        "label": "\u0432"
+      },
+      {
+        "code": 1080,
+        "label": "\u0438"
+      },
+      {
+        "code": 1084,
+        "label": "\u043c"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,287 @@
+<resources>
+  <!--Translate Strings-->
+
+  <string name="privacy_content">Keyboard App gizlilik politikası aslında yalnızca ürünlerimizden ve hizmetlerimizden herhangi birini ziyaret ettiğinizde veya kullandığınızda toplayabileceğiniz ve kullanabileceğiniz bilgileri açıklamak amacıyla yazılmıştır. Kişiselleştirilmiş reklamcılık ve hizmet geliştirme için buna erişerek ve/veya kullanarak, bu Gizlilik Politikasında açıklanan politikaları ve uygulamaları kabul etmiş olursunuz.</string>
+
+
+  <string name="system_default">Sistem varsayılanı</string>
+  <string name="settings_theme_background_active">Aktif olduğunda arka plan rengi</string>
+  <string name="settings_theme_background_pressed">Basıldığında arka plan rengi</string>
+  <string name="settings_theme_foreground">Ön plan rengi</string>
+  <string name="settings_theme_foreground_alt">Ön plan rengi (alternatif)</string>
+
+  <string name="saving_group_keys_label">Anahtarlar</string>
+  <string name="saving_number_row_label">Sayı satırı</string>
+  <string name="settings_theme_undefined">Tanımlanmamış</string>
+  <string name="settings_theme_preset_summary">Özel (%s"ye dayalı)</string>
+  <string name="settings_theme_preset_dialog_selected_theme">Seçilen tema:</string>
+  <string name="settings_theme_preset_dialog_available_themes">Mevcut temalar:</string>
+  <string name="settings_theme_preset_dialog_alt_arrow_right">Sağ ok</string>
+  <string name="settings_theme_background">Arkaplan rengi</string>
+  <string name="saving_number_row_summary">Karakter düzeninin üstünde numara satırını göster</string>
+  <string name="saving_hinted_number_row_label">İpucu verilen sayı satırı</string>
+  <string name="saving_hinted_number_row_summary">Karakter düzeni ipuçlarının ilk satırı sayı satırı</string>
+
+  <string name="saving_group_layout_label">Düzen</string>
+  <string name="saving_one_handed_mode_label">Tek elle kullanım modu</string>
+  <string name="saving_one_handed_mode_off">Kapalı</string>
+  <string name="saving_one_handed_mode_right">Sağ el modu</string>
+  <string name="saving_hinted_symbols_label">İpuculu semboller</string>
+  <string name="saving_hinted_symbols_summary">Karakter düzeni ipucu sembollerinin ikinci ve üçüncü sırası</string>
+  <string name="saving_font_size_multiplier_portrait_label">Yazı tipi boyutu çarpanı (portre)</string>
+  <string name="saving_font_size_multiplier_landscape_label">Yazı tipi boyutu çarpanı (yatay)</string>
+  <string name="saving_one_handed_mode_left">Sol el modu</string>
+  <string name="saving_height_factor_label">Klavye yüksekliği</string>
+  <string name="saving_height_factor_extra_short">Çok kısa</string>
+  <string name="saving_height_factor_short">Kısa Boylu</string>
+  <string name="saving_height_factor_tall">Uzun Boylu</string>
+  <string name="saving_height_factor_extra_tall">Ekstra uzun</string>
+  <string name="saving_height_factor_custom">Gelenek</string>
+  <string name="saving_height_factor_custom_label">Özel klavye yükseklik değeri</string>
+  <string name="saving_bottom_offset_label">Alt ofset (kavisli ekranlar için)</string>
+  <string name="saving_group_keypress_label">Tuşa basmak</string>
+
+
+  <string name="saving_vibration_strength_label">Tuşa basıldığında titreşim gücü</string>
+  <string name="saving_popup_visible_label">PopUp Görünürlüğü</string>
+  <string name="saving_popup_visible_summary">Bir tuşa bastığınızda açılır pencereyi göster</string>
+  <string name="saving_long_press_delay_label">Uzun tuş basma gecikmesi</string>
+  <string name="saving_smartbar_enabled_label">Öneri Çubuğunu Etkinleştir</string>
+  <string name="saving_smartbar_enabled_summary">Klavyenin üstünde gösterilecek</string>
+  <string name="saving_sound_enabled_label">Tuşa basıldığında ses</string>
+  <string name="saving_sound_volume_label">Tuşa basıldığında ses seviyesi</string>
+  <string name="saving_height_factor_mid_short">Orta Boy</string>
+  <string name="saving_height_factor_normal">Normal-Yükseklik</string>
+  <string name="saving_correction_auto_capitalization_label">Otomatik sermayelendirme</string>
+  <string name="saving_correction_auto_capitalization_summary">Mevcut giriş bağlamına göre kelimeleri büyük harfle yazın</string>
+  <string name="saving_correction_remember_caps_lock_state_label">Caps Lock durumunu hatırla</string>
+  <string name="saving_height_factor_mid_tall">Orta-uzun</string>
+  <string name="saving_vibration_enabled_label">Tuşa basıldığında titreşim</string>
+  <string name="saving_suggestion_title">Öneriler</string>
+  <string name="saving_correction_remember_caps_lock_state_summary">Başka bir metin alanına geçildiğinde Caps Lock tuşu açık kalacaktır</string>
+  <string name="saving_correction_double_space_period_label">Çift boşluklu nokta</string>
+  <string name="saving_correction_double_space_period_summary">Boşluk çubuğuna iki kez tıklandığında boşlukla birlikte bir nokta eklenir</string>
+
+  <string name="saving_correction_title">Düzeltmeler</string>
+  <string name="saving_glide_title">Kaydırmalı yazma</string>
+  <string name="saving_glide_enabled_label">Kaydırmalı yazmayı etkinleştir</string>
+  <string name="saving_suggestion_enabled_label">Kullanıcı yazarken önerileri görüntüle</string>
+  <string name="saving_suggestion_enabled_summary">Öneri Çubuğunda gösterilecek</string>
+  <string name="saving_glide_show_trail_summary">Her kelimeden sonra kaybolacak</string>
+  <string name="saving_gestures_title">Jestler</string>
+  <string name="saving_gestures_swipe_action_no_action">Hiçbir şey yapma</string>
+  <string name="saving_suggestion_suggest_clipboard_content_label">Panoya içerik önerileri</string>
+  <string name="saving_suggestion_use_pref_words_summary">Öneriler oluşturmak için önceki kelimeleri kullanın</string>
+  <string name="saving_glide_enabled_summary">Parmağınızı harfler arasında kaydırarak bir kelime yazın</string>
+  <string name="saving_glide_show_trail_label">Kayma izini göster</string>
+  <string name="saving_gestures_swipe_action_move_cursor_down">İmleç Aşağı</string>
+  <string name="saving_gestures_swipe_action_move_cursor_left">İmleç sola</string>
+  <string name="saving_gestures_swipe_action_move_cursor_right">İmleç sağda</string>
+  <string name="saving_gestures_swipe_action_delete_characters_precisely">Tüm karakterleri kaldır</string>
+  <string name="saving_gestures_swipe_action_delete_word">Geçerli Kelimeyi Kaldır</string>
+  <string name="saving_gestures_swipe_action_delete_words_precisely">Tüm Kelimeleri Kaldır</string>
+  <string name="saving_gestures_swipe_up_label">Yukarı doğru hareket et</string>
+  <string name="saving_gestures_swipe_down_label">Aşağı doğru işaret et</string>
+  <string name="saving_gestures_swipe_left_label">Sol el hareketi</string>
+  <string name="saving_gestures_swipe_right_label">Sağa doğru hareket et</string>
+  <string name="saving_gestures_swipe_action_hide_keyboard">Klavyeyi Küçült</string>
+  <string name="saving_gestures_swipe_action_move_cursor_up">İmleç Yukarı</string>
+  <string name="saving_gestures_swipe_action_shift">Eylemi Değiştir</string>
+  <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Önceki dile geç</string>
+  <string name="saving_gestures_swipe_action_switch_to_next_subtype">Sonraki dile geç</string>
+  <string name="saving_gestures_space_bar_swipe_left_label">Boşluk Çubuğu Hareketi Sola</string>
+  <string name="saving_gestures_space_bar_swipe_right_label">Boşluk Çubuğu Hareketi Sağ</string>
+  <string name="saving_gestures_swipe_velocity_threshold_very_slow">Çok yavaş</string>
+  <string name="saving_gestures_swipe_velocity_threshold_slow">Yavaş</string>
+  <string name="saving_gestures_swipe_velocity_threshold_normal">Normal</string>
+  <string name="saving_gestures_swipe_velocity_threshold_fast">Hızlı</string>
+
+  <string name="saving_advanced_settings_theme_light">Işık</string>
+  <string name="saving_advanced_settings_theme_dark">Karanlık</string>
+  <string name="saving_gestures_delete_key_swipe_left_label">Sil Düğmesi Hareketi Sola</string>
+  <string name="saving_gestures_swipe_velocity_threshold_label">Kaydırma hızı eşiği</string>
+  <string name="saving_gestures_swipe_velocity_threshold_very_fast">Kaydırma hızı eşiği</string>
+  <string name="saving_gestures_swipe_distance_threshold_long">Uzun</string>
+  <string name="symbols_key" translatable="false">=\\&lt;</string>
+  <string name="key_view_half_space" translatable="false">&#8626;</string>
+  <string name="view_arabic" translatable="false">"یـ"</string>
+  <string name="view_english_us" translatable="false">"English (United States)"</string>
+  <string name="saving_gestures_swipe_distance_threshold_very_long">Çok uzun</string>
+  <string name="saving_gestures_swipe_distance_threshold_label">Kaydırma mesafesi eşiği</string>
+  <string name="saving_gestures_swipe_distance_threshold_very_short">Çok kısa</string>
+  <string name="saving_gestures_swipe_distance_threshold_short">Kısa</string>
+  <string name="saving_gestures_swipe_distance_threshold_normal">Normal</string>
+
+
+  <string name="txt_lang_frag">Seçilen tüm diller Klavye"de görünecektir.</string>
+  <string name="search_language_hint">Dil aramasını buradan yapabilirsiniz..</string>
+  <string name="switch_to_keyboard_des">Çoklu dil 100"den fazla tema Animasyonlu GIF"ler Animasyonlu çıkartmalar, Emojiler Sesle Yazma.</string>
+  <string name="welcome_to">Hoş geldiniz</string>
+  <string name="step1" translatable="false">1</string>
+  <string name="choose_keyboard">Klavyeyi Etkinleştir</string>
+  <string name="step2" translatable="false">2</string>
+  <string name="switch_keyboard">Klavyeyi seçin</string>
+  <string name="step3" translatable="false">3</string>
+  <string name="finish_keyboard">Kurulumu Bitir</string>
+
+  <string name="enable_des">Giriş yöntemi ayarları listenizde Klavyeyi Etkinleştirmek için buraya tıklayın. Bu, cihazınızda çalışmasını yetkilendirecektir.</string>
+  <string name="select_des">Giriş yöntemi ayarları listenizde Klavyenizi Seçmek için buraya tıklayın. Bu, cihazınızda çalışmasına izin verecektir.</string>
+  <string name="finish_des">Tamamdır! Klavyeniz kuruldu ve kullanıma hazır</string>
+
+
+  <string name="app_version" translatable="false">v 1.0.1</string>
+  <string name="font_name">Yazı Tipi Adı</string>
+  <string name="set_brightness">Parlaklığı Ayarla</string>
+  <string name="default_themes">Varsayılan Temalar</string>
+  <string name="colors_themes">Renk Temaları</string>
+  <string name="light_gradients_themes">Açık Tonlamalı Temalar</string>
+  <string name="dark_gradients_themes">Koyu Degrade Temaları</string>
+  <string name="landscapes_themes">Manzara Temaları</string>
+  <string name="gallery_themes">Galeri Temaları</string>
+  <string name="crop_image">Resmi Kırp</string>
+  <string name="next">Sonraki</string>
+  <string name="mobile_consent_form">GDPR Onay Formu</string>
+  <string name="privacy_policy_title">Gizlilik Politikası</string>
+  <string name="disclaimer">Sorumluluk reddi</string>
+  <string name="have_accept">Okudum ve kabul ediyorum</string>
+  <string name="theme_updated_successfully">Tema başarıyla güncellendi</string>
+  <string name="apply_theme">Temayı Uygula</string>
+  <string name="suggestions_database">Öneriler Veritabanı</string>
+  <string name="suggestions_dailog">Klavyede Öneriler özelliğini etkinleştirmek için sunucumuzdan Veritabanı dosyasını indirmeniz gerekir. Birkaç saniye sürecektir. Şimdi mi yoksa daha sonra mı indirmek istersiniz?</string>
+  <string name="download">İndirmek</string>
+  <string name="later">Daha sonra</string>
+  <string name="txt_nav_home">Ev</string>
+  <string name="txt_nav_rate_app">Puanla ve Yorumla (Reklam)</string>
+  <string name="txt_nav_share_app">Uygulama Paylaşımı (Reklam)</string>
+  <string name="txt_nav_more_apps">Uygulamalarımız (Reklam)</string>
+  <string name="txt_nav_family_apps">Aile Uygulamalarımız (Reklam)</string>
+  <string name="txt_nav_feedback">Geri bildirim</string>
+  <string name="txt_nav_update">Şimdi Güncelle</string>
+  <string name="txt_nav_ads_remove">Reklamları Kaldır</string>
+  <string name="txt_feedback">Klavye uygulamanız için geri bildirimlerim var</string>
+
+
+  <string name="finish">Sona ermek</string>
+  <string name="space_for_advertisement">Reklam Alanı</string>
+  <string name="other">Diğer</string>
+
+
+  <string name="txt_nav_premium_version">Premium Sürüm</string>
+  <string name="support_the_development">Gelişimi Destekleyin</string>
+  <string name="unlimited_customization">Sınırsız Özelleştirme</string>
+  <string name="complete_ad_free_version">Reklamsız Sürümü Tamamla</string>
+  <string name="unlimited_themes">Premium Temalar ve Yazı Tipleri</string>
+  <string name="terms_of_services">Şartlar ve Koşullar</string>
+  <string name="this_subscriptions_renews_automatically">"Aylık Abonelik" size bir ay boyunca uygulamamıza sınırsız erişim sağlar ve aylık olarak yenilenir. İptal etmezseniz.\n Life Time satın alımı tek seferlik satın alımdır. Daha fazla bilgi için lütfen Hizmet Şartları ve Koşulları"nı inceleyin.</string>
+
+
+  <string name="monthly_subscription">Aylık Abonelik</string>
+  <string name="life_time_purchase">Ömür Boyu Satın Alma</string>
+  <string name="life_time_price">Ömür Boyu Fiyat</string>
+  <string name="monthly_price">Aylık Fiyat</string>
+  <string name="purchase_now">Şimdi satın al</string>
+  <string name="subscribe_now">Şimdi Abone Ol</string>
+
+
+  <string name="enable_disable_number_row">Sayı Satırını Etkinleştir/Devre Dışı Bırak</string>
+  <string name="visible_number_row">Klavyenin Üst Kısmında Görünür Sayı Satırı</string>
+  <string name="show_numeric_hints">Sayısal İpuçlarını Göster</string>
+  <string name="show_numeric_hint_on_first_row">Karakterlerin ilk satırında sayı ipucunu göster</string>
+  <string name="show_symbol_hints">Sembol İpuçlarını Göster</string>
+  <string name="show_symbol_hints_on_rows">İkinci ve üçüncü karakter satırında Semboller ipucunu göster</string>
+  <string name="adjust_keyboard_font_size_portrait">Portre görünümü için Klavye Yazı Boyutunu Ayarla</string>
+  <string name="adjust_keyboard_font_size_landscape">Yatay görünüm için Klavye Yazı Boyutunu Ayarla</string>
+  <string name="keyboard_layout_settings">Klavye Düzeni Ayarları</string>
+  <string name="keyboard_height">Klavye Yüksekliği</string>
+  <string name="keyboard_key_click_settings">Klavye Tuş Tıklama Ayarları</string>
+  <string name="play_sound_on_key_click">Tuş Tıklamasında Ses Çal</string>
+  <string name="key_click_sound_volume">Tuş tıklama sesi seviyesini ayarlayın</string>
+  <string name="vibrate_on_key_click">Tuş Tıklamasında Titreşim</string>
+  <string name="key_vibration_strength">Anahtar Titreşim Gücünü Ayarla</string>
+  <string name="enable_popup_alphabets">Kullanıcı bir tuşa tıkladığında Pop-Up alfabelerini göster</string>
+  <string name="popup_feature">Açılır Pencere Özelliği</string>
+  <string name="correction_settings">Düzeltme Ayarları</string>
+  <string name="auto_capitalize">Otomatik Büyük Harf Yapma</string>
+  <string name="save_caps_lock_state">Caps Lock durumunu kaydet</string>
+  <string name="show_editing_panel">Düzenleme Panelini Göster</string>
+  <string name="enable_disable_editing_panel">Düzenleme Panelini Etkinleştir/Devre Dışı Bırak</string>
+  <string name="available_gestures">Mevcut Hareketler</string>
+  <string name="enable_disable_keyboard_one_handed_mode">Tek El Modunu Etkinleştir/Devre Dışı Bırak</string>
+  <string name="keyboard_keys_settings">Klavye Tuşları Ayarları</string>
+  <string name="enable_disable_suggestions_bar">Bu, Klavye Görünümü"nün en üstünde görünecektir</string>
+  <string name="suggestions_will_shown_on_suggestion_bar">Tüm öneriler Öneri Çubuğunda gösterilecektir</string>
+  <string name="show_suggestions">Kullanıcı yazdığında önerileri göster</string>
+  <string name="customize_suggestion_bar">Öneri Çubuğunu Özelleştir</string>
+  <string name="customize_suggestion_button">Öneri Düğmesini Özelleştir</string>
+  <string name="enable_disable_voice_typing">Sesle Yazmayı Etkinleştir/Devre Dışı Bırak</string>
+  <string name="use_voice_typing">Sesle yazmayı kullanın</string>
+
+  <string name="settings">Ayarlar</string>
+  <string name="languages">Diller</string>
+  <string name="themes">Temalar</string>
+  <string name="preferences">Tercihler</string>
+  <string name="fonts">Yazı tipleri</string>
+  <string name="text_correction">Metin Düzeltme</string>
+  <string name="gestures">Jestler</string>
+  <string name="suggestions">Öneriler</string>
+  <string name="one_hand_typing">Tek Elle Yazma</string>
+  <string name="editing_panel">Düzenleme Paneli</string>
+  <string name="voice_typing">Sesle Yazma</string>
+
+  <string name="languages_localization">Diller ve Yerelleştirme</string>
+  <string name="customize_themes">Temaları Özelleştir</string>
+  <string name="keyboard_preferences">Klavye Tercihleri</string>
+  <string name="fonts_styles">Yazı Tipleri Stilleri</string>
+  <string name="text_correction_list">Metin Düzeltme</string>
+  <string name="enable_gesture_typing">Hareketle Yazmayı Etkinleştir</string>
+  <string name="enable_auto_suggestions">Otomatik Önerileri Etkinleştir</string>
+  <string name="one_hand_typing_mode">Tek Elle Yazma Modu</string>
+  <string name="customize_editing_panel">Düzenleme Panelini Özelleştir</string>
+  <string name="voice_recognition_typing">Ses Tanıma ve Yazma</string>
+
+  <string name="title_activity_language_picker">DilSeçiciEtkinliği</string>
+  <string name="cencel_sub">Aboneliği İptal Et</string>
+  <string name="yearly_subscription">Yıllık Abonelik</string>
+  <string name="app_languages">Uygulama Dilini Seçin</string>
+  <string name="change_app_theme">Uygulama Temasını Seçin</string>
+  <string name="default_theme">Varsayılan</string>
+  <string name="dark_theme">Karanlık</string>
+  <string name="light_theme">Işık</string>
+
+  <string name="app_theme_apply">Uygula</string>
+  <string name="app_theme_cancel">İptal etmek</string>
+  <string name="test_keyboard_here">Klavyeyi burada test edin</string>
+  <string name="cancel">İptal etmek</string>
+
+
+  <string name="premium_keyboard_title">Klavye Artı</string>
+  <string name="premium_des_title">Premium ile tüm özelliklere erişin</string>
+
+  <string name="customization_title">Özelleştirme</string>
+  <string name="themes_fonts_title">Temalar ve Yazı Tipleri</string>
+  <string name="no_ads_title">Reklam Yok</string>
+  <string name="vip_support_title">VIP Desteği</string>
+
+
+
+  <string name="reward_ad_show_title">Ödül Al</string>
+  <string name="fonts_reward_dailog_des">Bu fontu uygulamak için ödüllü reklamı izlemeniz gerekir. Ödüllü reklamı göstermek ister misiniz?</string>
+  <string name="themes_reward_dailog_des">"Bu temayı uygulamak için ödüllü reklamı izlemeniz gerekiyor. Ödüllü reklamı göstermek ister misiniz?</string>
+  <string name="reward_dailog_show_ad_btn">Reklamı Göster</string>
+  <string name="reward_dailog_cancel_btn">İptal etmek</string>
+  <string name="reward_dailog_get_premium_btn">Premium Üye Olun</string>
+  <string name="loading_ads">Reklamlar yükleniyor…</string>
+  <string name="please_wait">Lütfen bekleyin…</string>
+
+
+  <string name="exit_dailog_title">Uygulamadan çıkılsın mı?</string>
+  <string name="exit_dailog_des">Uygulamadan çıkmak istediğinizden emin misiniz?</string>
+  <string name="exit_dailog_cancel_btn">İptal etmek</string>
+  <string name="exit_dailog_exit_btn">Çıkış</string>
+
+
+
+
+</resources>
+
+

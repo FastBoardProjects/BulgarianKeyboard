@@ -1,0 +1,442 @@
+<resources>
+
+    <!--Test ADS IDS-->
+
+
+<!--
+
+    <string name="app_id" translatable="false">ca-app-pub-5562164708259682~4422129380</string>
+
+    <string name="banner_ads_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ads_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="app_open_ads_id" translatable="false">ca-app-pub-3940256099942544/9257395921</string>
+
+    <string name="native_ads_fonts_id" translatable="false">"ca-app-pub-3940256099942544/2247696110</string>
+    <string name="native_ads_themes_id" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="native_ads_exit_id" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="rewarded_ads_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+-->
+
+
+
+
+    <!--===============================================================================================================-->
+
+
+    <!--todo change-->
+    <!--Real ADS IDS-->
+
+
+
+    <string name="app_id" translatable="false">ca-app-pub-5562164708259682~4422129380</string>
+
+    <string name="banner_ads_id" translatable="false">ca-app-pub-5562164708259682/1701884629</string>
+    <string name="interstitial_ads_id" translatable="false">ca-app-pub-5562164708259682/2823394602</string>
+    <string name="app_open_ads_id" translatable="false">ca-app-pub-5562164708259682/6571067923</string>
+
+    <string name="native_ads_fonts_id" translatable="false">ca-app-pub-5562164708259682/9842191491</string>
+    <string name="native_ads_themes_id" translatable="false">ca-app-pub-5562164708259682/5333474968</string>
+    <string name="native_ads_exit_id" translatable="false">ca-app-pub-5562164708259682/2673035490</string>
+    <string name="rewarded_ads_id" translatable="false">ca-app-pub-5562164708259682/1405589856</string>
+
+
+
+
+
+    <!--===============================================================================================================-->
+
+
+
+
+
+    <!--App NonTranslate Strings-->
+
+
+    <!--todo change-->
+    <!--NonTranslate GIPHY API KEY-->
+    <string name="giphy_api_key" translatable="false">luC3mKUg3TJ2afTjJVt3M7x46H38l14i</string>
+
+    <!--NonTranslate Database Strings-->
+    <!--todo change-->
+    <string name="app_db_name" translatable="false">bulgarian_db.sqlite</string>
+    <string name="app_freq_column" translatable="false">soft_freq</string>
+    <string name="app_word_column" translatable="false">soft_word</string>
+
+    <string name="eng_table_name" translatable="false">en_US</string>
+    <!--todo change-->
+    <string name="second_lang_table_name" translatable="false">bg</string>
+
+
+    <!--NonTranslate Strings Keyboard App Names-->
+    <!--todo change-->
+    <string name="app_name" translatable="false">Bulgarian Keyboard 🇧🇬</string>
+    <string name="app_name_heart" translatable="false">Bulgarian Keyboard 🇧🇬</string>
+    <string name="img_des" translatable="false">Default Image</string>
+    <string name="pub_from" translatable="false">From</string>
+    <string name="pub_name" translatable="false">"Multilingual Keyboard Apps"</string>
+
+
+    <!--todo change-->
+    <string name="rate_app_link" translatable="false">https://rb.gy/3qv8o8</string>
+    <string name="share_app_link" translatable="false">https://rb.gy/3qv8o8</string>
+
+    <!--todo change-->
+    <string name="more_apps_link" translatable="false">http://tinyurl.com/9tmdwhyx</string>
+
+    <string name="feedback_email" translatable="false">fastkeyboard.translator@gmail.com</string>
+    <string name="app_privacy_policy" translatable="false">https://fastkeyboardvoicetranslator.blogspot.com/p/privacy-policy.html</string>
+    <string name="subscription_privacy_policy" translatable="false">https://fastkeyboardvoicetranslator.blogspot.com/p/subscription-policy.html</string>
+
+
+    <string name="splash_loading_ad_txt" translatable="false">Loading advertisement Please wait ...</string>
+
+
+    <string name="all_language_keyboard_app_link" translatable="false">https://tinyurl.com/37wemrkm</string>
+    <string name="all_language_translator_app_link" translatable="false">https://tinyurl.com/4ftkfp63</string>
+    <string name="qrcode_app_link" translatable="false">https://tinyurl.com/2s4h85n3</string>
+
+    <string name="arabic_keyboard_app_link" translatable="false">https://tinyurl.com/yhc7zfd3</string>
+    <string name="afghan_keyboard_app_link" translatable="false">https://tinyurl.com/2ckcdnrz</string>
+    <string name="assamese_keyboard_app_link" translatable="false">https://tinyurl.com/yc3yzsrc</string>
+    <string name="bangla_keyboard_app_link" translatable="false">https://tinyurl.com/4uxxpv7j</string>
+    <string name="bulgarian_keyboard_app_link" translatable="false">https://tinyurl.com/ym3yyvbh</string>
+    <string name="french_keyboard_app_link" translatable="false">https://tinyurl.com/mwjtw4p7</string>
+    <string name="german_keyboard_app_link" translatable="false">https://tinyurl.com/5ytmypfm</string>
+    <string name="georgian_keyboard_app_link" translatable="false">https://tinyurl.com/2mcdb64k</string>
+    <string name="greek_keyboard_app_link" translatable="false">https://tinyurl.com/54bxph55</string>
+    <string name="hebrew_keyboard_app_link" translatable="false">https://tinyurl.com/mryax348</string>
+    <string name="hungarian_keyboard_app_link" translatable="false">https://tinyurl.com/yr45z5tp</string>
+    <string name="kazakh_keyboard_app_link" translatable="false">https://tinyurl.com/42svfmyb</string>
+    <string name="korean_keyboard_app_link" translatable="false">https://tinyurl.com/2k7jtwat</string>
+    <string name="lao_keyboard_app_link" translatable="false">https://tinyurl.com/2jvvymwp</string>
+    <string name="mongolian_keyboard_app_link" translatable="false">https://tinyurl.com/4dh5yrd6</string>
+    <string name="myanmar_keyboard_app_link" translatable="false">https://tinyurl.com/2abf6jm7</string>
+    <string name="norwegian_keyboard_app_link" translatable="false">https://tinyurl.com/3uh6vy7e</string>
+    <string name="persian_keyboard_app_link" translatable="false">https://tinyurl.com/bdct96vn</string>
+    <string name="russian_keyboard_app_link" translatable="false">https://tinyurl.com/5erxepn5</string>
+    <string name="serbian_keyboard_app_link" translatable="false">https://tinyurl.com/z7n2fhbr</string>
+    <string name="spanish_keyboard_app_link" translatable="false">https://tinyurl.com/mzjvv23p</string>
+    <string name="swedish_keyboard_app_link" translatable="false">https://tinyurl.com/5bh87c5t</string>
+    <string name="thai_keyboard_app_link" translatable="false">https://tinyurl.com/2p8vm3xs</string>
+    <string name="uzbek_keyboard_app_link" translatable="false">https://tinyurl.com/29nsru7n</string>
+    <string name="vietnamese_keyboard_app_link" translatable="false">https://tinyurl.com/3ny23zay</string>
+
+
+    <string name="txt_family_apps" translatable="false">Family Apps</string>
+    <string name="all_language_keyboard" translatable="false">All Language Keyboard (Ad)</string>
+    <string name="all_language_translator" translatable="false">All Language Translator (Ad)</string>
+    <string name="qr_code_scanner_barcode_scanner" translatable="false">QR Code &amp; Barcode Scanner (Ad)</string>
+
+    <string name="arabic_keyboard" translatable="false">Arabic Keyboard (Ad)</string>
+    <string name="afghan_keyboard" translatable="false">Pashto Keyboard (Ad)</string>
+    <string name="assamese_keyboard" translatable="false">Assamese Keyboard (Ad)</string>
+    <string name="bangla_keyboard" translatable="false">Bengali Keyboard (Ad)</string>
+    <string name="bulgarian_keyboard" translatable="false">Bulgarian Keyboard (Ad)</string>
+    <string name="french_keyboard" translatable="false">French Keyboard (Ad)</string>
+    <string name="german_keyboard" translatable="false">German Keyboard (Ad)</string>
+    <string name="georgian_keyboard" translatable="false">Georgian Keyboard (Ad)</string>
+    <string name="greek_keyboard" translatable="false">Greek Keyboard (Ad)</string>
+    <string name="hebrew_keyboard" translatable="false">Hebrew Keyboard (Ad)</string>
+    <string name="hungarian_keyboard" translatable="false">Hungarian Keyboard (Ad)</string>
+    <string name="kazakh_keyboard" translatable="false">Kazakh Keyboard (Ad)</string>
+    <string name="korean_keyboard" translatable="false">Korean Keyboard (Ad)</string>
+    <string name="lao_keyboard" translatable="false">Lao Keyboard (Ad)</string>
+    <string name="mongolian_keyboard" translatable="false">Mongolian Keyboard (Ad)</string>
+    <string name="myanmar_keyboard" translatable="false">Myanmar Keyboard (Ad)</string>
+    <string name="norwegian_keyboard" translatable="false">Norwegian Keyboard (Ad)</string>
+    <string name="persian_keyboard" translatable="false">Persian Keyboard (Ad)</string>
+    <string name="russian_keyboard" translatable="false">Russian Keyboard (Ad)</string>
+    <string name="serbian_keyboard" translatable="false">Serbian Keyboard (Ad)</string>
+    <string name="spanish_keyboard" translatable="false">Spanish Keyboard (Ad)</string>
+    <string name="swedish_keyboard" translatable="false">Swedish Keyboard (Ad)</string>
+    <string name="thai_keyboard" translatable="false">Thai Keyboard (Ad)</string>
+    <string name="uzbek_keyboard" translatable="false">Uzbek Keyboard (Ad)</string>
+    <string name="vietnamese_keyboard" translatable="false">Vietnamese Keyboard (Ad)</string>
+
+
+    <!--NonTranslate Voice Text-->
+    <string name="smartbar_quick_action_voice_input" comment="Content-description for the voice input action in Smartbar" translatable="false">Switch to text editing panel.</string>
+
+
+    <!--Translate Strings-->
+
+    <string name="privacy_content">The Keyboard App privacy policy is actually written for the only purpose of explaining to collect and use the information that might be when you visit or use any of our products and services. By accessing and/or using this for personalized advertising and services development, you are agreeing to the policies and practices described in this Privacy Policy.</string>
+
+
+    <string name="system_default">System default</string>
+    <string name="settings_theme_background_active">Background color when active</string>
+    <string name="settings_theme_background_pressed">Background color when pressed</string>
+    <string name="settings_theme_foreground">Foreground color</string>
+    <string name="settings_theme_foreground_alt">Foreground color (alternative)</string>
+
+    <string name="saving_group_keys_label">Keys</string>
+    <string name="saving_number_row_label">Number row</string>
+    <string name="settings_theme_undefined">Undefined</string>
+    <string name="settings_theme_preset_summary">Custom (based on %s)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Selected theme:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Available themes:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Arrow right</string>
+    <string name="settings_theme_background">Background color</string>
+    <string name="saving_number_row_summary">Show number row on top of character layout</string>
+    <string name="saving_hinted_number_row_label">Hinted number row</string>
+    <string name="saving_hinted_number_row_summary">First row of character layout hints number row</string>
+
+    <string name="saving_group_layout_label">Layout</string>
+    <string name="saving_one_handed_mode_label">One-handed mode</string>
+    <string name="saving_one_handed_mode_off">Off</string>
+    <string name="saving_one_handed_mode_right">Right-handed mode</string>
+    <string name="saving_hinted_symbols_label">Hinted symbols</string>
+    <string name="saving_hinted_symbols_summary">Second and third row of character layout hint symbols</string>
+    <string name="saving_font_size_multiplier_portrait_label">Font size multiplier (portrait)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Font size multiplier (landscape)</string>
+    <string name="saving_one_handed_mode_left">Left-handed mode</string>
+    <string name="saving_height_factor_label">Keyboard height</string>
+    <string name="saving_height_factor_extra_short">Extra-short</string>
+    <string name="saving_height_factor_short">Short-Height</string>
+    <string name="saving_height_factor_tall">Tall-Height</string>
+    <string name="saving_height_factor_extra_tall">Extra-tall</string>
+    <string name="saving_height_factor_custom">Custom</string>
+    <string name="saving_height_factor_custom_label">Custom keyboard height value</string>
+    <string name="saving_bottom_offset_label">Bottom offset (for curved screens)</string>
+    <string name="saving_group_keypress_label">Key press</string>
+
+
+    <string name="saving_vibration_strength_label">Vibration strength on key press</string>
+    <string name="saving_popup_visible_label">PopUp Visibility</string>
+    <string name="saving_popup_visible_summary">Show popup when you press a key</string>
+    <string name="saving_long_press_delay_label">Long key press delay</string>
+    <string name="saving_smartbar_enabled_label">Enable Suggestion Bar</string>
+    <string name="saving_smartbar_enabled_summary">Will show on top of the keyboard</string>
+    <string name="saving_sound_enabled_label">Sound on key press</string>
+    <string name="saving_sound_volume_label">Sound volume on key press</string>
+    <string name="saving_height_factor_mid_short">Medium-Height</string>
+    <string name="saving_height_factor_normal">Normal-Height</string>
+    <string name="saving_correction_auto_capitalization_label">Auto-capitalization</string>
+    <string name="saving_correction_auto_capitalization_summary">Capitalize words based on the current input context</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Remember caps lock state</string>
+    <string name="saving_height_factor_mid_tall">Mid-tall</string>
+    <string name="saving_vibration_enabled_label">Vibrate on key press</string>
+    <string name="saving_suggestion_title">Suggestions</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Caps lock will stay on when moving to another text field</string>
+    <string name="saving_correction_double_space_period_label">Double-space period</string>
+    <string name="saving_correction_double_space_period_summary">By clicking two times on Space bar a period will be inserted with space</string>
+
+    <string name="saving_correction_title">Corrections</string>
+    <string name="saving_glide_title">Glide typing</string>
+    <string name="saving_glide_enabled_label">Enable glide typing</string>
+    <string name="saving_suggestion_enabled_label">Display suggestions when user type</string>
+    <string name="saving_suggestion_enabled_summary">Will show in the Suggestion Bar</string>
+    <string name="saving_glide_show_trail_summary">Will disappear after each word</string>
+    <string name="saving_gestures_title">Gestures</string>
+    <string name="saving_gestures_swipe_action_no_action">Do Nothing</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Clipboard content suggestions</string>
+    <string name="saving_suggestion_use_pref_words_summary">Use previous words for generating suggestions</string>
+    <string name="saving_glide_enabled_summary">Type in a word by sliding your finger through its letters</string>
+    <string name="saving_glide_show_trail_label">Show glide trail</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Cursor Down</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Cursor left</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Cursor right</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Remove All characters </string>
+    <string name="saving_gestures_swipe_action_delete_word">Remove Current Word</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Remove All Words</string>
+    <string name="saving_gestures_swipe_up_label">Gesture up</string>
+    <string name="saving_gestures_swipe_down_label">Gesture down</string>
+    <string name="saving_gestures_swipe_left_label">Gesture left</string>
+    <string name="saving_gestures_swipe_right_label">Gesture right</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Minimize Keyboard</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Cursor Up</string>
+    <string name="saving_gestures_swipe_action_shift">Shift Action</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Move to previous language</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Move to next language</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Space Bar Gesture Left</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Space Bar Gesture Right</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Very slow</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Slow</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Normal</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Fast</string>
+
+    <string name="saving_advanced_settings_theme_light">Light</string>
+    <string name="saving_advanced_settings_theme_dark">Dark</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Delete Button Gesture Left</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Swipe velocity threshold</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Swipe velocity threshold</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Long</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Very long</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Swipe distance threshold</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Very short</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Short</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Normal</string>
+
+
+    <string name="txt_lang_frag">All the selected languages will be visible in Keyboard.</string>
+    <string name="search_language_hint">Search Language here..</string>
+    <string name="switch_to_keyboard_des">Multiple languages  100+ themes   Animated GIFs  Animated Stickers,Emojis  Voice Typing.</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Enable Keyboard</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Select Keyboard</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Finish Set Up</string>
+
+    <string name="enable_des">Click here to Enable Keyboard in your input method settings list. This will authorize it to run on your device.</string>
+    <string name="select_des">Click here to Select your Keyboard in your input method settings list. This will authorize it to run on your device.</string>
+    <string name="finish_des">All done! your Keyboard is set up and ready to use</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Font Name</string>
+    <string name="set_brightness">Set Brightness</string>
+    <string name="default_themes">Default Themes</string>
+    <string name="colors_themes">Colors Themes</string>
+    <string name="light_gradients_themes">Light Gradients Themes</string>
+    <string name="dark_gradients_themes">Dark Gradients Themes</string>
+    <string name="landscapes_themes">Landscapes Themes</string>
+    <string name="gallery_themes">Gallery Themes</string>
+    <string name="crop_image">Crop Image</string>
+    <string name="next">Next</string>
+    <string name="mobile_consent_form">GDPR Consent Form</string>
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="have_accept">I have read and accept</string>
+    <string name="theme_updated_successfully">Theme has been updated successfully</string>
+    <string name="apply_theme">Apply Theme</string>
+    <string name="suggestions_database">Suggestions Database</string>
+    <string name="suggestions_dailog">To enable Suggestions feature in keyboard you have to download Database file from our server. It will take some seconds. Do you wish to download now or later?</string>
+    <string name="download">Download</string>
+    <string name="later">Later</string>
+    <string name="txt_nav_home">Home</string>
+    <string name="txt_nav_rate_app">Rate &amp; Review (Ad)</string>
+    <string name="txt_nav_share_app">Share App (Ad)</string>
+    <string name="txt_nav_more_apps">Our Apps (Ad)</string>
+    <string name="txt_nav_family_apps">Our Family Apps (Ad)</string>
+    <string name="txt_nav_feedback">Feedback</string>
+    <string name="txt_nav_update">Update App</string>
+    <string name="txt_nav_ads_remove">Remove Ads</string>
+    <string name="txt_feedback">I have feedback for your Keyboard app</string>
+
+
+    <string name="finish">Finish</string>
+    <string name="space_for_advertisement">Space for Advertisement</string>
+    <string name="other">Other</string>
+
+
+    <string name="txt_nav_premium_version">Premium Version</string>
+    <string name="support_the_development">Support the Development</string>
+    <string name="unlimited_customization">Unlimited Customization</string>
+    <string name="complete_ad_free_version">Complete Ads Free Version</string>
+    <string name="unlimited_themes">Premium Themes and Fonts Styles</string>
+    <string name="terms_of_services">Terms &amp; Conditions</string>
+    <string name="this_subscriptions_renews_automatically">"Monthly Subscription" gives you unlimited access to our application for one month and will be renew monthly. If you don\'t cancel it.\n life Time purchase is the only one time purchase. For more information Please check out the Terms &amp; Conditions of Service.</string>
+
+
+    <string name="monthly_subscription">Monthly Subscription</string>
+    <string name="life_time_purchase">Life Time Purchase</string>
+    <string name="life_time_price">Life-Time Price</string>
+    <string name="monthly_price">Monthly Price</string>
+    <string name="purchase_now">Purchase Now</string>
+    <string name="subscribe_now">Subscribe Now</string>
+
+
+    <string name="enable_disable_number_row">Enable/Disable Number Row</string>
+    <string name="visible_number_row">Visible Number Row on the Top of Keyboard</string>
+    <string name="show_numeric_hints">Show Numeric Hints</string>
+    <string name="show_numeric_hint_on_first_row">Show numbers hint on the first row of characters</string>
+    <string name="show_symbol_hints">Show Symbol Hints</string>
+    <string name="show_symbol_hints_on_rows">Show Symbols hint on the second and third row of characters</string>
+    <string name="adjust_keyboard_font_size_portrait">Adjust Keyboard Font Size for Portrait view</string>
+    <string name="adjust_keyboard_font_size_landscape">Adjust Keyboard Font Size for Landscape view</string>
+    <string name="keyboard_layout_settings">Keyboard Layout Settings</string>
+    <string name="keyboard_height">Keyboard Height</string>
+    <string name="keyboard_key_click_settings">Keyboard Key Click Settings</string>
+    <string name="play_sound_on_key_click">Play Sound on Key Click</string>
+    <string name="key_click_sound_volume">Adjust Key click sound volume</string>
+    <string name="vibrate_on_key_click">Vibrate on Key Click</string>
+    <string name="key_vibration_strength">Adjust Key Vibration Strength</string>
+    <string name="enable_popup_alphabets">Show Pop-Up alphabets when user clicks a key</string>
+    <string name="popup_feature">Pop-Up Feature</string>
+    <string name="correction_settings">Correction Settings</string>
+    <string name="auto_capitalize">Auto Capitalize</string>
+    <string name="save_caps_lock_state">Save Caps Lock state</string>
+    <string name="show_editing_panel">Show Editing Panel</string>
+    <string name="enable_disable_editing_panel">Enable/Disable Editing Panel</string>
+    <string name="available_gestures">Available Gestures</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Enable/Disable One Handed Mode</string>
+    <string name="keyboard_keys_settings">Keyboard Keys Settings</string>
+    <string name="enable_disable_suggestions_bar">This will be visible on the top of Keyboard View</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">All suggestions will be shown on Suggestion Bar</string>
+    <string name="show_suggestions">Show suggestions when user type</string>
+    <string name="customize_suggestion_bar">Customize Suggestion Bar</string>
+    <string name="customize_suggestion_button">Customize Suggestion Button</string>
+    <string name="enable_disable_voice_typing">Enable/Disable Voice Typing</string>
+    <string name="use_voice_typing">Use Voice typing</string>
+
+    <string name="settings">Settings</string>
+    <string name="languages">Languages</string>
+    <string name="themes">Themes</string>
+    <string name="preferences">Preferences</string>
+    <string name="fonts">Fonts</string>
+    <string name="text_correction">Text Correction</string>
+    <string name="gestures">Gestures</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="one_hand_typing">One Hand Typing</string>
+    <string name="editing_panel">Editing Panel</string>
+    <string name="voice_typing">Voice Typing</string>
+
+    <string name="languages_localization">Languages &amp; Localization</string>
+    <string name="customize_themes">Customize Themes</string>
+    <string name="keyboard_preferences">Keyboard Preferences</string>
+    <string name="fonts_styles">Fonts Styles</string>
+    <string name="text_correction_list">Text Correction</string>
+    <string name="enable_gesture_typing">Enable Gesture Typing</string>
+    <string name="enable_auto_suggestions">Enable Auto Suggestions</string>
+    <string name="one_hand_typing_mode">One Hand Typing Mode</string>
+    <string name="customize_editing_panel">Customize Editing Panel</string>
+    <string name="voice_recognition_typing">Voice Recognition &amp; Typing</string>
+
+    <string name="title_activity_language_picker">LanguagePickerActivity</string>
+    <string name="cencel_sub">Cancel Subscription</string>
+    <string name="yearly_subscription">Yearly Subscription</string>
+    <string name="app_languages">Choose App Language</string>
+    <string name="change_app_theme">Choose App Theme</string>
+    <string name="default_theme">Default</string>
+    <string name="dark_theme">Dark</string>
+    <string name="light_theme">Light</string>
+
+    <string name="app_theme_apply">Apply</string>
+    <string name="app_theme_cancel">Cancel</string>
+    <string name="test_keyboard_here">Test keyboard here</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="premium_keyboard_title">Keyboard Plus</string>
+    <string name="premium_des_title">Access all features with premium</string>
+
+    <string name="customization_title">Customization</string>
+    <string name="themes_fonts_title">Themes and Fonts</string>
+    <string name="no_ads_title">No Ads</string>
+    <string name="vip_support_title">VIP Support</string>
+
+
+
+    <string name="reward_ad_show_title">Get Reward</string>
+    <string name="fonts_reward_dailog_des">In case of apply this font you need to watch rewarded ad. Do you want to show reward AD?</string>
+    <string name="themes_reward_dailog_des">"In case of apply this theme you need to watch rewarded ad. Do you want to show reward AD?</string>
+    <string name="reward_dailog_show_ad_btn">Show Ad</string>
+    <string name="reward_dailog_cancel_btn">Cancel</string>
+    <string name="reward_dailog_get_premium_btn">Get Premium</string>
+    <string name="loading_ads">Loading Ads…</string>
+    <string name="please_wait">Please Wait…</string>
+
+
+    <string name="exit_dailog_title">Exit App?</string>
+    <string name="exit_dailog_des">Are you sure to Exit the App? </string>
+    <string name="exit_dailog_cancel_btn">Cancel</string>
+    <string name="exit_dailog_exit_btn">Exit</string>
+
+
+</resources>

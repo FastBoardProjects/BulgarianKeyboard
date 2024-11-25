@@ -1,0 +1,101 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat
+        app:iconSpaceReserved="false"
+        app:isPreferenceVisible="false"
+        app:key="glide"
+        app:title="@string/saving_glide_title">
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+            android:defaultValue="false"
+            android:summary="@string/saving_glide_enabled_summary"
+            app:disableDependentsState="true"
+            app:iconSpaceReserved="false"
+            app:key="glide_enabled"
+            app:title="@string/saving_glide_enabled_label" />
+
+    </com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat>
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat
+        app:iconSpaceReserved="false"
+        app:key="gestures"
+        app:title="@string/available_gestures">
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestListPreferenceCompat
+
+            android:defaultValue="shift"
+            app:dependency="glide_enabled"
+            app:entries="@array/saving_gestures_swipe_action_entries"
+            app:entryValues="@array/saving_gestures_swipe_action_values"
+            app:iconSpaceReserved="false"
+            app:key="gestures_swipe_up"
+            app:title="@string/saving_gestures_swipe_up_label"
+            app:useSimpleSummaryProvider="true" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestListPreferenceCompat
+
+            android:defaultValue="hide_keyboard"
+            app:dependency="glide_enabled"
+            app:entries="@array/saving_gestures_swipe_action_entries"
+            app:entryValues="@array/saving_gestures_swipe_action_values"
+            app:iconSpaceReserved="false"
+            app:key="gestures_swipe_down"
+            app:title="@string/saving_gestures_swipe_down_label"
+            app:useSimpleSummaryProvider="true" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestListPreferenceCompat
+
+            android:defaultValue="switch_to_next_subtype"
+            app:dependency="glide_enabled"
+            app:entries="@array/saving_gestures_swipe_action_entries"
+            app:entryValues="@array/saving_gestures_swipe_action_values"
+            app:iconSpaceReserved="false"
+            app:key="gestures_swipe_left"
+            app:title="@string/saving_gestures_swipe_left_label"
+            app:useSimpleSummaryProvider="true" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestListPreferenceCompat
+
+            android:defaultValue="switch_to_prev_subtype"
+            app:dependency="glide_enabled"
+            app:entries="@array/saving_gestures_swipe_action_entries"
+            app:entryValues="@array/saving_gestures_swipe_action_values"
+            app:iconSpaceReserved="false"
+            app:key="gestures_swipe_right"
+            app:title="@string/saving_gestures_swipe_right_label"
+            app:useSimpleSummaryProvider="true" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestListPreferenceCompat
+
+            android:defaultValue="move_cursor_left"
+            app:entries="@array/saving_gestures_swipe_action_entries"
+            app:entryValues="@array/saving_gestures_swipe_action_values"
+            app:iconSpaceReserved="false"
+            app:key="gestures_space_bar_swipe_left"
+            app:title="@string/saving_gestures_space_bar_swipe_left_label"
+            app:useSimpleSummaryProvider="true" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestListPreferenceCompat
+
+            android:defaultValue="move_cursor_right"
+            app:entries="@array/saving_gestures_swipe_action_entries"
+            app:entryValues="@array/saving_gestures_swipe_action_values"
+            app:iconSpaceReserved="false"
+            app:key="gestures_space_bar_swipe_right"
+            app:title="@string/saving_gestures_space_bar_swipe_right_label"
+            app:useSimpleSummaryProvider="true" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestListPreferenceCompat
+
+            android:defaultValue="delete_characters_precisely"
+            app:entries="@array/saving_gestures_swipe_action_delete_entries"
+            app:entryValues="@array/saving_gestures_swipe_action_delete_values"
+            app:iconSpaceReserved="false"
+            app:key="gestures_delete_key_swipe_left"
+            app:title="@string/saving_gestures_delete_key_swipe_left_label"
+            app:useSimpleSummaryProvider="true" />
+
+    </com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat>
+
+</PreferenceScreen>

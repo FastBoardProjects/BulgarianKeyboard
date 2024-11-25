@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat
+        app:iconSpaceReserved="false"
+        app:title="@string/enable_disable_keyboard_one_handed_mode">
+        <com.maya.newbulgariankeyboard.main_utils.LatestListPreferenceCompat
+
+            android:defaultValue="off"
+            app:entries="@array/saving_one_handed_mode_entries"
+            app:entryValues="@array/saving_one_handed_mode_values"
+            app:iconSpaceReserved="false"
+            app:key="keyboard_one_handed_mode"
+            app:title="@string/saving_one_handed_mode_label"
+            app:useSimpleSummaryProvider="true" />
+
+        <com.jaredrummler.android.colorpicker.ColorPreferenceCompat
+            android:key="theme_oneHanded_bgColor"
+            android:title="@string/settings_theme_background"
+            app:cpv_colorShape="square"
+            app:cpv_dialogTitle="@string/settings_theme_background"
+            app:cpv_dialogType="preset"
+            app:cpv_previewSize="large"
+            app:cpv_showAlphaSlider="true"
+            app:cpv_showColorShades="true"
+            app:iconSpaceReserved="false"
+            app:isPreferenceVisible="false" />
+
+    </com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat>
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat
+        app:iconSpaceReserved="false"
+        app:isPreferenceVisible="false"
+        app:title="Customize One-handed button">
+
+        <com.jaredrummler.android.colorpicker.ColorPreferenceCompat
+            android:key="theme_oneHandedButton_fgColor"
+            android:title="@string/settings_theme_foreground"
+            app:cpv_colorShape="square"
+            app:cpv_dialogTitle="@string/settings_theme_foreground"
+            app:cpv_dialogType="preset"
+            app:cpv_previewSize="large"
+            app:cpv_showAlphaSlider="true"
+            app:cpv_showColorShades="true"
+            app:iconSpaceReserved="false" />
+
+    </com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat>
+
+</PreferenceScreen>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.tabs.TabLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/media_input_stickers_tabs"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:overScrollMode="never"
+    android:scrollbarSize="1dp"
+    android:background="@android:color/transparent"
+    app:tabIndicator="@drawable/media_tab_indicator"
+    app:tabIndicatorColor="?colorAccent"
+    app:tabIndicatorFullWidth="false"
+    app:tabIndicatorHeight="@dimen/media_tab_indicator_height"
+    app:tabMode="scrollable"
+    app:tabPaddingEnd="@dimen/media_tab_paddingH"
+    app:tabPaddingStart="@dimen/media_tab_paddingH"
+    app:tabRippleColor="?semiTransparentColor"
+    app:tabPaddingBottom="@dimen/_5sdp">
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="Recent"
+        android:foregroundTint="@color/colorAccent"
+        android:textAlignment="center"
+        android:icon="@drawable/history_new"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/emoji_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/birthday_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/black_emoji_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/bluenike_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/cartoon_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/emo_icomn"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/emogy_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/emogi_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/flower_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/funny_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/funnyemo_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/capemoji_icon"
+        android:textAlignment="center"/>
+
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/hallowen_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/heart_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/joker_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/lover_icon"
+        android:textAlignment="center"/>
+
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/mix_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/teddy_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/text_icon"
+        android:textAlignment="center"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/tom_icon"
+        android:textAlignment="center"/>
+
+
+</com.google.android.material.tabs.TabLayout>

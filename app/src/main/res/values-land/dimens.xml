@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keyboard_actual_height">214dp</dimen>
+    <dimen name="keyboard_suggestions_height">34dp</dimen>
+    <dimen name="text_keyboard_actual_height">184dp</dimen>
+    <dimen name="media_keyboard_actual_height">@dimen/keyboard_actual_height</dimen>
+
+    <fraction name="input_view_height_percentage_min">43%p</fraction>
+    <fraction name="input_view_height_percentage_max">44%p</fraction>
+
+    <dimen name="media_tab_paddingH">10dp</dimen>
+</resources>

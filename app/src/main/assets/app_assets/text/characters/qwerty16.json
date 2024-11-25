@@ -1,0 +1,117 @@
+{
+  "type": "characters",
+  "name": "qwerty",
+  "direction": "ltr",
+  "arrangement": [
+    [
+      {
+        "code": 985,
+        "label": "\u03d9"
+      },
+      {
+        "code": 623,
+        "label": "\u026f"
+      },
+      {
+        "code": 1213,
+        "label": "\u04bd"
+      },
+      {
+        "code": 638,
+        "label": "\u027e"
+      },
+      {
+        "code": 410,
+        "label": "\u019a"
+      },
+      {
+        "code": 4327,
+        "label": "\u10e7"
+      },
+      {
+        "code": 965,
+        "label": "\u03c5"
+      },
+      {
+        "code": 953,
+        "label": "\u03b9"
+      },
+      {
+        "code": 963,
+        "label": "\u03c3"
+      },
+      {
+        "code": 961,
+        "label": "\u03c1"
+      }
+    ],
+    [
+      {
+        "code": 945,
+        "label": "\u03b1"
+      },
+      {
+        "code": 642,
+        "label": "\u0282"
+      },
+      {
+        "code": 1283,
+        "label": "\u0503"
+      },
+      {
+        "code": 989,
+        "label": "\u03dd"
+      },
+      {
+        "code": 608,
+        "label": "\u0260"
+      },
+      {
+        "code": 1291,
+        "label": "\u050b"
+      },
+      {
+        "code": 669,
+        "label": "\u029d"
+      },
+      {
+        "code": 409,
+        "label": "\u0199"
+      },
+      {
+        "code": 645,
+        "label": "\u0285"
+      }
+    ],
+    [
+      {
+        "code": 549,
+        "label": "\u0225"
+      },
+      {
+        "code": 120,
+        "label": "x"
+      },
+      {
+        "code": 392,
+        "label": "\u0188"
+      },
+      {
+        "code": 651,
+        "label": "\u028b"
+      },
+      {
+        "code": 4262,
+        "label": "\u10a6"
+      },
+      {
+        "code": 627,
+        "label": "\u0273"
+      },
+      {
+        "code": 625,
+        "label": "\u0271"
+      }
+    ]
+  ]
+}

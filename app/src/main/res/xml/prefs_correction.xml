@@ -1,0 +1,30 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat
+        app:iconSpaceReserved="false"
+        app:title="@string/correction_settings">
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+            android:defaultValue="true"
+            app:iconSpaceReserved="false"
+            app:key="correction_auto_capitalization"
+            app:title="@string/auto_capitalize" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+            android:defaultValue="true"
+            app:iconSpaceReserved="false"
+            app:key="correctiondouble_space_period"
+            app:summary="@string/saving_correction_double_space_period_summary"
+            app:title="@string/saving_correction_double_space_period_label" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+            android:defaultValue="false"
+            app:iconSpaceReserved="false"
+            app:key="correctionremember_caps_lock_state"
+            app:title="@string/save_caps_lock_state" />
+
+    </com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat>
+
+</PreferenceScreen>

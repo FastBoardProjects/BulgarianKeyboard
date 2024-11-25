@@ -1,0 +1,117 @@
+{
+  "type": "characters",
+  "name": "qwerty",
+  "direction": "ltr",
+  "arrangement": [
+    [
+      {
+        "code": 127328,
+        "label": "\ud83c\udd60"
+      },
+      {
+        "code": 127334,
+        "label": "\ud83c\udd66"
+      },
+      {
+        "code": 127316,
+        "label": "\ud83c\udd54"
+      },
+      {
+        "code": 127329,
+        "label": "\ud83c\udd61"
+      },
+      {
+        "code": 127331,
+        "label": "\ud83c\udd63"
+      },
+      {
+        "code": 127336,
+        "label": "\ud83c\udd68"
+      },
+      {
+        "code": 127332,
+        "label": "\ud83c\udd64"
+      },
+      {
+        "code": 127320,
+        "label": "\ud83c\udd58"
+      },
+      {
+        "code": 127326,
+        "label": "\ud83c\udd5e"
+      },
+      {
+        "code": 127327,
+        "label": "\ud83c\udd5f"
+      }
+    ],
+    [
+      {
+        "code": 127312,
+        "label": "\ud83c\udd50"
+      },
+      {
+        "code": 127330,
+        "label": "\ud83c\udd62"
+      },
+      {
+        "code": 127315,
+        "label": "\ud83c\udd53"
+      },
+      {
+        "code": 127317,
+        "label": "\ud83c\udd55"
+      },
+      {
+        "code": 127318,
+        "label": "\ud83c\udd56"
+      },
+      {
+        "code": 127319,
+        "label": "\ud83c\udd57"
+      },
+      {
+        "code": 127321,
+        "label": "\ud83c\udd59"
+      },
+      {
+        "code": 127322,
+        "label": "\ud83c\udd5a"
+      },
+      {
+        "code": 127323,
+        "label": "\ud83c\udd5b"
+      }
+    ],
+    [
+      {
+        "code": 127337,
+        "label": "\ud83c\udd69"
+      },
+      {
+        "code": 127335,
+        "label": "\ud83c\udd67"
+      },
+      {
+        "code": 127314,
+        "label": "\ud83c\udd52"
+      },
+      {
+        "code": 127333,
+        "label": "\ud83c\udd65"
+      },
+      {
+        "code": 127313,
+        "label": "\ud83c\udd51"
+      },
+      {
+        "code": 127325,
+        "label": "\ud83c\udd5d"
+      },
+      {
+        "code": 127324,
+        "label": "\ud83c\udd5c"
+      }
+    ]
+  ]
+}

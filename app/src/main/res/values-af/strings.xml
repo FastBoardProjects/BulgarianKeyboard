@@ -1,0 +1,284 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">Die Sleutelbord-toepassing-privaatheidsbeleid is eintlik geskryf vir die enigste doel om te verduidelik om die inligting te versamel en te gebruik wat mag wees wanneer jy enige van ons produkte en dienste besoek of gebruik. Deur toegang tot en/of dit te gebruik vir gepersonaliseerde advertensies en dienste-ontwikkeling, stem jy in tot die beleide en praktyke wat in hierdie Privaatheidsbeleid beskryf word.</string>
+
+
+    <string name="system_default">Stelsel verstek</string>
+    <string name="settings_theme_background_active">Agtergrondkleur wanneer aktief</string>
+    <string name="settings_theme_background_pressed">Agtergrondkleur wanneer gedruk word</string>
+    <string name="settings_theme_foreground">Voorgrond kleur</string>
+    <string name="settings_theme_foreground_alt">Voorgrondkleur (alternatief)</string>
+
+    <string name="saving_group_keys_label">Sleutels</string>
+    <string name="saving_number_row_label">Nommer ry</string>
+    <string name="settings_theme_undefined">Ongedefinieerd</string>
+    <string name="settings_theme_preset_summary">Pasgemaak (gebaseer op %s)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Geselekteerde tema:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Beskikbare temas:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Pyltjie regs</string>
+    <string name="settings_theme_background">Agtergrond kleur</string>
+    <string name="saving_number_row_summary">Wys nommerry bo-op karakteruitleg</string>
+    <string name="saving_hinted_number_row_label">Gesin nommer ry</string>
+    <string name="saving_hinted_number_row_summary">Eerste ry karakteruitleg dui op nommerry</string>
+
+    <string name="saving_group_layout_label">Uitleg</string>
+    <string name="saving_one_handed_mode_label">Eenhandmodus</string>
+    <string name="saving_one_handed_mode_off">Af</string>
+    <string name="saving_one_handed_mode_right">Regshandige modus</string>
+    <string name="saving_hinted_symbols_label">Gesinkte simbole</string>
+    <string name="saving_hinted_symbols_summary">Tweede en derde ry karakteruitleg-wenksimbole</string>
+    <string name="saving_font_size_multiplier_portrait_label">Lettergrootte vermenigvuldiger (portret)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Lettertipe-vermenigvuldiger (landskap)</string>
+    <string name="saving_one_handed_mode_left">Linkshandige modus</string>
+    <string name="saving_height_factor_label">Sleutelbord hoogte</string>
+    <string name="saving_height_factor_extra_short">Ekstra-kort</string>
+    <string name="saving_height_factor_short">Kort-hoogte</string>
+    <string name="saving_height_factor_tall">Lang-hoogte</string>
+    <string name="saving_height_factor_extra_tall">Ekstra lank</string>
+    <string name="saving_height_factor_custom">Pasgemaak</string>
+    <string name="saving_height_factor_custom_label">Pasgemaakte sleutelbordhoogtewaarde</string>
+    <string name="saving_bottom_offset_label">Onderste offset (vir geboë skerms)</string>
+    <string name="saving_group_keypress_label">Sleuteldruk</string>
+
+
+    <string name="saving_vibration_strength_label">Vibrasiesterkte by sleuteldruk</string>
+    <string name="saving_popup_visible_label">Pop-up sigbaarheid</string>
+    <string name="saving_popup_visible_summary">Wys opspring wanneer jy "n sleutel druk</string>
+    <string name="saving_long_press_delay_label">Lang sleuteldruk vertraging</string>
+    <string name="saving_smartbar_enabled_label">Aktiveer voorstelbalk</string>
+    <string name="saving_smartbar_enabled_summary">Sal bo-op die sleutelbord wys</string>
+    <string name="saving_sound_enabled_label">Klank by sleuteldruk</string>
+    <string name="saving_sound_volume_label">Klankvolume by sleuteldruk</string>
+    <string name="saving_height_factor_mid_short">Medium-hoogte</string>
+    <string name="saving_height_factor_normal">Normaal-hoogte</string>
+    <string name="saving_correction_auto_capitalization_label">Outo-kapitalisering</string>
+    <string name="saving_correction_auto_capitalization_summary">Kapitaliseer woorde gebaseer op die huidige invoerkonteks</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Onthou caps lock-toestand</string>
+    <string name="saving_height_factor_mid_tall">Middellang</string>
+    <string name="saving_vibration_enabled_label">Vibreer met sleuteldruk</string>
+    <string name="saving_suggestion_title">Voorstelle</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Caps Lock sal aan bly wanneer na "n ander teksveld beweeg word</string>
+    <string name="saving_correction_double_space_period_label">Dubbelspasieperiode</string>
+    <string name="saving_correction_double_space_period_summary">Deur twee keer op spasiebalk te klik, sal "n punt met spasie ingevoeg word</string>
+
+    <string name="saving_correction_title">Regstellings</string>
+    <string name="saving_glide_title">Gly tik</string>
+    <string name="saving_glide_enabled_label">Aktiveer gly-tik</string>
+    <string name="saving_suggestion_enabled_label">Wys voorstelle wanneer gebruiker tik</string>
+    <string name="saving_suggestion_enabled_summary">Sal in die voorstelbalk wys</string>
+    <string name="saving_glide_show_trail_summary">Sal verdwyn na elke woord</string>
+    <string name="saving_gestures_title">Gebare</string>
+    <string name="saving_gestures_swipe_action_no_action">Doen niks</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Klembordinhoudvoorstelle</string>
+    <string name="saving_suggestion_use_pref_words_summary">Gebruik vorige woorde om voorstelle te genereer</string>
+    <string name="saving_glide_enabled_summary">Tik "n woord in deur jou vinger deur sy letters te gly</string>
+    <string name="saving_glide_show_trail_label">Wys sweefroete</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Wyser af</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Wyser links</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Wyser regs</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Verwyder alle karakters</string>
+    <string name="saving_gestures_swipe_action_delete_word">Verwyder huidige woord</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Verwyder alle woorde</string>
+    <string name="saving_gestures_swipe_up_label">Beduie op</string>
+    <string name="saving_gestures_swipe_down_label">Beduie af</string>
+    <string name="saving_gestures_swipe_left_label">Gebaar links</string>
+    <string name="saving_gestures_swipe_right_label">Beduie regs</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Minimaliseer sleutelbord</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Wyser op</string>
+    <string name="saving_gestures_swipe_action_shift">Verskuiwing Aksie</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Skuif na vorige taal</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Gaan na die volgende taal</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Spasiebalk gebaar links</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Space Bar Gebaar Regs</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Baie stadig</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Stadig</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Normaal</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Vinnig</string>
+
+    <string name="saving_advanced_settings_theme_light">Lig</string>
+    <string name="saving_advanced_settings_theme_dark">Donker</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Vee knoppie gebaar links uit</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Swiep snelheid drempel</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Swiep snelheid drempel</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Lank</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Baie lank</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Swiep afstand drempel</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Baie kort</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Kort</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Normaal</string>
+
+
+    <string name="txt_lang_frag">Al die geselekteerde tale sal in Sleutelbord sigbaar wees.</string>
+    <string name="search_language_hint">Soek taal hier..</string>
+    <string name="switch_to_keyboard_des">Veelvuldige tale 100+ temas Geanimeerde GIF"s Geanimeerde plakkers, Emoji"s Stemtik.</string>
+    <string name="welcome_to">Welkom by</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Aktiveer sleutelbord</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Kies Sleutelbord</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Voltooi opstelling</string>
+
+    <string name="enable_des">Klik hier om sleutelbord in jou invoermetode-instellingslys te aktiveer. Dit sal dit magtig om op jou toestel te loop.</string>
+    <string name="select_des">Klik hier om jou sleutelbord in jou invoermetode-instellingslys te kies. Dit sal dit magtig om op jou toestel te loop.</string>
+    <string name="finish_des">Alles klaar! jou sleutelbord is opgestel en gereed om te gebruik</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Font Naam</string>
+    <string name="set_brightness">Stel Helderheid in</string>
+    <string name="default_themes">Standaardtemas</string>
+    <string name="colors_themes">Kleure Temas</string>
+    <string name="light_gradients_themes">Ligte Gradiënte Temas</string>
+    <string name="dark_gradients_themes">Donker gradiënte-temas</string>
+    <string name="landscapes_themes">Landskappe Temas</string>
+    <string name="gallery_themes">Galery Temas</string>
+    <string name="crop_image">Sny beeld</string>
+    <string name="next">Volgende</string>
+    <string name="mobile_consent_form">GDPR Toestemmingsvorm</string>
+    <string name="privacy_policy_title">Privaatheidsbeleid</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="have_accept">Ek het gelees en aanvaar</string>
+    <string name="theme_updated_successfully">Tema is suksesvol opgedateer</string>
+    <string name="apply_theme">Pas Tema toe</string>
+    <string name="suggestions_database">Voorstelle Databasis</string>
+    <string name="suggestions_dailog">Om die Voorstelle-funksie in die sleutelbord te aktiveer, moet jy die databasislêer van ons bediener aflaai. Dit sal "n paar sekondes neem. Wil jy nou of later aflaai?</string>
+    <string name="download">Laai af</string>
+    <string name="later">Later</string>
+    <string name="txt_nav_home">Tuis</string>
+    <string name="txt_nav_rate_app">Beoordeel &amp; Resensie (advertensie)</string>
+    <string name="txt_nav_share_app">Deel toepassing (advertensie)</string>
+    <string name="txt_nav_more_apps">Ons programme (advertensie)</string>
+    <string name="txt_nav_family_apps">Ons gesinsprogramme (advertensie)</string>
+    <string name="txt_nav_feedback">Terugvoer</string>
+    <string name="txt_nav_update">Dateer nou op</string>
+    <string name="txt_nav_ads_remove">Verwyder advertensies</string>
+    <string name="txt_feedback">Ek het terugvoer vir jou Sleutelbord-toepassing</string>
+
+
+    <string name="finish">Voltooi</string>
+    <string name="space_for_advertisement">Ruimte vir advertensies</string>
+    <string name="other">Ander</string>
+
+
+    <string name="txt_nav_premium_version">Premium weergawe</string>
+    <string name="support_the_development">Ondersteun die ontwikkeling</string>
+    <string name="unlimited_customization">Onbeperkte aanpassing</string>
+    <string name="complete_ad_free_version">Voltooi advertensies gratis weergawe</string>
+    <string name="unlimited_themes">Premium temas en lettertipes</string>
+    <string name="terms_of_services">Bepalings &amp; Voorwaardes</string>
+    <string name="this_subscriptions_renews_automatically">"Maandelikse Subskripsie" gee jou onbeperkte toegang tot ons aansoek vir een maand en sal maandeliks hernu word. As jy dit nie kanselleer nie.\n lewenslange aankoop is die enigste eenmalige aankoop. Vir meer inligting, kyk asseblief na die Bepalings &amp; Diensvoorwaardes.</string>
+
+
+    <string name="monthly_subscription">Maandelikse subskripsie</string>
+    <string name="life_time_purchase">Lewenstyd aankoop</string>
+    <string name="life_time_price">Lewenstyd Prys</string>
+    <string name="monthly_price">Maandelikse prys</string>
+    <string name="purchase_now">Koop nou</string>
+    <string name="subscribe_now">Teken nou in</string>
+
+
+    <string name="enable_disable_number_row">Aktiveer/deaktiveer nommerry</string>
+    <string name="visible_number_row">Sigbare nommerry bo-op sleutelbord</string>
+    <string name="show_numeric_hints">Wys numeriese wenke</string>
+    <string name="show_numeric_hint_on_first_row">Wys getallewenk op die eerste ry karakters</string>
+    <string name="show_symbol_hints">Wys simboolwenke</string>
+    <string name="show_symbol_hints_on_rows">Wys simbole-wenk op die tweede en derde ry karakters</string>
+    <string name="adjust_keyboard_font_size_portrait">Pas sleutelbordlettertipegrootte aan vir portretaansig</string>
+    <string name="adjust_keyboard_font_size_landscape">Pas sleutelbordlettertipe aan vir landskapaansig</string>
+    <string name="keyboard_layout_settings">Sleutelborduitleginstellings</string>
+    <string name="keyboard_height">Sleutelbord Hoogte</string>
+    <string name="keyboard_key_click_settings">Sleutelbordsleutel Klik Instellings</string>
+    <string name="play_sound_on_key_click">Speel klank op sleutel klik</string>
+    <string name="key_click_sound_volume">Pas Sleutel klik klank volume aan</string>
+    <string name="vibrate_on_key_click">Vibreer op sleutel klik</string>
+    <string name="key_vibration_strength">Pas sleutelvibrasiesterkte aan</string>
+    <string name="enable_popup_alphabets">Wys opspring-alfabette wanneer gebruiker "n sleutel klik</string>
+    <string name="popup_feature">Opspring-funksie</string>
+    <string name="correction_settings">Regstelling instellings</string>
+    <string name="auto_capitalize">Outomatiese hoofletters</string>
+    <string name="save_caps_lock_state">Stoor Caps Lock-toestand</string>
+    <string name="show_editing_panel">Wys Redigeringspaneel</string>
+    <string name="enable_disable_editing_panel">Aktiveer/deaktiveer Redigeringspaneel</string>
+    <string name="available_gestures">Beskikbare gebare</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Aktiveer/deaktiveer eenhandmodus</string>
+    <string name="keyboard_keys_settings">Sleutelbordsleutels instellings</string>
+    <string name="enable_disable_suggestions_bar">Dit sal aan die bokant van Keyboard View sigbaar wees</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Alle voorstelle sal op die voorstelbalk gewys word</string>
+    <string name="show_suggestions">Wys voorstelle wanneer gebruiker tik</string>
+    <string name="customize_suggestion_bar">Pas voorstelbalk aan</string>
+    <string name="customize_suggestion_button">Pasmaak voorstel-knoppie</string>
+    <string name="enable_disable_voice_typing">Aktiveer/deaktiveer stemtik</string>
+    <string name="use_voice_typing">Gebruik Stemtik</string>
+
+    <string name="settings">Instellings</string>
+    <string name="languages">Tale</string>
+    <string name="themes">Temas</string>
+    <string name="preferences">Voorkeure</string>
+    <string name="fonts">Lettertipes</string>
+    <string name="text_correction">Teks Korreksie</string>
+    <string name="gestures">Gebare</string>
+    <string name="suggestions">Voorstelle</string>
+    <string name="one_hand_typing">Een Hand Tik</string>
+    <string name="editing_panel">Redigeringspaneel</string>
+    <string name="voice_typing">Stem Tik</string>
+
+    <string name="languages_localization">Tale &amp; Lokalisering</string>
+    <string name="customize_themes">Pas temas aan</string>
+    <string name="keyboard_preferences">Sleutelbordvoorkeure</string>
+    <string name="fonts_styles">Font Styles</string>
+    <string name="text_correction_list">Teks Korreksie</string>
+    <string name="enable_gesture_typing">Aktiveer gebaartik</string>
+    <string name="enable_auto_suggestions">Aktiveer outomatiese voorstelle</string>
+    <string name="one_hand_typing_mode">Eenhandtikmodus</string>
+    <string name="customize_editing_panel">Pas Redigeringspaneel aan</string>
+    <string name="voice_recognition_typing">Stemherkenning &amp; Tik</string>
+
+    <string name="title_activity_language_picker">Taalkieseraktiwiteit</string>
+    <string name="cencel_sub">Kanselleer intekening</string>
+    <string name="yearly_subscription">Jaarlikse subskripsie</string>
+    <string name="app_languages">Kies App Taal</string>
+    <string name="change_app_theme">Kies App Tema</string>
+    <string name="default_theme">Verstek</string>
+    <string name="dark_theme">Donker</string>
+    <string name="light_theme">Lig</string>
+
+    <string name="app_theme_apply">Doen aansoek</string>
+    <string name="app_theme_cancel">Kanselleer</string>
+    <string name="test_keyboard_here">Toets sleutelbord hier</string>
+    <string name="cancel">Kanselleer</string>
+
+
+    <string name="premium_keyboard_title">Sleutelbord Plus</string>
+    <string name="premium_des_title">Toegang tot alle funksies met premium</string>
+
+    <string name="customization_title">Pasmaak</string>
+    <string name="themes_fonts_title">Temas en lettertipes</string>
+    <string name="no_ads_title">Geen advertensies</string>
+    <string name="vip_support_title">VIP Ondersteuning</string>
+
+
+    <string name="reward_ad_show_title">Kry beloning</string>
+    <string name="fonts_reward_dailog_des">As u hierdie lettertipe toepas, moet u na die advertensie kyk. Wil jy beloning AD wys?</string>
+    <string name="themes_reward_dailog_des">"In die geval van die toepassing van hierdie tema, moet jy "n beloningsadvertensie kyk. Wil jy "n beloning AD wys?</string>
+    <string name="reward_dailog_show_ad_btn">Wys advertensie</string>
+    <string name="reward_dailog_cancel_btn">Kanselleer</string>
+    <string name="reward_dailog_get_premium_btn">Kry Premium</string>
+    <string name="loading_ads">Laai tans advertensies …</string>
+    <string name="please_wait">Wag asseblief…</string>
+
+
+    <string name="exit_dailog_title">Verlaat die toepassing?</string>
+    <string name="exit_dailog_des">Is jy seker om die toepassing te verlaat?</string>
+    <string name="exit_dailog_cancel_btn">Kanselleer</string>
+    <string name="exit_dailog_exit_btn">Verlaat</string>
+
+
+</resources>
+
+

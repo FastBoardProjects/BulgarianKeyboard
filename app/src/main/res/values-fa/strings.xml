@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">خط مشی رازداری برنامه صفحه کلید در واقع تنها با هدف توضیح در مورد جمع آوری و استفاده از اطلاعاتی که ممکن است هنگام بازدید یا استفاده از هر یک از محصولات و خدمات ما باشد، نوشته شده است. با دسترسی و/یا استفاده از آن برای توسعه تبلیغات و خدمات شخصی‌سازی شده، با خط‌مشی‌ها و اقداماتی که در این خط‌مشی رازداری توضیح داده شده است، موافقت می‌کنید.</string>
+
+
+    <string name="system_default">پیش فرض سیستم</string>
+    <string name="settings_theme_background_active">رنگ پس زمینه وقتی فعال است</string>
+    <string name="settings_theme_background_pressed">رنگ پس زمینه هنگام فشار دادن</string>
+    <string name="settings_theme_foreground">رنگ پیش زمینه</string>
+    <string name="settings_theme_foreground_alt">رنگ پیش زمینه (جایگزین)</string>
+
+    <string name="saving_group_keys_label">کلیدها</string>
+    <string name="saving_number_row_label">ردیف شماره</string>
+    <string name="settings_theme_undefined">تعریف نشده</string>
+    <string name="settings_theme_preset_summary">سفارشی (بر اساس %s)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">موضوع انتخاب شده:</string>
+    <string name="settings_theme_preset_dialog_available_themes">تم های موجود:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">فلش سمت راست</string>
+    <string name="settings_theme_background">رنگ پس زمینه</string>
+    <string name="saving_number_row_summary">نمایش ردیف اعداد در بالای طرح نویسه</string>
+    <string name="saving_hinted_number_row_label">ردیف اعداد اشاره شده</string>
+    <string name="saving_hinted_number_row_summary">ردیف اول چیدمان کاراکتر به ردیف شماره اشاره می کند</string>
+
+    <string name="saving_group_layout_label">طرح بندی</string>
+    <string name="saving_one_handed_mode_label">حالت یک دست</string>
+    <string name="saving_one_handed_mode_off">خاموش</string>
+    <string name="saving_one_handed_mode_right">حالت راست دست</string>
+    <string name="saving_hinted_symbols_label">نمادهای اشاره شده</string>
+    <string name="saving_hinted_symbols_summary">ردیف دوم و سوم نمادهای اشاره چیدمان کاراکترها</string>
+    <string name="saving_font_size_multiplier_portrait_label">افزایش اندازه قلم (پرتره)</string>
+    <string name="saving_font_size_multiplier_landscape_label">ضرب کننده اندازه قلم (منظره)</string>
+    <string name="saving_one_handed_mode_left">حالت چپ دست</string>
+    <string name="saving_height_factor_label">ارتفاع صفحه کلید</string>
+    <string name="saving_height_factor_extra_short">فوق العاده کوتاه</string>
+    <string name="saving_height_factor_short">قد کوتاه</string>
+    <string name="saving_height_factor_tall">قد بلند</string>
+    <string name="saving_height_factor_extra_tall">فوق العاده بلند</string>
+    <string name="saving_height_factor_custom">سفارشی</string>
+    <string name="saving_height_factor_custom_label">مقدار ارتفاع صفحه کلید سفارشی</string>
+    <string name="saving_bottom_offset_label">افست پایین (برای صفحه نمایش های منحنی)</string>
+    <string name="saving_group_keypress_label">فشار دادن کلید</string>
+
+
+    <string name="saving_vibration_strength_label">قدرت ارتعاش در فشار دادن کلید</string>
+    <string name="saving_popup_visible_label">مشاهده پاپ آپ</string>
+    <string name="saving_popup_visible_summary">هنگامی که یک کلید را فشار می دهید پنجره بازشو نمایش داده شود</string>
+    <string name="saving_long_press_delay_label">تأخیر طولانی فشار دادن کلید</string>
+    <string name="saving_smartbar_enabled_label">نوار پیشنهاد را فعال کنید</string>
+    <string name="saving_smartbar_enabled_summary">در بالای صفحه کلید نشان داده می شود</string>
+    <string name="saving_sound_enabled_label">صدا با فشار دادن کلید</string>
+    <string name="saving_sound_volume_label">میزان صدا با فشار دادن کلید</string>
+    <string name="saving_height_factor_mid_short">قد متوسط</string>
+    <string name="saving_height_factor_normal">قد معمولی</string>
+    <string name="saving_correction_auto_capitalization_label">حروف بزرگ خودکار</string>
+    <string name="saving_correction_auto_capitalization_summary">کلمات را بر اساس بافت ورودی فعلی با حروف بزرگ بنویسید</string>
+    <string name="saving_correction_remember_caps_lock_state_label">حالت caps lock را به خاطر بسپارید</string>
+    <string name="saving_height_factor_mid_tall">قد متوسط</string>
+    <string name="saving_vibration_enabled_label">لرزش با فشار دادن کلید</string>
+    <string name="saving_suggestion_title">پیشنهادات</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">هنگام انتقال به قسمت نوشتاری دیگر، Caps lock روشن می‌ماند</string>
+    <string name="saving_correction_double_space_period_label">دوره دو فضایی</string>
+    <string name="saving_correction_double_space_period_summary">با دو بار کلیک بر روی Space bar یک نقطه با فاصله درج می شود</string>
+
+    <string name="saving_correction_title">اصلاحات</string>
+    <string name="saving_glide_title">تایپ با سر خوردن</string>
+    <string name="saving_glide_enabled_label">تایپ لغزشی را فعال کنید</string>
+    <string name="saving_suggestion_enabled_label">نمایش پیشنهادات هنگام تایپ کاربر</string>
+    <string name="saving_suggestion_enabled_summary">در نوار پیشنهاد نشان داده می شود</string>
+    <string name="saving_glide_show_trail_summary">بعد از هر کلمه ناپدید می شود</string>
+    <string name="saving_gestures_title">حرکات</string>
+    <string name="saving_gestures_swipe_action_no_action">هیچ کاری نکن</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">پیشنهادات محتوای کلیپ بورد</string>
+    <string name="saving_suggestion_use_pref_words_summary">از کلمات قبلی برای ایجاد پیشنهاد استفاده کنید</string>
+    <string name="saving_glide_enabled_summary">یک کلمه را با کشیدن انگشت خود از میان حروف آن تایپ کنید</string>
+    <string name="saving_glide_show_trail_label">نمایش مسیر سر خوردن</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">نشانگر پایین</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">نشانگر سمت چپ</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">مکان نما به سمت راست</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">حذف همه کاراکترها</string>
+    <string name="saving_gestures_swipe_action_delete_word">کلمه فعلی را حذف کنید</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">حذف همه کلمات</string>
+    <string name="saving_gestures_swipe_up_label">ژست بگیرید</string>
+    <string name="saving_gestures_swipe_down_label">اشاره به پایین</string>
+    <string name="saving_gestures_swipe_left_label">اشاره به سمت چپ</string>
+    <string name="saving_gestures_swipe_right_label">ژست درست</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">صفحه کلید را به حداقل برسانید</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">مکان نما به بالا</string>
+    <string name="saving_gestures_swipe_action_shift">Shift Action</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">انتقال به زبان قبلی</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">به زبان بعدی بروید</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">اشاره نوار فاصله به چپ</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">اشاره نوار فاصله به سمت راست</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">خیلی کند</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">آهسته</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">عادی</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">سریع</string>
+
+    <string name="saving_advanced_settings_theme_light">نور</string>
+    <string name="saving_advanced_settings_theme_dark">تاریک</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">ژست دکمه حذف سمت چپ</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">آستانه سرعت تند کشیدن</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">آستانه سرعت تند کشیدن</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">طولانی</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">خیلی طولانیه</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">آستانه فاصله تند کشیدن</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">خیلی کوتاه</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">کوتاه</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">عادی</string>
+
+
+    <string name="txt_lang_frag">همه زبان های انتخاب شده در صفحه کلید قابل مشاهده خواهند بود.</string>
+    <string name="search_language_hint">زبان را اینجا جستجو کنید..</string>
+    <string name="switch_to_keyboard_des">چندین زبان بیش از 100 تم گیف های متحرک برچسب های متحرک، تایپ صوتی شکلک ها.</string>
+    <string name="welcome_to">خوش آمدید به</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">صفحه کلید را فعال کنید</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">صفحه کلید را انتخاب کنید</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">پایان راه اندازی</string>
+
+    <string name="enable_des">برای فعال کردن صفحه کلید در لیست تنظیمات روش ورودی، اینجا را کلیک کنید. این به آن اجازه می دهد تا روی دستگاه شما اجرا شود.</string>
+    <string name="select_des">برای انتخاب صفحه کلید خود در لیست تنظیمات روش ورودی، اینجا را کلیک کنید. این به آن اجازه می دهد تا روی دستگاه شما اجرا شود.</string>
+    <string name="finish_des">همه چیز تمام شد! صفحه کلید شما تنظیم شده و آماده استفاده است</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">نام قلم</string>
+    <string name="set_brightness">روشنایی را تنظیم کنید</string>
+    <string name="default_themes">تم های پیش فرض</string>
+    <string name="colors_themes">تم های رنگ</string>
+    <string name="light_gradients_themes">تم های شیب نور</string>
+    <string name="dark_gradients_themes">تم های تیره گرادیان</string>
+    <string name="landscapes_themes">تم های مناظر</string>
+    <string name="gallery_themes">تم های گالری</string>
+    <string name="crop_image">برش تصویر</string>
+    <string name="next">بعدی</string>
+    <string name="mobile_consent_form">فرم رضایت GDPR</string>
+    <string name="privacy_policy_title">سیاست حفظ حریم خصوصی</string>
+    <string name="disclaimer">سلب مسئولیت</string>
+    <string name="have_accept">خوانده ام و قبول دارم</string>
+    <string name="theme_updated_successfully">تم با موفقیت به روز شد</string>
+    <string name="apply_theme">تم را اعمال کنید</string>
+    <string name="suggestions_database">پایگاه پیشنهادات</string>
+    <string name="suggestions_dailog">برای فعال کردن ویژگی پیشنهادات در صفحه کلید، باید فایل پایگاه داده را از سرور ما دانلود کنید. چند ثانیه طول خواهد کشید. آیا می خواهید اکنون دانلود کنید یا بعد؟</string>
+    <string name="download">دانلود کنید</string>
+    <string name="later">بعدا</string>
+    <string name="txt_nav_home">صفحه اصلی</string>
+    <string name="txt_nav_rate_app">امتیاز دهی &amp; بررسی (تبلیغ)</string>
+    <string name="txt_nav_share_app">اشتراک گذاری برنامه (تبلیغ)</string>
+    <string name="txt_nav_more_apps">برنامه های ما (تبلیغ)</string>
+    <string name="txt_nav_family_apps">برنامه های خانوادگی ما (تبلیغ)</string>
+    <string name="txt_nav_feedback">بازخورد</string>
+    <string name="txt_nav_update">اکنون به روز رسانی کنید</string>
+    <string name="txt_nav_ads_remove">تبلیغات را حذف کنید</string>
+    <string name="txt_feedback">من برای برنامه صفحه کلید شما بازخورد دارم</string>
+
+
+    <string name="finish">پایان</string>
+    <string name="space_for_advertisement">فضایی برای تبلیغات</string>
+    <string name="other">دیگر</string>
+
+
+    <string name="txt_nav_premium_version">نسخه پریمیوم</string>
+    <string name="support_the_development">از توسعه حمایت کنید</string>
+    <string name="unlimited_customization">سفارشی سازی نامحدود</string>
+    <string name="complete_ad_free_version">نسخه کامل تبلیغات رایگان</string>
+    <string name="unlimited_themes">تم های ممتاز و سبک های فونت</string>
+    <string name="terms_of_services">شرایط &amp; شرایط</string>
+    <string name="this_subscriptions_renews_automatically">"اشتراک ماهانه" به شما به مدت یک ماه به برنامه ما دسترسی نامحدود می دهد و ماهانه تمدید می شود. اگر آن را لغو نکنید.\n خرید مادام العمر تنها خرید یک بار است. برای اطلاعات بیشتر لطفاً به شرایط و amp; شرایط خدمات.</string>
+
+
+    <string name="monthly_subscription">اشتراک ماهانه</string>
+    <string name="life_time_purchase">خرید تایم عمر</string>
+    <string name="life_time_price">قیمت مادام العمر</string>
+    <string name="monthly_price">قیمت ماهانه</string>
+    <string name="purchase_now">اکنون خرید کنید</string>
+    <string name="subscribe_now">اکنون مشترک شوید</string>
+
+
+    <string name="enable_disable_number_row">فعال/غیرفعال کردن ردیف شماره</string>
+    <string name="visible_number_row">ردیف اعداد قابل مشاهده در بالای صفحه کلید</string>
+    <string name="show_numeric_hints">نمایش نکات عددی</string>
+    <string name="show_numeric_hint_on_first_row">نمایش اشاره اعداد در ردیف اول کاراکترها</string>
+    <string name="show_symbol_hints">نمایش نکات نماد</string>
+    <string name="show_symbol_hints_on_rows">نمایش نشانه نمادها در ردیف دوم و سوم کاراکترها</string>
+    <string name="adjust_keyboard_font_size_portrait">اندازه قلم صفحه کلید را برای نمای پرتره تنظیم کنید</string>
+    <string name="adjust_keyboard_font_size_landscape">اندازه قلم صفحه کلید را برای نمای افقی تنظیم کنید</string>
+    <string name="keyboard_layout_settings">تنظیمات چیدمان صفحه کلید</string>
+    <string name="keyboard_height">ارتفاع صفحه کلید</string>
+    <string name="keyboard_key_click_settings">صفحه کلید تنظیمات کلیک کنید</string>
+    <string name="play_sound_on_key_click">پخش صدا با کلیک کلید</string>
+    <string name="key_click_sound_volume">میزان صدای کلیک کلید را تنظیم کنید</string>
+    <string name="vibrate_on_key_click">لرزش در کلیک کلید</string>
+    <string name="key_vibration_strength">قدرت ارتعاش کلید را تنظیم کنید</string>
+    <string name="enable_popup_alphabets">هنگامی که کاربر روی یک کلید کلیک می کند، الفبای پاپ آپ را نشان دهید</string>
+    <string name="popup_feature">ویژگی پاپ آپ</string>
+    <string name="correction_settings">تنظیمات تصحیح</string>
+    <string name="auto_capitalize">حروف بزرگ خودکار</string>
+    <string name="save_caps_lock_state">ذخیره حالت Caps Lock</string>
+    <string name="show_editing_panel">نمایش پنل ویرایش</string>
+    <string name="enable_disable_editing_panel">فعال/غیرفعال کردن پنل ویرایش</string>
+    <string name="available_gestures">حرکات موجود</string>
+    <string name="enable_disable_keyboard_one_handed_mode">فعال/غیرفعال کردن حالت یک دست</string>
+    <string name="keyboard_keys_settings">تنظیمات کلیدهای صفحه کلید</string>
+    <string name="enable_disable_suggestions_bar">این در بالای نمای صفحه کلید قابل مشاهده خواهد بود</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">همه پیشنهادات در نوار پیشنهاد نشان داده خواهد شد</string>
+    <string name="show_suggestions">نمایش پیشنهادات هنگام تایپ کاربر</string>
+    <string name="customize_suggestion_bar">سفارشی کردن نوار پیشنهاد</string>
+    <string name="customize_suggestion_button">سفارشی کردن دکمه پیشنهاد</string>
+    <string name="enable_disable_voice_typing">فعال/غیرفعال کردن تایپ صوتی</string>
+    <string name="use_voice_typing">از تایپ صوتی استفاده کنید</string>
+
+    <string name="settings">تنظیمات</string>
+    <string name="languages">زبان ها</string>
+    <string name="themes">تم ها</string>
+    <string name="preferences">ترجیحات</string>
+    <string name="fonts">فونت ها</string>
+    <string name="text_correction">تصحیح متن</string>
+    <string name="gestures">حرکات</string>
+    <string name="suggestions">پیشنهادات</string>
+    <string name="one_hand_typing">تایپ با یک دست</string>
+    <string name="editing_panel">پنل ویرایش</string>
+    <string name="voice_typing">تایپ صوتی</string>
+
+    <string name="languages_localization">زبان ها &amp; بومی سازی</string>
+    <string name="customize_themes">تم ها را سفارشی کنید</string>
+    <string name="keyboard_preferences">تنظیمات صفحه کلید</string>
+    <string name="fonts_styles">سبک های فونت</string>
+    <string name="text_correction_list">تصحیح متن</string>
+    <string name="enable_gesture_typing">تایپ با اشاره را فعال کنید</string>
+    <string name="enable_auto_suggestions">پیشنهادات خودکار را فعال کنید</string>
+    <string name="one_hand_typing_mode">حالت تایپ با یک دست</string>
+    <string name="customize_editing_panel">سفارشی کردن پنل ویرایش</string>
+    <string name="voice_recognition_typing">تشخیص صدا و تقویت تایپ کردن</string>
+
+    <string name="title_activity_language_picker">LanguagePickerActivity</string>
+    <string name="cencel_sub">لغو اشتراک</string>
+    <string name="yearly_subscription">اشتراک سالانه</string>
+    <string name="app_languages">زبان برنامه را انتخاب کنید</string>
+    <string name="change_app_theme">تم برنامه را انتخاب کنید</string>
+    <string name="default_theme">پیش فرض</string>
+    <string name="dark_theme">تاریک</string>
+    <string name="light_theme">نور</string>
+
+    <string name="app_theme_apply">درخواست کنید</string>
+    <string name="app_theme_cancel">لغو کنید</string>
+    <string name="test_keyboard_here">صفحه کلید را اینجا تست کنید</string>
+    <string name="cancel">لغو کنید</string>
+
+
+    <string name="premium_keyboard_title">کیبورد پلاس</string>
+    <string name="premium_des_title">دسترسی به تمام ویژگی ها با حق بیمه</string>
+
+    <string name="customization_title">سفارشی سازی</string>
+    <string name="themes_fonts_title">تم ها و فونت ها</string>
+    <string name="no_ads_title">بدون تبلیغات</string>
+    <string name="vip_support_title">پشتیبانی VIP</string>
+
+
+
+    <string name="reward_ad_show_title">پاداش بگیرید</string>
+    <string name="fonts_reward_dailog_des">در صورت اعمال این فونت، باید تبلیغ پاداش را تماشا کنید. آیا می خواهید پاداش AD را نشان دهید؟</string>
+    <string name="themes_reward_dailog_des">"در صورت اعمال این موضوع، باید تبلیغ پاداش را تماشا کنید. آیا می خواهید پاداش AD را نشان دهید؟</string>
+    <string name="reward_dailog_show_ad_btn">نمایش آگهی</string>
+    <string name="reward_dailog_cancel_btn">لغو کنید</string>
+    <string name="reward_dailog_get_premium_btn">حق بیمه را دریافت کنید</string>
+    <string name="loading_ads">در حال بارگیری تبلیغات…</string>
+    <string name="please_wait">لطفا صبر کنید…</string>
+
+
+    <string name="exit_dailog_title">از برنامه خارج شوید؟</string>
+    <string name="exit_dailog_des">آیا مطمئن هستید که از برنامه خارج می شوید؟</string>
+    <string name="exit_dailog_cancel_btn">لغو کنید</string>
+    <string name="exit_dailog_exit_btn">خارج شوید</string>
+
+
+
+</resources>
+
+

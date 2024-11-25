@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+        android:defaultValue="true"
+        app:iconSpaceReserved="false"
+        app:key="app_suggestion_enable"
+        app:summary="@string/enable_disable_suggestions_bar"
+        app:title="@string/saving_smartbar_enabled_label" />
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+        android:defaultValue="false"
+        android:dependency="app_suggestion_enable"
+        app:iconSpaceReserved="false"
+        app:key="suggestion_enabled"
+        app:summary="@string/suggestions_will_shown_on_suggestion_bar"
+        app:title="@string/show_suggestions" />
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat
+        app:iconSpaceReserved="false"
+        app:isPreferenceVisible="false"
+        app:title="@string/customize_suggestion_bar">
+
+        <com.jaredrummler.android.colorpicker.ColorPreferenceCompat
+            android:key="theme_smartbar_bgColor"
+            android:title="@string/settings_theme_background"
+            app:cpv_colorShape="square"
+            app:cpv_dialogTitle="@string/settings_theme_background"
+            app:cpv_dialogType="preset"
+            app:cpv_previewSize="large"
+            app:cpv_showAlphaSlider="true"
+            app:cpv_showColorShades="true"
+            app:iconSpaceReserved="false" />
+
+        <com.jaredrummler.android.colorpicker.ColorPreferenceCompat
+            android:key="theme_smartbar_fgColor"
+            android:title="@string/settings_theme_foreground"
+            app:cpv_colorShape="square"
+            app:cpv_dialogTitle="@string/settings_theme_foreground"
+            app:cpv_dialogType="preset"
+            app:cpv_previewSize="large"
+            app:cpv_showAlphaSlider="true"
+            app:cpv_showColorShades="true"
+            app:iconSpaceReserved="false" />
+
+        <com.jaredrummler.android.colorpicker.ColorPreferenceCompat
+            android:key="theme_smartbar_fgColorAlt"
+            android:title="@string/settings_theme_foreground_alt"
+            app:cpv_colorShape="square"
+            app:cpv_dialogTitle="@string/settings_theme_foreground_alt"
+            app:cpv_dialogType="preset"
+            app:cpv_previewSize="large"
+            app:cpv_showAlphaSlider="true"
+            app:cpv_showColorShades="true"
+            app:iconSpaceReserved="false" />
+
+    </com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat>
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat
+        app:iconSpaceReserved="false"
+        app:isPreferenceVisible="false"
+        app:title="@string/customize_suggestion_button">
+
+        <com.jaredrummler.android.colorpicker.ColorPreferenceCompat
+            android:key="theme_smartbarButton_bgColor"
+            android:title="@string/settings_theme_background"
+            app:cpv_colorShape="square"
+            app:cpv_dialogTitle="@string/settings_theme_background"
+            app:cpv_dialogType="preset"
+            app:cpv_previewSize="large"
+            app:cpv_showAlphaSlider="true"
+            app:cpv_showColorShades="true"
+            app:iconSpaceReserved="false" />
+
+        <com.jaredrummler.android.colorpicker.ColorPreferenceCompat
+            android:key="theme_smartbarButton_fgColor"
+            android:title="@string/settings_theme_foreground"
+            app:cpv_colorShape="square"
+            app:cpv_dialogTitle="@string/settings_theme_foreground"
+            app:cpv_dialogType="preset"
+            app:cpv_previewSize="large"
+            app:cpv_showAlphaSlider="true"
+            app:cpv_showColorShades="true"
+            app:iconSpaceReserved="false" />
+
+    </com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat>
+
+</PreferenceScreen>

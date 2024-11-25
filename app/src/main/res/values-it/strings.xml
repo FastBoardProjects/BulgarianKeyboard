@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">L"informativa sulla privacy dell"app Keyboard è in realtà scritta al solo scopo di spiegare come raccogliere e utilizzare le informazioni che potrebbero essere quando visiti o utilizzi uno qualsiasi dei nostri prodotti e servizi. Accedendo e/o utilizzando questo per pubblicità e sviluppo di servizi personalizzati, accetti le politiche e le pratiche descritte nella presente Informativa sulla privacy.</string>
+
+
+    <string name="system_default">Predefinito del sistema</string>
+    <string name="settings_theme_background_active">Colore di sfondo quando attivo</string>
+    <string name="settings_theme_background_pressed">Colore di sfondo quando premuto</string>
+    <string name="settings_theme_foreground">Colore di primo piano</string>
+    <string name="settings_theme_foreground_alt">Colore di primo piano (alternativa)</string>
+
+    <string name="saving_group_keys_label">Chiavi</string>
+    <string name="saving_number_row_label">Riga numerica</string>
+    <string name="settings_theme_undefined">Non definito</string>
+    <string name="settings_theme_preset_summary">Personalizzato (basato su %s)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Tema selezionato:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Temi disponibili:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Freccia a destra</string>
+    <string name="settings_theme_background">Colore di sfondo</string>
+    <string name="saving_number_row_summary">Mostra la riga dei numeri in cima al layout dei caratteri</string>
+    <string name="saving_hinted_number_row_label">Riga numerica suggerita</string>
+    <string name="saving_hinted_number_row_summary">Prima riga di suggerimenti per la disposizione dei caratteri numero riga</string>
+
+    <string name="saving_group_layout_label">Disposizione</string>
+    <string name="saving_one_handed_mode_label">Modalità con una sola mano</string>
+    <string name="saving_one_handed_mode_off">Spento</string>
+    <string name="saving_one_handed_mode_right">Modalità per destrimani</string>
+    <string name="saving_hinted_symbols_label">Simboli suggeriti</string>
+    <string name="saving_hinted_symbols_summary">Seconda e terza riga di simboli di suggerimento per la disposizione dei caratteri</string>
+    <string name="saving_font_size_multiplier_portrait_label">Moltiplicatore dimensione carattere (verticale)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Moltiplicatore dimensione carattere (orizzontale)</string>
+    <string name="saving_one_handed_mode_left">Modalità per mancini</string>
+    <string name="saving_height_factor_label">Altezza della tastiera</string>
+    <string name="saving_height_factor_extra_short">Extra-corto</string>
+    <string name="saving_height_factor_short">Altezza corta</string>
+    <string name="saving_height_factor_tall">Alto-Altezza</string>
+    <string name="saving_height_factor_extra_tall">Extra-alto</string>
+    <string name="saving_height_factor_custom">Costume</string>
+    <string name="saving_height_factor_custom_label">Valore altezza tastiera personalizzato</string>
+    <string name="saving_bottom_offset_label">Offset inferiore (per schermi curvi)</string>
+    <string name="saving_group_keypress_label">Pressione del tasto</string>
+
+
+    <string name="saving_vibration_strength_label">Forza della vibrazione alla pressione del tasto</string>
+    <string name="saving_popup_visible_label">Visibilità PopUp</string>
+    <string name="saving_popup_visible_summary">Mostra popup quando premi un tasto</string>
+    <string name="saving_long_press_delay_label">Ritardo pressione lunga tasto</string>
+    <string name="saving_smartbar_enabled_label">Abilita la barra dei suggerimenti</string>
+    <string name="saving_smartbar_enabled_summary">Verrà visualizzato in cima alla tastiera</string>
+    <string name="saving_sound_enabled_label">Suono alla pressione del tasto</string>
+    <string name="saving_sound_volume_label">Volume del suono alla pressione del tasto</string>
+    <string name="saving_height_factor_mid_short">Di media altezza</string>
+    <string name="saving_height_factor_normal">Altezza normale</string>
+    <string name="saving_correction_auto_capitalization_label">Autocapitalizzazione</string>
+    <string name="saving_correction_auto_capitalization_summary">Mettere in maiuscolo le parole in base al contesto di input corrente</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Ricorda lo stato del blocco maiuscole</string>
+    <string name="saving_height_factor_mid_tall">Medio-alto</string>
+    <string name="saving_vibration_enabled_label">Vibrazione alla pressione del tasto</string>
+    <string name="saving_suggestion_title">Suggerimenti</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Il blocco maiuscole rimarrà attivo quando ci si sposta su un altro campo di testo</string>
+    <string name="saving_correction_double_space_period_label">Punto a doppio spazio</string>
+    <string name="saving_correction_double_space_period_summary">Cliccando due volte sulla barra spaziatrice verrà inserito un punto con spazio</string>
+
+    <string name="saving_correction_title">Correzioni</string>
+    <string name="saving_glide_title">Digitazione scorrevole</string>
+    <string name="saving_glide_enabled_label">Abilita digitazione scorrevole</string>
+    <string name="saving_suggestion_enabled_label">Visualizza suggerimenti quando l"utente digita</string>
+    <string name="saving_suggestion_enabled_summary">Verrà visualizzato nella barra dei suggerimenti</string>
+    <string name="saving_glide_show_trail_summary">Scomparirà dopo ogni parola</string>
+    <string name="saving_gestures_title">Gesti</string>
+    <string name="saving_gestures_swipe_action_no_action">Non fare nulla</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Suggerimenti per il contenuto degli appunti</string>
+    <string name="saving_suggestion_use_pref_words_summary">Utilizzare le parole precedenti per generare suggerimenti</string>
+    <string name="saving_glide_enabled_summary">Digita una parola facendo scorrere il dito sulle sue lettere</string>
+    <string name="saving_glide_show_trail_label">Mostra la traccia di planata</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Cursore giù</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Cursore a sinistra</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Cursore a destra</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Rimuovi tutti i caratteri</string>
+    <string name="saving_gestures_swipe_action_delete_word">Rimuovi la parola corrente</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Rimuovi tutte le parole</string>
+    <string name="saving_gestures_swipe_up_label">gesto verso l"alto</string>
+    <string name="saving_gestures_swipe_down_label">gesto verso il basso</string>
+    <string name="saving_gestures_swipe_left_label">Gesto verso sinistra</string>
+    <string name="saving_gestures_swipe_right_label">gesto giusto</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Riduci a icona la tastiera</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Cursore su</string>
+    <string name="saving_gestures_swipe_action_shift">Azione di spostamento</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Passa alla lingua precedente</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Passa alla lingua successiva</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Barra spaziatrice Gesto Sinistra</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Barra spaziatrice Gesto a destra</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Molto lento</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Lento</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Normale</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Veloce</string>
+
+    <string name="saving_advanced_settings_theme_light">Leggero</string>
+    <string name="saving_advanced_settings_theme_dark">Buio</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Pulsante Elimina Gesto Sinistro</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Soglia di velocità di scorrimento</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Soglia di velocità di scorrimento</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Lungo</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Molto lungo</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Soglia della distanza di scorrimento</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Molto breve</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Corto</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Normale</string>
+
+
+    <string name="txt_lang_frag">Tutte le lingue selezionate saranno visibili sulla tastiera.</string>
+    <string name="search_language_hint">Cerca la lingua qui.</string>
+    <string name="switch_to_keyboard_des">Più lingue, oltre 100 temi, GIF animate, adesivi animati, emoji, digitazione vocale.</string>
+    <string name="welcome_to">Benvenuti a</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Abilita tastiera</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Seleziona tastiera</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Completare l"installazione</string>
+
+    <string name="enable_des">Fai clic qui per abilitare la tastiera nell"elenco delle impostazioni del metodo di input. Ciò autorizzerà l"esecuzione sul tuo dispositivo.</string>
+    <string name="select_des">Fai clic qui per selezionare la tua tastiera nell"elenco delle impostazioni del metodo di input. Ciò ne autorizzerà l"esecuzione sul tuo dispositivo.</string>
+    <string name="finish_des">Fatto! La tua tastiera è configurata e pronta all"uso</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Nome del carattere</string>
+    <string name="set_brightness">Imposta luminosità</string>
+    <string name="default_themes">Temi predefiniti</string>
+    <string name="colors_themes">Colori Temi</string>
+    <string name="light_gradients_themes">Temi di gradienti di luce</string>
+    <string name="dark_gradients_themes">Temi con sfumature scure</string>
+    <string name="landscapes_themes">Temi paesaggistici</string>
+    <string name="gallery_themes">Temi della Galleria</string>
+    <string name="crop_image">Ritaglia immagine</string>
+    <string name="next">Prossimo</string>
+    <string name="mobile_consent_form">Modulo di consenso GDPR</string>
+    <string name="privacy_policy_title">politica sulla riservatezza</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="have_accept">Ho letto e accetto</string>
+    <string name="theme_updated_successfully">Il tema è stato aggiornato con successo</string>
+    <string name="apply_theme">Applica tema</string>
+    <string name="suggestions_database">Database dei suggerimenti</string>
+    <string name="suggestions_dailog">Per abilitare la funzione Suggerimenti sulla tastiera devi scaricare il file del database dal nostro server. Ci vorranno alcuni secondi. Vuoi scaricarlo ora o più tardi?</string>
+    <string name="download">Scaricamento</string>
+    <string name="later">Dopo</string>
+    <string name="txt_nav_home">Casa</string>
+    <string name="txt_nav_rate_app">Valuta e recensisci (annuncio)</string>
+    <string name="txt_nav_share_app">Condividi App (Annuncio)</string>
+    <string name="txt_nav_more_apps">Le nostre app (pubblicità)</string>
+    <string name="txt_nav_family_apps">Le nostre app per la famiglia (pubblicità)</string>
+    <string name="txt_nav_feedback">Feedback</string>
+    <string name="txt_nav_update">Aggiorna ora</string>
+    <string name="txt_nav_ads_remove">Rimuovi annunci</string>
+    <string name="txt_feedback">Ho un feedback per la tua app Tastiera</string>
+
+
+    <string name="finish">Fine</string>
+    <string name="space_for_advertisement">Spazio per la pubblicità</string>
+    <string name="other">Altro</string>
+
+
+    <string name="txt_nav_premium_version">Versione Premium</string>
+    <string name="support_the_development">Sostieni lo sviluppo</string>
+    <string name="unlimited_customization">Personalizzazione illimitata</string>
+    <string name="complete_ad_free_version">Versione completa senza pubblicità</string>
+    <string name="unlimited_themes">Temi e stili di caratteri premium</string>
+    <string name="terms_of_services">Termini e condizioni</string>
+    <string name="this_subscriptions_renews_automatically">"Abbonamento mensile" ti dà accesso illimitato alla nostra applicazione per un mese e verrà rinnovato mensilmente. Se non lo annulli, l"acquisto a vita è l"unico acquisto una tantum. Per maggiori informazioni, consulta i Termini e condizioni del servizio.</string>
+
+
+    <string name="monthly_subscription">Abbonamento mensile</string>
+    <string name="life_time_purchase">Acquisto a vita</string>
+    <string name="life_time_price">Prezzo a vita</string>
+    <string name="monthly_price">Prezzo mensile</string>
+    <string name="purchase_now">Acquista ora</string>
+    <string name="subscribe_now">Iscriviti ora</string>
+
+
+    <string name="enable_disable_number_row">Abilita/disabilita riga numerica</string>
+    <string name="visible_number_row">Riga numerica visibile nella parte superiore della tastiera</string>
+    <string name="show_numeric_hints">Mostra suggerimenti numerici</string>
+    <string name="show_numeric_hint_on_first_row">Mostra il suggerimento dei numeri sulla prima riga di caratteri</string>
+    <string name="show_symbol_hints">Mostra suggerimenti sui simboli</string>
+    <string name="show_symbol_hints_on_rows">Mostra suggerimento Simboli sulla seconda e terza riga di caratteri</string>
+    <string name="adjust_keyboard_font_size_portrait">Regola la dimensione del carattere della tastiera per la visualizzazione verticale</string>
+    <string name="adjust_keyboard_font_size_landscape">Regola la dimensione del carattere della tastiera per la visualizzazione orizzontale</string>
+    <string name="keyboard_layout_settings">Impostazioni del layout della tastiera</string>
+    <string name="keyboard_height">Altezza della tastiera</string>
+    <string name="keyboard_key_click_settings">Impostazioni del clic dei tasti della tastiera</string>
+    <string name="play_sound_on_key_click">Riproduci suono al clic del tasto</string>
+    <string name="key_click_sound_volume">Regola il volume del suono del clic del tasto</string>
+    <string name="vibrate_on_key_click">Vibrazione al clic del tasto</string>
+    <string name="key_vibration_strength">Regolare l"intensità della vibrazione della chiave</string>
+    <string name="enable_popup_alphabets">Mostra alfabeti pop-up quando l"utente fa clic su un tasto</string>
+    <string name="popup_feature">Funzione pop-up</string>
+    <string name="correction_settings">Impostazioni di correzione</string>
+    <string name="auto_capitalize">Capitalizzazione automatica</string>
+    <string name="save_caps_lock_state">Salva lo stato del Blocco maiuscole</string>
+    <string name="show_editing_panel">Mostra pannello di modifica</string>
+    <string name="enable_disable_editing_panel">Abilita/disabilita il pannello di modifica</string>
+    <string name="available_gestures">Gesti disponibili</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Abilita/disabilita la modalità con una mano</string>
+    <string name="keyboard_keys_settings">Impostazioni dei tasti della tastiera</string>
+    <string name="enable_disable_suggestions_bar">Questo sarà visibile nella parte superiore della Visualizzazione tastiera</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Tutti i suggerimenti verranno mostrati sulla barra dei suggerimenti</string>
+    <string name="show_suggestions">Mostra suggerimenti quando l"utente digita</string>
+    <string name="customize_suggestion_bar">Personalizza la barra dei suggerimenti</string>
+    <string name="customize_suggestion_button">Personalizza il pulsante Suggerimento</string>
+    <string name="enable_disable_voice_typing">Abilita/disabilita la digitazione vocale</string>
+    <string name="use_voice_typing">Usa la digitazione vocale</string>
+
+    <string name="settings">Impostazioni</string>
+    <string name="languages">Lingue</string>
+    <string name="themes">Temi</string>
+    <string name="preferences">Preferenze</string>
+    <string name="fonts">Caratteri</string>
+    <string name="text_correction">Correzione del testo</string>
+    <string name="gestures">Gesti</string>
+    <string name="suggestions">Suggerimenti</string>
+    <string name="one_hand_typing">Digitazione con una sola mano</string>
+    <string name="editing_panel">Pannello di modifica</string>
+    <string name="voice_typing">Digitazione vocale</string>
+
+    <string name="languages_localization">Lingue e localizzazione</string>
+    <string name="customize_themes">Personalizza i temi</string>
+    <string name="keyboard_preferences">Preferenze della tastiera</string>
+    <string name="fonts_styles">Stili di carattere</string>
+    <string name="text_correction_list">Correzione del testo</string>
+    <string name="enable_gesture_typing">Abilita la digitazione gestuale</string>
+    <string name="enable_auto_suggestions">Abilita suggerimenti automatici</string>
+    <string name="one_hand_typing_mode">Modalità di digitazione con una mano</string>
+    <string name="customize_editing_panel">Personalizza il pannello di modifica</string>
+    <string name="voice_recognition_typing">Riconoscimento vocale e digitazione</string>
+
+    <string name="title_activity_language_picker">Attività LanguagePicker</string>
+    <string name="cencel_sub">Annulla abbonamento</string>
+    <string name="yearly_subscription">Abbonamento annuale</string>
+    <string name="app_languages">Scegli la lingua dell"app</string>
+    <string name="change_app_theme">Scegli il tema dell"app</string>
+    <string name="default_theme">Predefinito</string>
+    <string name="dark_theme">Buio</string>
+    <string name="light_theme">Leggero</string>
+
+    <string name="app_theme_apply">Fare domanda a</string>
+    <string name="app_theme_cancel">Cancellare</string>
+    <string name="test_keyboard_here">Prova la tastiera qui</string>
+    <string name="cancel">Cancellare</string>
+
+
+    <string name="premium_keyboard_title">Tastiera Plus</string>
+    <string name="premium_des_title">Accedi a tutte le funzionalità con Premium</string>
+
+    <string name="customization_title">Personalizzazione</string>
+    <string name="themes_fonts_title">Temi e caratteri</string>
+    <string name="no_ads_title">Nessuna pubblicità</string>
+    <string name="vip_support_title">Supporto VIP</string>
+
+
+    <string name="reward_ad_show_title">Ottieni una ricompensa</string>
+    <string name="fonts_reward_dailog_des">In caso di applicazione di questo font è necessario guardare l"annuncio ricompensato. Vuoi mostrare l"annuncio ricompensato?</string>
+    <string name="themes_reward_dailog_des">"In caso di applicazione di questo tema è necessario guardare l"annuncio ricompensato. Vuoi mostrare l"annuncio ricompensato?</string>
+    <string name="reward_dailog_show_ad_btn">Mostra annuncio</string>
+    <string name="reward_dailog_cancel_btn">Cancellare</string>
+    <string name="reward_dailog_get_premium_btn">Ottieni Premium</string>
+    <string name="loading_ads">Caricamento annunci…</string>
+    <string name="please_wait">Attendere prego…</string>
+
+
+    <string name="exit_dailog_title">Vuoi uscire dall"app?</string>
+    <string name="exit_dailog_des">Vuoi davvero uscire dall"app?</string>
+    <string name="exit_dailog_cancel_btn">Cancellare</string>
+    <string name="exit_dailog_exit_btn">Uscita</string>
+
+
+
+
+</resources>
+
+

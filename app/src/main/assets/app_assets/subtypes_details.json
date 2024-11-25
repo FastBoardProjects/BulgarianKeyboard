@@ -1,0 +1,25 @@
+{
+  "package": "com.maya.newbulgariankeyboard",
+  "characterLayouts": {
+    "qwerty": "QWERTY",
+    "bulgarian_bds": "Bulgarian (BDS)",
+    "bulgarian_phonetic": "Bulgarian (Phonetic)"
+  },
+  "defaultSubtypes": [
+    {
+      "id": 101,
+      "languageTag": "en-US",
+      "preferredLayout": "qwerty"
+    },
+    {
+      "id": 1701,
+      "languageTag": "bg_BG",
+      "preferredLayout": "bulgarian_phonetic"
+    },
+    {
+      "id": 1702,
+      "languageTag": "bg",
+      "preferredLayout": "bulgarian_bds"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AdTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:windowExitAnimation">@null</item>
+        <item name="android:windowEnterAnimation">@null</item>
+    </style>
+
+
+    <style name="AppThemeBase" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorSurface">@color/colorWhite</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="colorPrimaryDark">@color/colorDPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="colorOnBackground">@color/colorGray</item>
+        <item name="textAppearanceBody1">@color/colorBlack</item>
+        <item name="textAppearanceBody2">@color/bgGray</item>
+<!--        <item name="textAllCaps">@color/blue</item>-->
+        <item name="colorTertiary">@color/colorAccent</item>
+    </style>
+
+
+    <style name="AppThemeBase.Day">
+        <item name="android:navigationBarColor" tools:targetApi="o_mr1">#FFFFFF</item>
+        <item name="semiTransparentColor">#20000000</item>
+        <item name="inputView_bgColorFallback">#FFFFFF</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+        <item name="android:colorControlNormal">#8A000000</item>
+        <item name="android:colorButtonNormal">#4A000000</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="AppThemeBase.Night">
+        <item name="semiTransparentColor">#20FFFFFF</item>
+        <item name="inputView_bgColorFallback">#000000</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">false</item>
+        <item name="android:colorControlNormal">#B3FFFFFF</item>
+        <item name="android:colorButtonNormal">#73FFFFFF</item>
+        <item name="android:navigationBarColor" tools:targetApi="o_mr1">#000000</item>Z
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <!--    <style name="AppSettingsTheme"-->
+    <!--        parent="Theme.MaterialComponents.DayNight.NoActionBar">-->
+    <!--        <item name="android:typeface">monospace</item>-->
+    <!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+    <!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+    <!--        <item name="colorAccent">@color/colorAccent</item>-->
+    <!--        <item name="android:textColor">@color/colorAccent</item>-->
+
+
+    <!--        <item name="colorSuccess">@color/colorSuccess</item>-->
+    <!--        <item name="textColorSuccess">@color/textColorSuccess</item>-->
+    <!--        <item name="colorWarning">@color/colorWarning</item>-->
+    <!--        <item name="textColorWarning">@color/textColorWarning</item>-->
+    <!--        <item name="colorError">@color/colorError</item>-->
+    <!--        <item name="textColorError">@color/textColorError</item>-->
+
+    <!--        <item name="android:windowBackground">@color/windowBackground</item>-->
+    <!--        <item name="android:colorBackground">@color/windowBackground</item>-->
+
+    <!--        <item name="android:navigationBarColor">@color/navigationBarColor</item>-->
+    <!--    </style>-->
+
+
+    <style name="AppThemeBase.AdAttribution">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">start</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="android:padding">@dimen/_2sdp</item>
+        <item name="android:text">Ad</item>
+        <item name="android:background">#FCA120</item>
+        <item name="android:width">@dimen/_25sdp</item>
+        <item name="android:height">@dimen/_20sdp</item>
+    </style>
+
+</resources>

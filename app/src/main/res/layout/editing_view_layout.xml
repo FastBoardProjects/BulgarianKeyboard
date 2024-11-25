@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingCompleteView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/editing"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTintMode="multiply">
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/arrow_left"
+        style="@style/EditingViewItemStyle"
+        android:src="@drawable/ic_keyboard_arrow_left"
+        app:layout_constraintBottom_toTopOf="@+id/clipboard_copy"
+        app:layout_constraintHeight_percent="0.75"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_percent="0.3" />
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/arrow_up"
+        style="@style/EditingViewItemStyle"
+        android:src="@drawable/ic_keyboard_arrow_up"
+        app:layout_constraintHeight_percent="0.25"
+        app:layout_constraintLeft_toRightOf="@+id/arrow_left"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_percent="0.4" />
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/select"
+        style="@style/EditingViewItemStyle"
+        android:text="@android:string/selectTextMode"
+        android:visibility="gone"
+        app:layout_constraintHeight_percent="0.25"
+        app:layout_constraintLeft_toRightOf="@+id/arrow_right"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_percent="0.3" />
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/arrow_down"
+        style="@style/EditingViewItemStyle"
+        android:src="@drawable/ic_keyboard_arrow_down"
+        app:layout_constraintHeight_percent="0.25"
+        app:layout_constraintLeft_toRightOf="@+id/arrow_left"
+        app:layout_constraintTop_toBottomOf="@+id/select_all"
+        app:layout_constraintWidth_percent="0.4" />
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/arrow_right"
+        style="@style/EditingViewItemStyle"
+        android:src="@drawable/ic_keyboard_arrow_right"
+        app:layout_constraintBottom_toTopOf="@+id/clipboard_paste"
+        app:layout_constraintHeight_percent="0.75"
+        app:layout_constraintLeft_toRightOf="@+id/select_all"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintWidth_percent="0.3" />
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/move_home"
+        style="@style/EditingViewItemStyle"
+        android:src="@drawable/ic_first_page"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHeight_percent="0.25"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintWidth_percent="0.50" />
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/move_end"
+        style="@style/EditingViewItemStyle"
+        android:src="@drawable/ic_last_page"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHeight_percent="0.25"
+        app:layout_constraintLeft_toRightOf="@+id/move_home"
+        app:layout_constraintWidth_percent="0.50" />
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/select_all"
+        style="@style/EditingViewItemStyle"
+        android:text="@android:string/selectAll"
+        app:layout_constraintHeight_percent="0.25"
+        app:layout_constraintLeft_toRightOf="@+id/arrow_left"
+        app:layout_constraintTop_toBottomOf="@+id/arrow_up"
+        app:layout_constraintWidth_percent="0.4" />
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/clipboard_cut"
+        style="@style/EditingViewItemStyle"
+        android:text="@android:string/cut"
+        android:visibility="gone"
+        app:layout_constraintHeight_percent="0.25"
+        app:layout_constraintLeft_toRightOf="@+id/arrow_right"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/select_all"
+        app:layout_constraintWidth_percent="0.3" />
+
+    <androidx.constraintlayout.widget.Barrier
+        android:id="@+id/barrier1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        app:barrierDirection="bottom"
+        app:constraint_referenced_ids="select_all,clipboard_cut" />
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/clipboard_copy"
+        style="@style/EditingViewItemStyle"
+        android:text="@android:string/copy"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHeight_percent="0.25"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintWidth_percent="0.50" />
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/clipboard_paste"
+        style="@style/EditingViewItemStyle"
+        android:text="@android:string/paste"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHeight_percent="0.25"
+        app:layout_constraintLeft_toRightOf="@+id/clipboard_copy"
+        app:layout_constraintWidth_percent="0.50"  />
+
+    <com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingItemView
+        android:id="@+id/backspace"
+        style="@style/EditingViewItemStyle"
+        android:src="@drawable/new_backspace"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHeight_percent="0.25"
+        app:layout_constraintLeft_toRightOf="@+id/move_end"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/clipboard_paste"
+        app:layout_constraintWidth_percent="0.3" />
+
+</com.maya.newbulgariankeyboard.text_inputs.keyboard_editing_input.LatestEditingCompleteView>

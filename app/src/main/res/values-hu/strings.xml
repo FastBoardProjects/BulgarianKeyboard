@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">A Keyboard App adatvédelmi szabályzata valójában csak azzal a céllal készült, hogy elmagyarázza, hogyan kell összegyűjteni és felhasználni azokat az információkat, amelyek akkor lehetnek, amikor meglátogatja vagy használja termékeinket és szolgáltatásainkat. Ennek elérésével és/vagy személyre szabott hirdetési és szolgáltatásfejlesztési célú felhasználásával Ön elfogadja a jelen Adatvédelmi szabályzatban leírt irányelveket és gyakorlatokat.</string>
+
+
+    <string name="system_default">Rendszer alapértelmezett</string>
+    <string name="settings_theme_background_active">Háttérszín aktív állapotban</string>
+    <string name="settings_theme_background_pressed">Háttérszín megnyomásakor</string>
+    <string name="settings_theme_foreground">Előtér színe</string>
+    <string name="settings_theme_foreground_alt">Előtér színe (alternatív)</string>
+
+    <string name="saving_group_keys_label">Kulcsok</string>
+    <string name="saving_number_row_label">Számsor</string>
+    <string name="settings_theme_undefined">Undefined</string>
+    <string name="settings_theme_preset_summary">Egyéni (%s alapján)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Kiválasztott téma:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Elérhető témák:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Nyíl jobbra</string>
+    <string name="settings_theme_background">Háttérszín</string>
+    <string name="saving_number_row_summary">Számsor megjelenítése a karakterelrendezés tetején</string>
+    <string name="saving_hinted_number_row_label">Utalt számsor</string>
+    <string name="saving_hinted_number_row_summary">A karakterelrendezés első sora a számsorra utal</string>
+
+    <string name="saving_group_layout_label">Elrendezés</string>
+    <string name="saving_one_handed_mode_label">Egykezes mód</string>
+    <string name="saving_one_handed_mode_off">Le</string>
+    <string name="saving_one_handed_mode_right">Jobbkezes mód</string>
+    <string name="saving_hinted_symbols_label">Utalt szimbólumok</string>
+    <string name="saving_hinted_symbols_summary">Karakterelrendezési tipp szimbólumok második és harmadik sora</string>
+    <string name="saving_font_size_multiplier_portrait_label">Betűméret-szorzó (álló)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Betűméret-szorzó (fekvő)</string>
+    <string name="saving_one_handed_mode_left">Balkezes mód</string>
+    <string name="saving_height_factor_label">Billentyűzet magassága</string>
+    <string name="saving_height_factor_extra_short">Extra rövid</string>
+    <string name="saving_height_factor_short">Rövid Magasság</string>
+    <string name="saving_height_factor_tall">Magas Magasság</string>
+    <string name="saving_height_factor_extra_tall">Extra magas</string>
+    <string name="saving_height_factor_custom">Szokás</string>
+    <string name="saving_height_factor_custom_label">Egyedi billentyűzet magassági érték</string>
+    <string name="saving_bottom_offset_label">Alul eltolás (ívelt képernyők esetén)</string>
+    <string name="saving_group_keypress_label">Gombnyomás</string>
+
+
+    <string name="saving_vibration_strength_label">Rezgés erőssége gombnyomásra</string>
+    <string name="saving_popup_visible_label">Előugró ablakok láthatósága</string>
+    <string name="saving_popup_visible_summary">Felugró ablak megjelenítése, amikor megnyom egy gombot</string>
+    <string name="saving_long_press_delay_label">Hosszú gombnyomás késleltetése</string>
+    <string name="saving_smartbar_enabled_label">Javaslatsáv engedélyezése</string>
+    <string name="saving_smartbar_enabled_summary">Megjelenik a billentyűzet tetején</string>
+    <string name="saving_sound_enabled_label">Hang a gombnyomásra</string>
+    <string name="saving_sound_volume_label">Hangerő gombnyomásra</string>
+    <string name="saving_height_factor_mid_short">Közepes magasságú</string>
+    <string name="saving_height_factor_normal">Normál magasságú</string>
+    <string name="saving_correction_auto_capitalization_label">Automatikus nagybetűs írás</string>
+    <string name="saving_correction_auto_capitalization_summary">A szavak nagybetűs írása az aktuális beviteli kontextus alapján</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Emlékezzen a caps lock állapotára</string>
+    <string name="saving_height_factor_mid_tall">Középmagas</string>
+    <string name="saving_vibration_enabled_label">Rezgés gombnyomásra</string>
+    <string name="saving_suggestion_title">Javaslatok</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">A Caps lock bekapcsolva marad, amikor másik szövegmezőre lép</string>
+    <string name="saving_correction_double_space_period_label">Dupla szóköz időszak</string>
+    <string name="saving_correction_double_space_period_summary">Ha kétszer kattint a szóköz billentyűre, a rendszer beszúr egy pontot szóközzel</string>
+
+    <string name="saving_correction_title">Helyesbítések</string>
+    <string name="saving_glide_title">Csúsztatással történő gépelés</string>
+    <string name="saving_glide_enabled_label">Csúsztatással történő gépelés engedélyezése</string>
+    <string name="saving_suggestion_enabled_label">Javaslatok megjelenítése, amikor a felhasználó gépel</string>
+    <string name="saving_suggestion_enabled_summary">Megjelenik a Javaslatsávban</string>
+    <string name="saving_glide_show_trail_summary">Minden szó után eltűnik</string>
+    <string name="saving_gestures_title">Gesztusok</string>
+    <string name="saving_gestures_swipe_action_no_action">Ne csinálj semmit</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">A vágólap tartalmi javaslatai</string>
+    <string name="saving_suggestion_use_pref_words_summary">Javaslatok generálásához használja az előző szavakat</string>
+    <string name="saving_glide_enabled_summary">Írjon be egy szót úgy, hogy ujját a betűi között csúsztatja</string>
+    <string name="saving_glide_show_trail_label">Mutasd a siklópályát</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Kurzor lefelé</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Kurzor balra</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Kurzor jobbra</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Minden karakter eltávolítása</string>
+    <string name="saving_gestures_swipe_action_delete_word">Az aktuális szó eltávolítása</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Távolítsa el az összes szót</string>
+    <string name="saving_gestures_swipe_up_label">Gesztus fel</string>
+    <string name="saving_gestures_swipe_down_label">Gesztus lefelé</string>
+    <string name="saving_gestures_swipe_left_label">Gesztus balra</string>
+    <string name="saving_gestures_swipe_right_label">Gesztus helyesen</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Billentyűzet minimalizálása</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Kurzor felfelé</string>
+    <string name="saving_gestures_swipe_action_shift">Váltóművelet</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Ugrás az előző nyelvre</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Ugrás a következő nyelvre</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Szóköz billentyű balra</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Helyes szóköz mozdulat</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Nagyon lassú</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Lassú</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Normál</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Gyors</string>
+
+    <string name="saving_advanced_settings_theme_light">Fény</string>
+    <string name="saving_advanced_settings_theme_dark">Sötét</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Törlés gomb kézmozdulat balra</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Csúsztatási sebesség küszöbértéke</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Csúsztatási sebesség küszöbértéke</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Hosszú</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Nagyon hosszú</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Csúsztatási távolság küszöbértéke</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Nagyon rövid</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Rövid</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Normál</string>
+
+
+    <string name="txt_lang_frag">Az összes kiválasztott nyelv látható lesz a billentyűzeten.</string>
+    <string name="search_language_hint">Nyelv keresése itt..</string>
+    <string name="switch_to_keyboard_des">Több nyelven 100+ téma Animált GIF-ek Animált matricák, Hangulatjelek Hanggépelés.</string>
+    <string name="welcome_to">Üdvözöljük</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Billentyűzet engedélyezése</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Válassza a Billentyűzet lehetőséget</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Beállítás befejezése</string>
+
+    <string name="enable_des">Kattintson ide a billentyűzet engedélyezéséhez a beviteli mód beállítási listájában. Ez engedélyezi az eszközön való futtatását.</string>
+    <string name="select_des">Kattintson ide a billentyűzet kiválasztásához a beviteli mód beállítási listájából. Ez engedélyezi az eszközön való futtatását.</string>
+    <string name="finish_des">Minden kész! a billentyűzet be van állítva és használatra kész</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Betűtípus neve</string>
+    <string name="set_brightness">Fényerő beállítása</string>
+    <string name="default_themes">Alapértelmezett témák</string>
+    <string name="colors_themes">Színek Témák</string>
+    <string name="light_gradients_themes">Világos színátmenetek témák</string>
+    <string name="dark_gradients_themes">Sötét színátmenetek témák</string>
+    <string name="landscapes_themes">Tájképek témák</string>
+    <string name="gallery_themes">Galéria témák</string>
+    <string name="crop_image">Kép kivágása</string>
+    <string name="next">Következő</string>
+    <string name="mobile_consent_form">GDPR hozzájárulási űrlap</string>
+    <string name="privacy_policy_title">Adatvédelmi szabályzat</string>
+    <string name="disclaimer">Jogi nyilatkozat</string>
+    <string name="have_accept">Elolvastam és elfogadom</string>
+    <string name="theme_updated_successfully">A téma sikeresen frissítve</string>
+    <string name="apply_theme">Téma alkalmazása</string>
+    <string name="suggestions_database">Javaslatok adatbázisa</string>
+    <string name="suggestions_dailog">A Javaslatok funkció engedélyezéséhez a billentyűzeten le kell töltenie az adatbázis fájlt a szerverünkről. Eltart néhány másodpercig. Most vagy később szeretnéd letölteni?</string>
+    <string name="download">Letöltés</string>
+    <string name="later">Később</string>
+    <string name="txt_nav_home">Otthon</string>
+    <string name="txt_nav_rate_app">Értékelés &amp; Ellenőrzés (hirdetés)</string>
+    <string name="txt_nav_share_app">Alkalmazás megosztása (hirdetés)</string>
+    <string name="txt_nav_more_apps">Alkalmazásaink (hirdetés)</string>
+    <string name="txt_nav_family_apps">Családi alkalmazásaink (hirdetés)</string>
+    <string name="txt_nav_feedback">Visszacsatolás</string>
+    <string name="txt_nav_update">Frissítés most</string>
+    <string name="txt_nav_ads_remove">Távolítsa el a hirdetéseket</string>
+    <string name="txt_feedback">Visszajelzést szeretném kérni a billentyűzet alkalmazással kapcsolatban</string>
+
+
+    <string name="finish">Befejezés</string>
+    <string name="space_for_advertisement">Hely a reklámnak</string>
+    <string name="other">Más</string>
+
+
+    <string name="txt_nav_premium_version">Prémium verzió</string>
+    <string name="support_the_development">Támogassa a Fejlesztést</string>
+    <string name="unlimited_customization">Korlátlan testreszabás</string>
+    <string name="complete_ad_free_version">Teljes hirdetések ingyenes verzió</string>
+    <string name="unlimited_themes">Prémium témák és betűstílusok</string>
+    <string name="terms_of_services">Feltételek &amp; Körülmények</string>
+    <string name="this_subscriptions_renews_automatically">A "Havi előfizetés" korlátlan hozzáférést biztosít az alkalmazásunkhoz egy hónapig, és havonta megújítják. Ha nem mondja le.\n Life Time vásárlás az egyetlen egyszeri vásárlás. További információért, kérjük, tekintse meg a Feltételeket &amp; Szolgáltatási feltételek.</string>
+
+
+    <string name="monthly_subscription">Havi előfizetés</string>
+    <string name="life_time_purchase">Élettartamra szóló vásárlás</string>
+    <string name="life_time_price">Élettartamra szóló ár</string>
+    <string name="monthly_price">Havi ár</string>
+    <string name="purchase_now">Vásároljon most</string>
+    <string name="subscribe_now">Iratkozz fel most</string>
+
+
+    <string name="enable_disable_number_row">Számsor engedélyezése/letiltása</string>
+    <string name="visible_number_row">Látható számsor a billentyűzet tetején</string>
+    <string name="show_numeric_hints">Numerikus tippek megjelenítése</string>
+    <string name="show_numeric_hint_on_first_row">A számjegyek megjelenítése az első karaktersorban</string>
+    <string name="show_symbol_hints">Jelölési tippek megjelenítése</string>
+    <string name="show_symbol_hints_on_rows">Szimbólumok utalás megjelenítése a karakterek második és harmadik sorában</string>
+    <string name="adjust_keyboard_font_size_portrait">Állítsa be a billentyűzet betűméretét az álló nézethez</string>
+    <string name="adjust_keyboard_font_size_landscape">Állítsa be a billentyűzet betűméretét a fekvő nézethez</string>
+    <string name="keyboard_layout_settings">Billentyűzetkiosztás beállításai</string>
+    <string name="keyboard_height">Billentyűzet magassága</string>
+    <string name="keyboard_key_click_settings">Billentyűzet gomb Kattintson a Beállítások gombra</string>
+    <string name="play_sound_on_key_click">Hang lejátszása billentyűkattintással</string>
+    <string name="key_click_sound_volume">Állítsa be a billentyűkattintás hangerejét</string>
+    <string name="vibrate_on_key_click">Rezgés a billentyűkattintásra</string>
+    <string name="key_vibration_strength">Állítsa be a billentyűvibráció erősségét</string>
+    <string name="enable_popup_alphabets">Előugró ábécék megjelenítése, amikor a felhasználó egy billentyűre kattint</string>
+    <string name="popup_feature">Előugró funkció</string>
+    <string name="correction_settings">Javítási beállítások</string>
+    <string name="auto_capitalize">Automatikus nagybetűs írás</string>
+    <string name="save_caps_lock_state">Caps Lock állapot mentése</string>
+    <string name="show_editing_panel">Szerkesztőpanel megjelenítése</string>
+    <string name="enable_disable_editing_panel">Szerkesztőpanel engedélyezése/letiltása</string>
+    <string name="available_gestures">Rendelkezésre álló gesztusok</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Egykezes mód engedélyezése/letiltása</string>
+    <string name="keyboard_keys_settings">Billentyűzet billentyűk beállításai</string>
+    <string name="enable_disable_suggestions_bar">Ez a Billentyűzet nézet tetején lesz látható</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Minden javaslat megjelenik a Javaslatsávon</string>
+    <string name="show_suggestions">Javaslatok megjelenítése a felhasználó gépelésekor</string>
+    <string name="customize_suggestion_bar">A javaslatsáv testreszabása</string>
+    <string name="customize_suggestion_button">A Javaslat gomb testreszabása</string>
+    <string name="enable_disable_voice_typing">Hanggépelés engedélyezése/letiltása</string>
+    <string name="use_voice_typing">Használja a hangos gépelést</string>
+
+    <string name="settings">Beállítások elemre</string>
+    <string name="languages">Nyelvek</string>
+    <string name="themes">Témák</string>
+    <string name="preferences">Preferences</string>
+    <string name="fonts">Betűtípusok</string>
+    <string name="text_correction">Szövegjavítás</string>
+    <string name="gestures">Gesztusok</string>
+    <string name="suggestions">Javaslatok</string>
+    <string name="one_hand_typing">Egykezes gépelés</string>
+    <string name="editing_panel">Szerkesztőpanel</string>
+    <string name="voice_typing">Hanggépelés</string>
+
+    <string name="languages_localization">Nyelvek &amp; Lokalizáció</string>
+    <string name="customize_themes">Témák testreszabása</string>
+    <string name="keyboard_preferences">Billentyűzet beállításai</string>
+    <string name="fonts_styles">Betűstílusok</string>
+    <string name="text_correction_list">Szövegjavítás</string>
+    <string name="enable_gesture_typing">A kézmozdulatokkal történő gépelés engedélyezése</string>
+    <string name="enable_auto_suggestions">Automatikus javaslatok engedélyezése</string>
+    <string name="one_hand_typing_mode">Egykezes gépelési mód</string>
+    <string name="customize_editing_panel">A szerkesztőpanel testreszabása</string>
+    <string name="voice_recognition_typing">Hangfelismerés &amp; Gépelés</string>
+
+    <string name="title_activity_language_picker">LanguagePickerActivity</string>
+    <string name="cencel_sub">Előfizetés lemondása</string>
+    <string name="yearly_subscription">Éves előfizetés</string>
+    <string name="app_languages">Válassza az Alkalmazás nyelve lehetőséget</string>
+    <string name="change_app_theme">Válassza az Alkalmazástémát</string>
+    <string name="default_theme">Alapértelmezett</string>
+    <string name="dark_theme">Sötét</string>
+    <string name="light_theme">Fény</string>
+
+    <string name="app_theme_apply">Alkalmazni</string>
+    <string name="app_theme_cancel">Mégse</string>
+    <string name="test_keyboard_here">Tesztelje a billentyűzetet itt</string>
+    <string name="cancel">Mégse</string>
+
+
+    <string name="premium_keyboard_title">Keyboard Plus</string>
+    <string name="premium_des_title">Hozzáférés az összes funkcióhoz a prémium szolgáltatással</string>
+
+    <string name="customization_title">Testreszabás</string>
+    <string name="themes_fonts_title">Témák és betűtípusok</string>
+    <string name="no_ads_title">Nincsenek hirdetések</string>
+    <string name="vip_support_title">VIP támogatás</string>
+
+
+    <string name="reward_ad_show_title">Jutalom</string>
+    <string name="fonts_reward_dailog_des">Ennek a betűtípusnak a használata esetén meg kell néznie a jutalommal járó hirdetést. Meg szeretné mutatni a jutalom AD-t?</string>
+    <string name="themes_reward_dailog_des">"A téma alkalmazása esetén meg kell néznie a jutalommal járó hirdetést. Szeretné megjeleníteni a jutalomhirdetést?</string>
+    <string name="reward_dailog_show_ad_btn">Hirdetés megjelenítése</string>
+    <string name="reward_dailog_cancel_btn">Mégse</string>
+    <string name="reward_dailog_get_premium_btn">Szerezzen prémiumot</string>
+    <string name="loading_ads">Hirdetések betöltése…</string>
+    <string name="please_wait">Kérjük, várjon…</string>
+
+
+    <string name="exit_dailog_title">Kilép az alkalmazásból?</string>
+    <string name="exit_dailog_des">Biztosan kilép az alkalmazásból?</string>
+    <string name="exit_dailog_cancel_btn">Mégse</string>
+    <string name="exit_dailog_exit_btn">Kijárat</string>
+
+
+
+
+</resources>
+
+

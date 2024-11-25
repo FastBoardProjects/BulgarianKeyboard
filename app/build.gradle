@@ -1,0 +1,190 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-android-extensions'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+
+}
+
+android {
+    compileSdk 34
+
+    defaultConfig {
+        applicationId = "com.maya.newbulgariankeyboard"
+        minSdk = 21
+        targetSdk 34
+        versionCode = 17
+        versionName = 'V17'
+        multiDexEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        vectorDrawables {
+            useSupportLibrary true
+        }
+    }
+
+
+    buildFeatures {
+        viewBinding true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+    namespace 'com.maya.newbulgariankeyboard'
+    packagingOptions {
+        jniLibs {
+            useLegacyPackaging false
+        }
+        resources {
+            excludes += '/META-INF/{AL2.0,LGPL2.1}'
+        }
+    }
+
+
+    buildFeatures {
+        compose true
+    }
+    composeOptions {
+        kotlinCompilerExtensionVersion '1.3.2'
+    }
+}
+
+dependencies {
+    implementation 'androidx.core:core-ktx:1.10.1'
+    implementation "org.jetbrains.kotlin:kotlin-reflect:$kotlin_version"
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+
+
+
+
+
+    /*Other Libraries*/
+    implementation 'androidx.multidex:multidex:2.0.1'
+    implementation 'androidx.preference:preference-ktx:1.1.1'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2-native-mt'
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2-native-mt"
+    implementation 'androidx.room:room-runtime:2.6.1'
+    androidTestImplementation platform('androidx.compose:compose-bom:2024.04.01')
+    androidTestImplementation 'androidx.compose.ui:ui-test-junit4'
+    annotationProcessor 'androidx.room:room-compiler:2.6.1'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:5.0.0-alpha.2'
+    implementation 'com.tuyenmonkey:mkloader:1.4.0'
+    implementation 'com.google.code.gson:gson:2.8.9'
+    implementation 'com.github.skydoves:powermenu:2.2.0'
+    implementation 'com.intuit.sdp:sdp-android:1.1.0'
+    implementation 'com.intuit.ssp:ssp-android:1.1.0'
+    implementation 'com.jaredrummler:colorpicker:1.1.0'
+    implementation 'com.heinrichreimersoftware:material-intro:2.0.0'
+    implementation 'com.github.bumptech.glide:glide:4.15.1'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.13.1'
+    implementation 'com.airbnb.android:lottie:5.0.2'
+    implementation 'net.igenius:customcheckbox:1.3'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.github.takusemba:cropme:2.0.8'
+    implementation 'com.google.android:flexbox:2.0.1'
+    implementation "com.squareup.moshi:moshi-kotlin:1.13.0"
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.github.ybq:Android-SpinKit:1.4.0'
+    implementation 'com.geniusforapp.fancydialog:FancyDialog:0.1.4'
+    testImplementation 'org.mockito:mockito-core:4.3.1'
+    testImplementation 'org.mockito:mockito-inline:4.3.1'
+    testImplementation 'androidx.test:core:1.5.0'
+    implementation 'com.github.smarteist:autoimageslider:1.4.0'
+
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+
+
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+
+
+    /*-----------------------------------------------------*/
+
+
+    /*Google Voice Recognition*/
+    implementation project(":voice")
+
+
+
+
+
+    /*Admob Ads Sdk*/
+    implementation 'com.google.android.gms:play-services-ads:23.3.0'
+
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.6.2'
+    //noinspection LifecycleAnnotationProcessorWithJava8
+    annotationProcessor 'androidx.lifecycle:lifecycle-compiler:2.6.2'
+
+
+
+
+    /*Firebase Sdk*/
+    implementation platform('com.google.firebase:firebase-bom:26.3.0')
+
+    /*Google Firebase Messaging Sdk*/
+    implementation 'com.google.firebase:firebase-messaging:23.2.1'
+
+    /*Google Firebase analytics Sdk*/
+    implementation("com.google.firebase:firebase-analytics-ktx:21.3.0")
+
+    implementation("com.google.firebase:firebase-crashlytics")
+
+    /*Google Billing Sdk*/
+    implementation 'com.android.billingclient:billing:7.0.0'
+
+
+
+    /*Google in_app Rating Sdk*/
+    implementation 'com.google.android.play:review:2.0.1'
+    implementation 'com.google.android.play:review-ktx:2.0.1'
+
+
+    /*Google in_app Update Sdk*/
+    implementation 'com.google.android.play:app-update:2.1.0'
+    implementation 'com.google.android.play:app-update-ktx:2.1.0'
+
+
+
+    /*Google ump:user-messaging Sdk*/
+    implementation 'com.google.android.ump:user-messaging-platform:3.0.0'
+
+
+
+
+    //Compose Based Apps
+
+    implementation 'androidx.compose.ui:ui'
+    implementation 'androidx.compose.material:material'
+    implementation 'androidx.compose.runtime:runtime'
+    implementation 'androidx.activity:activity-compose:1.9.1'
+    implementation platform('androidx.compose:compose-bom:2024.06.00')
+    implementation 'androidx.compose.ui:ui-graphics'
+    implementation 'androidx.compose.ui:ui-tooling-preview'
+    implementation("androidx.compose.material:material-icons-extended")
+    implementation("androidx.compose.material3:material3:1.2.1")
+    implementation("androidx.compose.material3:material3-window-size-class:1.2.1")
+    implementation("androidx.compose.material3:material3-adaptive-navigation-suite:1.3.0-beta05")
+
+
+
+}

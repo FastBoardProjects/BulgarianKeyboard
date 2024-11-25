@@ -1,0 +1,285 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">কীবোর্ড অ্যাপের গোপনীয়তা নীতিটি আসলে লেখা হয়েছে শুধুমাত্র তথ্য সংগ্রহ এবং ব্যবহার করার ব্যাখ্যা করার জন্য যা আপনি যখন আমাদের পণ্য এবং পরিষেবাগুলি পরিদর্শন করেন বা ব্যবহার করেন তখন হতে পারে৷ ব্যক্তিগতকৃত বিজ্ঞাপন এবং পরিষেবা বিকাশের জন্য এটি অ্যাক্সেস এবং/অথবা ব্যবহার করে, আপনি এই গোপনীয়তা নীতিতে বর্ণিত নীতি এবং অনুশীলনের সাথে সম্মত হচ্ছেন।</string>
+
+
+    <string name="system_default">সিস্টেম ডিফল্ট</string>
+    <string name="settings_theme_background_active">সক্রিয় হলে পটভূমির রঙ</string>
+    <string name="settings_theme_background_pressed">চাপলে পটভূমির রঙ</string>
+    <string name="settings_theme_foreground">অগ্রভাগের রঙ</string>
+    <string name="settings_theme_foreground_alt">ফোরগ্রাউন্ড রঙ (বিকল্প)</string>
+
+    <string name="saving_group_keys_label">চাবি</string>
+    <string name="saving_number_row_label">সংখ্যা সারি</string>
+    <string name="settings_theme_undefined">অনির্ধারিত</string>
+    <string name="settings_theme_preset_summary">কাস্টম (%s এর উপর ভিত্তি করে)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">নির্বাচিত থিম:</string>
+    <string name="settings_theme_preset_dialog_available_themes">উপলব্ধ থিম:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">ডানদিকে তীর</string>
+    <string name="settings_theme_background">পটভূমির রঙ</string>
+    <string name="saving_number_row_summary">অক্ষর বিন্যাসের উপরে সংখ্যা সারি দেখান</string>
+    <string name="saving_hinted_number_row_label">ইঙ্গিত করা সংখ্যা সারি</string>
+    <string name="saving_hinted_number_row_summary">অক্ষর বিন্যাসের প্রথম সারি ইঙ্গিত সংখ্যা সারি</string>
+
+    <string name="saving_group_layout_label">লেআউট</string>
+    <string name="saving_one_handed_mode_label">এক হাতে মোড</string>
+    <string name="saving_one_handed_mode_off">বন্ধ</string>
+    <string name="saving_one_handed_mode_right">ডান হাতের মোড</string>
+    <string name="saving_hinted_symbols_label">ইঙ্গিতযুক্ত প্রতীক</string>
+    <string name="saving_hinted_symbols_summary">অক্ষর বিন্যাস ইঙ্গিত চিহ্নের দ্বিতীয় এবং তৃতীয় সারি</string>
+    <string name="saving_font_size_multiplier_portrait_label">ফন্ট সাইজ গুণক (প্রতিকৃতি)</string>
+    <string name="saving_font_size_multiplier_landscape_label">ফন্ট সাইজ গুণক (ল্যান্ডস্কেপ)</string>
+    <string name="saving_one_handed_mode_left">বাম হাতের মোড</string>
+    <string name="saving_height_factor_label">কীবোর্ডের উচ্চতা</string>
+    <string name="saving_height_factor_extra_short">অতিরিক্ত সংক্ষিপ্ত</string>
+    <string name="saving_height_factor_short">খাটো-উচ্চতা</string>
+    <string name="saving_height_factor_tall">লম্বা-উচ্চতা</string>
+    <string name="saving_height_factor_extra_tall">অতিরিক্ত লম্বা</string>
+    <string name="saving_height_factor_custom">কাস্টম</string>
+    <string name="saving_height_factor_custom_label">কাস্টম কীবোর্ড উচ্চতা মান</string>
+    <string name="saving_bottom_offset_label">নিচের অফসেট (বাঁকা পর্দার জন্য)</string>
+    <string name="saving_group_keypress_label">কী চাপুন</string>
+
+
+    <string name="saving_vibration_strength_label">কী প্রেসে কম্পনের শক্তি</string>
+    <string name="saving_popup_visible_label">পপআপ দৃশ্যমানতা</string>
+    <string name="saving_popup_visible_summary">আপনি একটি কী চাপলে পপআপ দেখান</string>
+    <string name="saving_long_press_delay_label">দীর্ঘ কী প্রেস বিলম্ব</string>
+    <string name="saving_smartbar_enabled_label">সাজেশন বার সক্রিয় করুন</string>
+    <string name="saving_smartbar_enabled_summary">কীবোর্ডের উপরে দেখাবে</string>
+    <string name="saving_sound_enabled_label">কী টিপে শব্দ</string>
+    <string name="saving_sound_volume_label">কী প্রেসে সাউন্ড ভলিউম</string>
+    <string name="saving_height_factor_mid_short">মাঝারি-উচ্চতা</string>
+    <string name="saving_height_factor_normal">সাধারণ-উচ্চতা</string>
+    <string name="saving_correction_auto_capitalization_label">স্বয়ংক্রিয় মূলধন</string>
+    <string name="saving_correction_auto_capitalization_summary">বর্তমান ইনপুট প্রেক্ষাপটের উপর ভিত্তি করে শব্দগুলিকে বড় করুন</string>
+    <string name="saving_correction_remember_caps_lock_state_label">ক্যাপ লক অবস্থা মনে রাখবেন</string>
+    <string name="saving_height_factor_mid_tall">মাঝামাঝি লম্বা</string>
+    <string name="saving_vibration_enabled_label">কী টিপে ভাইব্রেট করুন</string>
+    <string name="saving_suggestion_title">পরামর্শ</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">অন্য টেক্সট ফিল্ডে যাওয়ার সময় ক্যাপস লক চালু থাকবে</string>
+    <string name="saving_correction_double_space_period_label">ডাবল-স্পেস পিরিয়ড</string>
+    <string name="saving_correction_double_space_period_summary">স্পেস বারে দুইবার ক্লিক করলে স্পেস সহ একটি পিরিয়ড ঢোকানো হবে</string>
+
+    <string name="saving_correction_title">সংশোধন</string>
+    <string name="saving_glide_title">গ্লাইড টাইপিং</string>
+    <string name="saving_glide_enabled_label">গ্লাইড টাইপিং সক্ষম করুন</string>
+    <string name="saving_suggestion_enabled_label">ব্যবহারকারী টাইপ করার সময় পরামর্শ প্রদর্শন করুন</string>
+    <string name="saving_suggestion_enabled_summary">সাজেশন বারে দেখাবে</string>
+    <string name="saving_glide_show_trail_summary">প্রতিটি শব্দের পরে অদৃশ্য হয়ে যাবে</string>
+    <string name="saving_gestures_title">অঙ্গভঙ্গি</string>
+    <string name="saving_gestures_swipe_action_no_action">কিছুই করবেন না</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">ক্লিপবোর্ড বিষয়বস্তু পরামর্শ</string>
+    <string name="saving_suggestion_use_pref_words_summary">প্রস্তাবনা তৈরির জন্য পূর্ববর্তী শব্দ ব্যবহার করুন</string>
+    <string name="saving_glide_enabled_summary">একটি শব্দের অক্ষরের মাধ্যমে আপনার আঙুল স্লাইড করে টাইপ করুন</string>
+    <string name="saving_glide_show_trail_label">গ্লাইড ট্রেইল দেখান</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">কার্সার ডাউন</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">কার্সার বাম</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">কার্সার ডান</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">সমস্ত অক্ষর সরান</string>
+    <string name="saving_gestures_swipe_action_delete_word">বর্তমান শব্দ সরান</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">সমস্ত শব্দ সরান</string>
+    <string name="saving_gestures_swipe_up_label">অঙ্গভঙ্গি আপ</string>
+    <string name="saving_gestures_swipe_down_label">নিচের অঙ্গভঙ্গি</string>
+    <string name="saving_gestures_swipe_left_label">অঙ্গভঙ্গি বাম</string>
+    <string name="saving_gestures_swipe_right_label">অঙ্গভঙ্গি ডান</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">কীবোর্ড ছোট করুন</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">কার্সার আপ</string>
+    <string name="saving_gestures_swipe_action_shift">শিফট অ্যাকশন</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">আগের ভাষাতে যান</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">পরবর্তী ভাষায় যান</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">স্পেস বার অঙ্গভঙ্গি বাম</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">স্পেস বার অঙ্গভঙ্গি ডান</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">খুব ধীর</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">ধীর</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">স্বাভাবিক</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">দ্রুত</string>
+
+    <string name="saving_advanced_settings_theme_light">আলো</string>
+    <string name="saving_advanced_settings_theme_dark">অন্ধকার</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">মুছুন বোতাম অঙ্গভঙ্গি বাম</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">সোয়াইপ বেগ থ্রেশহোল্ড</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">সোয়াইপ বেগ থ্রেশহোল্ড</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">লম্বা</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">অনেক লম্বা</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">দূরত্ব থ্রেশহোল্ড সোয়াইপ করুন</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">খুব সংক্ষিপ্ত</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">সংক্ষিপ্ত</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">স্বাভাবিক</string>
+
+
+    <string name="txt_lang_frag">নির্বাচিত সমস্ত ভাষা কীবোর্ডে দৃশ্যমান হবে।</string>
+    <string name="search_language_hint">এখানে ভাষা অনুসন্ধান করুন..</string>
+    <string name="switch_to_keyboard_des">একাধিক ভাষা 100+ থিম অ্যানিমেটেড GIF অ্যানিমেটেড স্টিকার, ইমোজি ভয়েস টাইপিং।</string>
+    <string name="welcome_to">স্বাগতম</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">কীবোর্ড সক্ষম করুন</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">কীবোর্ড নির্বাচন করুন</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">সেট আপ শেষ করুন</string>
+
+    <string name="enable_des">আপনার ইনপুট পদ্ধতি সেটিংস তালিকায় কীবোর্ড সক্ষম করতে এখানে ক্লিক করুন। এটি এটিকে আপনার ডিভাইসে চালানোর অনুমোদন দেবে।</string>
+    <string name="select_des">আপনার ইনপুট পদ্ধতি সেটিংস তালিকায় আপনার কীবোর্ড নির্বাচন করতে এখানে ক্লিক করুন। এটি এটিকে আপনার ডিভাইসে চালানোর অনুমোদন দেবে।</string>
+    <string name="finish_des">সব সম্পন্ন! আপনার কীবোর্ড সেট আপ এবং ব্যবহারের জন্য প্রস্তুত</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">ফন্টের নাম</string>
+    <string name="set_brightness">উজ্জ্বলতা সেট করুন</string>
+    <string name="default_themes">ডিফল্ট থিম</string>
+    <string name="colors_themes">রং থিম</string>
+    <string name="light_gradients_themes">হালকা গ্রেডিয়েন্ট থিম</string>
+    <string name="dark_gradients_themes">ডার্ক গ্রেডিয়েন্ট থিম</string>
+    <string name="landscapes_themes">ল্যান্ডস্কেপ থিম</string>
+    <string name="gallery_themes">গ্যালারি থিম</string>
+    <string name="crop_image">ছবি ক্রপ করুন</string>
+    <string name="next">পরবর্তী</string>
+    <string name="mobile_consent_form">GDPR সম্মতি ফর্ম</string>
+    <string name="privacy_policy_title">গোপনীয়তা নীতি</string>
+    <string name="disclaimer">দাবিত্যাগ</string>
+    <string name="have_accept">আমি পড়েছি এবং গ্রহণ করেছি</string>
+    <string name="theme_updated_successfully">থিম সফলভাবে আপডেট করা হয়েছে</string>
+    <string name="apply_theme">থিম প্রয়োগ করুন</string>
+    <string name="suggestions_database">পরামর্শ ডাটাবেস</string>
+    <string name="suggestions_dailog">কীবোর্ডে সাজেশন ফিচার চালু করতে আপনাকে আমাদের সার্ভার থেকে ডাটাবেস ফাইল ডাউনলোড করতে হবে। এটা কিছু সেকেন্ড সময় লাগবে. আপনি কি এখন বা পরে ডাউনলোড করতে চান?</string>
+    <string name="download">ডাউনলোড করুন</string>
+    <string name="later">পরে</string>
+    <string name="txt_nav_home">বাড়ি</string>
+    <string name="txt_nav_rate_app">হার &amp; পর্যালোচনা (বিজ্ঞাপন)</string>
+    <string name="txt_nav_share_app">শেয়ার অ্যাপ (বিজ্ঞাপন)</string>
+    <string name="txt_nav_more_apps">আমাদের অ্যাপস (বিজ্ঞাপন)</string>
+    <string name="txt_nav_family_apps">আমাদের পারিবারিক অ্যাপস (বিজ্ঞাপন)</string>
+    <string name="txt_nav_feedback">প্রতিক্রিয়া</string>
+    <string name="txt_nav_update">এখনই আপডেট করুন</string>
+    <string name="txt_nav_ads_remove">বিজ্ঞাপনগুলি সরান</string>
+    <string name="txt_feedback">আপনার কীবোর্ড অ্যাপের জন্য আমার মতামত আছে</string>
+
+
+    <string name="finish">শেষ করুন</string>
+    <string name="space_for_advertisement">বিজ্ঞাপনের জন্য স্থান</string>
+    <string name="other">অন্যান্য</string>
+
+
+    <string name="txt_nav_premium_version">প্রিমিয়াম সংস্করণ</string>
+    <string name="support_the_development">উন্নয়ন সমর্থন</string>
+    <string name="unlimited_customization">সীমাহীন কাস্টমাইজেশন</string>
+    <string name="complete_ad_free_version">সম্পূর্ণ বিজ্ঞাপন বিনামূল্যে সংস্করণ</string>
+    <string name="unlimited_themes">প্রিমিয়াম থিম এবং ফন্ট শৈলী</string>
+    <string name="terms_of_services">শর্তাবলী &amp; শর্তাবলী</string>
+    <string name="this_subscriptions_renews_automatically">"মাসিক সাবস্ক্রিপশন" আপনাকে এক মাসের জন্য আমাদের আবেদনে সীমাহীন অ্যাক্সেস দেয় এবং মাসিক পুনর্নবীকরণ করা হবে। আপনি যদি এটি বাতিল না করেন। আরও তথ্যের জন্য অনুগ্রহ করে শর্তাবলী দেখুন &amp; পরিষেবার শর্তাবলী।</string>
+
+
+    <string name="monthly_subscription">মাসিক সাবস্ক্রিপশন</string>
+    <string name="life_time_purchase">লাইফ টাইম ক্রয়</string>
+    <string name="life_time_price">লাইফ-টাইম মূল্য</string>
+    <string name="monthly_price">মাসিক মূল্য</string>
+    <string name="purchase_now">এখনই কিনুন</string>
+    <string name="subscribe_now">এখন সদস্যতা</string>
+
+
+    <string name="enable_disable_number_row">নম্বর সারি সক্ষম/অক্ষম করুন</string>
+    <string name="visible_number_row">কীবোর্ডের উপরে দৃশ্যমান সংখ্যা সারি</string>
+    <string name="show_numeric_hints">সংখ্যাসূচক ইঙ্গিত দেখান</string>
+    <string name="show_numeric_hint_on_first_row">অক্ষরের প্রথম সারিতে সংখ্যার ইঙ্গিত দেখান</string>
+    <string name="show_symbol_hints">প্রতীক ইঙ্গিত দেখান</string>
+    <string name="show_symbol_hints_on_rows">অক্ষরের দ্বিতীয় এবং তৃতীয় সারিতে প্রতীক ইঙ্গিত দেখান</string>
+    <string name="adjust_keyboard_font_size_portrait">প্রতিকৃতি দৃশ্যের জন্য কীবোর্ড ফন্টের আকার সামঞ্জস্য করুন</string>
+    <string name="adjust_keyboard_font_size_landscape">ল্যান্ডস্কেপ দৃশ্যের জন্য কীবোর্ড ফন্টের আকার সামঞ্জস্য করুন</string>
+    <string name="keyboard_layout_settings">কীবোর্ড লেআউট সেটিংস</string>
+    <string name="keyboard_height">কীবোর্ডের উচ্চতা</string>
+    <string name="keyboard_key_click_settings">কীবোর্ড কী সেটিংসে ক্লিক করুন</string>
+    <string name="play_sound_on_key_click">কী ক্লিকে সাউন্ড প্লে করুন</string>
+    <string name="key_click_sound_volume">কী ক্লিক সাউন্ড ভলিউম সামঞ্জস্য করুন</string>
+    <string name="vibrate_on_key_click">কী ক্লিকে ভাইব্রেট করুন</string>
+    <string name="key_vibration_strength">কী কম্পন শক্তি সামঞ্জস্য করুন</string>
+    <string name="enable_popup_alphabets">ব্যবহারকারী একটি কী ক্লিক করলে পপ-আপ বর্ণমালা দেখান</string>
+    <string name="popup_feature">পপ-আপ বৈশিষ্ট্য</string>
+    <string name="correction_settings">সংশোধন সেটিংস</string>
+    <string name="auto_capitalize">অটো ক্যাপিটালাইজ</string>
+    <string name="save_caps_lock_state">Caps Lock অবস্থা সংরক্ষণ করুন</string>
+    <string name="show_editing_panel">সম্পাদনা প্যানেল দেখান</string>
+    <string name="enable_disable_editing_panel">সম্পাদনা প্যানেল সক্ষম/অক্ষম করুন</string>
+    <string name="available_gestures">উপলব্ধ অঙ্গভঙ্গি</string>
+    <string name="enable_disable_keyboard_one_handed_mode">এক হাতে মোড সক্ষম/অক্ষম করুন</string>
+    <string name="keyboard_keys_settings">কীবোর্ড কী সেটিংস</string>
+    <string name="enable_disable_suggestions_bar">এটি কীবোর্ড ভিউ-এর উপরে দৃশ্যমান হবে</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">সমস্ত পরামর্শ সাজেশন বারে দেখানো হবে</string>
+    <string name="show_suggestions">ব্যবহারকারী টাইপ করার সময় পরামর্শ দেখান</string>
+    <string name="customize_suggestion_bar">সাজেশন বার কাস্টমাইজ করুন</string>
+    <string name="customize_suggestion_button">সাজেশন বোতাম কাস্টমাইজ করুন</string>
+    <string name="enable_disable_voice_typing">ভয়েস টাইপিং সক্ষম/অক্ষম করুন</string>
+    <string name="use_voice_typing">ভয়েস টাইপিং ব্যবহার করুন</string>
+
+    <string name="settings">সেটিংস</string>
+    <string name="languages">ভাষা</string>
+    <string name="themes">থিম</string>
+    <string name="preferences">পছন্দসমূহ</string>
+    <string name="fonts">হরফ</string>
+    <string name="text_correction">পাঠ্য সংশোধন</string>
+    <string name="gestures">অঙ্গভঙ্গি</string>
+    <string name="suggestions">পরামর্শ</string>
+    <string name="one_hand_typing">এক হাতে টাইপিং</string>
+    <string name="editing_panel">এডিটিং প্যানেল</string>
+    <string name="voice_typing">ভয়েস টাইপিং</string>
+
+    <string name="languages_localization">ভাষা &amp; স্থানীয়করণ</string>
+    <string name="customize_themes">থিম কাস্টমাইজ করুন</string>
+    <string name="keyboard_preferences">কীবোর্ড পছন্দসমূহ</string>
+    <string name="fonts_styles">ফন্ট শৈলী</string>
+    <string name="text_correction_list">পাঠ্য সংশোধন</string>
+    <string name="enable_gesture_typing">অঙ্গভঙ্গি টাইপিং সক্ষম করুন৷</string>
+    <string name="enable_auto_suggestions">স্বয়ংক্রিয় পরামর্শ সক্ষম করুন৷</string>
+    <string name="one_hand_typing_mode">এক হাতে টাইপিং মোড</string>
+    <string name="customize_editing_panel">সম্পাদনা প্যানেল কাস্টমাইজ করুন</string>
+    <string name="voice_recognition_typing">ভয়েস রিকগনিশন &amp; টাইপিং</string>
+
+    <string name="title_activity_language_picker">ল্যাঙ্গুয়েজ পিকার অ্যাক্টিভিটি</string>
+    <string name="cencel_sub">সদস্যতা বাতিল করুন</string>
+    <string name="yearly_subscription">বার্ষিক সাবস্ক্রিপশন</string>
+    <string name="app_languages">অ্যাপের ভাষা বেছে নিন</string>
+    <string name="change_app_theme">অ্যাপ থিম বেছে নিন</string>
+    <string name="default_theme">ডিফল্ট</string>
+    <string name="dark_theme">অন্ধকার</string>
+    <string name="light_theme">আলো</string>
+
+    <string name="app_theme_apply">আবেদন করুন</string>
+    <string name="app_theme_cancel">বাতিল করুন</string>
+    <string name="test_keyboard_here">এখানে কীবোর্ড পরীক্ষা করুন</string>
+    <string name="cancel">বাতিল করুন</string>
+
+
+    <string name="premium_keyboard_title">কীবোর্ড প্লাস</string>
+    <string name="premium_des_title">প্রিমিয়াম সহ সমস্ত বৈশিষ্ট্য অ্যাক্সেস করুন</string>
+
+    <string name="customization_title">কাস্টমাইজেশন</string>
+    <string name="themes_fonts_title">থিম এবং ফন্ট</string>
+    <string name="no_ads_title">কোনো বিজ্ঞাপন নেই</string>
+    <string name="vip_support_title">ভিআইপি সমর্থন</string>
+
+
+    <string name="reward_ad_show_title">পুরস্কার পান</string>
+    <string name="fonts_reward_dailog_des">এই ফন্টটি প্রয়োগ করার ক্ষেত্রে আপনাকে পুরস্কৃত বিজ্ঞাপন দেখতে হবে। আপনি কি পুরস্কার AD দেখাতে চান?</string>
+    <string name="themes_reward_dailog_des">"এই থিম প্রয়োগ করার ক্ষেত্রে আপনাকে পুরস্কৃত বিজ্ঞাপন দেখতে হবে। আপনি কি পুরস্কার AD দেখাতে চান?</string>
+    <string name="reward_dailog_show_ad_btn">বিজ্ঞাপন দেখান</string>
+    <string name="reward_dailog_cancel_btn">বাতিল করুন</string>
+    <string name="reward_dailog_get_premium_btn">প্রিমিয়াম পান</string>
+    <string name="loading_ads">বিজ্ঞাপন লোড হচ্ছে...</string>
+    <string name="please_wait">অনুগ্রহ করে অপেক্ষা করুন...</string>
+
+
+    <string name="exit_dailog_title">অ্যাপ থেকে প্রস্থান করবেন?</string>
+    <string name="exit_dailog_des">আপনি কি অ্যাপ থেকে প্রস্থান করতে নিশ্চিত?</string>
+    <string name="exit_dailog_cancel_btn">বাতিল করুন</string>
+    <string name="exit_dailog_exit_btn">প্রস্থান করুন</string>
+
+
+
+</resources>
+
+

@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">Η πολιτική απορρήτου της εφαρμογής πληκτρολογίου είναι στην πραγματικότητα γραμμένη για τον μόνο σκοπό να εξηγήσει τη συλλογή και χρήση των πληροφοριών που μπορεί να είναι όταν επισκέπτεστε ή χρησιμοποιείτε κάποιο από τα προϊόντα και τις υπηρεσίες μας. Με την πρόσβαση και/ή τη χρήση αυτού για εξατομικευμένη διαφήμιση και ανάπτυξη υπηρεσιών, συμφωνείτε με τις πολιτικές και τις πρακτικές που περιγράφονται στην παρούσα Πολιτική Απορρήτου.</string>
+
+
+    <string name="system_default">Προεπιλογή συστήματος</string>
+    <string name="settings_theme_background_active">Χρώμα φόντου όταν είναι ενεργό</string>
+    <string name="settings_theme_background_pressed">Χρώμα φόντου όταν πατηθεί</string>
+    <string name="settings_theme_foreground">Χρώμα πρώτου πλάνου</string>
+    <string name="settings_theme_foreground_alt">Χρώμα προσκηνίου (εναλλακτικό)</string>
+
+    <string name="saving_group_keys_label">Κλειδιά</string>
+    <string name="saving_number_row_label">Αριθμητική σειρά</string>
+    <string name="settings_theme_undefined">Απροσδιόριστος</string>
+    <string name="settings_theme_preset_summary">Προσαρμοσμένο (βάσει %s)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Επιλεγμένο θέμα:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Διαθέσιμα θέματα:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Βέλος δεξιά</string>
+    <string name="settings_theme_background">Χρώμα φόντου</string>
+    <string name="saving_number_row_summary">Εμφάνιση σειράς αριθμών πάνω από τη διάταξη χαρακτήρων</string>
+    <string name="saving_hinted_number_row_label">Υπαινιγμένη αριθμητική σειρά</string>
+    <string name="saving_hinted_number_row_summary">Η πρώτη σειρά της διάταξης χαρακτήρων υποδεικνύει αριθμητική σειρά</string>
+
+    <string name="saving_group_layout_label">Σχέδιο</string>
+    <string name="saving_one_handed_mode_label">Λειτουργία με ένα χέρι</string>
+    <string name="saving_one_handed_mode_off">Μακριά από</string>
+    <string name="saving_one_handed_mode_right">Λειτουργία δεξιού χεριού</string>
+    <string name="saving_hinted_symbols_label">Υπονοούμενα σύμβολα</string>
+    <string name="saving_hinted_symbols_summary">Δεύτερη και τρίτη σειρά συμβόλων υπόδειξης διάταξης χαρακτήρων</string>
+    <string name="saving_font_size_multiplier_portrait_label">Πολλαπλασιαστής μεγέθους γραμματοσειράς (πορτραίτο)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Πολλαπλασιαστής μεγέθους γραμματοσειράς (οριζόντια)</string>
+    <string name="saving_one_handed_mode_left">Λειτουργία αριστερόχειρας</string>
+    <string name="saving_height_factor_label">Ύψος πληκτρολογίου</string>
+    <string name="saving_height_factor_extra_short">Εξαιρετικά σύντομο</string>
+    <string name="saving_height_factor_short">Κοντό-Ύψος</string>
+    <string name="saving_height_factor_tall">Ψηλός-Ύψος</string>
+    <string name="saving_height_factor_extra_tall">Εξαιρετικά ψηλός</string>
+    <string name="saving_height_factor_custom">Εθιμο</string>
+    <string name="saving_height_factor_custom_label">Προσαρμοσμένη τιμή ύψους πληκτρολογίου</string>
+    <string name="saving_bottom_offset_label">Κάτω μετατόπιση (για καμπύλες οθόνες)</string>
+    <string name="saving_group_keypress_label">Πατήστε το πλήκτρο</string>
+
+
+    <string name="saving_vibration_strength_label">Δύναμη κραδασμών στο πάτημα του πλήκτρου</string>
+    <string name="saving_popup_visible_label">Αναδυόμενη ορατότητα</string>
+    <string name="saving_popup_visible_summary">Εμφάνιση αναδυόμενου παραθύρου όταν πατάτε ένα πλήκτρο</string>
+    <string name="saving_long_press_delay_label">Καθυστέρηση παρατεταμένου πατήματος πλήκτρων</string>
+    <string name="saving_smartbar_enabled_label">Ενεργοποίηση γραμμής προτάσεων</string>
+    <string name="saving_smartbar_enabled_summary">Θα εμφανιστεί πάνω από το πληκτρολόγιο</string>
+    <string name="saving_sound_enabled_label">Ήχος με το πάτημα του πλήκτρου</string>
+    <string name="saving_sound_volume_label">Ένταση ήχου με το πάτημα του πλήκτρου</string>
+    <string name="saving_height_factor_mid_short">Μεσαίου ύψους</string>
+    <string name="saving_height_factor_normal">Κανονικό-Ύψος</string>
+    <string name="saving_correction_auto_capitalization_label">Αυτόματη χρήση κεφαλαίων</string>
+    <string name="saving_correction_auto_capitalization_summary">Κάντε κεφαλαία λέξεις με βάση το τρέχον πλαίσιο εισαγωγής</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Θυμηθείτε την κατάσταση κλειδώματος caps</string>
+    <string name="saving_height_factor_mid_tall">Μεσοψηλός</string>
+    <string name="saving_vibration_enabled_label">Δόνηση με το πάτημα του πλήκτρου</string>
+    <string name="saving_suggestion_title">Προτάσεις</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Το Caps lock θα παραμείνει ενεργό όταν μετακινείστε σε άλλο πεδίο κειμένου</string>
+    <string name="saving_correction_double_space_period_label">Περίοδος διπλού χώρου</string>
+    <string name="saving_correction_double_space_period_summary">Κάνοντας κλικ δύο φορές στη γραμμή διαστήματος θα εισαχθεί μια τελεία με κενό</string>
+
+    <string name="saving_correction_title">Διορθώσεις</string>
+    <string name="saving_glide_title">Γλιστρώντας πληκτρολόγηση</string>
+    <string name="saving_glide_enabled_label">Ενεργοποίηση πληκτρολόγησης ολίσθησης</string>
+    <string name="saving_suggestion_enabled_label">Εμφάνιση προτάσεων όταν πληκτρολογείτε χρήστη</string>
+    <string name="saving_suggestion_enabled_summary">Θα εμφανιστεί στη γραμμή προτάσεων</string>
+    <string name="saving_glide_show_trail_summary">Θα εξαφανιστεί μετά από κάθε λέξη</string>
+    <string name="saving_gestures_title">Χειρονομίες</string>
+    <string name="saving_gestures_swipe_action_no_action">Μην κάνετε τίποτα</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Προτάσεις περιεχομένου για το πρόχειρο</string>
+    <string name="saving_suggestion_use_pref_words_summary">Χρησιμοποιήστε προηγούμενες λέξεις για τη δημιουργία προτάσεων</string>
+    <string name="saving_glide_enabled_summary">Πληκτρολογήστε μια λέξη περνώντας το δάχτυλό σας μέσα από τα γράμματά της</string>
+    <string name="saving_glide_show_trail_label">Εμφάνιση διαδρομής ολίσθησης</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Δρομέας κάτω</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Ο κέρσορας αριστερά</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Δρομέας δεξιά</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Κατάργηση όλων των χαρακτήρων</string>
+    <string name="saving_gestures_swipe_action_delete_word">Κατάργηση τρέχοντος Word</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Κατάργηση όλων των λέξεων</string>
+    <string name="saving_gestures_swipe_up_label">Κάντε χειρονομία επάνω</string>
+    <string name="saving_gestures_swipe_down_label">Κάτω χειρονομία</string>
+    <string name="saving_gestures_swipe_left_label">Χειρονομία αριστερά</string>
+    <string name="saving_gestures_swipe_right_label">Χειρονομία σωστά</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Ελαχιστοποίηση πληκτρολογίου</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Δρομέας επάνω</string>
+    <string name="saving_gestures_swipe_action_shift">Ενέργεια Shift</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Μετακίνηση στην προηγούμενη γλώσσα</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Μετακίνηση στην επόμενη γλώσσα</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Χειρονομία Space Bar αριστερά</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Δεξιά χειρονομία Space Bar</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Πολύ αργό</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Αργός</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Κανονικός</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Γρήγορα</string>
+
+    <string name="saving_advanced_settings_theme_light">Φως</string>
+    <string name="saving_advanced_settings_theme_dark">Σκοτάδι</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Διαγραφή κουμπιού χειρονομία αριστερά</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Όριο ταχύτητας ολίσθησης</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Όριο ταχύτητας ολίσθησης</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Μακρύς</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Πολύ μακρύ</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Όριο απόστασης ολίσθησης</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Πολύ σύντομο</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Μικρός</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Κανονικός</string>
+
+
+    <string name="txt_lang_frag">Όλες οι επιλεγμένες γλώσσες θα είναι ορατές στο Πληκτρολόγιο.</string>
+    <string name="search_language_hint">Αναζήτηση γλώσσας εδώ..</string>
+    <string name="switch_to_keyboard_des">Πολλαπλές γλώσσες 100+ θέματα Κινούμενα GIF Αυτοκόλλητα με κινούμενα σχέδια, Φωνητική πληκτρολόγηση emojis.</string>
+    <string name="welcome_to">Καλώς ορίσατε στο</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Ενεργοποίηση πληκτρολογίου</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Επιλέξτε Πληκτρολόγιο</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Ολοκληρώστε τη ρύθμιση</string>
+
+    <string name="enable_des">Κάντε κλικ εδώ για να ενεργοποιήσετε το πληκτρολόγιο στη λίστα ρυθμίσεων της μεθόδου εισαγωγής. Αυτό θα το εξουσιοδοτήσει να εκτελεστεί στη συσκευή σας.</string>
+    <string name="select_des">Κάντε κλικ εδώ για να επιλέξετε το πληκτρολόγιό σας στη λίστα ρυθμίσεων μεθόδου εισαγωγής. Αυτό θα το εξουσιοδοτήσει να εκτελεστεί στη συσκευή σας.</string>
+    <string name="finish_des">Όλα έγιναν! Το πληκτρολόγιό σας έχει ρυθμιστεί και είναι έτοιμο για χρήση</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Όνομα γραμματοσειράς</string>
+    <string name="set_brightness">Ρύθμιση φωτεινότητας</string>
+    <string name="default_themes">Προεπιλεγμένα θέματα</string>
+    <string name="colors_themes">Θέματα Χρωμάτων</string>
+    <string name="light_gradients_themes">Θέματα Light Gradients</string>
+    <string name="dark_gradients_themes">Θέματα Dark Gradients</string>
+    <string name="landscapes_themes">Θέματα τοπίων</string>
+    <string name="gallery_themes">Θέματα γκαλερί</string>
+    <string name="crop_image">Περικοπή εικόνας</string>
+    <string name="next">Επόμενος</string>
+    <string name="mobile_consent_form">Φόρμα συναίνεσης GDPR</string>
+    <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
+    <string name="disclaimer">Αρνηση</string>
+    <string name="have_accept">Έχω διαβάσει και αποδέχομαι</string>
+    <string name="theme_updated_successfully">Το θέμα ενημερώθηκε με επιτυχία</string>
+    <string name="apply_theme">Εφαρμογή θέματος</string>
+    <string name="suggestions_database">Βάση δεδομένων προτάσεων</string>
+    <string name="suggestions_dailog">Για να ενεργοποιήσετε τη λειτουργία Προτάσεις στο πληκτρολόγιο, πρέπει να κάνετε λήψη του αρχείου Βάσης δεδομένων από τον διακομιστή μας. Θα χρειαστούν μερικά δευτερόλεπτα. Θέλετε να κάνετε λήψη τώρα ή αργότερα;</string>
+    <string name="download">Λήψη</string>
+    <string name="later">Αργότερα</string>
+    <string name="txt_nav_home">Σπίτι</string>
+    <string name="txt_nav_rate_app">Βαθμολογήστε &amp; Αξιολόγηση (Διαφήμιση)</string>
+    <string name="txt_nav_share_app">Κοινή χρήση εφαρμογής (Διαφήμιση)</string>
+    <string name="txt_nav_more_apps">Οι εφαρμογές μας (Διαφήμιση)</string>
+    <string name="txt_nav_family_apps">Οι οικογενειακές μας εφαρμογές (διαφήμιση)</string>
+    <string name="txt_nav_feedback">Ανατροφοδότηση</string>
+    <string name="txt_nav_update">Ενημέρωση τώρα</string>
+    <string name="txt_nav_ads_remove">Κατάργηση διαφημίσεων</string>
+    <string name="txt_feedback">Έχω σχόλια για την εφαρμογή Πληκτρολόγιο</string>
+
+
+    <string name="finish">Φινίρισμα</string>
+    <string name="space_for_advertisement">Χώρος για Διαφήμιση</string>
+    <string name="other">Αλλος</string>
+
+
+    <string name="txt_nav_premium_version">Έκδοση Premium</string>
+    <string name="support_the_development">Υποστήριξη της Ανάπτυξης</string>
+    <string name="unlimited_customization">Απεριόριστη προσαρμογή</string>
+    <string name="complete_ad_free_version">Πλήρης έκδοση χωρίς διαφημίσεις</string>
+    <string name="unlimited_themes">Premium θέματα και στυλ γραμματοσειρών</string>
+    <string name="terms_of_services">Όροι &amp; Συνθήκες</string>
+    <string name="this_subscriptions_renews_automatically">Η "Μηνιαία Συνδρομή" σας δίνει απεριόριστη πρόσβαση στην εφαρμογή μας για ένα μήνα και θα ανανεώνεται κάθε μήνα. Εάν δεν το ακυρώσετε.\n Η αγορά χρόνου ζωής είναι η μοναδική αγορά. Για περισσότερες πληροφορίες, ανατρέξτε στους Όρους &amp; Προϋποθέσεις Υπηρεσίας.</string>
+
+
+    <string name="monthly_subscription">Μηνιαία συνδρομή</string>
+    <string name="life_time_purchase">Αγορά χρόνου ζωής</string>
+    <string name="life_time_price">Τιμή Ζωής-Χρόνου</string>
+    <string name="monthly_price">Μηνιαία Τιμή</string>
+    <string name="purchase_now">Αγορά τώρα</string>
+    <string name="subscribe_now">Εγγραφείτε τώρα</string>
+
+
+    <string name="enable_disable_number_row">Ενεργοποίηση/απενεργοποίηση σειράς αριθμών</string>
+    <string name="visible_number_row">Ορατή σειρά αριθμών στο επάνω μέρος του πληκτρολογίου</string>
+    <string name="show_numeric_hints">Εμφάνιση αριθμητικών συμβουλών</string>
+    <string name="show_numeric_hint_on_first_row">Εμφάνιση υπαινιγμού αριθμών στην πρώτη σειρά χαρακτήρων</string>
+    <string name="show_symbol_hints">Εμφάνιση υποδείξεων συμβόλων</string>
+    <string name="show_symbol_hints_on_rows">Εμφάνιση υπαινιγμού συμβόλων στη δεύτερη και τρίτη σειρά χαρακτήρων</string>
+    <string name="adjust_keyboard_font_size_portrait">Προσαρμόστε το μέγεθος γραμματοσειράς πληκτρολογίου για προβολή κατακόρυφα</string>
+    <string name="adjust_keyboard_font_size_landscape">Προσαρμόστε το μέγεθος γραμματοσειράς πληκτρολογίου για προβολή οριζόντιας</string>
+    <string name="keyboard_layout_settings">Ρυθμίσεις διάταξης πληκτρολογίου</string>
+    <string name="keyboard_height">Ύψος πληκτρολογίου</string>
+    <string name="keyboard_key_click_settings">Ρυθμίσεις κλικ στο πλήκτρο πληκτρολογίου</string>
+    <string name="play_sound_on_key_click">Αναπαραγωγή ήχου με κλικ</string>
+    <string name="key_click_sound_volume">Προσαρμόστε την ένταση ήχου του πλήκτρου κλικ</string>
+    <string name="vibrate_on_key_click">Δόνηση στο πλήκτρο κλικ</string>
+    <string name="key_vibration_strength">Ρυθμίστε την ένταση δόνησης του κλειδιού</string>
+    <string name="enable_popup_alphabets">Εμφάνιση αναδυόμενων αλφαβήτων όταν ο χρήστης κάνει κλικ σε ένα κλειδί</string>
+    <string name="popup_feature">Λειτουργία αναδυόμενων παραθύρων</string>
+    <string name="correction_settings">Ρυθμίσεις διόρθωσης</string>
+    <string name="auto_capitalize">Αυτόματη χρήση κεφαλαίων</string>
+    <string name="save_caps_lock_state">Αποθήκευση κατάστασης Caps Lock</string>
+    <string name="show_editing_panel">Εμφάνιση πίνακα επεξεργασίας</string>
+    <string name="enable_disable_editing_panel">Ενεργοποίηση/απενεργοποίηση του πίνακα επεξεργασίας</string>
+    <string name="available_gestures">Διαθέσιμες χειρονομίες</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Ενεργοποίηση/Απενεργοποίηση Λειτουργίας με ένα χέρι</string>
+    <string name="keyboard_keys_settings">Ρυθμίσεις πλήκτρων πληκτρολογίου</string>
+    <string name="enable_disable_suggestions_bar">Αυτό θα είναι ορατό στο επάνω μέρος της προβολής πληκτρολογίου</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Όλες οι προτάσεις θα εμφανίζονται στη γραμμή προτάσεων</string>
+    <string name="show_suggestions">Εμφάνιση προτάσεων όταν πληκτρολογείτε χρήστη</string>
+    <string name="customize_suggestion_bar">Προσαρμογή της γραμμής προτάσεων</string>
+    <string name="customize_suggestion_button">Προσαρμογή κουμπιού πρότασης</string>
+    <string name="enable_disable_voice_typing">Ενεργοποίηση/απενεργοποίηση φωνητικής πληκτρολόγησης</string>
+    <string name="use_voice_typing">Χρησιμοποιήστε τη Φωνητική πληκτρολόγηση</string>
+
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="languages">Γλώσσες</string>
+    <string name="themes">Θέματα</string>
+    <string name="preferences">Προτιμήσεις</string>
+    <string name="fonts">Γραμματοσειρές</string>
+    <string name="text_correction">Διόρθωση κειμένου</string>
+    <string name="gestures">Χειρονομίες</string>
+    <string name="suggestions">Προτάσεις</string>
+    <string name="one_hand_typing">Δακτυλογράφηση με ένα χέρι</string>
+    <string name="editing_panel">Πίνακας επεξεργασίας</string>
+    <string name="voice_typing">Φωνητική πληκτρολόγηση</string>
+
+    <string name="languages_localization">Γλώσσες &amp; Εντοπισμός</string>
+    <string name="customize_themes">Προσαρμογή θεμάτων</string>
+    <string name="keyboard_preferences">Προτιμήσεις πληκτρολογίου</string>
+    <string name="fonts_styles">Στυλ γραμματοσειρών</string>
+    <string name="text_correction_list">Διόρθωση κειμένου</string>
+    <string name="enable_gesture_typing">Ενεργοποιήστε την πληκτρολόγηση με χειρονομία</string>
+    <string name="enable_auto_suggestions">Ενεργοποίηση αυτόματων προτάσεων</string>
+    <string name="one_hand_typing_mode">Λειτουργία πληκτρολόγησης με ένα χέρι</string>
+    <string name="customize_editing_panel">Προσαρμογή του πίνακα επεξεργασίας</string>
+    <string name="voice_recognition_typing">Αναγνώριση φωνής &amp; Δακτυλογραφία</string>
+
+    <string name="title_activity_language_picker">LanguagePickerActivity</string>
+    <string name="cencel_sub">Ακύρωση συνδρομής</string>
+    <string name="yearly_subscription">Ετήσια συνδρομή</string>
+    <string name="app_languages">Επιλέξτε Γλώσσα εφαρμογής</string>
+    <string name="change_app_theme">Επιλέξτε Θέμα εφαρμογής</string>
+    <string name="default_theme">Αθέτηση</string>
+    <string name="dark_theme">Σκοτάδι</string>
+    <string name="light_theme">Φως</string>
+
+    <string name="app_theme_apply">Εφαρμόζω</string>
+    <string name="app_theme_cancel">Ματαίωση</string>
+    <string name="test_keyboard_here">Δοκιμή πληκτρολογίου εδώ</string>
+    <string name="cancel">Ματαίωση</string>
+
+
+    <string name="premium_keyboard_title">Keyboard Plus</string>
+    <string name="premium_des_title">Αποκτήστε πρόσβαση σε όλες τις λειτουργίες με premium</string>
+
+    <string name="customization_title">Προσαρμογή</string>
+    <string name="themes_fonts_title">Θέματα και γραμματοσειρές</string>
+    <string name="no_ads_title">Χωρίς διαφημίσεις</string>
+    <string name="vip_support_title">Υποστήριξη VIP</string>
+
+
+
+    <string name="reward_ad_show_title">Λάβετε ανταμοιβή</string>
+    <string name="fonts_reward_dailog_des">Σε περίπτωση εφαρμογής αυτής της γραμματοσειράς, πρέπει να παρακολουθήσετε τη διαφήμιση με ανταμοιβή. Θέλετε να εμφανίσετε την ανταμοιβή AD;</string>
+    <string name="themes_reward_dailog_des">"Σε περίπτωση εφαρμογής αυτού του θέματος, θα πρέπει να παρακολουθήσετε τη διαφήμιση με ανταμοιβή. Θέλετε να εμφανίσετε τη διαφήμιση ανταμοιβής;</string>
+    <string name="reward_dailog_show_ad_btn">Εμφάνιση διαφήμισης</string>
+    <string name="reward_dailog_cancel_btn">Ματαίωση</string>
+    <string name="reward_dailog_get_premium_btn">Αποκτήστε Premium</string>
+    <string name="loading_ads">Φόρτωση διαφημίσεων…</string>
+    <string name="please_wait">Παρακαλώ περιμένετε…</string>
+
+
+    <string name="exit_dailog_title">Έξοδος από την εφαρμογή;</string>
+    <string name="exit_dailog_des">Είστε σίγουροι ότι θα βγείτε από την εφαρμογή;</string>
+    <string name="exit_dailog_cancel_btn">Ματαίωση</string>
+    <string name="exit_dailog_exit_btn">Εξοδος</string>
+
+
+
+</resources>
+
+

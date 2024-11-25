@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">Klaviatura ilovasining maxfiylik siyosati aslida mahsulot va xizmatlarimizga tashrif buyurganingizda yoki ulardan foydalanganingizda bo"lishi mumkin bo"lgan ma"lumotlarni to"plash va ulardan foydalanishni tushuntirish uchun yozilgan. Shaxsiylashtirilgan reklama va xizmatlarni ishlab chiqish uchun kirish va/yoki undan foydalanish orqali siz ushbu Maxfiylik siyosatida tasvirlangan siyosat va amaliyotlarga rozilik bildirasiz.</string>
+
+
+    <string name="system_default">Tizim standarti</string>
+    <string name="settings_theme_background_active">Faol bo"lganda fon rangi</string>
+    <string name="settings_theme_background_pressed">Bosilganda fon rangi</string>
+    <string name="settings_theme_foreground">Old fon rangi</string>
+    <string name="settings_theme_foreground_alt">Old fon rangi (muqobil)</string>
+
+    <string name="saving_group_keys_label">Kalitlar</string>
+    <string name="saving_number_row_label">Raqamli qator</string>
+    <string name="settings_theme_undefined">Aniqlanmagan</string>
+    <string name="settings_theme_preset_summary">Maxsus (%s asosida)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Tanlangan mavzu:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Mavjud mavzular:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">O"ngga o"q</string>
+    <string name="settings_theme_background">Fon rangi</string>
+    <string name="saving_number_row_summary">Belgilar tartibining tepasida raqamlar qatorini ko"rsatish</string>
+    <string name="saving_hinted_number_row_label">Ishorali raqamlar qatori</string>
+    <string name="saving_hinted_number_row_summary">Belgilar tartibining birinchi qatori raqamlar qatoriga ishora qiladi</string>
+
+    <string name="saving_group_layout_label">Tartib</string>
+    <string name="saving_one_handed_mode_label">Bir qo"l rejimi</string>
+    <string name="saving_one_handed_mode_off">Oʻchirilgan</string>
+    <string name="saving_one_handed_mode_right">O"ng qo"l rejimi</string>
+    <string name="saving_hinted_symbols_label">Belgilangan belgilar</string>
+    <string name="saving_hinted_symbols_summary">Belgilar tartibining ikkinchi va uchinchi qatorlari ishora belgilari</string>
+    <string name="saving_font_size_multiplier_portrait_label">Shrift o"lchamini ko"paytiruvchi (portret)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Shrift o"lchamini ko"paytiruvchi (landshaft)</string>
+    <string name="saving_one_handed_mode_left">Chap qo"l rejimi</string>
+    <string name="saving_height_factor_label">Klaviatura balandligi</string>
+    <string name="saving_height_factor_extra_short">Haddan tashqari qisqa</string>
+    <string name="saving_height_factor_short">Qisqa balandlik</string>
+    <string name="saving_height_factor_tall">Uzun bo"yli</string>
+    <string name="saving_height_factor_extra_tall">Juda baland</string>
+    <string name="saving_height_factor_custom">Maxsus</string>
+    <string name="saving_height_factor_custom_label">Maxsus klaviatura balandligi qiymati</string>
+    <string name="saving_bottom_offset_label">Pastki ofset (egri ekranlar uchun)</string>
+    <string name="saving_group_keypress_label">Tugmachani bosish</string>
+
+
+    <string name="saving_vibration_strength_label">Klaviatura bosilganda tebranish kuchi</string>
+    <string name="saving_popup_visible_label">PopUp ko"rinishi</string>
+    <string name="saving_popup_visible_summary">Tugmani bosganingizda qalqib chiquvchi oynani ko"rsatish</string>
+    <string name="saving_long_press_delay_label">Tugmachani uzoq bosish kechikishi</string>
+    <string name="saving_smartbar_enabled_label">Takliflar panelini yoqish</string>
+    <string name="saving_smartbar_enabled_summary">Klaviatura tepasida ko"rsatiladi</string>
+    <string name="saving_sound_enabled_label">Tugmachani bosganingizda ovoz</string>
+    <string name="saving_sound_volume_label">Klaviatura bosilganda ovoz balandligi</string>
+    <string name="saving_height_factor_mid_short">O"rta bo"yli</string>
+    <string name="saving_height_factor_normal">Oddiy - balandlik</string>
+    <string name="saving_correction_auto_capitalization_label">Avtomatik kattalashtirish</string>
+    <string name="saving_correction_auto_capitalization_summary">Joriy kiritilgan kontekst asosida so‘zlarni bosh harf bilan yozing</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Caps lock holatini eslang</string>
+    <string name="saving_height_factor_mid_tall">O"rta bo"yli</string>
+    <string name="saving_vibration_enabled_label">Tugmachani bosganingizda tebranish</string>
+    <string name="saving_suggestion_title">Takliflar</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Boshqa matn maydoniga o"tishda Caps lock yoniq qoladi</string>
+    <string name="saving_correction_double_space_period_label">Ikki bo"shliq davri</string>
+    <string name="saving_correction_double_space_period_summary">Bo"sh joyni ikki marta bosish orqali bo"sh joy bilan nuqta qo"yiladi</string>
+
+    <string name="saving_correction_title">Tuzatishlar</string>
+    <string name="saving_glide_title">Silinib yozish</string>
+    <string name="saving_glide_enabled_label">Sirpanib yozishni yoqing</string>
+    <string name="saving_suggestion_enabled_label">Foydalanuvchi yozganda takliflarni ko"rsatish</string>
+    <string name="saving_suggestion_enabled_summary">Takliflar panelida ko"rsatiladi</string>
+    <string name="saving_glide_show_trail_summary">Har bir so"zdan keyin yo"qoladi</string>
+    <string name="saving_gestures_title">Imo-ishoralar</string>
+    <string name="saving_gestures_swipe_action_no_action">Hech narsa qilmang</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Bufer kontenti boʻyicha takliflar</string>
+    <string name="saving_suggestion_use_pref_words_summary">Takliflar yaratish uchun oldingi so"zlardan foydalaning</string>
+    <string name="saving_glide_enabled_summary">Barmogʻingizni uning harflari orasidan surish orqali soʻzni kiriting</string>
+    <string name="saving_glide_show_trail_label">Sirpanish yo‘lini ko‘rsatish</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Kursor pastga</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Kursor chapga</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Kursor o"ngga</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Barcha belgilarni olib tashlang</string>
+    <string name="saving_gestures_swipe_action_delete_word">Joriy Wordni olib tashlang</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Barcha so"zlarni olib tashlang</string>
+    <string name="saving_gestures_swipe_up_label">Yuqoriga ishora qiling</string>
+    <string name="saving_gestures_swipe_down_label">Pastga ishora qiling</string>
+    <string name="saving_gestures_swipe_left_label">Imo-ishora chapga</string>
+    <string name="saving_gestures_swipe_right_label">To"g"ri ishora</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Klaviaturani minimallashtirish</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Kursor yuqoriga</string>
+    <string name="saving_gestures_swipe_action_shift">Shift harakati</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Oldingi tilga o"tish</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Keyingi tilga oʻtish</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Bo‘sh joy belgisi chapga</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Bo‘sh joy belgisi o‘ngga ishora</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Juda sekin</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Sekin</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Oddiy</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Tez</string>
+
+    <string name="saving_advanced_settings_theme_light">Nur</string>
+    <string name="saving_advanced_settings_theme_dark">Qorong"i</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Chapdagi oʻchirish tugmasi ishorasi</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Surish tezligi chegarasi</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Surish tezligi chegarasi</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Uzoq</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Juda uzoq</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Surish masofasi chegarasi</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Juda qisqa</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Qisqa</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Oddiy</string>
+
+
+    <string name="txt_lang_frag">Barcha tanlangan tillar klaviaturada ko"rinadi.</string>
+    <string name="search_language_hint">Tilni bu yerda qidiring..</string>
+    <string name="switch_to_keyboard_des">Bir nechta tillar 100 dan ortiq mavzular Animatsiyalangan GIF animatsion stikerlar, kulgichlar ovoz bilan yozish.</string>
+    <string name="welcome_to">Xush kelibsiz</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Klaviaturani yoqish</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Klaviatura ni tanlang</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Oʻrnatishni yakunlang</string>
+
+    <string name="enable_des">Kirish usuli sozlamalari roʻyxatida klaviaturani yoqish uchun shu yerni bosing. Bu qurilmangizda ishlashga ruxsat beradi.</string>
+    <string name="select_des">Kirish usuli sozlamalari roʻyxatida klaviaturangizni tanlash uchun shu yerni bosing. Bu qurilmangizda ishlashga ruxsat beradi.</string>
+    <string name="finish_des">Hammasi tayyor! klaviaturangiz sozlangan va foydalanishga tayyor</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Shrift nomi</string>
+    <string name="set_brightness">Yorqinlikni sozlash</string>
+    <string name="default_themes">Standart mavzular</string>
+    <string name="colors_themes">Ranglar mavzular</string>
+    <string name="light_gradients_themes">Yorug"lik gradientlari mavzulari</string>
+    <string name="dark_gradients_themes">To"q rangli gradientlar mavzulari</string>
+    <string name="landscapes_themes">Peyzaj mavzulari</string>
+    <string name="gallery_themes">Galereya mavzulari</string>
+    <string name="crop_image">Rasmni kesish</string>
+    <string name="next">Keyingisi</string>
+    <string name="mobile_consent_form">GDPR rozilik shakli</string>
+    <string name="privacy_policy_title">Maxfiylik siyosati</string>
+    <string name="disclaimer">Rad etish</string>
+    <string name="have_accept">Men o"qidim va qabul qildim</string>
+    <string name="theme_updated_successfully">Mavzu muvaffaqiyatli yangilandi</string>
+    <string name="apply_theme">Mavzuni qo"llash</string>
+    <string name="suggestions_database">Takliflar bazasi</string>
+    <string name="suggestions_dailog">Klaviaturada Takliflar funksiyasini yoqish uchun serverimizdan maʼlumotlar bazasi faylini yuklab olishingiz kerak. Bir necha soniya vaqt oladi. Hozir yuklab olishni xohlaysizmi yoki keyinroqmi?</string>
+    <string name="download">Yuklab olish</string>
+    <string name="later">Keyinchalik</string>
+    <string name="txt_nav_home">Uy</string>
+    <string name="txt_nav_rate_app">Baholash &amp; Ko‘rib chiqish (reklama)</string>
+    <string name="txt_nav_share_app">Ilovani ulashish (reklama)</string>
+    <string name="txt_nav_more_apps">Ilovalarimiz (Reklama)</string>
+    <string name="txt_nav_family_apps">Oilaviy ilovalarimiz (reklama)</string>
+    <string name="txt_nav_feedback">Fikr-mulohaza</string>
+    <string name="txt_nav_update">Hozir yangilash</string>
+    <string name="txt_nav_ads_remove">Reklamalarni olib tashlash</string>
+    <string name="txt_feedback">Klaviatura ilovangiz haqida fikr-mulohazalarim bor</string>
+
+
+    <string name="finish">Tugatish</string>
+    <string name="space_for_advertisement">Reklama uchun joy</string>
+    <string name="other">Boshqa</string>
+
+
+    <string name="txt_nav_premium_version">Premium versiya</string>
+    <string name="support_the_development">Rivojlanishni qo"llab-quvvatlash</string>
+    <string name="unlimited_customization">Cheksiz xususiylashtirish</string>
+    <string name="complete_ad_free_version">To"liq reklama bepul versiyasi</string>
+    <string name="unlimited_themes">Premium mavzular va shriftlar uslublari</string>
+    <string name="terms_of_services">Shartlar &amp; Shartlar</string>
+    <string name="this_subscriptions_renews_automatically">“Oylik obuna” ilovamizdan bir oy davomida cheksiz foydalanish imkonini beradi va har oy yangilanadi. Agar uni bekor qilmasangiz.\n umrbod vaqtli xarid - bu faqat bir martalik xarid. Qo"shimcha ma"lumot olish uchun Shartlar bilan tanishib chiqing &amp; amp; Xizmat ko"rsatish shartlari.</string>
+
+
+    <string name="monthly_subscription">Oylik obuna</string>
+    <string name="life_time_purchase">Hayot davomida sotib olish</string>
+    <string name="life_time_price">Hayot davomidagi narx</string>
+    <string name="monthly_price">Oylik narx</string>
+    <string name="purchase_now">Hozir sotib oling</string>
+    <string name="subscribe_now">Hozir obuna bo"ling</string>
+
+
+    <string name="enable_disable_number_row">Raqamlar qatorini yoqish/o‘chirish</string>
+    <string name="visible_number_row">Klaviatura tepasida ko"rinadigan raqamlar qatori</string>
+    <string name="show_numeric_hints">Raqamli maslahatlarni ko"rsatish</string>
+    <string name="show_numeric_hint_on_first_row">Belgilarning birinchi qatorida raqamlarni ko"rsatish</string>
+    <string name="show_symbol_hints">Belgilar bo"yicha maslahatlarni ko"rsatish</string>
+    <string name="show_symbol_hints_on_rows">Belgilarning ikkinchi va uchinchi qatoridagi belgilarni ko"rsatish</string>
+    <string name="adjust_keyboard_font_size_portrait">Portret ko"rinishi uchun klaviatura shrift hajmini sozlang</string>
+    <string name="adjust_keyboard_font_size_landscape">Landshaft ko"rinish uchun klaviatura shrift hajmini sozlang</string>
+    <string name="keyboard_layout_settings">Klaviatura tartibi sozlamalari</string>
+    <string name="keyboard_height">Klaviatura balandligi</string>
+    <string name="keyboard_key_click_settings">Klaviatura tugmasi Sozlamalarni bosing</string>
+    <string name="play_sound_on_key_click">Tugmachani bosish orqali ovozni ijro etish</string>
+    <string name="key_click_sound_volume">Tugmachani bosish ovoz balandligini sozlang</string>
+    <string name="vibrate_on_key_click">Tugmachani bosganda tebranish</string>
+    <string name="key_vibration_strength">Kalit tebranish kuchini sozlang</string>
+    <string name="enable_popup_alphabets">Foydalanuvchi tugmani bosganida qalqib chiquvchi alifbolarni ko"rsatish</string>
+    <string name="popup_feature">Qalqib chiquvchi oyna xususiyati</string>
+    <string name="correction_settings">Tuzatish sozlamalari</string>
+    <string name="auto_capitalize">Avtomatik kattalashtirish</string>
+    <string name="save_caps_lock_state">Caps Lock holatini saqlang</string>
+    <string name="show_editing_panel">Tahrirlash panelini ko"rsatish</string>
+    <string name="enable_disable_editing_panel">Tahrirlash panelini yoqish/o‘chirish</string>
+    <string name="available_gestures">Mavjud imo-ishoralar</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Bir qo"l rejimini yoqish/o"chirish</string>
+    <string name="keyboard_keys_settings">Klaviatura tugmalari sozlamalari</string>
+    <string name="enable_disable_suggestions_bar">Bu klaviatura ko"rinishining yuqori qismida ko"rinadi</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Barcha takliflar Takliflar panelida ko"rsatiladi</string>
+    <string name="show_suggestions">Foydalanuvchi yozganda takliflarni ko"rsatish</string>
+    <string name="customize_suggestion_bar">Takliflar panelini moslashtiring</string>
+    <string name="customize_suggestion_button">Taklifni sozlash tugmasi</string>
+    <string name="enable_disable_voice_typing">Ovoz bilan yozishni yoqish/o‘chirish</string>
+    <string name="use_voice_typing">Ovoz bilan yozishdan foydalaning</string>
+
+    <string name="settings">Sozlamalar</string>
+    <string name="languages">Tillar</string>
+    <string name="themes">Mavzular</string>
+    <string name="preferences">Afzalliklar</string>
+    <string name="fonts">Shriftlar</string>
+    <string name="text_correction">Matnni tuzatish</string>
+    <string name="gestures">Imo-ishoralar</string>
+    <string name="suggestions">Takliflar</string>
+    <string name="one_hand_typing">Bir qo"l bilan yozish</string>
+    <string name="editing_panel">Tahrirlash paneli</string>
+    <string name="voice_typing">Ovoz bilan yozish</string>
+
+    <string name="languages_localization">Tillar &amp; Mahalliylashtirish</string>
+    <string name="customize_themes">Mavzularni moslashtirish</string>
+    <string name="keyboard_preferences">Klaviatura sozlamalari</string>
+    <string name="fonts_styles">Shrift uslublari</string>
+    <string name="text_correction_list">Matnni tuzatish</string>
+    <string name="enable_gesture_typing">Imo-ishora bilan yozishni yoqing</string>
+    <string name="enable_auto_suggestions">Avtomatik takliflarni yoqish</string>
+    <string name="one_hand_typing_mode">Bir qo"l bilan yozish rejimi</string>
+    <string name="customize_editing_panel">Tahrirlash panelini sozlang</string>
+    <string name="voice_recognition_typing">Ovozni aniqlash va amp; Yozilmoqda</string>
+
+    <string name="title_activity_language_picker">LanguagePickerActivity</string>
+    <string name="cencel_sub">Obunani bekor qilish</string>
+    <string name="yearly_subscription">Yillik obuna</string>
+    <string name="app_languages">Ilova tilini tanlang</string>
+    <string name="change_app_theme">Ilova mavzusini tanlang</string>
+    <string name="default_theme">Standart</string>
+    <string name="dark_theme">Qorong"i</string>
+    <string name="light_theme">Nur</string>
+
+    <string name="app_theme_apply">Murojaat qiling</string>
+    <string name="app_theme_cancel">Bekor qilish</string>
+    <string name="test_keyboard_here">Klaviaturani bu yerda sinab ko"ring</string>
+    <string name="cancel">Bekor qilish</string>
+
+
+    <string name="premium_keyboard_title">Klaviatura Plus</string>
+    <string name="premium_des_title">Premium bilan barcha funksiyalarga kiring</string>
+
+    <string name="customization_title">Moslashtirish</string>
+    <string name="themes_fonts_title">Mavzular va shriftlar</string>
+    <string name="no_ads_title">Reklamalar yo"q</string>
+    <string name="vip_support_title">VIP qo"llab-quvvatlash</string>
+
+
+
+    <string name="reward_ad_show_title">Mukofot oling</string>
+    <string name="fonts_reward_dailog_des">Agar ushbu shriftni qo"llagan bo"lsangiz, mukofotlangan reklamani ko"rishingiz kerak. AD mukofotini ko"rsatmoqchimisiz?</string>
+    <string name="themes_reward_dailog_des">"Ushbu mavzuni qo"llasangiz, mukofotlangan reklamani ko"rishingiz kerak. Mukofot ADni ko"rsatishni xohlaysizmi?</string>
+    <string name="reward_dailog_show_ad_btn">Reklamani ko"rsatish</string>
+    <string name="reward_dailog_cancel_btn">Bekor qilish</string>
+    <string name="reward_dailog_get_premium_btn">Premium oling</string>
+    <string name="loading_ads">Reklamalar yuklanmoqda…</string>
+    <string name="please_wait">Iltimos kuting…</string>
+
+
+    <string name="exit_dailog_title">Ilovadan chiqasizmi?</string>
+    <string name="exit_dailog_des">Ilovadan chiqishga ishonchingiz komilmi?</string>
+    <string name="exit_dailog_cancel_btn">Bekor qilish</string>
+    <string name="exit_dailog_exit_btn">Chiqish</string>
+
+
+
+</resources>
+
+

@@ -1,0 +1,117 @@
+{
+  "type": "characters",
+  "name": "qwerty",
+  "direction": "ltr",
+  "arrangement": [
+    [
+      {
+        "code": 119954,
+        "label": "\ud835\udc92"
+      },
+      {
+        "code": 119908,
+        "label": "\ud835\udc64"
+      },
+      {
+        "code": 120202,
+        "label": "\ud835\udd8a"
+      },
+      {
+        "code": 120111,
+        "label": "\ud835\udd2f"
+      },
+      {
+        "code": 120373,
+        "label": "\ud835\ude35"
+      },
+      {
+        "code": 119910,
+        "label": "\ud835\udc66"
+      },
+      {
+        "code": 120270,
+        "label": "\ud835\uddce"
+      },
+      {
+        "code": 8520,
+        "label": "\u2148"
+      },
+      {
+        "code": 1413,
+        "label": "\u0585"
+      },
+      {
+        "code": 120473,
+        "label": "\ud835\ude99"
+      }
+    ],
+    [
+      {
+        "code": 593,
+        "label": "\u0251"
+      },
+      {
+        "code": 120060,
+        "label": "\ud835\udcfc"
+      },
+      {
+        "code": 119993,
+        "label": "\ud835\udcb9"
+      },
+      {
+        "code": 120463,
+        "label": "\ud835\ude8f"
+      },
+      {
+        "code": 120048,
+        "label": "\ud835\udcf0"
+      },
+      {
+        "code": 1211,
+        "label": "\u04bb"
+      },
+      {
+        "code": 119999,
+        "label": "\ud835\udcbf"
+      },
+      {
+        "code": 120468,
+        "label": "\ud835\ude94"
+      },
+      {
+        "code": 120365,
+        "label": "\ud835\ude2d"
+      }
+    ],
+    [
+      {
+        "code": 120327,
+        "label": "\ud835\ude07"
+      },
+      {
+        "code": 120013,
+        "label": "\ud835\udccd"
+      },
+      {
+        "code": 65347,
+        "label": "\uff43"
+      },
+      {
+        "code": 118,
+        "label": "v"
+      },
+      {
+        "code": 120355,
+        "label": "\ud835\ude23"
+      },
+      {
+        "code": 120211,
+        "label": "\ud835\udd93"
+      },
+      {
+        "code": 65357,
+        "label": "\uff4d"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">นโยบายความเป็นส่วนตัวของแอป Keyboard นั้นเขียนขึ้นเพื่อจุดประสงค์เดียวในการอธิบายการรวบรวมและใช้ข้อมูลที่อาจมีเมื่อคุณเยี่ยมชมหรือใช้ผลิตภัณฑ์และบริการใดๆ ของเรา การเข้าถึงและ/หรือใช้ข้อมูลนี้เพื่อการโฆษณาส่วนบุคคลและการพัฒนาบริการ ถือว่าคุณยอมรับนโยบายและแนวทางปฏิบัติที่อธิบายไว้ในนโยบายความเป็นส่วนตัวนี้</string>
+
+
+    <string name="system_default">ระบบค่าเริ่มต้น</string>
+    <string name="settings_theme_background_active">สีพื้นหลังเมื่อใช้งาน</string>
+    <string name="settings_theme_background_pressed">สีพื้นหลังเมื่อกด</string>
+    <string name="settings_theme_foreground">สีพื้นหน้า</string>
+    <string name="settings_theme_foreground_alt">สีพื้นหน้า (ทางเลือก)</string>
+
+    <string name="saving_group_keys_label">กุญแจ</string>
+    <string name="saving_number_row_label">แถวตัวเลข</string>
+    <string name="settings_theme_undefined">ไม่ระบุ</string>
+    <string name="settings_theme_preset_summary">กำหนดเอง (ตาม %s)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">หัวข้อที่เลือก:</string>
+    <string name="settings_theme_preset_dialog_available_themes">ธีมที่มี:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">ลูกศรขวา</string>
+    <string name="settings_theme_background">สีพื้นหลัง</string>
+    <string name="saving_number_row_summary">แสดงแถวหมายเลขที่ด้านบนของเค้าโครงอักขระ</string>
+    <string name="saving_hinted_number_row_label">แถวตัวเลขบอกใบ้</string>
+    <string name="saving_hinted_number_row_summary">แถวแรกของเค้าโครงตัวละคร คำแนะนำ แถวหมายเลข</string>
+
+    <string name="saving_group_layout_label">เค้าโครง</string>
+    <string name="saving_one_handed_mode_label">โหมดมือเดียว</string>
+    <string name="saving_one_handed_mode_off">ปิด</string>
+    <string name="saving_one_handed_mode_right">โหมดถนัดขวา</string>
+    <string name="saving_hinted_symbols_label">สัญลักษณ์ที่บอกใบ้</string>
+    <string name="saving_hinted_symbols_summary">สัญลักษณ์คำแนะนำเค้าโครงตัวละครแถวที่ 2 และ 3</string>
+    <string name="saving_font_size_multiplier_portrait_label">ตัวคูณขนาดตัวอักษร (แนวตั้ง)</string>
+    <string name="saving_font_size_multiplier_landscape_label">ตัวคูณขนาดตัวอักษร (แนวนอน)</string>
+    <string name="saving_one_handed_mode_left">โหมดถนัดซ้าย</string>
+    <string name="saving_height_factor_label">ความสูงของแป้นพิมพ์</string>
+    <string name="saving_height_factor_extra_short">พิเศษสั้น</string>
+    <string name="saving_height_factor_short">ความสูงสั้น</string>
+    <string name="saving_height_factor_tall">ความสูง</string>
+    <string name="saving_height_factor_extra_tall">สูงพิเศษ</string>
+    <string name="saving_height_factor_custom">กำหนดเอง</string>
+    <string name="saving_height_factor_custom_label">ค่าความสูงของแป้นพิมพ์ที่กำหนดเอง</string>
+    <string name="saving_bottom_offset_label">ออฟเซ็ตด้านล่าง (สำหรับจอโค้ง)</string>
+    <string name="saving_group_keypress_label">การกดปุ่ม</string>
+
+
+    <string name="saving_vibration_strength_label">ความแรงของการสั่นสะเทือนเมื่อกดปุ่ม</string>
+    <string name="saving_popup_visible_label">การมองเห็นแบบป๊อปอัป</string>
+    <string name="saving_popup_visible_summary">แสดงป๊อปอัปเมื่อคุณกดปุ่ม</string>
+    <string name="saving_long_press_delay_label">การหน่วงเวลาการกดปุ่มแบบยาว</string>
+    <string name="saving_smartbar_enabled_label">เปิดใช้งานแถบคำแนะนำ</string>
+    <string name="saving_smartbar_enabled_summary">จะแสดงอยู่ด้านบนของคีย์บอร์ด</string>
+    <string name="saving_sound_enabled_label">เสียงเมื่อกดแป้น</string>
+    <string name="saving_sound_volume_label">ระดับเสียงเมื่อกดปุ่ม</string>
+    <string name="saving_height_factor_mid_short">ความสูงปานกลาง</string>
+    <string name="saving_height_factor_normal">ความสูงปกติ</string>
+    <string name="saving_correction_auto_capitalization_label">การใช้ตัวพิมพ์ใหญ่โดยอัตโนมัติ</string>
+    <string name="saving_correction_auto_capitalization_summary">ใช้ตัวพิมพ์ใหญ่กับคำต่างๆ ตามบริบทอินพุตปัจจุบัน</string>
+    <string name="saving_correction_remember_caps_lock_state_label">จำสถานะ Caps Lock ไว้</string>
+    <string name="saving_height_factor_mid_tall">สูงปานกลาง</string>
+    <string name="saving_vibration_enabled_label">สั่นเมื่อกดปุ่ม</string>
+    <string name="saving_suggestion_title">ข้อเสนอแนะ</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Caps Lock จะยังคงเปิดอยู่เมื่อย้ายไปยังช่องข้อความอื่น</string>
+    <string name="saving_correction_double_space_period_label">วรรคสองวรรค</string>
+    <string name="saving_correction_double_space_period_summary">โดยการคลิกสองครั้งบน Space bar จะมีการแทรกจุดพร้อมช่องว่าง</string>
+
+    <string name="saving_correction_title">การแก้ไข</string>
+    <string name="saving_glide_title">การพิมพ์แบบเลื่อน</string>
+    <string name="saving_glide_enabled_label">เปิดใช้งานการพิมพ์แบบเลื่อนผ่าน</string>
+    <string name="saving_suggestion_enabled_label">แสดงคำแนะนำเมื่อผู้ใช้พิมพ์</string>
+    <string name="saving_suggestion_enabled_summary">จะแสดงในแถบข้อเสนอแนะ</string>
+    <string name="saving_glide_show_trail_summary">จะหายไปหลังแต่ละคำ</string>
+    <string name="saving_gestures_title">ท่าทาง</string>
+    <string name="saving_gestures_swipe_action_no_action">ไม่ทำอะไร</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">ข้อเสนอแนะเนื้อหาคลิปบอร์ด</string>
+    <string name="saving_suggestion_use_pref_words_summary">ใช้คำก่อนหน้าเพื่อสร้างข้อเสนอแนะ</string>
+    <string name="saving_glide_enabled_summary">พิมพ์คำโดยเลื่อนนิ้วผ่านตัวอักษร</string>
+    <string name="saving_glide_show_trail_label">แสดงเส้นทางร่อน</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">เคอร์เซอร์ลง</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">เคอร์เซอร์ด้านซ้าย</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">เคอร์เซอร์ขวา</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">ลบตัวอักษรทั้งหมด</string>
+    <string name="saving_gestures_swipe_action_delete_word">ลบคำปัจจุบัน</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">ลบคำทั้งหมด</string>
+    <string name="saving_gestures_swipe_up_label">ยกมือขึ้น</string>
+    <string name="saving_gestures_swipe_down_label">ท่าทางลง</string>
+    <string name="saving_gestures_swipe_left_label">ท่าทางซ้าย</string>
+    <string name="saving_gestures_swipe_right_label">ท่าทางที่ถูกต้อง</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">ย่อขนาดแป้นพิมพ์</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">เคอร์เซอร์ขึ้น</string>
+    <string name="saving_gestures_swipe_action_shift">การเปลี่ยนแปลงการกระทำ</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">ย้ายไปยังภาษาก่อนหน้า</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">ย้ายไปภาษาถัดไป</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">ท่าทางปุ่ม Space Bar ด้านซ้าย</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">กดปุ่ม Space Bar ทางด้านขวา</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">ช้ามาก</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">ช้า</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">ปกติ</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">เร็ว</string>
+
+    <string name="saving_advanced_settings_theme_light">แสงสว่าง</string>
+    <string name="saving_advanced_settings_theme_dark">มืด</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">ท่าทางปุ่มลบด้านซ้าย</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">เกณฑ์ความเร็วในการปัด</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">เกณฑ์ความเร็วในการปัด</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">ยาว</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">นานมาก</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">เกณฑ์ระยะทางการปัด</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">สั้นมาก</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">สั้น</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">ปกติ</string>
+
+
+    <string name="txt_lang_frag">ภาษาที่เลือกทั้งหมดจะมองเห็นบนแป้นพิมพ์</string>
+    <string name="search_language_hint">ค้นหาภาษาที่นี่..</string>
+    <string name="switch_to_keyboard_des">หลายภาษา ธีมมากกว่า 100 แบบ GIF เคลื่อนไหว สติ๊กเกอร์เคลื่อนไหว อิโมจิ พิมพ์ด้วยเสียง</string>
+    <string name="welcome_to">ยินดีต้อนรับสู่</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">เปิดใช้งานแป้นพิมพ์</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">เลือกแป้นพิมพ์</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">เสร็จสิ้นการตั้งค่า</string>
+
+    <string name="enable_des">คลิกที่นี่เพื่อเปิดใช้งานแป้นพิมพ์ในรายการการตั้งค่าวิธีการป้อนข้อมูลของคุณ ซึ่งจะอนุญาตให้แป้นพิมพ์ทำงานบนอุปกรณ์ของคุณ</string>
+    <string name="select_des">คลิกที่นี่เพื่อเลือกแป้นพิมพ์ของคุณในรายการการตั้งค่าวิธีการป้อนข้อมูล การดำเนินการนี้จะอนุญาตให้แป้นพิมพ์ทำงานบนอุปกรณ์ของคุณ</string>
+    <string name="finish_des">เสร็จเรียบร้อย! ตั้งค่าคีย์บอร์ดของคุณเรียบร้อยแล้วและพร้อมใช้งาน</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">ชื่อแบบอักษร</string>
+    <string name="set_brightness">ตั้งค่าความสว่าง</string>
+    <string name="default_themes">ธีมเริ่มต้น</string>
+    <string name="colors_themes">ธีมสี</string>
+    <string name="light_gradients_themes">ธีมการไล่เฉดสีอ่อน</string>
+    <string name="dark_gradients_themes">ธีมการไล่เฉดสีเข้ม</string>
+    <string name="landscapes_themes">ธีมทิวทัศน์</string>
+    <string name="gallery_themes">แกลอรี่ธีม</string>
+    <string name="crop_image">ครอบตัดรูปภาพ</string>
+    <string name="next">ต่อไป</string>
+    <string name="mobile_consent_form">แบบฟอร์มยินยอม GDPR</string>
+    <string name="privacy_policy_title">นโยบายความเป็นส่วนตัว</string>
+    <string name="disclaimer">การปฏิเสธความรับผิดชอบ</string>
+    <string name="have_accept">ฉันได้อ่านและยอมรับแล้ว</string>
+    <string name="theme_updated_successfully">ธีมได้รับการอัพเดตเรียบร้อยแล้ว</string>
+    <string name="apply_theme">ใช้ธีม</string>
+    <string name="suggestions_database">ฐานข้อมูลข้อเสนอแนะ</string>
+    <string name="suggestions_dailog">หากต้องการเปิดใช้งานฟีเจอร์คำแนะนำในแป้นพิมพ์ คุณต้องดาวน์โหลดไฟล์ฐานข้อมูลจากเซิร์ฟเวอร์ของเรา ซึ่งจะใช้เวลาสักครู่ คุณต้องการดาวน์โหลดทันทีหรือดาวน์โหลดภายหลัง</string>
+    <string name="download">ดาวน์โหลด</string>
+    <string name="later">ภายหลัง</string>
+    <string name="txt_nav_home">บ้าน</string>
+    <string name="txt_nav_rate_app">ให้คะแนนและรีวิว (โฆษณา)</string>
+    <string name="txt_nav_share_app">แชร์แอป (โฆษณา)</string>
+    <string name="txt_nav_more_apps">แอปของเรา (โฆษณา)</string>
+    <string name="txt_nav_family_apps">แอปครอบครัวของเรา (โฆษณา)</string>
+    <string name="txt_nav_feedback">ข้อเสนอแนะ</string>
+    <string name="txt_nav_update">อัปเดตทันที</string>
+    <string name="txt_nav_ads_remove">ลบโฆษณา</string>
+    <string name="txt_feedback">ฉันมีข้อเสนอแนะสำหรับแอปคีย์บอร์ดของคุณ</string>
+
+
+    <string name="finish">เสร็จ</string>
+    <string name="space_for_advertisement">พื้นที่สำหรับโฆษณา</string>
+    <string name="other">อื่น</string>
+
+
+    <string name="txt_nav_premium_version">เวอร์ชั่นพรีเมี่ยม</string>
+    <string name="support_the_development">สนับสนุนการพัฒนา</string>
+    <string name="unlimited_customization">ปรับแต่งได้ไม่จำกัด</string>
+    <string name="complete_ad_free_version">เวอร์ชันสมบูรณ์ไม่มีโฆษณา</string>
+    <string name="unlimited_themes">รูปแบบธีมและแบบอักษรพรีเมี่ยม</string>
+    <string name="terms_of_services">ข้อกำหนดและเงื่อนไข</string>
+    <string name="this_subscriptions_renews_automatically">"การสมัครสมาชิกรายเดือน" ช่วยให้คุณเข้าถึงแอปพลิเคชันของเราได้ไม่จำกัดจำนวนครั้งเป็นเวลา 1 เดือน และจะต่ออายุทุกเดือน หากคุณไม่ยกเลิก การซื้อแบบตลอดชีพจะเป็นการซื้อเพียงครั้งเดียวเท่านั้น สำหรับข้อมูลเพิ่มเติม โปรดดูข้อกำหนดและเงื่อนไขในการบริการ</string>
+
+
+    <string name="monthly_subscription">สมัครสมาชิกรายเดือน</string>
+    <string name="life_time_purchase">ซื้อตลอดชีพ</string>
+    <string name="life_time_price">ราคาตลอดชีพ</string>
+    <string name="monthly_price">ราคาต่อเดือน</string>
+    <string name="purchase_now">สั่งซื้อเลยตอนนี้</string>
+    <string name="subscribe_now">สมัครสมาชิกตอนนี้</string>
+
+
+    <string name="enable_disable_number_row">เปิด/ปิดแถวตัวเลข</string>
+    <string name="visible_number_row">แถวตัวเลขที่มองเห็นได้บนแป้นพิมพ์ด้านบน</string>
+    <string name="show_numeric_hints">แสดงคำใบ้ตัวเลข</string>
+    <string name="show_numeric_hint_on_first_row">แสดงคำแนะนำตัวเลขในแถวแรกของอักขระ</string>
+    <string name="show_symbol_hints">แสดงสัญลักษณ์คำแนะนำ</string>
+    <string name="show_symbol_hints_on_rows">แสดงสัญลักษณ์คำแนะนำในแถวที่สองและสามของอักขระ</string>
+    <string name="adjust_keyboard_font_size_portrait">ปรับขนาดตัวอักษรแป้นพิมพ์ให้เหมาะกับมุมมองแนวตั้ง</string>
+    <string name="adjust_keyboard_font_size_landscape">ปรับขนาดตัวอักษรแป้นพิมพ์ให้เหมาะกับมุมมองแนวนอน</string>
+    <string name="keyboard_layout_settings">การตั้งค่าเค้าโครงแป้นพิมพ์</string>
+    <string name="keyboard_height">ความสูงของแป้นพิมพ์</string>
+    <string name="keyboard_key_click_settings">การตั้งค่าการคลิกแป้นพิมพ์</string>
+    <string name="play_sound_on_key_click">เล่นเสียงเมื่อคลิกปุ่ม</string>
+    <string name="key_click_sound_volume">ปรับระดับเสียงคลิกคีย์</string>
+    <string name="vibrate_on_key_click">สั่นเมื่อคลิกปุ่ม</string>
+    <string name="key_vibration_strength">ปรับความแรงของการสั่นสะเทือนที่สำคัญ</string>
+    <string name="enable_popup_alphabets">แสดงตัวอักษรแบบป๊อปอัปเมื่อผู้ใช้คลิกปุ่ม</string>
+    <string name="popup_feature">ฟีเจอร์ป๊อปอัป</string>
+    <string name="correction_settings">การตั้งค่าการแก้ไข</string>
+    <string name="auto_capitalize">ใช้ตัวพิมพ์ใหญ่อัตโนมัติ</string>
+    <string name="save_caps_lock_state">บันทึกสถานะ Caps Lock</string>
+    <string name="show_editing_panel">แสดงแผงการแก้ไข</string>
+    <string name="enable_disable_editing_panel">เปิด/ปิดแผงการแก้ไข</string>
+    <string name="available_gestures">ท่าทางที่มีให้เลือก</string>
+    <string name="enable_disable_keyboard_one_handed_mode">เปิด/ปิดโหมดใช้งานมือเดียว</string>
+    <string name="keyboard_keys_settings">การตั้งค่าคีย์คีย์บอร์ด</string>
+    <string name="enable_disable_suggestions_bar">สิ่งนี้จะมองเห็นได้ที่ด้านบนของมุมมองแป้นพิมพ์</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">ข้อเสนอแนะทั้งหมดจะแสดงบนแถบข้อเสนอแนะ</string>
+    <string name="show_suggestions">แสดงคำแนะนำเมื่อผู้ใช้พิมพ์</string>
+    <string name="customize_suggestion_bar">ปรับแต่งแถบคำแนะนำ</string>
+    <string name="customize_suggestion_button">ปรับแต่งปุ่มข้อเสนอแนะ</string>
+    <string name="enable_disable_voice_typing">เปิด/ปิดการพิมพ์ด้วยเสียง</string>
+    <string name="use_voice_typing">ใช้การพิมพ์ด้วยเสียง</string>
+
+    <string name="settings">การตั้งค่า</string>
+    <string name="languages">ภาษา</string>
+    <string name="themes">ธีม</string>
+    <string name="preferences">การตั้งค่า</string>
+    <string name="fonts">แบบอักษร</string>
+    <string name="text_correction">การแก้ไขข้อความ</string>
+    <string name="gestures">ท่าทาง</string>
+    <string name="suggestions">ข้อเสนอแนะ</string>
+    <string name="one_hand_typing">พิมพ์ด้วยมือเดียว</string>
+    <string name="editing_panel">แผงการแก้ไข</string>
+    <string name="voice_typing">การพิมพ์ด้วยเสียง</string>
+
+    <string name="languages_localization">ภาษาและการแปล</string>
+    <string name="customize_themes">ปรับแต่งธีม</string>
+    <string name="keyboard_preferences">การตั้งค่าแป้นพิมพ์</string>
+    <string name="fonts_styles">รูปแบบแบบอักษร</string>
+    <string name="text_correction_list">การแก้ไขข้อความ</string>
+    <string name="enable_gesture_typing">เปิดใช้งานการพิมพ์ด้วยท่าทาง</string>
+    <string name="enable_auto_suggestions">เปิดใช้งานคำแนะนำอัตโนมัติ</string>
+    <string name="one_hand_typing_mode">โหมดพิมพ์ด้วยมือเดียว</string>
+    <string name="customize_editing_panel">ปรับแต่งแผงการแก้ไข</string>
+    <string name="voice_recognition_typing">การจดจำเสียงและการพิมพ์</string>
+
+    <string name="title_activity_language_picker">กิจกรรมการเลือกภาษา</string>
+    <string name="cencel_sub">ยกเลิกการสมัครสมาชิก</string>
+    <string name="yearly_subscription">สมัครสมาชิกรายปี</string>
+    <string name="app_languages">เลือกภาษาแอป</string>
+    <string name="change_app_theme">เลือกธีมแอป</string>
+    <string name="default_theme">ค่าเริ่มต้น</string>
+    <string name="dark_theme">มืด</string>
+    <string name="light_theme">แสงสว่าง</string>
+
+    <string name="app_theme_apply">นำมาใช้</string>
+    <string name="app_theme_cancel">ยกเลิก</string>
+    <string name="test_keyboard_here">ทดสอบแป้นพิมพ์ที่นี่</string>
+    <string name="cancel">ยกเลิก</string>
+
+
+    <string name="premium_keyboard_title">คีย์บอร์ดพลัส</string>
+    <string name="premium_des_title">เข้าถึงคุณสมบัติทั้งหมดด้วยพรีเมียม</string>
+
+    <string name="customization_title">การปรับแต่ง</string>
+    <string name="themes_fonts_title">ธีมและแบบอักษร</string>
+    <string name="no_ads_title">ไม่มีโฆษณา</string>
+    <string name="vip_support_title">การสนับสนุน VIP</string>
+
+
+
+    <string name="reward_ad_show_title">รับรางวัล</string>
+    <string name="fonts_reward_dailog_des">หากใช้แบบอักษรนี้ คุณต้องดูโฆษณาที่มีรางวัล คุณต้องการแสดงโฆษณาที่มีรางวัลหรือไม่</string>
+    <string name="themes_reward_dailog_des">"หากจะใช้ธีมนี้ คุณต้องดูโฆษณาที่มีรางวัล คุณต้องการแสดงโฆษณาที่มีรางวัลหรือไม่?</string>
+    <string name="reward_dailog_show_ad_btn">แสดงโฆษณา</string>
+    <string name="reward_dailog_cancel_btn">ยกเลิก</string>
+    <string name="reward_dailog_get_premium_btn">รับพรีเมี่ยม</string>
+    <string name="loading_ads">กำลังโหลดโฆษณา…</string>
+    <string name="please_wait">โปรดรอ…</string>
+
+
+    <string name="exit_dailog_title">ออกจากแอป?</string>
+    <string name="exit_dailog_des">คุณแน่ใจที่จะออกจากแอพหรือไม่?</string>
+    <string name="exit_dailog_cancel_btn">ยกเลิก</string>
+    <string name="exit_dailog_exit_btn">ทางออก</string>
+
+
+
+</resources>
+
+

@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">키보드 앱 개인정보 보호정책은 실제로 귀하가 당사의 제품과 서비스를 방문하거나 사용할 때 수집될 수 있는 정보를 수집하고 사용하는 것을 설명하는 유일한 목적으로 작성되었습니다. 개인화된 광고 및 서비스 개발을 위해 여기에 액세스하고/또는 사용함으로써 귀하는 이 개인정보 보호정책에 설명된 정책 및 관행에 동의하는 것입니다.</string>
+
+
+    <string name="system_default">시스템 기본값</string>
+    <string name="settings_theme_background_active">활성화 시 배경색</string>
+    <string name="settings_theme_background_pressed">누를 때 배경색</string>
+    <string name="settings_theme_foreground">전경색</string>
+    <string name="settings_theme_foreground_alt">전경색 (대체)</string>
+
+    <string name="saving_group_keys_label">키</string>
+    <string name="saving_number_row_label">숫자 행</string>
+    <string name="settings_theme_undefined">한정되지 않은</string>
+    <string name="settings_theme_preset_summary">사용자 정의(%s 기준)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">선택된 주제:</string>
+    <string name="settings_theme_preset_dialog_available_themes">사용 가능한 테마:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">오른쪽 화살표</string>
+    <string name="settings_theme_background">배경색</string>
+    <string name="saving_number_row_summary">문자 레이아웃 위에 숫자 행 표시</string>
+    <string name="saving_hinted_number_row_label">힌트 숫자 행</string>
+    <string name="saving_hinted_number_row_summary">첫 번째 행의 문자 레이아웃 힌트 번호 행</string>
+
+    <string name="saving_group_layout_label">공들여 나열한 것</string>
+    <string name="saving_one_handed_mode_label">한 손 모드</string>
+    <string name="saving_one_handed_mode_off">끄다</string>
+    <string name="saving_one_handed_mode_right">오른손잡이 모드</string>
+    <string name="saving_hinted_symbols_label">힌트 심볼</string>
+    <string name="saving_hinted_symbols_summary">두 번째 및 세 번째 행의 문자 레이아웃 힌트 기호</string>
+    <string name="saving_font_size_multiplier_portrait_label">글꼴 크기 배수(세로)</string>
+    <string name="saving_font_size_multiplier_landscape_label">글꼴 크기 배수(가로)</string>
+    <string name="saving_one_handed_mode_left">왼손잡이 모드</string>
+    <string name="saving_height_factor_label">키보드 높이</string>
+    <string name="saving_height_factor_extra_short">매우 짧음</string>
+    <string name="saving_height_factor_short">짧은 키</string>
+    <string name="saving_height_factor_tall">키가 큰</string>
+    <string name="saving_height_factor_extra_tall">매우 키가 크다</string>
+    <string name="saving_height_factor_custom">관습</string>
+    <string name="saving_height_factor_custom_label">사용자 정의 키보드 높이 값</string>
+    <string name="saving_bottom_offset_label">하단 오프셋(곡면 화면용)</string>
+    <string name="saving_group_keypress_label">키 누르기</string>
+
+
+    <string name="saving_vibration_strength_label">키를 누를 때의 진동 강도</string>
+    <string name="saving_popup_visible_label">팝업 가시성</string>
+    <string name="saving_popup_visible_summary">키를 누르면 팝업이 표시됩니다.</string>
+    <string name="saving_long_press_delay_label">긴 키 누름 지연</string>
+    <string name="saving_smartbar_enabled_label">제안 바 활성화</string>
+    <string name="saving_smartbar_enabled_summary">키보드 위에 표시됩니다</string>
+    <string name="saving_sound_enabled_label">키를 누르면 소리가 난다</string>
+    <string name="saving_sound_volume_label">키를 누를 때의 사운드 볼륨</string>
+    <string name="saving_height_factor_mid_short">중간 높이</string>
+    <string name="saving_height_factor_normal">일반 높이</string>
+    <string name="saving_correction_auto_capitalization_label">자동 자본화</string>
+    <string name="saving_correction_auto_capitalization_summary">현재 입력 컨텍스트에 따라 단어를 대문자로 표시합니다.</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Caps Lock 상태를 기억하세요</string>
+    <string name="saving_height_factor_mid_tall">중간 높이</string>
+    <string name="saving_vibration_enabled_label">키를 누르면 진동합니다</string>
+    <string name="saving_suggestion_title">제안</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">다른 텍스트 필드로 이동할 때 Caps Lock이 계속 켜져 있습니다.</string>
+    <string name="saving_correction_double_space_period_label">더블스페이스 기간</string>
+    <string name="saving_correction_double_space_period_summary">스페이스바를 두번 클릭하면 공백과 함께 마침표가 삽입됩니다.</string>
+
+    <string name="saving_correction_title">수정</string>
+    <string name="saving_glide_title">글라이드 타이핑</string>
+    <string name="saving_glide_enabled_label">글라이드 타이핑 활성화</string>
+    <string name="saving_suggestion_enabled_label">사용자가 입력할 때 제안을 표시합니다.</string>
+    <string name="saving_suggestion_enabled_summary">제안 바에 표시됩니다</string>
+    <string name="saving_glide_show_trail_summary">각 단어 뒤에 사라집니다</string>
+    <string name="saving_gestures_title">제스처</string>
+    <string name="saving_gestures_swipe_action_no_action">아무것도 하지 마라</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">클립보드 콘텐츠 제안</string>
+    <string name="saving_suggestion_use_pref_words_summary">제안을 생성하기 위해 이전 단어를 사용하세요</string>
+    <string name="saving_glide_enabled_summary">손가락을 문자 사이로 밀어 단어를 입력하세요.</string>
+    <string name="saving_glide_show_trail_label">글라이드 트레일 표시</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">커서 아래로</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">커서 왼쪽</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">커서 오른쪽</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">모든 문자 제거</string>
+    <string name="saving_gestures_swipe_action_delete_word">현재 단어 제거</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">모든 단어 제거</string>
+    <string name="saving_gestures_swipe_up_label">제스처를 위로</string>
+    <string name="saving_gestures_swipe_down_label">아래로 제스처</string>
+    <string name="saving_gestures_swipe_left_label">제스처 왼쪽</string>
+    <string name="saving_gestures_swipe_right_label">오른쪽 제스처</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">키보드 최소화</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">커서 위로</string>
+    <string name="saving_gestures_swipe_action_shift">쉬프트 액션</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">이전 언어로 이동</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">다음 언어로 이동</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">스페이스 바 제스처 왼쪽</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">스페이스 바 제스처 오른쪽</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">매우 느림</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">느린</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">정상</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">빠른</string>
+
+    <string name="saving_advanced_settings_theme_light">빛</string>
+    <string name="saving_advanced_settings_theme_dark">어두운</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">삭제 버튼 제스처 왼쪽</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">스와이프 속도 임계값</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">스와이프 속도 임계값</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">긴</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">매우 길다</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">스와이프 거리 임계값</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">매우 짧다</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">짧은</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">정상</string>
+
+
+    <string name="txt_lang_frag">선택한 모든 언어가 키보드에 표시됩니다.</string>
+    <string name="search_language_hint">여기서 언어를 검색하세요.</string>
+    <string name="switch_to_keyboard_des">다양한 언어, 100개 이상의 테마, 애니메이션 GIF, 애니메이션 스티커, 이모티콘, 음성 입력.</string>
+    <string name="welcome_to">환영합니다</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">키보드 활성화</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">키보드 선택</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">설정 완료</string>
+
+    <string name="enable_des">여기를 클릭하여 입력 방법 설정 목록에서 키보드를 활성화합니다. 이렇게 하면 장치에서 실행할 수 있는 권한이 부여됩니다.</string>
+    <string name="select_des">여기를 클릭하여 입력 방법 설정 목록에서 키보드를 선택하세요. 그러면 장치에서 실행할 수 있는 권한이 부여됩니다.</string>
+    <string name="finish_des">완료! 키보드가 설정되었고 사용할 준비가 되었습니다.</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">글꼴 이름</string>
+    <string name="set_brightness">밝기 설정</string>
+    <string name="default_themes">기본 테마</string>
+    <string name="colors_themes">색상 테마</string>
+    <string name="light_gradients_themes">라이트 그래디언트 테마</string>
+    <string name="dark_gradients_themes">다크 그라디언트 테마</string>
+    <string name="landscapes_themes">풍경 테마</string>
+    <string name="gallery_themes">갤러리 테마</string>
+    <string name="crop_image">이미지 자르기</string>
+    <string name="next">다음</string>
+    <string name="mobile_consent_form">GDPR 동의서</string>
+    <string name="privacy_policy_title">개인정보 보호정책</string>
+    <string name="disclaimer">부인 성명</string>
+    <string name="have_accept">나는 읽고 동의합니다</string>
+    <string name="theme_updated_successfully">테마가 성공적으로 업데이트되었습니다.</string>
+    <string name="apply_theme">테마 적용</string>
+    <string name="suggestions_database">제안 데이터베이스</string>
+    <string name="suggestions_dailog">키보드에서 제안 기능을 활성화하려면 서버에서 데이터베이스 파일을 다운로드해야 합니다. 몇 초가 걸립니다. 지금 다운로드하시겠습니까, 아니면 나중에 다운로드하시겠습니까?</string>
+    <string name="download">다운로드</string>
+    <string name="later">나중에</string>
+    <string name="txt_nav_home">집</string>
+    <string name="txt_nav_rate_app">평가 및 리뷰(광고)</string>
+    <string name="txt_nav_share_app">앱 공유 (광고)</string>
+    <string name="txt_nav_more_apps">우리 앱(광고)</string>
+    <string name="txt_nav_family_apps">우리 가족 앱(광고)</string>
+    <string name="txt_nav_feedback">피드백</string>
+    <string name="txt_nav_update">지금 업데이트</string>
+    <string name="txt_nav_ads_remove">광고 제거</string>
+    <string name="txt_feedback">키보드 앱에 대한 피드백이 있습니다.</string>
+
+
+    <string name="finish">마치다</string>
+    <string name="space_for_advertisement">광고 공간</string>
+    <string name="other">다른</string>
+
+
+    <string name="txt_nav_premium_version">프리미엄 버전</string>
+    <string name="support_the_development">개발 지원</string>
+    <string name="unlimited_customization">무제한 사용자 정의</string>
+    <string name="complete_ad_free_version">광고 없는 완전한 버전</string>
+    <string name="unlimited_themes">프리미엄 테마 및 글꼴 스타일</string>
+    <string name="terms_of_services">이용약관</string>
+    <string name="this_subscriptions_renews_automatically">"월 구독"은 한 달 동안 당사 애플리케이션에 무제한으로 액세스할 수 있게 해주고 매월 갱신됩니다. 취소하지 않으면 Life Time 구매는 단 한 번만 가능합니다. 자세한 내용은 서비스 약관을 확인하세요.</string>
+
+
+    <string name="monthly_subscription">월 구독</string>
+    <string name="life_time_purchase">평생구매</string>
+    <string name="life_time_price">평생 가격</string>
+    <string name="monthly_price">월 가격</string>
+    <string name="purchase_now">지금 구매하세요</string>
+    <string name="subscribe_now">지금 구독하세요</string>
+
+
+    <string name="enable_disable_number_row">숫자 행 활성화/비활성화</string>
+    <string name="visible_number_row">키보드 상단의 보이는 숫자 행</string>
+    <string name="show_numeric_hints">숫자 힌트 표시</string>
+    <string name="show_numeric_hint_on_first_row">첫 번째 문자 행에 숫자 힌트 표시</string>
+    <string name="show_symbol_hints">심볼 힌트 표시</string>
+    <string name="show_symbol_hints_on_rows">두 번째 및 세 번째 문자 행에 기호 힌트 표시</string>
+    <string name="adjust_keyboard_font_size_portrait">세로 보기에 대한 키보드 글꼴 크기 조정</string>
+    <string name="adjust_keyboard_font_size_landscape">가로 보기에 대한 키보드 글꼴 크기 조정</string>
+    <string name="keyboard_layout_settings">키보드 레이아웃 설정</string>
+    <string name="keyboard_height">키보드 높이</string>
+    <string name="keyboard_key_click_settings">키보드 키 클릭 설정</string>
+    <string name="play_sound_on_key_click">키 클릭 시 사운드 재생</string>
+    <string name="key_click_sound_volume">키 클릭 사운드 볼륨 조절</string>
+    <string name="vibrate_on_key_click">키 클릭 시 진동</string>
+    <string name="key_vibration_strength">키 진동 강도 조정</string>
+    <string name="enable_popup_alphabets">사용자가 키를 클릭하면 팝업 알파벳 표시</string>
+    <string name="popup_feature">팝업 기능</string>
+    <string name="correction_settings">수정 설정</string>
+    <string name="auto_capitalize">자동 대문자</string>
+    <string name="save_caps_lock_state">Caps Lock 상태 저장</string>
+    <string name="show_editing_panel">편집 패널 표시</string>
+    <string name="enable_disable_editing_panel">편집 패널 활성화/비활성화</string>
+    <string name="available_gestures">사용 가능한 제스처</string>
+    <string name="enable_disable_keyboard_one_handed_mode">한 손 모드 활성화/비활성화</string>
+    <string name="keyboard_keys_settings">키보드 키 설정</string>
+    <string name="enable_disable_suggestions_bar">이것은 키보드 보기의 맨 위에 표시됩니다.</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">모든 제안은 제안 표시줄에 표시됩니다.</string>
+    <string name="show_suggestions">사용자가 입력할 때 제안 표시</string>
+    <string name="customize_suggestion_bar">제안 바 사용자 정의</string>
+    <string name="customize_suggestion_button">제안 버튼 사용자 정의</string>
+    <string name="enable_disable_voice_typing">음성 입력 활성화/비활성화</string>
+    <string name="use_voice_typing">음성 입력 사용</string>
+
+    <string name="settings">설정</string>
+    <string name="languages">언어</string>
+    <string name="themes">테마</string>
+    <string name="preferences">선호사항</string>
+    <string name="fonts">글꼴</string>
+    <string name="text_correction">텍스트 수정</string>
+    <string name="gestures">제스처</string>
+    <string name="suggestions">제안</string>
+    <string name="one_hand_typing">한 손 타이핑</string>
+    <string name="editing_panel">편집 패널</string>
+    <string name="voice_typing">음성 입력</string>
+
+    <string name="languages_localization">언어 및 현지화</string>
+    <string name="customize_themes">테마 사용자 정의</string>
+    <string name="keyboard_preferences">키보드 환경 설정</string>
+    <string name="fonts_styles">글꼴 스타일</string>
+    <string name="text_correction_list">텍스트 수정</string>
+    <string name="enable_gesture_typing">제스처 타이핑 활성화</string>
+    <string name="enable_auto_suggestions">자동 제안 활성화</string>
+    <string name="one_hand_typing_mode">한 손 타이핑 모드</string>
+    <string name="customize_editing_panel">편집 패널 사용자 정의</string>
+    <string name="voice_recognition_typing">음성 인식 및 타이핑</string>
+
+    <string name="title_activity_language_picker">언어 선택기 활동</string>
+    <string name="cencel_sub">구독 취소</string>
+    <string name="yearly_subscription">연간 구독</string>
+    <string name="app_languages">앱 언어 선택</string>
+    <string name="change_app_theme">앱 테마 선택</string>
+    <string name="default_theme">기본</string>
+    <string name="dark_theme">어두운</string>
+    <string name="light_theme">빛</string>
+
+    <string name="app_theme_apply">적용하다</string>
+    <string name="app_theme_cancel">취소</string>
+    <string name="test_keyboard_here">여기에서 키보드를 테스트하세요</string>
+    <string name="cancel">취소</string>
+
+
+    <string name="premium_keyboard_title">키보드 플러스</string>
+    <string name="premium_des_title">프리미엄으로 모든 기능에 액세스하세요</string>
+
+    <string name="customization_title">사용자 정의</string>
+    <string name="themes_fonts_title">테마 및 글꼴</string>
+    <string name="no_ads_title">광고 없음</string>
+    <string name="vip_support_title">VIP 지원</string>
+
+
+    <string name="reward_ad_show_title">보상받기</string>
+    <string name="fonts_reward_dailog_des">이 글꼴을 적용하는 경우 보상형 광고를 시청해야 합니다. 보상형 광고를 표시하시겠습니까?</string>
+    <string name="themes_reward_dailog_des">"이 테마를 적용하려면 보상형 광고를 시청해야 합니다. 보상형 광고를 표시하시겠습니까?</string>
+    <string name="reward_dailog_show_ad_btn">광고보기</string>
+    <string name="reward_dailog_cancel_btn">취소</string>
+    <string name="reward_dailog_get_premium_btn">프리미엄을 받으세요</string>
+    <string name="loading_ads">광고 로딩 중…</string>
+    <string name="please_wait">기다리세요…</string>
+
+
+    <string name="exit_dailog_title">앱을 종료하시겠습니까?</string>
+    <string name="exit_dailog_des">앱을 종료하시겠습니까?</string>
+    <string name="exit_dailog_cancel_btn">취소</string>
+    <string name="exit_dailog_exit_btn">출구</string>
+
+
+
+
+</resources>
+
+

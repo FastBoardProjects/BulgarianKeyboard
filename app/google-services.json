@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202704859939",
+    "project_id": "bulgarian-keyboard-9ca1c",
+    "storage_bucket": "bulgarian-keyboard-9ca1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202704859939:android:d171fdadd26936bc281296",
+        "android_client_info": {
+          "package_name": "com.maya.newbulgariankeyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202704859939-3qjhp94c0l805btb1pot99mpnfutbofk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPewq0NkDcbmci8Y0PBcriDBPZ8zrpjSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202704859939-3qjhp94c0l805btb1pot99mpnfutbofk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

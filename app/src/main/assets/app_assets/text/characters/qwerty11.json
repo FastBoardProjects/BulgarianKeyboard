@@ -1,0 +1,117 @@
+{
+  "type": "characters",
+  "name": "qwerty",
+  "direction": "ltr",
+  "arrangement": [
+    [
+      {
+        "code": 65361,
+        "label": "\uff51"
+      },
+      {
+        "code": 65367,
+        "label": "\uff57"
+      },
+      {
+        "code": 65349,
+        "label": "\uff45"
+      },
+      {
+        "code": 65362,
+        "label": "\uff52"
+      },
+      {
+        "code": 65364,
+        "label": "\uff54"
+      },
+      {
+        "code": 65369,
+        "label": "\uff59"
+      },
+      {
+        "code": 65365,
+        "label": "\uff55"
+      },
+      {
+        "code": 65353,
+        "label": "\uff49"
+      },
+      {
+        "code": 65359,
+        "label": "\uff4f"
+      },
+      {
+        "code": 65360,
+        "label": "\uff50"
+      }
+    ],
+    [
+      {
+        "code": 65345,
+        "label": "\uff41"
+      },
+      {
+        "code": 65363,
+        "label": "\uff53"
+      },
+      {
+        "code": 65348,
+        "label": "\uff44"
+      },
+      {
+        "code": 65350,
+        "label": "\uff46"
+      },
+      {
+        "code": 65351,
+        "label": "\uff47"
+      },
+      {
+        "code": 65352,
+        "label": "\uff48"
+      },
+      {
+        "code": 65354,
+        "label": "\uff4a"
+      },
+      {
+        "code": 65355,
+        "label": "\uff4b"
+      },
+      {
+        "code": 65356,
+        "label": "\uff4c"
+      }
+    ],
+    [
+      {
+        "code": 65370,
+        "label": "\uff5a"
+      },
+      {
+        "code": 65368,
+        "label": "\uff58"
+      },
+      {
+        "code": 65347,
+        "label": "\uff43"
+      },
+      {
+        "code": 65366,
+        "label": "\uff56"
+      },
+      {
+        "code": 65346,
+        "label": "\uff42"
+      },
+      {
+        "code": 65358,
+        "label": "\uff4e"
+      },
+      {
+        "code": 65357,
+        "label": "\uff4d"
+      }
+    ]
+  ]
+}

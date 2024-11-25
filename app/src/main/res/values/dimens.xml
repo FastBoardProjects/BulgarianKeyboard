@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--main dimensions of Keyboard-->
+
+    <dimen name="single_key_margin_flat">3dp</dimen>
+    <dimen name="preview_margin">16dp</dimen>
+    <dimen name="single_key_margin_stand">6dp</dimen>
+
+    <dimen name="key_corner_radius">3dp</dimen>
+    <dimen name="single_key_text_size_numeric">14sp</dimen>
+    <dimen name="text_size_language_name_on_space">14sp</dimen>
+    <dimen name="text_size_language_name_on_space_en">18sp</dimen>
+    <dimen name="single_key_text_size_popup">20sp</dimen>
+    <dimen name="keyboard_actual_height">249dp</dimen>
+    <dimen name="keyboard_suggestions_height">40dp</dimen>
+    <dimen name="text_keyboard_actual_height">208dp</dimen>
+    <dimen name="row_key_margin_horizontal">@dimen/single_key_margin_flat</dimen>
+    <dimen name="media_keyboard_actual_height">@dimen/keyboard_actual_height</dimen>
+
+    <dimen name="single_key_text_size">18sp</dimen>
+    <dimen name="single_key_text_size_hint">11sp</dimen>
+
+    <integer name="action_value_vel_very_fast">90</integer>
+    <dimen name="single_key_width">35dp</dimen>
+    <dimen name="single_key_height">45dp</dimen>
+    <dimen name="single_emoticon_key_width">@dimen/single_key_height</dimen>
+    <dimen name="single_emoticon_key_height">@dimen/single_key_height</dimen>
+    <!-- Change Emoji size -->
+    <dimen name="single_key_text_size_emoji">25sp</dimen>
+
+    <dimen name="media_bottom_button_width">58dp</dimen>
+    <fraction name="input_view_height_percentage_min">38.2%p</fraction>
+    <fraction name="input_view_height_percentage_max">46%p</fraction>
+    <dimen name="media_bottom_button_height">@dimen/single_key_height</dimen>
+    <dimen name="media_tab_indicator_height">3dp</dimen>
+    <dimen name="media_tab_paddingH">0dp</dimen>
+
+    <dimen name="one_handed_width">70dp</dimen>
+    <dimen name="one_handed_button_width">@dimen/one_handed_width</dimen>
+    <dimen name="one_handed_button_height">@dimen/one_handed_width</dimen>
+
+
+    <dimen name="suggestions_bar_margining">4dp</dimen>
+    <dimen name="suggestions_bar_padding">6dp</dimen>
+
+    <dimen name="action_value_very_short">24dp</dimen>
+    <dimen name="action_value_short">28dp</dimen>
+    <dimen name="action_value_normal">32dp</dimen>
+    <dimen name="suggestions_bar_height">40dp</dimen>
+    <dimen name="suggestions_bar_radius">1dp</dimen>
+    <dimen name="action_value_long">36dp</dimen>
+    <dimen name="action_value_very_long">40dp</dimen>
+
+
+    <integer name="action_value_normal">70</integer>
+    <integer name="action_value_fast">80</integer>
+    <integer name="action_value_very_slow">50</integer>
+    <integer name="action_value_slow">60</integer>
+
+
+
+        <item name="gnt_medium_template_bottom_weight" format="float" type="dimen">0.4</item>
+        <item name="gnt_text_row_weight" format="float" type="dimen">0.25</item>
+        <item name="gnt_media_view_weight" format="float" type="dimen">1.0</item>
+        <item name="gnt_medium_template_top_weight" format="float" type="dimen">0.2</item>
+        <dimen name="gnt_default_margin">10dp</dimen>
+        <dimen name="gnt_small_margin">5dp</dimen>
+        <dimen name="gnt_text_size_small">11sp</dimen>
+        <dimen name="gnt_text_size_large">15sp</dimen>
+        <dimen name="gnt_ad_indicator_width">25dp</dimen>
+        <dimen name="gnt_ad_indicator_height">20dp</dimen>
+        <dimen name="gnt_ad_indicator_bar_height">30dp</dimen>
+        <dimen name="gnt_ad_indicator_top_margin">0dp</dimen>
+        <dimen name="gnt_ad_indicator_bottom_margin">10dp</dimen>
+        <dimen name="gnt_ad_indicator_text_size">10sp</dimen>
+        <dimen name="gnt_small_cta_button_height">30dp</dimen>
+        <dimen name="gnt_medium_cta_button_height">50dp</dimen>
+        <dimen name="gnt_no_margin">0dp</dimen>
+        <dimen name="gnt_no_size">0dp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color -->
+    <solid android:color="?attr/colorOnBackground"/> <!-- Yellow background -->
+
+
+    <stroke
+        android:width="2dp"
+    android:color="?attr/textAppearanceBody1"/>    <!-- Border color (Orange) -->
+</shape>

@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">Kebijakan privasi Aplikasi Keyboard sebenarnya ditulis hanya untuk tujuan menjelaskan pengumpulan dan penggunaan informasi yang mungkin terjadi saat Anda mengunjungi atau menggunakan salah satu produk dan layanan kami. Dengan mengakses dan/atau menggunakan ini untuk pengembangan layanan dan iklan yang dipersonalisasi, Anda menyetujui kebijakan dan praktik yang dijelaskan dalam Kebijakan Privasi ini.</string>
+
+
+    <string name="system_default">Sistem bawaan</string>
+    <string name="settings_theme_background_active">Warna latar belakang saat aktif</string>
+    <string name="settings_theme_background_pressed">Warna latar belakang saat ditekan</string>
+    <string name="settings_theme_foreground">Warna latar depan</string>
+    <string name="settings_theme_foreground_alt">Warna latar depan (alternatif)</string>
+
+    <string name="saving_group_keys_label">Kunci</string>
+    <string name="saving_number_row_label">Baris nomor</string>
+    <string name="settings_theme_undefined">Belum diartikan</string>
+    <string name="settings_theme_preset_summary">Kustom (berdasarkan %s)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Tema yang dipilih:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Tema yang tersedia:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Panah kanan</string>
+    <string name="settings_theme_background">Warna latar belakang</string>
+    <string name="saving_number_row_summary">Tampilkan baris angka di atas tata letak karakter</string>
+    <string name="saving_hinted_number_row_label">Baris nomor tersirat</string>
+    <string name="saving_hinted_number_row_summary">Baris pertama petunjuk tata letak karakter nomor baris</string>
+
+    <string name="saving_group_layout_label">Tata Letak</string>
+    <string name="saving_one_handed_mode_label">Mode satu tangan</string>
+    <string name="saving_one_handed_mode_off">Mati</string>
+    <string name="saving_one_handed_mode_right">Mode tangan kanan</string>
+    <string name="saving_hinted_symbols_label">Simbol tersirat</string>
+    <string name="saving_hinted_symbols_summary">Baris kedua dan ketiga simbol petunjuk tata letak karakter</string>
+    <string name="saving_font_size_multiplier_portrait_label">Pengganda ukuran font (potret)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Pengganda ukuran font (lanskap)</string>
+    <string name="saving_one_handed_mode_left">Mode tangan kiri</string>
+    <string name="saving_height_factor_label">Tinggi papan ketik</string>
+    <string name="saving_height_factor_extra_short">Ekstra pendek</string>
+    <string name="saving_height_factor_short">Tinggi Pendek</string>
+    <string name="saving_height_factor_tall">Tinggi-Tinggi</string>
+    <string name="saving_height_factor_extra_tall">Ekstra tinggi</string>
+    <string name="saving_height_factor_custom">Kebiasaan</string>
+    <string name="saving_height_factor_custom_label">Nilai tinggi keyboard kustom</string>
+    <string name="saving_bottom_offset_label">Offset bawah (untuk layar lengkung)</string>
+    <string name="saving_group_keypress_label">Tekan tombol</string>
+
+
+    <string name="saving_vibration_strength_label">Kekuatan getaran saat tombol ditekan</string>
+    <string name="saving_popup_visible_label">Visibilitas PopUp</string>
+    <string name="saving_popup_visible_summary">Tampilkan popup saat Anda menekan tombol</string>
+    <string name="saving_long_press_delay_label">Penundaan penekanan tombol yang lama</string>
+    <string name="saving_smartbar_enabled_label">Aktifkan Bilah Saran</string>
+    <string name="saving_smartbar_enabled_summary">Akan ditampilkan di atas keyboard</string>
+    <string name="saving_sound_enabled_label">Suara saat tombol ditekan</string>
+    <string name="saving_sound_volume_label">Volume suara saat tombol ditekan</string>
+    <string name="saving_height_factor_mid_short">Tinggi Sedang</string>
+    <string name="saving_height_factor_normal">Tinggi Normal</string>
+    <string name="saving_correction_auto_capitalization_label">Kapitalisasi otomatis</string>
+    <string name="saving_correction_auto_capitalization_summary">Kapitalisasi kata berdasarkan konteks input saat ini</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Ingat status caps lock</string>
+    <string name="saving_height_factor_mid_tall">Tinggi sedang</string>
+    <string name="saving_vibration_enabled_label">Bergetar saat tombol ditekan</string>
+    <string name="saving_suggestion_title">Saran</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Caps lock akan tetap aktif saat berpindah ke kolom teks lain</string>
+    <string name="saving_correction_double_space_period_label">Titik spasi ganda</string>
+    <string name="saving_correction_double_space_period_summary">Dengan mengklik dua kali pada bilah Spasi, titik akan disisipkan dengan spasi</string>
+
+    <string name="saving_correction_title">Koreksi</string>
+    <string name="saving_glide_title">Mengetik geser</string>
+    <string name="saving_glide_enabled_label">Aktifkan pengetikan geser</string>
+    <string name="saving_suggestion_enabled_label">Menampilkan saran saat pengguna mengetik</string>
+    <string name="saving_suggestion_enabled_summary">Akan ditampilkan di Bilah Saran</string>
+    <string name="saving_glide_show_trail_summary">Akan hilang setelah setiap kata</string>
+    <string name="saving_gestures_title">Gerakan</string>
+    <string name="saving_gestures_swipe_action_no_action">Tidak melakukan apa pun</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Saran konten papan klip</string>
+    <string name="saving_suggestion_use_pref_words_summary">Gunakan kata-kata sebelumnya untuk menghasilkan saran</string>
+    <string name="saving_glide_enabled_summary">Ketik kata dengan menggeser jari Anda melalui huruf-hurufnya</string>
+    <string name="saving_glide_show_trail_label">Tampilkan jejak luncur</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Kursor Bawah</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Kursor kiri</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Kursor kanan</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Hapus Semua karakter</string>
+    <string name="saving_gestures_swipe_action_delete_word">Hapus Kata Saat Ini</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Hapus Semua Kata</string>
+    <string name="saving_gestures_swipe_up_label">Gerakan ke atas</string>
+    <string name="saving_gestures_swipe_down_label">Gerakan ke bawah</string>
+    <string name="saving_gestures_swipe_left_label">Gerakan ke kiri</string>
+    <string name="saving_gestures_swipe_right_label">Isyarat ke kanan</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Minimalkan Keyboard</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Kursor Atas</string>
+    <string name="saving_gestures_swipe_action_shift">Tindakan Bergeser</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Pindah ke bahasa sebelumnya</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Pindah ke bahasa berikutnya</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Gerakan Spasi ke Kiri</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Gerakan Spasi ke Kanan</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Sangat lambat</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Lambat</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Normal</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Cepat</string>
+
+    <string name="saving_advanced_settings_theme_light">Lampu</string>
+    <string name="saving_advanced_settings_theme_dark">Gelap</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Tombol Hapus Gerakan Kiri</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Ambang batas kecepatan geser</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Ambang batas kecepatan geser</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Panjang</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Sangat lama</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Ambang batas jarak geser</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Sangat pendek</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Pendek</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Normal</string>
+
+
+    <string name="txt_lang_frag">Semua bahasa yang dipilih akan terlihat di Keyboard.</string>
+    <string name="search_language_hint">Cari Bahasa di sini..</string>
+    <string name="switch_to_keyboard_des">Berbagai bahasa 100+ tema GIF animasi Stiker animasi, Emoji Pengetikan Suara.</string>
+    <string name="welcome_to">Selamat Datang di</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Aktifkan Papan Ketik</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Pilih Papan Ketik</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Selesaikan Pengaturan</string>
+
+    <string name="enable_des">Klik di sini untuk Mengaktifkan Keyboard di daftar pengaturan metode input Anda. Ini akan mengizinkannya berjalan di perangkat Anda.</string>
+    <string name="select_des">Klik di sini untuk Memilih Papan Ketik Anda dalam daftar pengaturan metode masukan. Ini akan mengizinkannya untuk berjalan di perangkat Anda.</string>
+    <string name="finish_des">Selesai! Keyboard Anda sudah diatur dan siap digunakan</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Nama Font</string>
+    <string name="set_brightness">Atur Kecerahan</string>
+    <string name="default_themes">Tema Default</string>
+    <string name="colors_themes">Tema Warna</string>
+    <string name="light_gradients_themes">Tema Gradien Cahaya</string>
+    <string name="dark_gradients_themes">Tema Gradien Gelap</string>
+    <string name="landscapes_themes">Tema Lanskap</string>
+    <string name="gallery_themes">Tema Galeri</string>
+    <string name="crop_image">Pangkas Gambar</string>
+    <string name="next">Berikutnya</string>
+    <string name="mobile_consent_form">Formulir Persetujuan GDPR</string>
+    <string name="privacy_policy_title">Kebijakan Privasi</string>
+    <string name="disclaimer">Penafian</string>
+    <string name="have_accept">Saya sudah membaca dan menerima</string>
+    <string name="theme_updated_successfully">Tema telah berhasil diperbarui</string>
+    <string name="apply_theme">Terapkan Tema</string>
+    <string name="suggestions_database">Basis Data Saran</string>
+    <string name="suggestions_dailog">Untuk mengaktifkan fitur Saran di keyboard, Anda harus mengunduh berkas Basis Data dari server kami. Proses ini akan memakan waktu beberapa detik. Apakah Anda ingin mengunduh sekarang atau nanti?</string>
+    <string name="download">Unduh</string>
+    <string name="later">Nanti</string>
+    <string name="txt_nav_home">Rumah</string>
+    <string name="txt_nav_rate_app">Nilai &amp; Ulasan (Iklan)</string>
+    <string name="txt_nav_share_app">Bagikan Aplikasi (Iklan)</string>
+    <string name="txt_nav_more_apps">Aplikasi Kami (Iklan)</string>
+    <string name="txt_nav_family_apps">Aplikasi Keluarga Kami (Iklan)</string>
+    <string name="txt_nav_feedback">Masukan</string>
+    <string name="txt_nav_update">Perbarui Sekarang</string>
+    <string name="txt_nav_ads_remove">Hapus Iklan</string>
+    <string name="txt_feedback">Saya punya masukan untuk aplikasi Keyboard Anda</string>
+
+
+    <string name="finish">Menyelesaikan</string>
+    <string name="space_for_advertisement">Ruang untuk Iklan</string>
+    <string name="other">Lainnya</string>
+
+
+    <string name="txt_nav_premium_version">Versi Premium</string>
+    <string name="support_the_development">Mendukung Pembangunan</string>
+    <string name="unlimited_customization">Kustomisasi Tanpa Batas</string>
+    <string name="complete_ad_free_version">Versi Lengkap Bebas Iklan</string>
+    <string name="unlimited_themes">Tema dan Gaya Font Premium</string>
+    <string name="terms_of_services">Syarat &amp; Ketentuan</string>
+    <string name="this_subscriptions_renews_automatically">"Langganan Bulanan" memberi Anda akses tak terbatas ke aplikasi kami selama satu bulan dan akan diperbarui setiap bulan. Jika Anda tidak membatalkannya, pembelian seumur hidup adalah pembelian satu kali. Untuk informasi lebih lanjut, silakan periksa Syarat &amp; Ketentuan Layanan.</string>
+
+
+    <string name="monthly_subscription">Langganan Bulanan</string>
+    <string name="life_time_purchase">Pembelian Seumur Hidup</string>
+    <string name="life_time_price">Harga Seumur Hidup</string>
+    <string name="monthly_price">Harga Bulanan</string>
+    <string name="purchase_now">Beli Sekarang</string>
+    <string name="subscribe_now">Berlangganan Sekarang</string>
+
+
+    <string name="enable_disable_number_row">Aktifkan/Nonaktifkan Baris Nomor</string>
+    <string name="visible_number_row">Baris Angka Terlihat di Bagian Atas Keyboard</string>
+    <string name="show_numeric_hints">Tampilkan Petunjuk Numerik</string>
+    <string name="show_numeric_hint_on_first_row">Tampilkan petunjuk angka pada baris pertama karakter</string>
+    <string name="show_symbol_hints">Tampilkan Petunjuk Simbol</string>
+    <string name="show_symbol_hints_on_rows">Tampilkan petunjuk Simbol pada baris kedua dan ketiga karakter</string>
+    <string name="adjust_keyboard_font_size_portrait">Sesuaikan Ukuran Font Keyboard untuk tampilan Potret</string>
+    <string name="adjust_keyboard_font_size_landscape">Sesuaikan Ukuran Font Keyboard untuk tampilan Lanskap</string>
+    <string name="keyboard_layout_settings">Pengaturan Tata Letak Keyboard</string>
+    <string name="keyboard_height">Tinggi Keyboard</string>
+    <string name="keyboard_key_click_settings">Pengaturan Klik Tombol Keyboard</string>
+    <string name="play_sound_on_key_click">Putar Suara saat Tombol Diklik</string>
+    <string name="key_click_sound_volume">Sesuaikan volume suara klik tombol</string>
+    <string name="vibrate_on_key_click">Bergetar saat Tombol Diklik</string>
+    <string name="key_vibration_strength">Sesuaikan Kekuatan Getaran Tombol</string>
+    <string name="enable_popup_alphabets">Tampilkan huruf Pop-Up saat pengguna mengklik tombol</string>
+    <string name="popup_feature">Fitur Pop-Up</string>
+    <string name="correction_settings">Pengaturan Koreksi</string>
+    <string name="auto_capitalize">Kapitalisasi Otomatis</string>
+    <string name="save_caps_lock_state">Simpan status Caps Lock</string>
+    <string name="show_editing_panel">Tampilkan Panel Pengeditan</string>
+    <string name="enable_disable_editing_panel">Aktifkan/Nonaktifkan Panel Pengeditan</string>
+    <string name="available_gestures">Gerakan yang Tersedia</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Aktifkan/Nonaktifkan Mode Satu Tangan</string>
+    <string name="keyboard_keys_settings">Pengaturan Tombol Keyboard</string>
+    <string name="enable_disable_suggestions_bar">Ini akan terlihat di bagian atas Tampilan Keyboard</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Semua saran akan ditampilkan di Bilah Saran</string>
+    <string name="show_suggestions">Tampilkan saran saat pengguna mengetik</string>
+    <string name="customize_suggestion_bar">Sesuaikan Bilah Saran</string>
+    <string name="customize_suggestion_button">Sesuaikan Tombol Saran</string>
+    <string name="enable_disable_voice_typing">Aktifkan/Nonaktifkan Pengetikan Suara</string>
+    <string name="use_voice_typing">Gunakan Pengetikan Suara</string>
+
+    <string name="settings">Pengaturan</string>
+    <string name="languages">Bahasa</string>
+    <string name="themes">Tema</string>
+    <string name="preferences">Preferensi</string>
+    <string name="fonts">Huruf</string>
+    <string name="text_correction">Koreksi Teks</string>
+    <string name="gestures">Gerakan</string>
+    <string name="suggestions">Saran</string>
+    <string name="one_hand_typing">Mengetik dengan Satu Tangan</string>
+    <string name="editing_panel">Panel Pengeditan</string>
+    <string name="voice_typing">Pengetikan Suara</string>
+
+    <string name="languages_localization">Bahasa &amp; Lokalisasi</string>
+    <string name="customize_themes">Sesuaikan Tema</string>
+    <string name="keyboard_preferences">Preferensi Papan Ketik</string>
+    <string name="fonts_styles">Gaya Font</string>
+    <string name="text_correction_list">Koreksi Teks</string>
+    <string name="enable_gesture_typing">Aktifkan Pengetikan Isyarat</string>
+    <string name="enable_auto_suggestions">Aktifkan Saran Otomatis</string>
+    <string name="one_hand_typing_mode">Mode Mengetik Satu Tangan</string>
+    <string name="customize_editing_panel">Sesuaikan Panel Pengeditan</string>
+    <string name="voice_recognition_typing">Pengenalan Suara &amp; Pengetikan</string>
+
+    <string name="title_activity_language_picker">AktivitasPemilihBahasa</string>
+    <string name="cencel_sub">Batalkan Langganan</string>
+    <string name="yearly_subscription">Langganan Tahunan</string>
+    <string name="app_languages">Pilih Bahasa Aplikasi</string>
+    <string name="change_app_theme">Pilih Tema Aplikasi</string>
+    <string name="default_theme">Bawaan</string>
+    <string name="dark_theme">Gelap</string>
+    <string name="light_theme">Lampu</string>
+
+    <string name="app_theme_apply">Menerapkan</string>
+    <string name="app_theme_cancel">Membatalkan</string>
+    <string name="test_keyboard_here">Uji keyboard di sini</string>
+    <string name="cancel">Membatalkan</string>
+
+
+    <string name="premium_keyboard_title">Papan Ketik Ditambah</string>
+    <string name="premium_des_title">Akses semua fitur dengan premium</string>
+
+    <string name="customization_title">Kustomisasi</string>
+    <string name="themes_fonts_title">Tema dan Font</string>
+    <string name="no_ads_title">Tanpa Iklan</string>
+    <string name="vip_support_title">Dukungan VIP</string>
+
+
+    <string name="reward_ad_show_title">Dapatkan Hadiah</string>
+    <string name="fonts_reward_dailog_des">Jika menggunakan font ini, Anda perlu menonton iklan berhadiah. Apakah Anda ingin menampilkan iklan berhadiah?</string>
+    <string name="themes_reward_dailog_des">"Jika tema ini diterapkan, Anda perlu menonton iklan berhadiah. Apakah Anda ingin menampilkan iklan berhadiah?</string>
+    <string name="reward_dailog_show_ad_btn">Tampilkan Iklan</string>
+    <string name="reward_dailog_cancel_btn">Membatalkan</string>
+    <string name="reward_dailog_get_premium_btn">Dapatkan Premium</string>
+    <string name="loading_ads">Memuat Iklan…</string>
+    <string name="please_wait">Harap tunggu…</string>
+
+
+    <string name="exit_dailog_title">Keluar dari Aplikasi?</string>
+    <string name="exit_dailog_des">Anda yakin untuk Keluar dari Aplikasi?</string>
+    <string name="exit_dailog_cancel_btn">Membatalkan</string>
+    <string name="exit_dailog_exit_btn">KELUAR</string>
+
+
+
+
+</resources>
+
+

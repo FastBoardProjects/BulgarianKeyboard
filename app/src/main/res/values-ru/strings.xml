@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">Политика конфиденциальности приложения Keyboard App на самом деле написана с единственной целью — объяснить, как собирать и использовать информацию, которая может быть, когда вы посещаете или используете любой из наших продуктов и услуг. Получая доступ и/или используя это для персонализированной рекламы и разработки услуг, вы соглашаетесь с политикой и практикой, описанными в настоящей Политике конфиденциальности.</string>
+
+
+    <string name="system_default">Системные настройки по умолчанию</string>
+    <string name="settings_theme_background_active">Цвет фона при активности</string>
+    <string name="settings_theme_background_pressed">Цвет фона при нажатии</string>
+    <string name="settings_theme_foreground">Цвет переднего плана</string>
+    <string name="settings_theme_foreground_alt">Цвет переднего плана (альтернативный)</string>
+
+    <string name="saving_group_keys_label">Ключи</string>
+    <string name="saving_number_row_label">Числовой ряд</string>
+    <string name="settings_theme_undefined">Неопределенный</string>
+    <string name="settings_theme_preset_summary">Пользовательский (на основе %s)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Выбранная тема:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Доступные темы:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Стрелка вправо</string>
+    <string name="settings_theme_background">Цвет фона</string>
+    <string name="saving_number_row_summary">Показывать ряд цифр поверх раскладки символов</string>
+    <string name="saving_hinted_number_row_label">Подсказанный ряд чисел</string>
+    <string name="saving_hinted_number_row_summary">Первая строка подсказок по расположению символов числовой ряд</string>
+
+    <string name="saving_group_layout_label">Макет</string>
+    <string name="saving_one_handed_mode_label">Режим управления одной рукой</string>
+    <string name="saving_one_handed_mode_off">Выключенный</string>
+    <string name="saving_one_handed_mode_right">Режим для правшей</string>
+    <string name="saving_hinted_symbols_label">Намеки на символы</string>
+    <string name="saving_hinted_symbols_summary">Второй и третий ряд символов-подсказок по раскладке символов</string>
+    <string name="saving_font_size_multiplier_portrait_label">Множитель размера шрифта (книжная ориентация)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Множитель размера шрифта (альбомная ориентация)</string>
+    <string name="saving_one_handed_mode_left">Режим для левшей</string>
+    <string name="saving_height_factor_label">Высота клавиатуры</string>
+    <string name="saving_height_factor_extra_short">Очень короткий</string>
+    <string name="saving_height_factor_short">Короткий рост</string>
+    <string name="saving_height_factor_tall">Высокий-Высокий</string>
+    <string name="saving_height_factor_extra_tall">Очень высокий</string>
+    <string name="saving_height_factor_custom">Обычай</string>
+    <string name="saving_height_factor_custom_label">Пользовательское значение высоты клавиатуры</string>
+    <string name="saving_bottom_offset_label">Смещение снизу (для изогнутых экранов)</string>
+    <string name="saving_group_keypress_label">Нажатие клавиши</string>
+
+
+    <string name="saving_vibration_strength_label">Сила вибрации при нажатии клавиши</string>
+    <string name="saving_popup_visible_label">Видимость всплывающих окон</string>
+    <string name="saving_popup_visible_summary">Показывать всплывающее окно при нажатии клавиши</string>
+    <string name="saving_long_press_delay_label">Задержка нажатия длинной клавиши</string>
+    <string name="saving_smartbar_enabled_label">Включить панель предложений</string>
+    <string name="saving_smartbar_enabled_summary">Будет отображаться поверх клавиатуры</string>
+    <string name="saving_sound_enabled_label">Звук при нажатии клавиши</string>
+    <string name="saving_sound_volume_label">Громкость звука при нажатии клавиши</string>
+    <string name="saving_height_factor_mid_short">Средний рост</string>
+    <string name="saving_height_factor_normal">Нормальный рост</string>
+    <string name="saving_correction_auto_capitalization_label">Автоматическая капитализация</string>
+    <string name="saving_correction_auto_capitalization_summary">Делать слова заглавными в зависимости от текущего входного контекста</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Запомнить состояние Caps Lock</string>
+    <string name="saving_height_factor_mid_tall">Средне-высокий</string>
+    <string name="saving_vibration_enabled_label">Вибрация при нажатии клавиши</string>
+    <string name="saving_suggestion_title">Предложения</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">Caps Lock останется включенным при переходе в другое текстовое поле</string>
+    <string name="saving_correction_double_space_period_label">Период с двойным пробелом</string>
+    <string name="saving_correction_double_space_period_summary">При двойном нажатии на клавишу пробела будет вставлена ​​точка с пробелом.</string>
+
+    <string name="saving_correction_title">Исправления</string>
+    <string name="saving_glide_title">Скользящая печать</string>
+    <string name="saving_glide_enabled_label">Включить скользящий ввод</string>
+    <string name="saving_suggestion_enabled_label">Отображать предложения, когда пользователь печатает</string>
+    <string name="saving_suggestion_enabled_summary">Будет отображаться на панели предложений</string>
+    <string name="saving_glide_show_trail_summary">Исчезает после каждого слова</string>
+    <string name="saving_gestures_title">Жесты</string>
+    <string name="saving_gestures_swipe_action_no_action">Ничего не делать</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Предложения по содержимому буфера обмена</string>
+    <string name="saving_suggestion_use_pref_words_summary">Используйте предыдущие слова для создания предложений.</string>
+    <string name="saving_glide_enabled_summary">Введите слово, проводя пальцем по его буквам.</string>
+    <string name="saving_glide_show_trail_label">Показать траекторию скольжения</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Курсор вниз</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Курсор влево</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Курсор вправо</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Удалить все символы</string>
+    <string name="saving_gestures_swipe_action_delete_word">Удалить текущее слово</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Удалить все слова</string>
+    <string name="saving_gestures_swipe_up_label">Жест вверх</string>
+    <string name="saving_gestures_swipe_down_label">Жест вниз</string>
+    <string name="saving_gestures_swipe_left_label">Жест влево</string>
+    <string name="saving_gestures_swipe_right_label">Жест вправо</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Свернуть клавиатуру</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Курсор вверх</string>
+    <string name="saving_gestures_swipe_action_shift">Сдвиг действия</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Перейти на предыдущий язык</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Перейти к следующему языку</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Жест пробела влево</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Жест пробела вправо</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Очень медленно</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Медленный</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Нормальный</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Быстрый</string>
+
+    <string name="saving_advanced_settings_theme_light">Свет</string>
+    <string name="saving_advanced_settings_theme_dark">Темный</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Удалить кнопку Жест влево</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Порог скорости скольжения</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Порог скорости скольжения</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Длинный</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Очень длинный</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Порог расстояния считывания</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Очень короткий</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Короткий</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Нормальный</string>
+
+
+    <string name="txt_lang_frag">Все выбранные языки будут видны на клавиатуре.</string>
+    <string name="search_language_hint">Поиск языка здесь..</string>
+    <string name="switch_to_keyboard_des">Несколько языков, более 100 тем, анимированные GIF-файлы, анимированные наклейки, эмодзи, голосовой ввод.</string>
+    <string name="welcome_to">Добро пожаловать в</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Включить клавиатуру</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Выбрать клавиатуру</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Завершить настройку</string>
+
+    <string name="enable_des">Нажмите здесь, чтобы включить клавиатуру в списке настроек метода ввода. Это разрешит ей работать на вашем устройстве.</string>
+    <string name="select_des">Нажмите здесь, чтобы выбрать клавиатуру в списке настроек метода ввода. Это разрешит ей работать на вашем устройстве.</string>
+    <string name="finish_des">Готово! Ваша клавиатура настроена и готова к использованию.</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Название шрифта</string>
+    <string name="set_brightness">Установить яркость</string>
+    <string name="default_themes">Темы по умолчанию</string>
+    <string name="colors_themes">Цвета Темы</string>
+    <string name="light_gradients_themes">Темы градиентов света</string>
+    <string name="dark_gradients_themes">Темные градиенты темы</string>
+    <string name="landscapes_themes">Пейзажи Темы</string>
+    <string name="gallery_themes">Галерея Темы</string>
+    <string name="crop_image">Обрезать изображение</string>
+    <string name="next">Следующий</string>
+    <string name="mobile_consent_form">Форма согласия GDPR</string>
+    <string name="privacy_policy_title">политика конфиденциальности</string>
+    <string name="disclaimer">Отказ от ответственности</string>
+    <string name="have_accept">Я прочитал и принимаю</string>
+    <string name="theme_updated_successfully">Тема успешно обновлена</string>
+    <string name="apply_theme">Применить тему</string>
+    <string name="suggestions_database">База данных предложений</string>
+    <string name="suggestions_dailog">Чтобы включить функцию Suggestions в клавиатуре, вам необходимо загрузить файл базы данных с нашего сервера. Это займет несколько секунд. Хотите загрузить сейчас или позже?</string>
+    <string name="download">Скачать</string>
+    <string name="later">Позже</string>
+    <string name="txt_nav_home">Дом</string>
+    <string name="txt_nav_rate_app">Оценить и просмотреть (Реклама)</string>
+    <string name="txt_nav_share_app">Поделиться приложением (реклама)</string>
+    <string name="txt_nav_more_apps">Наши приложения (реклама)</string>
+    <string name="txt_nav_family_apps">Наши семейные приложения (реклама)</string>
+    <string name="txt_nav_feedback">Обратная связь</string>
+    <string name="txt_nav_update">Обновить сейчас</string>
+    <string name="txt_nav_ads_remove">Удалить рекламу</string>
+    <string name="txt_feedback">У меня есть отзыв о вашем приложении «Клавиатура»</string>
+
+
+    <string name="finish">Заканчивать</string>
+    <string name="space_for_advertisement">Место для рекламы</string>
+    <string name="other">Другой</string>
+
+
+    <string name="txt_nav_premium_version">Премиум версия</string>
+    <string name="support_the_development">Поддержите развитие</string>
+    <string name="unlimited_customization">Неограниченная настройка</string>
+    <string name="complete_ad_free_version">Полная версия без рекламы</string>
+    <string name="unlimited_themes">Премиум темы и стили шрифтов</string>
+    <string name="terms_of_services">Условия и положения</string>
+    <string name="this_subscriptions_renews_automatically">«Ежемесячная подписка» дает вам неограниченный доступ к нашему приложению в течение одного месяца и будет продлеваться ежемесячно. Если вы не отмените ее. Пожизненная покупка — это единственная одноразовая покупка. Для получения дополнительной информации ознакомьтесь с Условиями и положениями обслуживания.</string>
+
+
+    <string name="monthly_subscription">Ежемесячная подписка</string>
+    <string name="life_time_purchase">Пожизненная покупка</string>
+    <string name="life_time_price">Пожизненная цена</string>
+    <string name="monthly_price">Ежемесячная цена</string>
+    <string name="purchase_now">Купить сейчас</string>
+    <string name="subscribe_now">Подпишитесь сейчас</string>
+
+
+    <string name="enable_disable_number_row">Включить/отключить числовой ряд</string>
+    <string name="visible_number_row">Видимый ряд цифр в верхней части клавиатуры</string>
+    <string name="show_numeric_hints">Показать числовые подсказки</string>
+    <string name="show_numeric_hint_on_first_row">Показывать подсказку цифр в первом ряду символов</string>
+    <string name="show_symbol_hints">Показать подсказки символов</string>
+    <string name="show_symbol_hints_on_rows">Показать подсказку по символам на втором и третьем ряду символов</string>
+    <string name="adjust_keyboard_font_size_portrait">Настройте размер шрифта клавиатуры для портретной ориентации</string>
+    <string name="adjust_keyboard_font_size_landscape">Настройте размер шрифта клавиатуры для альбомной ориентации</string>
+    <string name="keyboard_layout_settings">Настройки раскладки клавиатуры</string>
+    <string name="keyboard_height">Высота клавиатуры</string>
+    <string name="keyboard_key_click_settings">Настройки нажатия клавиш клавиатуры</string>
+    <string name="play_sound_on_key_click">Воспроизведение звука при нажатии клавиши</string>
+    <string name="key_click_sound_volume">Отрегулируйте громкость звука нажатия клавиш</string>
+    <string name="vibrate_on_key_click">Вибрация при нажатии клавиши</string>
+    <string name="key_vibration_strength">Отрегулируйте силу вибрации клавиш</string>
+    <string name="enable_popup_alphabets">Показывать всплывающие алфавиты, когда пользователь нажимает клавишу</string>
+    <string name="popup_feature">Функция всплывающего окна</string>
+    <string name="correction_settings">Настройки коррекции</string>
+    <string name="auto_capitalize">Автоматическая прописная буква</string>
+    <string name="save_caps_lock_state">Сохранить состояние Caps Lock</string>
+    <string name="show_editing_panel">Показать панель редактирования</string>
+    <string name="enable_disable_editing_panel">Включить/выключить панель редактирования</string>
+    <string name="available_gestures">Доступные жесты</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Включить/выключить режим управления одной рукой</string>
+    <string name="keyboard_keys_settings">Настройки клавиш клавиатуры</string>
+    <string name="enable_disable_suggestions_bar">Это будет видно в верхней части окна «Клавиатура».</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Все предложения будут показаны на панели предложений.</string>
+    <string name="show_suggestions">Показывать предложения, когда пользователь печатает</string>
+    <string name="customize_suggestion_bar">Настроить панель предложений</string>
+    <string name="customize_suggestion_button">Настроить кнопку предложения</string>
+    <string name="enable_disable_voice_typing">Включить/выключить голосовой ввод</string>
+    <string name="use_voice_typing">Используйте голосовой ввод</string>
+
+    <string name="settings">Настройки</string>
+    <string name="languages">Языки</string>
+    <string name="themes">Темы</string>
+    <string name="preferences">Предпочтения</string>
+    <string name="fonts">Шрифты</string>
+    <string name="text_correction">Исправление текста</string>
+    <string name="gestures">Жесты</string>
+    <string name="suggestions">Предложения</string>
+    <string name="one_hand_typing">Печать одной рукой</string>
+    <string name="editing_panel">Панель редактирования</string>
+    <string name="voice_typing">Голосовой ввод</string>
+
+    <string name="languages_localization">Языки и локализация</string>
+    <string name="customize_themes">Настроить темы</string>
+    <string name="keyboard_preferences">Настройки клавиатуры</string>
+    <string name="fonts_styles">Шрифты Стили</string>
+    <string name="text_correction_list">Исправление текста</string>
+    <string name="enable_gesture_typing">Включить жестовый ввод</string>
+    <string name="enable_auto_suggestions">Включить автоматические предложения</string>
+    <string name="one_hand_typing_mode">Режим набора текста одной рукой</string>
+    <string name="customize_editing_panel">Настроить панель редактирования</string>
+    <string name="voice_recognition_typing">Распознавание голоса и набор текста</string>
+
+    <string name="title_activity_language_picker">LanguagePickerActivity</string>
+    <string name="cencel_sub">Отменить подписку</string>
+    <string name="yearly_subscription">Годовая подписка</string>
+    <string name="app_languages">Выберите язык приложения</string>
+    <string name="change_app_theme">Выберите тему приложения</string>
+    <string name="default_theme">По умолчанию</string>
+    <string name="dark_theme">Темный</string>
+    <string name="light_theme">Свет</string>
+
+    <string name="app_theme_apply">Применять</string>
+    <string name="app_theme_cancel">Отмена</string>
+    <string name="test_keyboard_here">Проверьте клавиатуру здесь</string>
+    <string name="cancel">Отмена</string>
+
+
+    <string name="premium_keyboard_title">Клавиатура Плюс</string>
+    <string name="premium_des_title">Доступ ко всем функциям с премиум-подпиской</string>
+
+    <string name="customization_title">Настройка</string>
+    <string name="themes_fonts_title">Темы и шрифты</string>
+    <string name="no_ads_title">Без рекламы</string>
+    <string name="vip_support_title">VIP-поддержка</string>
+
+
+    <string name="reward_ad_show_title">Получить награду</string>
+    <string name="fonts_reward_dailog_des">В случае применения этого шрифта вам необходимо просмотреть рекламу с вознаграждением. Хотите ли вы показывать рекламу с вознаграждением?</string>
+    <string name="themes_reward_dailog_des">«В случае применения этой темы вам необходимо просмотреть рекламу с вознаграждением. Хотите ли вы показывать рекламу с вознаграждением?</string>
+    <string name="reward_dailog_show_ad_btn">Показать рекламу</string>
+    <string name="reward_dailog_cancel_btn">Отмена</string>
+    <string name="reward_dailog_get_premium_btn">Получить Премиум</string>
+    <string name="loading_ads">Загрузка рекламы…</string>
+    <string name="please_wait">Пожалуйста, подождите…</string>
+
+
+    <string name="exit_dailog_title">Выйти из приложения?</string>
+    <string name="exit_dailog_des">Вы уверены, что хотите выйти из приложения?</string>
+    <string name="exit_dailog_cancel_btn">Отмена</string>
+    <string name="exit_dailog_exit_btn">Выход</string>
+
+
+
+
+</resources>
+
+

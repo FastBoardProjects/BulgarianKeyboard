@@ -1,0 +1,136 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat
+        app:iconSpaceReserved="false"
+
+        app:title="@string/keyboard_keys_settings">
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+            android:defaultValue="false"
+            android:key="keyboard_number_row"
+            app:iconSpaceReserved="false"
+            app:summary="@string/visible_number_row"
+            app:title="@string/enable_disable_number_row" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+            android:defaultValue="false"
+            android:key="keyboard_hinted_number_row"
+            app:iconSpaceReserved="false"
+            app:summary="@string/show_numeric_hint_on_first_row"
+            app:title="@string/show_numeric_hints" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+            android:defaultValue="false"
+            android:key="keyboard_hinted_symbols"
+            app:iconSpaceReserved="false"
+            app:summary="@string/show_symbol_hints_on_rows"
+            app:title="@string/show_symbol_hints" />
+
+        <com.maya.newbulgariankeyboard.components.LatestDialogSeekBarPreference
+            android:defaultValue="110"
+            app:allowDividerAbove="false"
+            app:iconSpaceReserved="false"
+            app:key="keyboard_font_size_multiplier_portrait"
+            app:max="150"
+            app:min="50"
+            app:seekBarIncrement="5"
+            app:title="@string/adjust_keyboard_font_size_portrait"
+            app:unit="%" />
+
+        <com.maya.newbulgariankeyboard.components.LatestDialogSeekBarPreference
+            android:defaultValue="110"
+            app:allowDividerAbove="false"
+            app:iconSpaceReserved="false"
+            app:key="keyboard_font_size_multiplier_landscape"
+            app:max="150"
+            app:min="50"
+            app:seekBarIncrement="5"
+            app:title="@string/adjust_keyboard_font_size_landscape"
+            app:unit="%" />
+
+    </com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat>
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat
+        app:iconSpaceReserved="false"
+        app:title="@string/keyboard_layout_settings">
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestListPreferenceCompat
+
+        android:defaultValue="normal"
+            app:entries="@array/saving_height_factor_entries"
+            app:entryValues="@array/saving_height_factor_values"
+            app:iconSpaceReserved="false"
+            app:key="keyboard_height_factor"
+            app:title="@string/keyboard_height"
+            app:useSimpleSummaryProvider="true" />
+
+        <com.maya.newbulgariankeyboard.components.LatestDialogSeekBarPreference
+            android:defaultValue="100"
+            app:allowDividerAbove="false"
+            app:iconSpaceReserved="false"
+            app:isPreferenceVisible="false"
+            app:key="keyboard_height_factor_custom"
+            app:max="150"
+            app:min="50"
+            app:seekBarIncrement="5"
+            app:title="@string/saving_height_factor_custom_label"
+            app:unit="%" />
+
+
+    </com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat>
+
+    <com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat
+        app:iconSpaceReserved="false"
+        app:title="@string/keyboard_key_click_settings">
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="keyboard_sound_enabled"
+            app:iconSpaceReserved="false"
+            app:title="@string/play_sound_on_key_click" />
+
+        <com.maya.newbulgariankeyboard.components.LatestDialogSeekBarPreference
+            android:defaultValue="-1"
+            app:allowDividerAbove="false"
+            app:dependency="keyboard_sound_enabled"
+            app:iconSpaceReserved="false"
+            app:key="keyboard_sound_volume"
+            app:max="100"
+            app:min="0"
+            app:seekBarIncrement="1"
+            app:systemDefaultValue="-1"
+            app:systemDefaultValueText="@string/system_default"
+            app:title="@string/key_click_sound_volume"
+            app:unit="%" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="keyboard_vibration_enabled"
+            app:iconSpaceReserved="false"
+            app:title="@string/vibrate_on_key_click" />
+
+        <com.maya.newbulgariankeyboard.components.LatestDialogSeekBarPreference
+            android:defaultValue="-1"
+            app:allowDividerAbove="false"
+            app:dependency="keyboard_vibration_enabled"
+            app:iconSpaceReserved="false"
+            app:key="keyboard_vibration_strength"
+            app:max="100"
+            app:min="0"
+            app:seekBarIncrement="1"
+            app:systemDefaultValue="-1"
+            app:systemDefaultValueText="@string/system_default"
+            app:title="@string/key_vibration_strength"
+            app:unit="%" />
+
+        <com.maya.newbulgariankeyboard.main_utils.LatestSwitchPreferenceCompat
+            android:defaultValue="true"
+            app:iconSpaceReserved="false"
+            app:key="keyboard_popup_enabled"
+            app:summary="@string/enable_popup_alphabets"
+            app:title="@string/popup_feature" />
+
+    </com.maya.newbulgariankeyboard.main_utils.LatestCategoryPreferenceCompat>
+
+</PreferenceScreen>

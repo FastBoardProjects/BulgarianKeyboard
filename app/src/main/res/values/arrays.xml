@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="saving_height_factor_entries">
+        <item>@string/saving_height_factor_short</item>
+        <item>@string/saving_height_factor_mid_short</item>
+        <item>@string/saving_height_factor_normal</item>
+        <item>@string/saving_height_factor_tall</item>
+        <item>@string/saving_height_factor_extra_tall</item>
+        <!--     <item>@string/saving_height_factor_custom</item>-->
+    </string-array>
+    <string-array name="saving_height_factor_values">
+        <!-- <item>custom</item>-->
+        <item>short</item>
+        <item>mid_short</item>
+        <item>normal</item>
+        <item>tall</item>
+        <item>extra_tall</item>
+    </string-array>
+
+    <string-array name="saving_one_handed_mode_entries">
+        <item>@string/saving_one_handed_mode_off</item>
+        <item>@string/saving_one_handed_mode_right</item>
+        <item>@string/saving_one_handed_mode_left</item>
+    </string-array>
+    <string-array name="saving_one_handed_mode_values">
+        <item>off</item>
+        <item>end</item>
+        <item>start</item>
+    </string-array>
+
+    <string-array name="saving_advanced_settings_theme_entries">
+        <item>@string/system_default</item>
+        <item>@string/saving_advanced_settings_theme_light</item>
+        <item>@string/saving_advanced_settings_theme_dark</item>
+    </string-array>
+    <string-array name="saving_advanced_settings_theme_values">
+        <item>auto</item>
+        <item>light</item>
+        <item>dark</item>
+    </string-array>
+
+    <!--Gestures-->
+
+    <string-array name="saving_gestures_swipe_action_entries">
+        <item>@string/saving_gestures_swipe_action_no_action</item>
+        <item>@string/saving_gestures_swipe_action_hide_keyboard</item>
+        <item>@string/saving_gestures_swipe_action_move_cursor_up</item>
+        <item>@string/saving_gestures_swipe_action_move_cursor_down</item>
+        <item>@string/saving_gestures_swipe_action_move_cursor_left</item>
+        <item>@string/saving_gestures_swipe_action_move_cursor_right</item>
+        <item>@string/saving_gestures_swipe_action_shift</item>
+        <item>@string/saving_gestures_swipe_action_switch_to_prev_subtype</item>
+        <item>@string/saving_gestures_swipe_action_switch_to_next_subtype</item>
+    </string-array>
+
+    <string-array name="saving_gestures_swipe_action_values">
+        <item>no_action</item>
+        <item>hide_keyboard</item>
+        <item>move_cursor_up</item>
+        <item>move_cursor_down</item>
+        <item>move_cursor_left</item>
+        <item>move_cursor_right</item>
+        <item>shift</item>
+        <item>switch_to_prev_subtype</item>
+        <item>switch_to_next_subtype</item>
+    </string-array>
+
+
+    <string-array name="saving_gestures_swipe_action_delete_entries">
+        <item>@string/saving_gestures_swipe_action_no_action</item>
+        <item>@string/saving_gestures_swipe_action_delete_characters_precisely</item>
+        <item>@string/saving_gestures_swipe_action_delete_word</item>
+        <item>@string/saving_gestures_swipe_action_delete_words_precisely</item>
+    </string-array>
+    <string-array name="saving_gestures_swipe_action_delete_values">
+        <item>no_action</item>
+        <item>delete_characters_precisely</item>
+        <item>delete_word</item>
+        <item>delete_words_precisely</item>
+    </string-array>
+
+    <string-array name="saving_gestures_swipe_velocity_threshold_entries">
+        <item>@string/saving_gestures_swipe_velocity_threshold_very_slow</item>
+        <item>@string/saving_gestures_swipe_velocity_threshold_slow</item>
+        <item>@string/saving_gestures_swipe_velocity_threshold_normal</item>
+        <item>@string/saving_gestures_swipe_velocity_threshold_fast</item>
+        <item>@string/saving_gestures_swipe_velocity_threshold_very_fast</item>
+    </string-array>
+    <string-array name="saving_gestures_swipe_velocity_threshold_values">
+        <item>very_slow</item>
+        <item>slow</item>
+        <item>normal</item>
+        <item>fast</item>
+        <item>very_fast</item>
+    </string-array>
+
+    <string-array name="saving_gestures_swipe_distance_threshold_entries">
+        <item>@string/saving_gestures_swipe_distance_threshold_very_short</item>
+        <item>@string/saving_gestures_swipe_distance_threshold_short</item>
+        <item>@string/saving_gestures_swipe_distance_threshold_normal</item>
+        <item>@string/saving_gestures_swipe_distance_threshold_long</item>
+        <item>@string/saving_gestures_swipe_distance_threshold_very_long</item>
+    </string-array>
+    <string-array name="saving_gestures_swipe_distance_threshold_values">
+        <item>very_short</item>
+        <item>short</item>
+        <item>normal</item>
+        <item>long</item>
+        <item>very_long</item>
+    </string-array>
+</resources>

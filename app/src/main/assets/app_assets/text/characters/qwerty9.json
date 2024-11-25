@@ -1,0 +1,117 @@
+{
+  "type": "characters",
+  "name": "qwerty",
+  "direction": "ltr",
+  "arrangement": [
+    [
+      {
+        "code": 120162,
+        "label": "\ud835\udd62"
+      },
+      {
+        "code": 120168,
+        "label": "\ud835\udd68"
+      },
+      {
+        "code": 120150,
+        "label": "\ud835\udd56"
+      },
+      {
+        "code": 120163,
+        "label": "\ud835\udd63"
+      },
+      {
+        "code": 120165,
+        "label": "\ud835\udd65"
+      },
+      {
+        "code": 120170,
+        "label": "\ud835\udd6a"
+      },
+      {
+        "code": 120166,
+        "label": "\ud835\udd66"
+      },
+      {
+        "code": 120154,
+        "label": "\ud835\udd5a"
+      },
+      {
+        "code": 120160,
+        "label": "\ud835\udd60"
+      },
+      {
+        "code": 120161,
+        "label": "\ud835\udd61"
+      }
+    ],
+    [
+      {
+        "code": 120146,
+        "label": "\ud835\udd52"
+      },
+      {
+        "code": 120164,
+        "label": "\ud835\udd64"
+      },
+      {
+        "code": 120149,
+        "label": "\ud835\udd55"
+      },
+      {
+        "code": 120151,
+        "label": "\ud835\udd57"
+      },
+      {
+        "code": 120152,
+        "label": "\ud835\udd58"
+      },
+      {
+        "code": 120153,
+        "label": "\ud835\udd59"
+      },
+      {
+        "code": 120155,
+        "label": "\ud835\udd5b"
+      },
+      {
+        "code": 120156,
+        "label": "\ud835\udd5c"
+      },
+      {
+        "code": 120157,
+        "label": "\ud835\udd5d"
+      }
+    ],
+    [
+      {
+        "code": 120171,
+        "label": "\ud835\udd6b"
+      },
+      {
+        "code": 120169,
+        "label": "\ud835\udd69"
+      },
+      {
+        "code": 120148,
+        "label": "\ud835\udd54"
+      },
+      {
+        "code": 120167,
+        "label": "\ud835\udd67"
+      },
+      {
+        "code": 120147,
+        "label": "\ud835\udd53"
+      },
+      {
+        "code": 120159,
+        "label": "\ud835\udd5f"
+      },
+      {
+        "code": 120158,
+        "label": "\ud835\udd5e"
+      }
+    ]
+  ]
+}

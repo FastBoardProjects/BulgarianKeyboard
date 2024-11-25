@@ -1,0 +1,285 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">La política de privacidad de la aplicación Keyboard está redactada con el único fin de explicar cómo se recopila y utiliza la información que se puede obtener cuando visita o utiliza cualquiera de nuestros productos y servicios. Al acceder y/o utilizar esta información para el desarrollo de servicios y publicidad personalizada, usted acepta las políticas y prácticas descritas en esta Política de privacidad.</string>
+
+
+    <string name="system_default">Predeterminado del sistema</string>
+    <string name="settings_theme_background_active">Color de fondo cuando está activo</string>
+    <string name="settings_theme_background_pressed">Color de fondo al presionar</string>
+    <string name="settings_theme_foreground">Color de primer plano</string>
+    <string name="settings_theme_foreground_alt">Color de primer plano (alternativa)</string>
+
+    <string name="saving_group_keys_label">Llaves</string>
+    <string name="saving_number_row_label">Fila de números</string>
+    <string name="settings_theme_undefined">Indefinido</string>
+    <string name="settings_theme_preset_summary">Personalizado (basado en %s)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">Tema seleccionado:</string>
+    <string name="settings_theme_preset_dialog_available_themes">Temas disponibles:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">Flecha derecha</string>
+    <string name="settings_theme_background">Color de fondo</string>
+    <string name="saving_number_row_summary">Mostrar fila de números en la parte superior del diseño de caracteres</string>
+    <string name="saving_hinted_number_row_label">Fila de números sugeridos</string>
+    <string name="saving_hinted_number_row_summary">Primera fila de sugerencias de diseño de caracteres fila de números</string>
+
+    <string name="saving_group_layout_label">Disposición</string>
+    <string name="saving_one_handed_mode_label">Modo de una mano</string>
+    <string name="saving_one_handed_mode_off">Apagado</string>
+    <string name="saving_one_handed_mode_right">Modo para diestros</string>
+    <string name="saving_hinted_symbols_label">Símbolos sugeridos</string>
+    <string name="saving_hinted_symbols_summary">Segunda y tercera fila de símbolos de sugerencias de diseño de personajes</string>
+    <string name="saving_font_size_multiplier_portrait_label">Multiplicador de tamaño de fuente (vertical)</string>
+    <string name="saving_font_size_multiplier_landscape_label">Multiplicador de tamaño de fuente (horizontal)</string>
+    <string name="saving_one_handed_mode_left">Modo para zurdos</string>
+    <string name="saving_height_factor_label">Altura del teclado</string>
+    <string name="saving_height_factor_extra_short">Extra corto</string>
+    <string name="saving_height_factor_short">De baja estatura</string>
+    <string name="saving_height_factor_tall">De estatura alta</string>
+    <string name="saving_height_factor_extra_tall">Extra alto</string>
+    <string name="saving_height_factor_custom">Costumbre</string>
+    <string name="saving_height_factor_custom_label">Valor de altura del teclado personalizado</string>
+    <string name="saving_bottom_offset_label">Desplazamiento inferior (para pantallas curvas)</string>
+    <string name="saving_group_keypress_label">Pulsación de tecla</string>
+
+
+    <string name="saving_vibration_strength_label">Intensidad de vibración al pulsar una tecla</string>
+    <string name="saving_popup_visible_label">Visibilidad de las ventanas emergentes</string>
+    <string name="saving_popup_visible_summary">Mostrar ventana emergente al presionar una tecla</string>
+    <string name="saving_long_press_delay_label">Retardo prolongado al pulsar una tecla</string>
+    <string name="saving_smartbar_enabled_label">Habilitar la barra de sugerencias</string>
+    <string name="saving_smartbar_enabled_summary">Se mostrará en la parte superior del teclado.</string>
+    <string name="saving_sound_enabled_label">Sonido al pulsar una tecla</string>
+    <string name="saving_sound_volume_label">Volumen del sonido al pulsar una tecla</string>
+    <string name="saving_height_factor_mid_short">De estatura media</string>
+    <string name="saving_height_factor_normal">Estatura normal</string>
+    <string name="saving_correction_auto_capitalization_label">Capitalización automática</string>
+    <string name="saving_correction_auto_capitalization_summary">Poner en mayúsculas las palabras según el contexto de entrada actual</string>
+    <string name="saving_correction_remember_caps_lock_state_label">Recordar el estado de bloqueo de mayúsculas</string>
+    <string name="saving_height_factor_mid_tall">Mediano-alto</string>
+    <string name="saving_vibration_enabled_label">Vibrar al pulsar una tecla</string>
+    <string name="saving_suggestion_title">Sugerencias</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">La tecla Bloq Mayús permanecerá activada al pasar a otro campo de texto</string>
+    <string name="saving_correction_double_space_period_label">Punto de doble espacio</string>
+    <string name="saving_correction_double_space_period_summary">Al hacer dos clics en la barra espaciadora se insertará un punto con espacio.</string>
+
+    <string name="saving_correction_title">Correcciones</string>
+    <string name="saving_glide_title">Escritura deslizante</string>
+    <string name="saving_glide_enabled_label">Habilitar escritura deslizante</string>
+    <string name="saving_suggestion_enabled_label">Mostrar sugerencias cuando el usuario escribe</string>
+    <string name="saving_suggestion_enabled_summary">Se mostrará en la barra de sugerencias.</string>
+    <string name="saving_glide_show_trail_summary">Desaparecerá después de cada palabra.</string>
+    <string name="saving_gestures_title">Gestos</string>
+    <string name="saving_gestures_swipe_action_no_action">No hacer nada</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">Sugerencias de contenido del portapapeles</string>
+    <string name="saving_suggestion_use_pref_words_summary">Utilice palabras anteriores para generar sugerencias</string>
+    <string name="saving_glide_enabled_summary">Escribe una palabra deslizando el dedo por sus letras</string>
+    <string name="saving_glide_show_trail_label">Mostrar pista de planeo</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">Cursor hacia abajo</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">Cursor hacia la izquierda</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">Cursor a la derecha</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">Eliminar todos los caracteres</string>
+    <string name="saving_gestures_swipe_action_delete_word">Eliminar palabra actual</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">Eliminar todas las palabras</string>
+    <string name="saving_gestures_swipe_up_label">Gesto hacia arriba</string>
+    <string name="saving_gestures_swipe_down_label">Gesto hacia abajo</string>
+    <string name="saving_gestures_swipe_left_label">Gesto hacia la izquierda</string>
+    <string name="saving_gestures_swipe_right_label">Gesto hacia la derecha</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">Minimizar el teclado</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">Cursor hacia arriba</string>
+    <string name="saving_gestures_swipe_action_shift">Acción de cambio</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">Ir al idioma anterior</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">Pasar al siguiente idioma</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">Gesto de barra espaciadora hacia la izquierda</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">Gesto de barra espaciadora hacia la derecha</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">Muy lento</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">Lento</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">Normal</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">Rápido</string>
+
+    <string name="saving_advanced_settings_theme_light">Luz</string>
+    <string name="saving_advanced_settings_theme_dark">Oscuro</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">Botón Eliminar Gesto Izquierda</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">Umbral de velocidad de deslizamiento</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">Umbral de velocidad de deslizamiento</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">Largo</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">Muy largo</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">Umbral de distancia de deslizamiento</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">Muy corto</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">Corto</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">Normal</string>
+
+
+    <string name="txt_lang_frag">Todos los idiomas seleccionados serán visibles en el teclado.</string>
+    <string name="search_language_hint">Buscar idioma aquí..</string>
+    <string name="switch_to_keyboard_des">Múltiples idiomas Más de 100 temas GIF animados Pegatinas animadas, emojis Escritura por voz.</string>
+    <string name="welcome_to">Bienvenido a</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">Habilitar teclado</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">Seleccionar teclado</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">Finalizar la configuración</string>
+
+    <string name="enable_des">Haga clic aquí para habilitar el teclado en la lista de configuración de su método de entrada. Esto autorizará su ejecución en su dispositivo.</string>
+    <string name="select_des">Haga clic aquí para seleccionar su teclado en la lista de configuración de métodos de entrada. Esto lo autorizará a ejecutarse en su dispositivo.</string>
+    <string name="finish_des">¡Listo! Tu teclado está configurado y listo para usar.</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">Nombre de la fuente</string>
+    <string name="set_brightness">Establecer brillo</string>
+    <string name="default_themes">Temas predeterminados</string>
+    <string name="colors_themes">Temas de colores</string>
+    <string name="light_gradients_themes">Temas con degradados claros</string>
+    <string name="dark_gradients_themes">Temas con degradados oscuros</string>
+    <string name="landscapes_themes">Temas de paisajes</string>
+    <string name="gallery_themes">Temas de la galería</string>
+    <string name="crop_image">Recortar imagen</string>
+    <string name="next">Próximo</string>
+    <string name="mobile_consent_form">Formulario de consentimiento del RGPD</string>
+    <string name="privacy_policy_title">política de privacidad</string>
+    <string name="disclaimer">Descargo de responsabilidad</string>
+    <string name="have_accept">He leído y acepto</string>
+    <string name="theme_updated_successfully">El tema se ha actualizado correctamente</string>
+    <string name="apply_theme">Aplicar tema</string>
+    <string name="suggestions_database">Base de datos de sugerencias</string>
+    <string name="suggestions_dailog">Para habilitar la función Sugerencias en el teclado, debe descargar el archivo de base de datos de nuestro servidor. Tomará algunos segundos. ¿Desea descargarlo ahora o más tarde?</string>
+    <string name="download">Descargar</string>
+    <string name="later">Más tarde</string>
+    <string name="txt_nav_home">Hogar</string>
+    <string name="txt_nav_rate_app">Calificar y reseñar (anuncio)</string>
+    <string name="txt_nav_share_app">Compartir aplicación (anuncio)</string>
+    <string name="txt_nav_more_apps">Nuestras aplicaciones (Anuncio)</string>
+    <string name="txt_nav_family_apps">Nuestras aplicaciones familiares (Anuncio)</string>
+    <string name="txt_nav_feedback">Comentario</string>
+    <string name="txt_nav_update">Actualizar ahora</string>
+    <string name="txt_nav_ads_remove">Eliminar anuncios</string>
+    <string name="txt_feedback">Tengo comentarios sobre su aplicación de teclado</string>
+
+
+    <string name="finish">Finalizar</string>
+    <string name="space_for_advertisement">Espacio para publicidad</string>
+    <string name="other">Otro</string>
+
+
+    <string name="txt_nav_premium_version">Versión Premium</string>
+    <string name="support_the_development">Apoyar el desarrollo</string>
+    <string name="unlimited_customization">Personalización ilimitada</string>
+    <string name="complete_ad_free_version">Versión completa sin publicidad</string>
+    <string name="unlimited_themes">Temas y estilos de fuentes premium</string>
+    <string name="terms_of_services">Términos y condiciones</string>
+    <string name="this_subscriptions_renews_automatically">La "Suscripción mensual" le brinda acceso ilimitado a nuestra aplicación durante un mes y se renovará mensualmente. Si no la cancela, la compra de por vida es la única compra que se realiza una sola vez. Para obtener más información, consulte los Términos y condiciones del servicio.</string>
+
+
+    <string name="monthly_subscription">Suscripción mensual</string>
+    <string name="life_time_purchase">Compra de por vida</string>
+    <string name="life_time_price">Precio de por vida</string>
+    <string name="monthly_price">Precio mensual</string>
+    <string name="purchase_now">Comprar ahora</string>
+    <string name="subscribe_now">Suscríbete ahora</string>
+
+
+    <string name="enable_disable_number_row">Habilitar/Deshabilitar fila de números</string>
+    <string name="visible_number_row">Fila de números visible en la parte superior del teclado</string>
+    <string name="show_numeric_hints">Mostrar pistas numéricas</string>
+    <string name="show_numeric_hint_on_first_row">Mostrar pista de números en la primera fila de caracteres</string>
+    <string name="show_symbol_hints">Mostrar sugerencias de símbolos</string>
+    <string name="show_symbol_hints_on_rows">Mostrar sugerencias de símbolos en la segunda y tercera fila de caracteres</string>
+    <string name="adjust_keyboard_font_size_portrait">Ajustar el tamaño de fuente del teclado para la vista vertical</string>
+    <string name="adjust_keyboard_font_size_landscape">Ajustar el tamaño de fuente del teclado para la vista horizontal</string>
+    <string name="keyboard_layout_settings">Configuración de la distribución del teclado</string>
+    <string name="keyboard_height">Altura del teclado</string>
+    <string name="keyboard_key_click_settings">Configuración de clic de teclas del teclado</string>
+    <string name="play_sound_on_key_click">Reproducir sonido al hacer clic en una tecla</string>
+    <string name="key_click_sound_volume">Ajustar el volumen del sonido del clic de la tecla</string>
+    <string name="vibrate_on_key_click">Vibrar al hacer clic en una tecla</string>
+    <string name="key_vibration_strength">Ajustar la intensidad de vibración de las teclas</string>
+    <string name="enable_popup_alphabets">Mostrar alfabetos emergentes cuando el usuario hace clic en una tecla</string>
+    <string name="popup_feature">Función emergente</string>
+    <string name="correction_settings">Ajustes de corrección</string>
+    <string name="auto_capitalize">Capitalización automática</string>
+    <string name="save_caps_lock_state">Guardar estado de bloqueo de mayúsculas</string>
+    <string name="show_editing_panel">Mostrar panel de edición</string>
+    <string name="enable_disable_editing_panel">Habilitar/Deshabilitar el panel de edición</string>
+    <string name="available_gestures">Gestos disponibles</string>
+    <string name="enable_disable_keyboard_one_handed_mode">Habilitar/deshabilitar el modo de una mano</string>
+    <string name="keyboard_keys_settings">Configuración de teclas del teclado</string>
+    <string name="enable_disable_suggestions_bar">Esto será visible en la parte superior de la Vista del teclado.</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">Todas las sugerencias se mostrarán en la barra de sugerencias.</string>
+    <string name="show_suggestions">Mostrar sugerencias cuando el usuario escribe</string>
+    <string name="customize_suggestion_bar">Personalizar la barra de sugerencias</string>
+    <string name="customize_suggestion_button">Personalizar el botón de sugerencias</string>
+    <string name="enable_disable_voice_typing">Habilitar/deshabilitar la escritura por voz</string>
+    <string name="use_voice_typing">Utilice la escritura por voz</string>
+
+    <string name="settings">Ajustes</string>
+    <string name="languages">Idiomas</string>
+    <string name="themes">Temas</string>
+    <string name="preferences">Preferencias</string>
+    <string name="fonts">Fuentes</string>
+    <string name="text_correction">Corrección de texto</string>
+    <string name="gestures">Gestos</string>
+    <string name="suggestions">Sugerencias</string>
+    <string name="one_hand_typing">Escribir con una mano</string>
+    <string name="editing_panel">Panel de edición</string>
+    <string name="voice_typing">Escritura por voz</string>
+
+    <string name="languages_localization">Idiomas y localización</string>
+    <string name="customize_themes">Personalizar temas</string>
+    <string name="keyboard_preferences">Preferencias del teclado</string>
+    <string name="fonts_styles">Estilos de fuentes</string>
+    <string name="text_correction_list">Corrección de texto</string>
+    <string name="enable_gesture_typing">Habilitar escritura gestual</string>
+    <string name="enable_auto_suggestions">Habilitar sugerencias automáticas</string>
+    <string name="one_hand_typing_mode">Modo de escritura con una mano</string>
+    <string name="customize_editing_panel">Personalizar el panel de edición</string>
+    <string name="voice_recognition_typing">Reconocimiento de voz y mecanografía</string>
+
+    <string name="title_activity_language_picker">Actividad de selección de idioma</string>
+    <string name="cencel_sub">Cancelar suscripción</string>
+    <string name="yearly_subscription">Suscripción anual</string>
+    <string name="app_languages">Elija el idioma de la aplicación</string>
+    <string name="change_app_theme">Elija el tema de la aplicación</string>
+    <string name="default_theme">Por defecto</string>
+    <string name="dark_theme">Oscuro</string>
+    <string name="light_theme">Luz</string>
+
+    <string name="app_theme_apply">Aplicar</string>
+    <string name="app_theme_cancel">Cancelar</string>
+    <string name="test_keyboard_here">Pruebe el teclado aquí</string>
+    <string name="cancel">Cancelar</string>
+
+
+    <string name="premium_keyboard_title">Teclado Plus</string>
+    <string name="premium_des_title">Accede a todas las funciones con Premium</string>
+
+    <string name="customization_title">Personalización</string>
+    <string name="themes_fonts_title">Temas y fuentes</string>
+    <string name="no_ads_title">Sin anuncios</string>
+    <string name="vip_support_title">Soporte VIP</string>
+
+
+    <string name="reward_ad_show_title">Obtenga recompensa</string>
+    <string name="fonts_reward_dailog_des">En caso de aplicar esta fuente, debe ver el anuncio de recompensa. ¿Quiere mostrar el anuncio de recompensa?</string>
+    <string name="themes_reward_dailog_des">"En caso de aplicar este tema, es necesario ver el anuncio de recompensa. ¿Quieres mostrar el anuncio de recompensa?</string>
+    <string name="reward_dailog_show_ad_btn">Mostrar anuncio</string>
+    <string name="reward_dailog_cancel_btn">Cancelar</string>
+    <string name="reward_dailog_get_premium_btn">Obtener Premium</string>
+    <string name="loading_ads">Cargando anuncios…</string>
+    <string name="please_wait">Espere por favor…</string>
+
+
+    <string name="exit_dailog_title">¿Salir de la aplicación?</string>
+    <string name="exit_dailog_des">¿Estás seguro de salir de la aplicación?</string>
+    <string name="exit_dailog_cancel_btn">Cancelar</string>
+    <string name="exit_dailog_exit_btn">Salida</string>
+
+
+
+</resources>
+
+

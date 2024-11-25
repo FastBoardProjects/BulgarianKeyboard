@@ -1,0 +1,286 @@
+<resources>
+    <!--Translate Strings-->
+
+    <string name="privacy_content">کی بورڈ ایپ کی رازداری کی پالیسی دراصل صرف اس مقصد کے لیے لکھی گئی ہے کہ اس معلومات کو جمع کرنے اور استعمال کرنے کی وضاحت کی جائے جو آپ ہماری مصنوعات اور خدمات میں سے کسی پر جانے یا استعمال کرنے کے وقت ہو سکتی ہے۔ ذاتی تشہیر اور خدمات کی ترقی کے لیے اس تک رسائی اور/یا استعمال کرکے، آپ اس رازداری کی پالیسی میں بیان کردہ پالیسیوں اور طریقوں سے اتفاق کر رہے ہیں۔</string>
+
+
+    <string name="system_default">سسٹم ڈیفالٹ</string>
+    <string name="settings_theme_background_active">فعال ہونے پر پس منظر کا رنگ</string>
+    <string name="settings_theme_background_pressed">دبانے پر پس منظر کا رنگ</string>
+    <string name="settings_theme_foreground">پیش منظر کا رنگ</string>
+    <string name="settings_theme_foreground_alt">پیش منظر کا رنگ (متبادل)</string>
+
+    <string name="saving_group_keys_label">چابیاں</string>
+    <string name="saving_number_row_label">نمبر قطار</string>
+    <string name="settings_theme_undefined">غیر متعینہ</string>
+    <string name="settings_theme_preset_summary">حسب ضرورت (%s کی بنیاد پر)</string>
+    <string name="settings_theme_preset_dialog_selected_theme">منتخب کردہ تھیم:</string>
+    <string name="settings_theme_preset_dialog_available_themes">دستیاب تھیمز:</string>
+    <string name="settings_theme_preset_dialog_alt_arrow_right">تیر دائیں طرف</string>
+    <string name="settings_theme_background">پس منظر کا رنگ</string>
+    <string name="saving_number_row_summary">کریکٹر لے آؤٹ کے اوپر نمبر قطار دکھائیں۔</string>
+    <string name="saving_hinted_number_row_label">اشارہ کردہ نمبر قطار</string>
+    <string name="saving_hinted_number_row_summary">کریکٹر لے آؤٹ کی پہلی قطار اشارے نمبر قطار</string>
+
+    <string name="saving_group_layout_label">لے آؤٹ</string>
+    <string name="saving_one_handed_mode_label">ایک ہاتھ کا موڈ</string>
+    <string name="saving_one_handed_mode_off">آف</string>
+    <string name="saving_one_handed_mode_right">دائیں ہاتھ کا موڈ</string>
+    <string name="saving_hinted_symbols_label">اشارے کی علامتیں۔</string>
+    <string name="saving_hinted_symbols_summary">کریکٹر لے آؤٹ اشارے کی علامتوں کی دوسری اور تیسری قطار</string>
+    <string name="saving_font_size_multiplier_portrait_label">فونٹ سائز ضرب (پورٹریٹ)</string>
+    <string name="saving_font_size_multiplier_landscape_label">فونٹ سائز ضرب (زمین کی تزئین)</string>
+    <string name="saving_one_handed_mode_left">بائیں ہاتھ کا موڈ</string>
+    <string name="saving_height_factor_label">کی بورڈ کی اونچائی</string>
+    <string name="saving_height_factor_extra_short">اضافی مختصر</string>
+    <string name="saving_height_factor_short">چھوٹی اونچائی</string>
+    <string name="saving_height_factor_tall">لمبا قد</string>
+    <string name="saving_height_factor_extra_tall">اضافی لمبا</string>
+    <string name="saving_height_factor_custom">حسب ضرورت</string>
+    <string name="saving_height_factor_custom_label">حسب ضرورت کی بورڈ اونچائی کی قدر</string>
+    <string name="saving_bottom_offset_label">نیچے کا آفسیٹ (مڑے ہوئے اسکرینوں کے لیے)</string>
+    <string name="saving_group_keypress_label">کلید دبائیں</string>
+
+
+    <string name="saving_vibration_strength_label">کلیدی دبانے پر کمپن کی طاقت</string>
+    <string name="saving_popup_visible_label">پاپ اپ مرئیت</string>
+    <string name="saving_popup_visible_summary">جب آپ کوئی کلید دبائیں تو پاپ اپ دکھائیں۔</string>
+    <string name="saving_long_press_delay_label">لمبی کلید دبانے میں تاخیر</string>
+    <string name="saving_smartbar_enabled_label">تجویز بار کو فعال کریں۔</string>
+    <string name="saving_smartbar_enabled_summary">کی بورڈ کے اوپر دکھائی دے گا۔</string>
+    <string name="saving_sound_enabled_label">کلید دبانے پر آواز</string>
+    <string name="saving_sound_volume_label">کلید دبانے پر آواز کا حجم</string>
+    <string name="saving_height_factor_mid_short">درمیانی قد</string>
+    <string name="saving_height_factor_normal">عمومی اونچائی</string>
+    <string name="saving_correction_auto_capitalization_label">خودکار کیپٹلائزیشن</string>
+    <string name="saving_correction_auto_capitalization_summary">موجودہ ان پٹ سیاق و سباق کی بنیاد پر الفاظ کیپٹلائز کریں۔</string>
+    <string name="saving_correction_remember_caps_lock_state_label">کیپس لاک کی حالت کو یاد رکھیں</string>
+    <string name="saving_height_factor_mid_tall">درمیانی قد</string>
+    <string name="saving_vibration_enabled_label">کلید دبانے پر وائبریٹ کریں۔</string>
+    <string name="saving_suggestion_title">تجاویز</string>
+    <string name="saving_correction_remember_caps_lock_state_summary">دوسرے ٹیکسٹ فیلڈ میں جانے پر کیپس لاک آن رہے گا۔</string>
+    <string name="saving_correction_double_space_period_label">ڈبل اسپیس کا دورانیہ</string>
+    <string name="saving_correction_double_space_period_summary">اسپیس بار پر دو بار کلک کرنے سے اسپیس کے ساتھ ایک پیریڈ ڈالا جائے گا۔</string>
+
+    <string name="saving_correction_title">تصحیحات</string>
+    <string name="saving_glide_title">گلائیڈ ٹائپنگ</string>
+    <string name="saving_glide_enabled_label">گلائیڈ ٹائپنگ کو فعال کریں۔</string>
+    <string name="saving_suggestion_enabled_label">صارف کے ٹائپ کرنے پر تجاویز دکھائیں۔</string>
+    <string name="saving_suggestion_enabled_summary">تجویز بار میں دکھایا جائے گا</string>
+    <string name="saving_glide_show_trail_summary">ہر لفظ کے بعد غائب ہو جائے گا۔</string>
+    <string name="saving_gestures_title">اشارے</string>
+    <string name="saving_gestures_swipe_action_no_action">کچھ نہ کرو</string>
+    <string name="saving_suggestion_suggest_clipboard_content_label">کلپ بورڈ مواد کی تجاویز</string>
+    <string name="saving_suggestion_use_pref_words_summary">تجاویز تیار کرنے کے لیے پچھلے الفاظ استعمال کریں۔</string>
+    <string name="saving_glide_enabled_summary">کسی لفظ کو اس کے حروف کے ذریعے اپنی انگلی کو سلائیڈ کرکے ٹائپ کریں۔</string>
+    <string name="saving_glide_show_trail_label">گلائیڈ ٹریل دکھائیں۔</string>
+    <string name="saving_gestures_swipe_action_move_cursor_down">کرسر نیچے</string>
+    <string name="saving_gestures_swipe_action_move_cursor_left">کرسر بائیں</string>
+    <string name="saving_gestures_swipe_action_move_cursor_right">کرسر دائیں</string>
+    <string name="saving_gestures_swipe_action_delete_characters_precisely">تمام حروف کو ہٹا دیں۔</string>
+    <string name="saving_gestures_swipe_action_delete_word">موجودہ لفظ کو ہٹا دیں۔</string>
+    <string name="saving_gestures_swipe_action_delete_words_precisely">تمام الفاظ کو ہٹا دیں۔</string>
+    <string name="saving_gestures_swipe_up_label">اشارہ کرنا</string>
+    <string name="saving_gestures_swipe_down_label">نیچے کا اشارہ کریں۔</string>
+    <string name="saving_gestures_swipe_left_label">اشارہ چھوڑ دیا۔</string>
+    <string name="saving_gestures_swipe_right_label">اشارہ دائیں طرف</string>
+    <string name="saving_gestures_swipe_action_hide_keyboard">کی بورڈ کو چھوٹا کریں۔</string>
+    <string name="saving_gestures_swipe_action_move_cursor_up">کرسر اوپر</string>
+    <string name="saving_gestures_swipe_action_shift">شفٹ ایکشن</string>
+    <string name="saving_gestures_swipe_action_switch_to_prev_subtype">پچھلی زبان پر جائیں۔</string>
+    <string name="saving_gestures_swipe_action_switch_to_next_subtype">اگلی زبان پر جائیں۔</string>
+    <string name="saving_gestures_space_bar_swipe_left_label">اسپیس بار کا اشارہ بائیں</string>
+    <string name="saving_gestures_space_bar_swipe_right_label">اسپیس بار اشارہ دائیں</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_slow">بہت سست</string>
+    <string name="saving_gestures_swipe_velocity_threshold_slow">سست</string>
+    <string name="saving_gestures_swipe_velocity_threshold_normal">نارمل</string>
+    <string name="saving_gestures_swipe_velocity_threshold_fast">تیز</string>
+
+    <string name="saving_advanced_settings_theme_light">روشنی</string>
+    <string name="saving_advanced_settings_theme_dark">اندھیرا</string>
+    <string name="saving_gestures_delete_key_swipe_left_label">ڈیلیٹ بٹن کا اشارہ بائیں</string>
+    <string name="saving_gestures_swipe_velocity_threshold_label">رفتار کی حد کو سوائپ کریں۔</string>
+    <string name="saving_gestures_swipe_velocity_threshold_very_fast">رفتار کی حد کو سوائپ کریں۔</string>
+    <string name="saving_gestures_swipe_distance_threshold_long">لمبی</string>
+    <string name="symbols_key" translatable="false">=\\&lt;</string>
+    <string name="key_view_half_space" translatable="false">&#8626;</string>
+    <string name="view_arabic" translatable="false">"یـ"</string>
+    <string name="view_english_us" translatable="false">"English (United States)"</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_long">بہت طویل</string>
+    <string name="saving_gestures_swipe_distance_threshold_label">سوائپ فاصلے کی حد</string>
+    <string name="saving_gestures_swipe_distance_threshold_very_short">بہت مختصر</string>
+    <string name="saving_gestures_swipe_distance_threshold_short">مختصر</string>
+    <string name="saving_gestures_swipe_distance_threshold_normal">نارمل</string>
+
+
+    <string name="txt_lang_frag">تمام منتخب زبانیں کی بورڈ میں نظر آئیں گی۔</string>
+    <string name="search_language_hint">یہاں زبان تلاش کریں..</string>
+    <string name="switch_to_keyboard_des">متعدد زبانیں 100+ تھیمز اینیمیٹڈ GIFs اینیمیٹڈ اسٹیکرز، ایموجیز وائس ٹائپنگ۔</string>
+    <string name="welcome_to">میں خوش آمدید</string>
+    <string name="step1" translatable="false">1</string>
+    <string name="choose_keyboard">کی بورڈ کو فعال کریں۔</string>
+    <string name="step2" translatable="false">2</string>
+    <string name="switch_keyboard">کی بورڈ کو منتخب کریں۔</string>
+    <string name="step3" translatable="false">3</string>
+    <string name="finish_keyboard">سیٹ اپ ختم کریں۔</string>
+
+    <string name="enable_des">اپنے ان پٹ طریقہ کی ترتیبات کی فہرست میں کی بورڈ کو فعال کرنے کے لیے یہاں کلک کریں۔ یہ اسے آپ کے آلے پر چلنے کی اجازت دے گا۔</string>
+    <string name="select_des">اپنی ان پٹ طریقہ کی ترتیبات کی فہرست میں اپنا کی بورڈ منتخب کرنے کے لیے یہاں کلک کریں۔ یہ اسے آپ کے آلے پر چلنے کی اجازت دے گا۔</string>
+    <string name="finish_des">سب ہو گیا! آپ کا کی بورڈ سیٹ اپ ہے اور استعمال کے لیے تیار ہے۔</string>
+
+
+    <string name="app_version" translatable="false">v 1.0.1</string>
+    <string name="font_name">فونٹ کا نام</string>
+    <string name="set_brightness">چمک سیٹ کریں۔</string>
+    <string name="default_themes">پہلے سے طے شدہ تھیمز</string>
+    <string name="colors_themes">رنگین تھیمز</string>
+    <string name="light_gradients_themes">ہلکے گریڈیئنٹس تھیمز</string>
+    <string name="dark_gradients_themes">ڈارک گریڈیئنٹس تھیمز</string>
+    <string name="landscapes_themes">مناظر کے تھیمز</string>
+    <string name="gallery_themes">گیلری تھیمز</string>
+    <string name="crop_image">تصویر کو تراشیں۔</string>
+    <string name="next">اگلا</string>
+    <string name="mobile_consent_form">جی ڈی پی آر رضامندی فارم</string>
+    <string name="privacy_policy_title">رازداری کی پالیسی</string>
+    <string name="disclaimer">ڈس کلیمر</string>
+    <string name="have_accept">میں نے پڑھا اور قبول کیا۔</string>
+    <string name="theme_updated_successfully">تھیم کو کامیابی کے ساتھ اپ ڈیٹ کر دیا گیا ہے۔</string>
+    <string name="apply_theme">تھیم کا اطلاق کریں۔</string>
+    <string name="suggestions_database">تجاویز کا ڈیٹا بیس</string>
+    <string name="suggestions_dailog">کی بورڈ میں تجاویز کی خصوصیت کو فعال کرنے کے لیے آپ کو ہمارے سرور سے ڈیٹا بیس فائل ڈاؤن لوڈ کرنا ہوگی۔ اس میں کچھ سیکنڈ لگیں گے۔ کیا آپ ابھی ڈاؤن لوڈ کرنا چاہتے ہیں یا بعد میں؟</string>
+    <string name="download">ڈاؤن لوڈ کریں۔</string>
+    <string name="later">بعد میں</string>
+    <string name="txt_nav_home">گھر</string>
+    <string name="txt_nav_rate_app">شرح &amp; جائزہ (اشتہار)</string>
+    <string name="txt_nav_share_app">ایپ شیئر کریں (اشتہار)</string>
+    <string name="txt_nav_more_apps">ہماری ایپس (اشتہار)</string>
+    <string name="txt_nav_family_apps">ہماری فیملی ایپس (اشتہار)</string>
+    <string name="txt_nav_feedback">تاثرات</string>
+    <string name="txt_nav_update">ابھی اپ ڈیٹ کریں۔</string>
+    <string name="txt_nav_ads_remove">اشتہارات کو ہٹا دیں۔</string>
+    <string name="txt_feedback">میرے پاس آپ کی کی بورڈ ایپ کے بارے میں رائے ہے۔</string>
+
+
+    <string name="finish">ختم کرنا</string>
+    <string name="space_for_advertisement">اشتہار کے لیے جگہ</string>
+    <string name="other">دیگر</string>
+
+
+    <string name="txt_nav_premium_version">پریمیم ورژن</string>
+    <string name="support_the_development">ترقی کی حمایت کریں۔</string>
+    <string name="unlimited_customization">لامحدود حسب ضرورت</string>
+    <string name="complete_ad_free_version">اشتہارات سے پاک ورژن مکمل کریں۔</string>
+    <string name="unlimited_themes">پریمیم تھیمز اور فونٹس کے انداز</string>
+    <string name="terms_of_services">شرائط &amp; شرائط</string>
+    <string name="this_subscriptions_renews_automatically">"ماہانہ سبسکرپشن" آپ کو ہماری درخواست تک ایک ماہ تک لامحدود رسائی فراہم کرتا ہے اور اس کی ماہانہ تجدید ہوگی۔ اگر آپ اسے منسوخ نہیں کرتے ہیں۔\n لائف ٹائم خریداری صرف ایک بار کی خریداری ہے۔ مزید معلومات کے لیے براہ کرم شرائط اور amp؛ دیکھیں۔ سروس کی شرائط</string>
+
+
+    <string name="monthly_subscription">ماہانہ رکنیت</string>
+    <string name="life_time_purchase">لائف ٹائم خریداری</string>
+    <string name="life_time_price">لائف ٹائم قیمت</string>
+    <string name="monthly_price">ماہانہ قیمت</string>
+    <string name="purchase_now">ابھی خریدیں۔</string>
+    <string name="subscribe_now">ابھی سبسکرائب کریں۔</string>
+
+
+    <string name="enable_disable_number_row">نمبر قطار کو فعال/غیر فعال کریں۔</string>
+    <string name="visible_number_row">کی بورڈ کے اوپری حصے پر مرئی نمبر کی قطار</string>
+    <string name="show_numeric_hints">عددی اشارے دکھائیں۔</string>
+    <string name="show_numeric_hint_on_first_row">حروف کی پہلی قطار پر نمبروں کا اشارہ دکھائیں۔</string>
+    <string name="show_symbol_hints">علامتی اشارے دکھائیں۔</string>
+    <string name="show_symbol_hints_on_rows">حروف کی دوسری اور تیسری قطار پر علامتوں کا اشارہ دکھائیں۔</string>
+    <string name="adjust_keyboard_font_size_portrait">پورٹریٹ ویو کے لیے کی بورڈ فونٹ کا سائز ایڈجسٹ کریں۔</string>
+    <string name="adjust_keyboard_font_size_landscape">لینڈ سکیپ ویو کے لیے کی بورڈ فونٹ کا سائز ایڈجسٹ کریں۔</string>
+    <string name="keyboard_layout_settings">کی بورڈ لے آؤٹ کی ترتیبات</string>
+    <string name="keyboard_height">کی بورڈ کی اونچائی</string>
+    <string name="keyboard_key_click_settings">کی بورڈ کلید ترتیبات پر کلک کریں۔</string>
+    <string name="play_sound_on_key_click">کلیدی کلک پر آواز چلائیں۔</string>
+    <string name="key_click_sound_volume">کلیدی کلک آواز والیوم کو ایڈجسٹ کریں۔</string>
+    <string name="vibrate_on_key_click">کلیدی کلک پر وائبریٹ کریں۔</string>
+    <string name="key_vibration_strength">کلیدی وائبریشن کی طاقت کو ایڈجسٹ کریں۔</string>
+    <string name="enable_popup_alphabets">جب صارف کسی کلید پر کلک کرتا ہے تو پاپ اپ حروف تہجی دکھائیں۔</string>
+    <string name="popup_feature">پاپ اپ فیچر</string>
+    <string name="correction_settings">تصحیح کی ترتیبات</string>
+    <string name="auto_capitalize">آٹو کیپیٹلائز</string>
+    <string name="save_caps_lock_state">Caps Lock کی حالت کو محفوظ کریں۔</string>
+    <string name="show_editing_panel">ترمیمی پینل دکھائیں۔</string>
+    <string name="enable_disable_editing_panel">ترمیمی پینل کو فعال/غیر فعال کریں۔</string>
+    <string name="available_gestures">دستیاب اشارے</string>
+    <string name="enable_disable_keyboard_one_handed_mode">ون ہینڈڈ موڈ کو فعال/غیر فعال کریں۔</string>
+    <string name="keyboard_keys_settings">کی بورڈ کیز کی ترتیبات</string>
+    <string name="enable_disable_suggestions_bar">یہ کی بورڈ ویو کے اوپری حصے میں نظر آئے گا۔</string>
+    <string name="suggestions_will_shown_on_suggestion_bar">تمام تجاویز تجاویز بار پر دکھائی جائیں گی۔</string>
+    <string name="show_suggestions">صارف کے ٹائپ کرنے پر تجاویز دکھائیں۔</string>
+    <string name="customize_suggestion_bar">تجویز بار کو حسب ضرورت بنائیں</string>
+    <string name="customize_suggestion_button">تجویز بٹن کو حسب ضرورت بنائیں</string>
+    <string name="enable_disable_voice_typing">صوتی ٹائپنگ کو فعال/غیر فعال کریں۔</string>
+    <string name="use_voice_typing">وائس ٹائپنگ کا استعمال کریں۔</string>
+
+    <string name="settings">ترتیبات</string>
+    <string name="languages">زبانیں</string>
+    <string name="themes">تھیمز</string>
+    <string name="preferences">ترجیحات</string>
+    <string name="fonts">فونٹس</string>
+    <string name="text_correction">متن کی تصحیح</string>
+    <string name="gestures">اشارے</string>
+    <string name="suggestions">تجاویز</string>
+    <string name="one_hand_typing">ون ہینڈ ٹائپنگ</string>
+    <string name="editing_panel">ایڈیٹنگ پینل</string>
+    <string name="voice_typing">وائس ٹائپنگ</string>
+
+    <string name="languages_localization">زبانیں &amp; لوکلائزیشن</string>
+    <string name="customize_themes">تھیمز کو حسب ضرورت بنائیں</string>
+    <string name="keyboard_preferences">کی بورڈ کی ترجیحات</string>
+    <string name="fonts_styles">فونٹس کے انداز</string>
+    <string name="text_correction_list">متن کی تصحیح</string>
+    <string name="enable_gesture_typing">اشارہ ٹائپنگ کو فعال کریں۔</string>
+    <string name="enable_auto_suggestions">خودکار تجاویز کو فعال کریں۔</string>
+    <string name="one_hand_typing_mode">ون ہینڈ ٹائپنگ موڈ</string>
+    <string name="customize_editing_panel">ترمیمی پینل کو حسب ضرورت بنائیں</string>
+    <string name="voice_recognition_typing">آواز کی شناخت اور ٹائپنگ</string>
+
+    <string name="title_activity_language_picker">LanguagePickerActivity</string>
+    <string name="cencel_sub">رکنیت منسوخ کریں۔</string>
+    <string name="yearly_subscription">سالانہ سبسکرپشن</string>
+    <string name="app_languages">ایپ کی زبان کا انتخاب کریں۔</string>
+    <string name="change_app_theme">ایپ تھیم کا انتخاب کریں۔</string>
+    <string name="default_theme">طے شدہ</string>
+    <string name="dark_theme">اندھیرا</string>
+    <string name="light_theme">روشنی</string>
+
+    <string name="app_theme_apply">لگائیں</string>
+    <string name="app_theme_cancel">منسوخ کریں۔</string>
+    <string name="test_keyboard_here">یہاں کی بورڈ کی جانچ کریں۔</string>
+    <string name="cancel">منسوخ کریں۔</string>
+
+
+    <string name="premium_keyboard_title">کی بورڈ پلس</string>
+    <string name="premium_des_title">پریمیم کے ساتھ تمام خصوصیات تک رسائی حاصل کریں۔</string>
+
+    <string name="customization_title">حسب ضرورت</string>
+    <string name="themes_fonts_title">تھیمز اور فونٹس</string>
+    <string name="no_ads_title">کوئی اشتہار نہیں۔</string>
+    <string name="vip_support_title">وی آئی پی سپورٹ</string>
+
+
+    <string name="reward_ad_show_title">انعام حاصل کریں۔</string>
+    <string name="fonts_reward_dailog_des">اس فونٹ کو لاگو کرنے کی صورت میں آپ کو انعام یافتہ اشتہار دیکھنا ہوگا۔ کیا آپ انعام AD دکھانا چاہتے ہیں؟</string>
+    <string name="themes_reward_dailog_des">"اس تھیم کو لاگو کرنے کی صورت میں آپ کو انعام یافتہ اشتہار دیکھنا ہوگا۔ کیا آپ انعام کا AD دکھانا چاہتے ہیں؟</string>
+    <string name="reward_dailog_show_ad_btn">اشتہار دکھائیں۔</string>
+    <string name="reward_dailog_cancel_btn">منسوخ کریں۔</string>
+    <string name="reward_dailog_get_premium_btn">پریمیم حاصل کریں۔</string>
+    <string name="loading_ads">اشتہارات لوڈ ہو رہے ہیں…</string>
+    <string name="please_wait">برائے مہربانی انتظار کریں…</string>
+
+
+    <string name="exit_dailog_title">ایپ سے باہر نکلیں؟</string>
+    <string name="exit_dailog_des">کیا آپ یقینی طور پر ایپ سے باہر نکلنا چاہتے ہیں؟</string>
+    <string name="exit_dailog_cancel_btn">منسوخ کریں۔</string>
+    <string name="exit_dailog_exit_btn">باہر نکلیں۔</string>
+
+
+
+
+</resources>
+
+

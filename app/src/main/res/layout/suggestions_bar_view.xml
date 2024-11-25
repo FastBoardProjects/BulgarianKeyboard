@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.maya.newbulgariankeyboard.text_inputs.keyboard_suggestions_bar.LatestCandidateView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/smartbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="locale"
+    android:orientation="horizontal"
+    android:layout_marginTop="@dimen/_2sdp">
+
+    <com.maya.newbulgariankeyboard.main_classes.LatestViewAdjuster
+        android:id="@+id/action_start_area"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:layout_constrainedWidth="true"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.maya.newbulgariankeyboard.text_inputs.keyboard_suggestions_bar.LatestCandidateItemView
+            android:id="@+id/quick_action_toggle"
+            style="@style/SuggestionsBarButtonNew.Toggle"
+            android:src="@drawable/ic_keyboard_arrow_right" />
+
+        <com.maya.newbulgariankeyboard.text_inputs.keyboard_suggestions_bar.LatestCandidateItemView
+            android:id="@+id/back_button"
+            style="@style/SuggestionsBarButtonNew"
+            android:src="@drawable/ic_back_icon" />
+
+    </com.maya.newbulgariankeyboard.main_classes.LatestViewAdjuster>
+
+    <!--second layout-->
+    <com.maya.newbulgariankeyboard.main_classes.LatestViewAdjuster
+        android:id="@+id/main_area"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:layout_constrainedWidth="true"
+        app:layout_constraintEnd_toStartOf="@id/action_end_area"
+        app:layout_constraintStart_toEndOf="@id/action_start_area"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <!--suggestion layout-->
+        <LinearLayout
+            android:id="@+id/candidates"
+            style="@style/SuggestionsBarParentTheme">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerViewSuggestions"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="visible" />
+
+        </LinearLayout>
+
+        <!--clipboard text layout-->
+        <LinearLayout
+            android:id="@+id/clipboard_suggestion_row"
+            style="@style/SuggestionsBarParentTheme">
+
+            <Button
+                android:id="@+id/clipboard_suggestion"
+                style="@style/SuggestionsBarSingleButton.ClipboardSuggestion"
+                android:drawableStart="@drawable/ic_content_paste_with_padding" />
+
+        </LinearLayout>
+
+        <!--Emoji buttons layout-->
+        <LinearLayout
+            android:id="@+id/quick_actions"
+            style="@style/SuggestionsBarParentTheme">
+
+            <com.maya.newbulgariankeyboard.text_inputs.keyboard_suggestions_bar.LatestCandidateItemView
+                android:id="@+id/quick_action_one_handed_toggle"
+                style="@style/SuggestionsBarButtonNew"
+                android:src="@drawable/ic_hand_icon" />
+
+            <com.maya.newbulgariankeyboard.text_inputs.keyboard_suggestions_bar.LatestCandidateItemView
+                android:id="@+id/quick_action_switch_to_editing_context"
+                style="@style/SuggestionsBarButtonNew"
+                android:src="@drawable/ic_editing_icon" />
+
+            <com.maya.newbulgariankeyboard.text_inputs.keyboard_suggestions_bar.LatestCandidateItemView
+                android:id="@+id/quick_action_switch_to_media_context"
+                style="@style/SuggestionsBarButtonNew"
+                android:src="@drawable/ic_languages_icon" />
+
+            <com.maya.newbulgariankeyboard.text_inputs.keyboard_suggestions_bar.LatestCandidateItemView
+                android:id="@+id/quick_action_voice_input"
+                style="@style/SuggestionsBarButtonNew"
+                android:contentDescription="@string/smartbar_quick_action_voice_input"
+                android:src="@drawable/ic_voice_input_icon" />
+
+            <com.maya.newbulgariankeyboard.text_inputs.keyboard_suggestions_bar.LatestCandidateItemView
+                android:id="@+id/quick_action_open_settings"
+                style="@style/SuggestionsBarButtonNew"
+                android:src="@drawable/ic_settings_icon" />
+
+        </LinearLayout>
+
+        <com.maya.newbulgariankeyboard.text_inputs.keyboard.LatestInputView
+            android:id="@+id/clipboard_cursor_row"
+            style="@style/SuggestionsBarParentTheme"
+            android:layoutDirection="ltr" />
+
+        <!--some number row-->
+        <com.maya.newbulgariankeyboard.text_inputs.keyboard.LatestInputView
+            android:id="@+id/number_row"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layoutDirection="ltr" />
+
+    </com.maya.newbulgariankeyboard.main_classes.LatestViewAdjuster>
+
+    <!--some third layout-->
+    <com.maya.newbulgariankeyboard.main_classes.LatestViewAdjuster
+        android:id="@+id/action_end_area"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:layout_constrainedWidth="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+         <com.maya.newbulgariankeyboard.text_inputs.keyboard_suggestions_bar.LatestCandidateItemView
+            android:id="@+id/placeholder"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/suggestions_bar_margining"
+            android:clickable="false"
+            android:visibility="invisible" />
+
+    </com.maya.newbulgariankeyboard.main_classes.LatestViewAdjuster>
+
+</com.maya.newbulgariankeyboard.text_inputs.keyboard_suggestions_bar.LatestCandidateView>
