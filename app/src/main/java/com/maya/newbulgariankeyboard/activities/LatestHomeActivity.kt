@@ -260,10 +260,7 @@ class LatestHomeActivity : AppCompatActivity(), View.OnClickListener, LatestHome
 
         appUpdater()
 
-        if (LatestBillingHelper(this@LatestHomeActivity).shouldApplyMonetization() && LatestUtils.isConnectionAvailable(
-                this@LatestHomeActivity
-            )
-        ) {
+        if(LatestBillingHelper(this@LatestHomeActivity).shouldApplyMonetization() && LatestUtils.isConnectionAvailable(this@LatestHomeActivity)) {
             initBannerAds()
 
 
@@ -344,7 +341,7 @@ class LatestHomeActivity : AppCompatActivity(), View.OnClickListener, LatestHome
 
         navigationView.setNavigationItemSelectedListener(this)
 
-        dialogLatest = LatestDownloadDbDialog(this, object : LatestDownloadingDbCallback {
+        dialogLatest = LatestDownloadDbDialog(this , object : LatestDownloadingDbCallback{
             override fun onCancelled() {
             }
 
@@ -372,7 +369,6 @@ class LatestHomeActivity : AppCompatActivity(), View.OnClickListener, LatestHome
                     addFragmentToContainer(latestHomeFragment)
                     true
                 }
-
                 R.id.languages -> {
 
                     if (!isImeEnabled) {
@@ -390,7 +386,6 @@ class LatestHomeActivity : AppCompatActivity(), View.OnClickListener, LatestHome
                         true
                     }
                 }
-
                 R.id.themes -> {
                     LatestUtils.FRAGMENT_NAME = "Themes"
                     if (!isImeEnabled) {
@@ -403,7 +398,7 @@ class LatestHomeActivity : AppCompatActivity(), View.OnClickListener, LatestHome
                             showAlertDialogSelect()
                         }
                         false
-                    } else {
+                    } else{
                         addFragmentToContainer(latestThemesFragment)
                         true
                     }
@@ -413,7 +408,6 @@ class LatestHomeActivity : AppCompatActivity(), View.OnClickListener, LatestHome
                     addFragmentToContainer(latestPreferenceFragment)
                     true
                 }
-
                 else -> false
             }
         }
@@ -460,7 +454,7 @@ class LatestHomeActivity : AppCompatActivity(), View.OnClickListener, LatestHome
                     lifecycleScope.launch {
                         showAlertDialogSelect()
                     }
-                } else {
+                } else{
                     bottomNavigation.selectedItemId = R.id.themes
                     addFragmentToContainer(latestThemesFragment)
                 }
@@ -878,32 +872,26 @@ class LatestHomeActivity : AppCompatActivity(), View.OnClickListener, LatestHome
     private var alertDialog: AlertDialog? = null
     private suspend fun showAlertDialogEnable() {
         withContext(Dispatchers.Main) {
-            try {
-                if (isFinishing || isDestroyed) return@withContext
+            // Dismiss the previous dialog if it exists
+            alertDialog?.dismiss()
+            // Now show the new dialog
+            if (alertDialog == null || !alertDialog!!.isShowing) {
+                alertDialog = AlertDialog.Builder(this@LatestHomeActivity)
+                    .setTitle(getString(R.string.choose_keyboard))
+                    .setMessage(getString(R.string.enable_des))
+                    .setPositiveButton(getString(R.string.choose_keyboard)) { dialog, which ->
+                        val intent = Intent(Settings.ACTION_INPUT_METHOD_SETTINGS)
+                        intent.addCategory(Intent.CATEGORY_DEFAULT)
+                        startActivity(intent)
+                        dialog.cancel()
+                        isShowingAd = true
+                    }
+                    .setNegativeButton(getString(R.string.cancel)) { dialog, which ->
+                        dialog.cancel()
+                    }
+                    .create()
 
-                // Dismiss the previous dialog safely
-                alertDialog?.dismiss()
-
-                // Show a new dialog only if none is showing
-                if (alertDialog == null || !alertDialog!!.isShowing) {
-                    alertDialog = AlertDialog.Builder(this@LatestHomeActivity)
-                        .setTitle(getString(R.string.choose_keyboard))
-                        .setMessage(getString(R.string.enable_des))
-                        .setPositiveButton(getString(R.string.choose_keyboard)) { dialog, which ->
-                            val intent = Intent(Settings.ACTION_INPUT_METHOD_SETTINGS)
-                            startActivity(intent)
-                            dialog.dismiss() // Avoid using `cancel()` here unless necessary
-                        }
-                        .setNegativeButton(getString(R.string.cancel)) { dialog, which ->
-                            dialog.dismiss()
-                        }
-                        .create()
-
-                    // Safely show the dialog
-                    alertDialog?.show()
-                }
-            } catch (e: Exception) {
-                e.printStackTrace()
+                alertDialog?.show()
             }
         }
     }
@@ -937,7 +925,12 @@ class LatestHomeActivity : AppCompatActivity(), View.OnClickListener, LatestHome
             try {
                 val sharedPref = getSharedPreferences("my_prefs", Context.MODE_PRIVATE)
                 val lang = sharedPref.getString("APP_LANGUAGE", "en")
-                val currentLang = resources.configuration.locales.get(0).language
+                val currentLang: String = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
+                    resources.configuration.locales.get(0).language // For Android 7.0+ (API 24+)
+                } else {
+                    @Suppress("DEPRECATION")
+                    resources.configuration.locale.language // For Android versions below 7.0
+                }
                 if (lang != currentLang) {
                     updateLocale(this, lang!!)
                     recreate()
@@ -969,7 +962,7 @@ class LatestHomeActivity : AppCompatActivity(), View.OnClickListener, LatestHome
 
                     showAlertDialogEnable()
 
-                    delay(40000)
+                    delay(20000)
 
                     isImeEnabled =
                         LatestKeyboardService.checkForEnablingOfIme(this@LatestHomeActivity)
@@ -978,7 +971,7 @@ class LatestHomeActivity : AppCompatActivity(), View.OnClickListener, LatestHome
                 while (!isImeSelected) {
                     if (isImeEnabled && !isImeSelected) {
                         showAlertDialogSelect()
-                        delay(40000)
+                        delay(20000)
                     }
                     isImeSelected =
                         LatestKeyboardService.checkOfSelectionOfIme(this@LatestHomeActivity)

@@ -39,6 +39,20 @@ class LatestHomeBottomSheet : BottomSheetDialogFragment() {
         cancelButton.isEnabled = false
         cancelButton.text = "Cancel in 5 seconds"
 
+
+        dialog?.setOnKeyListener { _, keyCode, event ->
+            if (keyCode == android.view.KeyEvent.KEYCODE_BACK && event.action == android.view.KeyEvent.ACTION_UP) {
+                if (exitButton.isEnabled) {
+//                    dismiss() // Allow dismissal when the Exit button is enabled
+                    true // Indicate that the event has been handled and should propagate
+                } else {
+                    true // Block dismissal when the Exit button is not enabled
+                }
+            } else {
+                false // Allow other key events to propagate
+            }
+        }
+
         // Hook into BottomSheetBehavior to disable gestures
         dialog?.setOnShowListener {
             val bottomSheet =

@@ -140,7 +140,6 @@ class LatestSplashActivity : AppCompatActivity() {
                     override fun onAdFailedToShowFullScreenContent(p0: AdError) {
                         super.onAdFailedToShowFullScreenContent(p0)
 
-
                         if (!LatestUtils.isConnectionAvailable(this@LatestSplashActivity)) {
                             val intent =
                                 Intent(this@LatestSplashActivity, LatestHomeActivity::class.java)
